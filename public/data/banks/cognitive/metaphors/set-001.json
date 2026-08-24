@@ -1,0 +1,89 @@
+[
+  {
+    "id": "COG-MET-004",
+    "area": "cognitive",
+    "category": "metaphors",
+    "subcategory": "general",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Cimientos del árbol",
+    "options": [
+      {
+        "id": "A",
+        "text": "ramas"
+      },
+      {
+        "id": "B",
+        "text": "corteza"
+      },
+      {
+        "id": "C",
+        "text": "raíces"
+      },
+      {
+        "id": "D",
+        "text": "tronco"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Los cimientos sostienen una estructura desde abajo; en un árbol esa función corresponde a las raíces."
+  },
+  {
+    "id": "COG-MET-005",
+    "area": "cognitive",
+    "category": "metaphors",
+    "subcategory": "general",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Tormenta de sentimientos",
+    "options": [
+      {
+        "id": "A",
+        "text": "alegría"
+      },
+      {
+        "id": "B",
+        "text": "confusión"
+      },
+      {
+        "id": "C",
+        "text": "ansiedad"
+      },
+      {
+        "id": "D",
+        "text": "gozo"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La metáfora sugiere una mezcla agitada y desordenada de emociones, por lo que «confusión» es la mejor correspondencia."
+  },
+  {
+    "id": "COG-MET-006",
+    "area": "cognitive",
+    "category": "metaphors",
+    "subcategory": "general",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Regla del tiempo",
+    "options": [
+      {
+        "id": "A",
+        "text": "cronómetro"
+      },
+      {
+        "id": "B",
+        "text": "segundero"
+      },
+      {
+        "id": "C",
+        "text": "hora"
+      },
+      {
+        "id": "D",
+        "text": "minuto"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Una regla sirve para medir; el cronómetro es el instrumento de las opciones cuya función principal es medir el tiempo."
+  }
+]

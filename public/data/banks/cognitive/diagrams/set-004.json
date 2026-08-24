@@ -1,0 +1,110 @@
+[
+  {
+    "id": "COG-DIA-030",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "three_set_venn",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Jaime quiere conocer las causas y consecuencias del descubrimiento de América a través de la narración de las conquistas. Por lo tanto, él se ubica en los sectores",
+    "options": [
+      {
+        "id": "A",
+        "text": "1, 3 y 7"
+      },
+      {
+        "id": "B",
+        "text": "1, 4 y 7"
+      },
+      {
+        "id": "C",
+        "text": "2, 4 y 6"
+      },
+      {
+        "id": "D",
+        "text": "4, 5 y 6"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El tema combina historia y literatura, pero no biología. En el diagrama, los sectores correspondientes son 1, 4 y 7.",
+    "assets": [
+      {
+        "type": "image",
+        "src": "assets/cognitive/diagrams/cog-dia-030.png",
+        "description": "Diagrama de Venn de tres círculos. Círculo A = libros de historia, B = libros de biología, C = libros de literatura. Sectores: 1 solo A; 2 intersección A-B; 3 solo B; 4 intersección A-C; 5 intersección A-B-C; 6 intersección B-C; 7 solo C. Etiquetar claramente A, B, C y los números 1–7."
+      }
+    ]
+  },
+  {
+    "id": "COG-DIA-031",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "three_set_venn",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿A qué sector debe acudir Jesús si le interesa investigar la vacuna contra la polio y la época en que surgió?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "3"
+      },
+      {
+        "id": "D",
+        "text": "4"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La investigación combina historia y biología. La intersección de esos dos conjuntos corresponde al sector 2.",
+    "assets": [
+      {
+        "type": "image",
+        "src": "assets/cognitive/diagrams/cog-dia-030.png",
+        "description": "Reutilizar el diagrama de Venn de COG-DIA-030: A = historia, B = biología, C = literatura; sectores 1–7 con 2 en A∩B."
+      }
+    ]
+  },
+  {
+    "id": "COG-DIA-032",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "three_set_venn",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Teresa investiga los poetas que en distintos periodos han escrito sobre los fenómenos de la naturaleza. Ella se ubica en el sector",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El tema integra historia, biología y literatura; la intersección de los tres conjuntos es el sector 5.",
+    "assets": [
+      {
+        "type": "image",
+        "src": "assets/cognitive/diagrams/cog-dia-030.png",
+        "description": "Reutilizar el diagrama de Venn de COG-DIA-030: A = historia, B = biología, C = literatura; sector 5 = A∩B∩C."
+      }
+    ]
+  }
+]

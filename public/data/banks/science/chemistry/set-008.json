@@ -1,0 +1,408 @@
+[
+  {
+    "id": "SCI-CHE-001",
+    "area": "science",
+    "category": "chemistry",
+    "subcategory": "atomic_models",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué modelo atómico introdujo la idea de niveles de energía definidos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dalton"
+      },
+      {
+        "id": "B",
+        "text": "Thomson"
+      },
+      {
+        "id": "C",
+        "text": "Rutherford"
+      },
+      {
+        "id": "D",
+        "text": "Bohr"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Bohr introduce niveles de energía definidos para electrones."
+  },
+  {
+    "id": "SCI-CHE-002",
+    "area": "science",
+    "category": "chemistry",
+    "subcategory": "atomic_models",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál fue la principal limitación del modelo de Rutherford?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No consideraba electrones"
+      },
+      {
+        "id": "B",
+        "text": "No explicaba la estabilidad del átomo"
+      },
+      {
+        "id": "C",
+        "text": "No incluía el núcleo"
+      },
+      {
+        "id": "D",
+        "text": "No explicaba reacciones químicas"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "No explica por qué los electrones no caen al núcleo."
+  },
+  {
+    "id": "SCI-CHE-003",
+    "area": "science",
+    "category": "chemistry",
+    "subcategory": "chemical_bonds",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué tipo de enlace químico implica transferencia de electrones?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Covalente"
+      },
+      {
+        "id": "B",
+        "text": "Metálico"
+      },
+      {
+        "id": "C",
+        "text": "Iónico"
+      },
+      {
+        "id": "D",
+        "text": "Polar"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El enlace iónico implica transferencia de electrones."
+  },
+  {
+    "id": "SCI-CHE-004",
+    "area": "science",
+    "category": "chemistry",
+    "subcategory": "chemical_bonds",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la característica principal del enlace covalente polar?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Transferencia total de electrones"
+      },
+      {
+        "id": "B",
+        "text": "Compartición equitativa"
+      },
+      {
+        "id": "C",
+        "text": "Compartición desigual de electrones"
+      },
+      {
+        "id": "D",
+        "text": "Presencia de iones"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "En el enlace covalente polar, los electrones se comparten de forma desigual."
+  },
+  {
+    "id": "SCI-CHE-005",
+    "area": "science",
+    "category": "chemistry",
+    "subcategory": "states_of_matter",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En el estado gaseoso, las partículas se caracterizan por:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Estar muy juntas"
+      },
+      {
+        "id": "B",
+        "text": "Tener forma definida"
+      },
+      {
+        "id": "C",
+        "text": "Movimiento constante y separación"
+      },
+      {
+        "id": "D",
+        "text": "Fuerzas fuertes de atracción"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "En gases, partículas están separadas y en movimiento constante."
+  },
+  {
+    "id": "SCI-CHE-006",
+    "area": "science",
+    "category": "chemistry",
+    "subcategory": "states_of_matter",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué cambio de estado implica absorción de energía?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Condensación"
+      },
+      {
+        "id": "B",
+        "text": "Solidificación"
+      },
+      {
+        "id": "C",
+        "text": "Evaporación"
+      },
+      {
+        "id": "D",
+        "text": "Deposición"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La evaporación requiere absorción de energía (proceso endotérmico)."
+  },
+  {
+    "id": "SCI-CHE-007",
+    "area": "science",
+    "category": "chemistry",
+    "subcategory": "chemical_reactions",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Al mezclar vinagre con bicarbonato se observa efervescencia. ¿Qué interpretación científica es la más correcta?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ocurrió un cambio físico porque solo cambió el volumen"
+      },
+      {
+        "id": "B",
+        "text": "Ocurrió una reacción química evidenciada por la formación de gas"
+      },
+      {
+        "id": "C",
+        "text": "No ocurrió ningún cambio porque los reactivos siguen visibles"
+      },
+      {
+        "id": "D",
+        "text": "Solo cambió la temperatura, sin modificar sustancias"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Ocurrió una reacción química evidenciada por la formación de gas. Justificación: La efervescencia es una evidencia clásica de reacción química porque indica la producción de una sustancia gaseosa nueva."
+  },
+  {
+    "id": "SCI-CHE-008",
+    "area": "science",
+    "category": "chemistry",
+    "subcategory": "chemical_reactions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes casos corresponde a una reacción endotérmica?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La combustión de gasolina en un motor"
+      },
+      {
+        "id": "B",
+        "text": "La oxidación del hierro al aire libre"
+      },
+      {
+        "id": "C",
+        "text": "La fotosíntesis al utilizar energía solar"
+      },
+      {
+        "id": "D",
+        "text": "La neutralización de un ácido fuerte con una base fuerte"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La fotosíntesis al utilizar energía solar. Justificación: Una reacción endotérmica absorbe energía. La fotosíntesis requiere energía luminosa para producir glucosa."
+  },
+  {
+    "id": "SCI-CHE-009",
+    "area": "science",
+    "category": "chemistry",
+    "subcategory": "mixture_separation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Se quiere separar alcohol y agua en el laboratorio. El método más adecuado es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Filtración"
+      },
+      {
+        "id": "B",
+        "text": "Tamizado"
+      },
+      {
+        "id": "C",
+        "text": "Destilación"
+      },
+      {
+        "id": "D",
+        "text": "Imantación"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Destilación. Justificación: La destilación separa líquidos miscibles con diferentes puntos de ebullición, como alcohol y agua."
+  },
+  {
+    "id": "SCI-CHE-010",
+    "area": "science",
+    "category": "chemistry",
+    "subcategory": "chemical_safety_environment",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál situación representa mejor una consecuencia social del mal uso de productos químicos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El aumento de la masa atómica de los elementos"
+      },
+      {
+        "id": "B",
+        "text": "La producción natural de oxígeno por las plantas"
+      },
+      {
+        "id": "C",
+        "text": "La generación de vapores tóxicos al mezclar cloro con amoníaco"
+      },
+      {
+        "id": "D",
+        "text": "La separación espontánea de mezclas homogéneas"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La generación de vapores tóxicos al mezclar cloro con amoníaco. Justificación: La guía lo menciona como ejemplo de uso irresponsable de sustancias químicas con consecuencias nocivas para la salud."
+  },
+  {
+    "id": "SCI-CHE-011",
+    "area": "science",
+    "category": "chemistry",
+    "subcategory": "pure_substances_mixtures",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las siguientes opciones representa correctamente una sustancia pura?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aire"
+      },
+      {
+        "id": "B",
+        "text": "Agua destilada"
+      },
+      {
+        "id": "C",
+        "text": "Leche"
+      },
+      {
+        "id": "D",
+        "text": "Sangre"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El agua destilada es una sustancia pura. Procedimiento: Identificar composición uniforme."
+  },
+  {
+    "id": "SCI-CHE-012",
+    "area": "science",
+    "category": "chemistry",
+    "subcategory": "pure_substances_mixtures",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Si en una mezcla homogénea no se distinguen sus componentes, ¿qué evidencia apoya esta afirmación?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Presencia de fases visibles"
+      },
+      {
+        "id": "B",
+        "text": "Separación espontánea"
+      },
+      {
+        "id": "C",
+        "text": "Uniformidad en su composición"
+      },
+      {
+        "id": "D",
+        "text": "Diferencia de densidades observable"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Las mezclas homogéneas son uniformes. Procedimiento: Analizar propiedades visibles."
+  },
+  {
+    "id": "SCI-CHE-013",
+    "area": "science",
+    "category": "chemistry",
+    "subcategory": "thermochemistry",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En una reacción química exotérmica, la evidencia principal es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Absorción de calor"
+      },
+      {
+        "id": "B",
+        "text": "Liberación de energía"
+      },
+      {
+        "id": "C",
+        "text": "Disminución de masa"
+      },
+      {
+        "id": "D",
+        "text": "Ausencia de cambio"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Exotérmica → libera energía. Procedimiento: Clasificar tipo de reacción."
+  },
+  {
+    "id": "SCI-CHE-014",
+    "area": "science",
+    "category": "chemistry",
+    "subcategory": "thermochemistry",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las siguientes representaciones indica una reacción endotérmica?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Liberación de calor al ambiente"
+      },
+      {
+        "id": "B",
+        "text": "Disminución de temperatura del entorno"
+      },
+      {
+        "id": "C",
+        "text": "Emisión de luz intensa"
+      },
+      {
+        "id": "D",
+        "text": "Formación de un precipitado"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Endotérmica → absorbe calor → entorno se enfría. Procedimiento: Relación energía-sistema."
+  }
+]

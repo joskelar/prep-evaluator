@@ -1,0 +1,275 @@
+[
+  {
+    "id": "MAT-GEO-016",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "perimeter",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es el perímetro, en centímetros, de la figura 2?",
+    "options": [
+      {
+        "id": "A",
+        "text": "17"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "21"
+      },
+      {
+        "id": "D",
+        "text": "24"
+      },
+      {
+        "id": "E",
+        "text": "35"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Al completar las longitudes faltantes del polígono ortogonal y sumar todos los lados se obtiene un perímetro de 24 cm.",
+    "assets": [
+      {
+        "src": "/assets/math/MAT-GEO-016.svg",
+        "description": "Polígono ortogonal cóncavo en forma de L. Lado superior horizontal de 7 cm, lado derecho vertical de 5 cm, lado inferior derecho horizontal de 3 cm y segmento vertical izquierdo superior de 2 cm. Ángulos rectos marcados."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-017",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "parallel_lines_transversal",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En la figura 3, las rectas l₁ y l₂ son paralelas. Los ángulos 1 y 2 son",
+    "options": [
+      {
+        "id": "A",
+        "text": "adyacentes."
+      },
+      {
+        "id": "B",
+        "text": "opuestos por el vértice."
+      },
+      {
+        "id": "C",
+        "text": "consecutivos."
+      },
+      {
+        "id": "D",
+        "text": "alternos internos."
+      },
+      {
+        "id": "E",
+        "text": "alternos externos."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Los dos ángulos están entre las rectas paralelas y en lados opuestos de la secante; son alternos internos.",
+    "assets": [
+      {
+        "src": "/assets/math/MAT-GEO-017.svg",
+        "description": "Dos rectas horizontales paralelas l1 y l2 cortadas por una secante diagonal ascendente. Ángulo 1 está debajo de l1 a la derecha de la secante; ángulo 2 está encima de l2 a la izquierda de la secante."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-018",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "circles",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En la figura 4, Q es el centro del círculo. Si el ángulo ABC mide 30°, ¿cuánto mide el ángulo CAB?",
+    "options": [
+      {
+        "id": "A",
+        "text": "60°"
+      },
+      {
+        "id": "B",
+        "text": "55°"
+      },
+      {
+        "id": "C",
+        "text": "45°"
+      },
+      {
+        "id": "D",
+        "text": "40°"
+      },
+      {
+        "id": "E",
+        "text": "30°"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "AB pasa por el centro Q, así que es un diámetro y ∠ACB=90°. Con ∠ABC=30°, el ángulo restante es 60°.",
+    "assets": [
+      {
+        "src": "/assets/math/MAT-GEO-018.svg",
+        "description": "Círculo con centro Q. A y B son extremos de un diámetro oblicuo; C está sobre la circunferencia en la parte superior izquierda. Se trazan AC y CB formando el triángulo ABC."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-019",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "area",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "El rectángulo de la figura 5 consiste en dos cuadrados unidos por un lado. Si el perímetro del rectángulo es 24 cm, ¿cuál es el área del rectángulo, en cm²?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "24"
+      },
+      {
+        "id": "D",
+        "text": "32"
+      },
+      {
+        "id": "E",
+        "text": "64"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Si cada cuadrado tiene lado s, el rectángulo mide 2s×s y su perímetro es 6s=24; s=4 y el área es 2·4²=32.",
+    "assets": [
+      {
+        "src": "/assets/math/MAT-GEO-019.svg",
+        "description": "Rectángulo horizontal formado por dos cuadrados congruentes unidos por un lado vertical común."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-020",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "parallel_lines_transversal",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "En la figura 6, l₁ y l₂ son paralelas. ¿Cuántos grados mide el ángulo x?",
+    "options": [
+      {
+        "id": "A",
+        "text": "30"
+      },
+      {
+        "id": "B",
+        "text": "50"
+      },
+      {
+        "id": "C",
+        "text": "70"
+      },
+      {
+        "id": "D",
+        "text": "120"
+      },
+      {
+        "id": "E",
+        "text": "130"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El ángulo de 130° deja un ángulo agudo de 50° con la paralela. Junto con el ángulo de 60°, las relaciones lineales determinan x=70°.",
+    "assets": [
+      {
+        "src": "/assets/math/MAT-GEO-020.svg",
+        "description": "Dos rectas horizontales paralelas l1 y l2. Dos diagonales se cruzan sobre l1 formando una X. En el cruce con l1 se marca 60° y el ángulo x entre las diagonales por debajo de l1. En el cruce de una diagonal con l2 se marca un ángulo exterior de 130°."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-021",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "perimeter",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En la figura 7, si ABCD es un rombo y AB = 5, ¿cuál es su perímetro?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10"
+      },
+      {
+        "id": "B",
+        "text": "15"
+      },
+      {
+        "id": "C",
+        "text": "20"
+      },
+      {
+        "id": "D",
+        "text": "25"
+      },
+      {
+        "id": "E",
+        "text": "50"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "En un rombo los cuatro lados son iguales. Si cada lado mide 5, el perímetro es 4×5=20.",
+    "assets": [
+      {
+        "src": "/assets/math/MAT-GEO-021.svg",
+        "description": "Rombo ABCD inclinado, con A abajo izquierda, B abajo derecha, C arriba derecha y D arriba izquierda. Se traza además la diagonal DB. Se indica AB = 5."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-022",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "circles",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "En la figura 8, si el ángulo CQB mide 80°, ¿cuánto mide a + b?",
+    "options": [
+      {
+        "id": "A",
+        "text": "100°"
+      },
+      {
+        "id": "B",
+        "text": "80°"
+      },
+      {
+        "id": "C",
+        "text": "60°"
+      },
+      {
+        "id": "D",
+        "text": "50°"
+      },
+      {
+        "id": "E",
+        "text": "40°"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Como AB es diámetro, el ángulo central AQC mide 100°. Los triángulos isósceles AQC y CQB permiten obtener a+b=80°.",
+    "assets": [
+      {
+        "src": "/assets/math/MAT-GEO-022.svg",
+        "description": "Círculo con centro Q. A y B son extremos de un diámetro; C está en la parte superior de la circunferencia. Se trazan AC y CQ. El ángulo en A entre AC y AB se etiqueta a; el ángulo en C entre AC y CQ se etiqueta b; el ángulo central CQB mide 80°."
+      }
+    ]
+  }
+]

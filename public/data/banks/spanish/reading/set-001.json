@@ -1,0 +1,410 @@
+[
+  {
+    "id": "SPA-REA-007",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "discourse_or_genre",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las siguientes opciones define mejor la lectura?",
+    "options": [
+      {
+        "id": "A",
+        "text": "el conflicto entre dos personajes"
+      },
+      {
+        "id": "B",
+        "text": "una narración de un recuerdo de infancia"
+      },
+      {
+        "id": "C",
+        "text": "un canto poético a la primavera"
+      },
+      {
+        "id": "D",
+        "text": "un ensayo sobre las costumbres y tradiciones"
+      },
+      {
+        "id": "E",
+        "text": "un cuento con una enseñanza moral"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto relata en primera persona una experiencia infantil relacionada con la primera lluvia de mayo; su forma dominante es narrativa.",
+    "stimulus_id": "SPA-PASS-001"
+  },
+  {
+    "id": "SPA-REA-008",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "De la lectura se puede inferir que la mamá fue a bañarse con sus hijos bajo la lluvia porque ella era",
+    "options": [
+      {
+        "id": "A",
+        "text": "limpia."
+      },
+      {
+        "id": "B",
+        "text": "alegre."
+      },
+      {
+        "id": "C",
+        "text": "ingeniosa."
+      },
+      {
+        "id": "D",
+        "text": "tradicionalista."
+      },
+      {
+        "id": "E",
+        "text": "autoritaria."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La madre sigue la creencia de que mojarse con la primera lluvia de mayo trae buena suerte, lo que muestra apego a una tradición.",
+    "stimulus_id": "SPA-PASS-001"
+  },
+  {
+    "id": "SPA-REA-009",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "explicit_information",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En la lectura anterior, la escena se desarrolla en",
+    "options": [
+      {
+        "id": "A",
+        "text": "una casa de campo."
+      },
+      {
+        "id": "B",
+        "text": "un edificio alto."
+      },
+      {
+        "id": "C",
+        "text": "un parque urbano."
+      },
+      {
+        "id": "D",
+        "text": "la cima de un monte."
+      },
+      {
+        "id": "E",
+        "text": "la plaza del pueblo."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "El texto menciona cultivo de café, valle, montaña y la casa familiar, elementos que sitúan la escena en un entorno rural.",
+    "stimulus_id": "SPA-PASS-001"
+  },
+  {
+    "id": "SPA-REA-010",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las siguientes opciones presenta una idea central de la lectura?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Las familias deben permanecer unidas."
+      },
+      {
+        "id": "B",
+        "text": "Las madres campesinas tienen muchos hijos."
+      },
+      {
+        "id": "C",
+        "text": "Saber cantar y bailar bajo la lluvia nos hace felices."
+      },
+      {
+        "id": "D",
+        "text": "Algunas experiencias infantiles son traumáticas."
+      },
+      {
+        "id": "E",
+        "text": "La familia conserva y trasmite las tradiciones."
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "La costumbre de la primera lluvia pasa de la abuela a la madre y a los hijos, por lo que el texto destaca la transmisión familiar de tradiciones.",
+    "stimulus_id": "SPA-PASS-001"
+  },
+  {
+    "id": "SPA-REA-011",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "literary_devices",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "La expresión «Las nubes grises galopaban a través del valle» es",
+    "options": [
+      {
+        "id": "A",
+        "text": "una personificación."
+      },
+      {
+        "id": "B",
+        "text": "un símil."
+      },
+      {
+        "id": "C",
+        "text": "una hipérbole."
+      },
+      {
+        "id": "D",
+        "text": "una metáfora."
+      },
+      {
+        "id": "E",
+        "text": "una onomatopeya."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Se atribuye a las nubes la acción propia de un ser animado —galopar—, lo que constituye personificación.",
+    "stimulus_id": "SPA-PASS-001"
+  },
+  {
+    "id": "SPA-REA-012",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "vocabulary_in_context",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "De acuerdo con la lectura, la palabra «coronaban» significa",
+    "options": [
+      {
+        "id": "A",
+        "text": "se colocaban en la parte superior."
+      },
+      {
+        "id": "B",
+        "text": "se ponían una corona."
+      },
+      {
+        "id": "C",
+        "text": "obtenían un triunfo."
+      },
+      {
+        "id": "D",
+        "text": "llevaban hasta el final."
+      },
+      {
+        "id": "E",
+        "text": "concluían un trabajo."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "En el contexto, las nubes aparecen sobre la montaña; «coronaban» significa que se situaban en su parte superior.",
+    "stimulus_id": "SPA-PASS-001"
+  },
+  {
+    "id": "SPA-REA-013",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "explicit_information",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Según la lectura, en una ocasión a Teodoro Roosevelt le robaron",
+    "options": [
+      {
+        "id": "A",
+        "text": "un fusil."
+      },
+      {
+        "id": "B",
+        "text": "una balsa."
+      },
+      {
+        "id": "C",
+        "text": "un tesoro."
+      },
+      {
+        "id": "D",
+        "text": "una lancha de remos."
+      },
+      {
+        "id": "E",
+        "text": "un libro de Ana Karenina."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "El primer párrafo indica explícitamente que los ladrones le habían robado su lancha de remos.",
+    "stimulus_id": "SPA-PASS-002"
+  },
+  {
+    "id": "SPA-REA-014",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "vocabulary_in_context",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En el contexto de la lectura, la palabra «yermos» significa lugares",
+    "options": [
+      {
+        "id": "A",
+        "text": "inhabitados."
+      },
+      {
+        "id": "B",
+        "text": "inundados."
+      },
+      {
+        "id": "C",
+        "text": "desconocidos."
+      },
+      {
+        "id": "D",
+        "text": "cultivados."
+      },
+      {
+        "id": "E",
+        "text": "exóticos."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "«Yermos» describe terrenos despoblados o deshabitados; «inhabitados» es la opción equivalente.",
+    "stimulus_id": "SPA-PASS-002"
+  },
+  {
+    "id": "SPA-REA-015",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "explicit_information",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Según la lectura, un libro es el camino hacia",
+    "options": [
+      {
+        "id": "A",
+        "text": "la historia."
+      },
+      {
+        "id": "B",
+        "text": "lo desconocido."
+      },
+      {
+        "id": "C",
+        "text": "las experiencias."
+      },
+      {
+        "id": "D",
+        "text": "la sabiduría."
+      },
+      {
+        "id": "E",
+        "text": "la sensibilidad."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "El autor afirma que el mejor camino hacia el conocimiento y la sabiduría está en los libros.",
+    "stimulus_id": "SPA-PASS-002"
+  },
+  {
+    "id": "SPA-REA-016",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Para el autor, la lectura es",
+    "options": [
+      {
+        "id": "A",
+        "text": "un medio de entretenimiento."
+      },
+      {
+        "id": "B",
+        "text": "una actividad exclusiva de las personas cultas."
+      },
+      {
+        "id": "C",
+        "text": "una manera de acumular información."
+      },
+      {
+        "id": "D",
+        "text": "un modo de enriquecer el conocimiento."
+      },
+      {
+        "id": "E",
+        "text": "una forma de adquirir nuevas experiencias."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "El texto distingue información de conocimiento y defiende la lectura como vía para ampliar el conocimiento y la comprensión.",
+    "stimulus_id": "SPA-PASS-002"
+  },
+  {
+    "id": "SPA-REA-017",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Según la lectura, lo más impactante de Teodoro Roosevelt en el episodio descrito era que",
+    "options": [
+      {
+        "id": "A",
+        "text": "conocía muy bien el territorio de Dakota."
+      },
+      {
+        "id": "B",
+        "text": "se comportaba con valentía y decisión."
+      },
+      {
+        "id": "C",
+        "text": "tenía gran afición a la lectura."
+      },
+      {
+        "id": "D",
+        "text": "tenía buena puntería."
+      },
+      {
+        "id": "E",
+        "text": "creía en la justicia."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El autor destaca que, incluso durante una persecución difícil, Roosevelt encontró tiempo para leer; esto evidencia su gran afición a la lectura.",
+    "stimulus_id": "SPA-PASS-002"
+  },
+  {
+    "id": "SPA-REA-018",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "title",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Seleccione el MEJOR título para la lectura.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Roosevelt y la lectura"
+      },
+      {
+        "id": "B",
+        "text": "La lectura de los clásicos"
+      },
+      {
+        "id": "C",
+        "text": "El acceso a la información"
+      },
+      {
+        "id": "D",
+        "text": "El mejor regalo: un libro"
+      },
+      {
+        "id": "E",
+        "text": "La lectura: el camino al conocimiento"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "El episodio de Roosevelt introduce una reflexión general sobre la lectura como camino al conocimiento; ese título abarca todo el texto.",
+    "stimulus_id": "SPA-PASS-002"
+  }
+]

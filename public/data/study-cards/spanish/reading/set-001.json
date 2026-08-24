@@ -1,0 +1,29 @@
+[
+  {
+    "id": "CARD-SPA-REA-001",
+    "examTargets": ["prepatec", "buap"],
+    "area": "spanish",
+    "category": "reading",
+    "title": "Idea Principal vs. Secundarias",
+    "front": "¿Cómo se distingue la idea principal de las ideas secundarias en un texto?",
+    "back": "La idea principal expresa el propósito central del autor y la esencia del mensaje; si se elimina, el texto pierde sentido completo. Las ideas secundarias amplían, ejemplifican, detallan o justifican a la idea principal."
+  },
+  {
+    "id": "CARD-SPA-REA-002",
+    "examTargets": ["prepatec", "buap"],
+    "area": "spanish",
+    "category": "reading",
+    "title": "Realizar Inferencias Coherentes",
+    "front": "¿Qué es una inferencia válida en comprensión lectora?",
+    "back": "Es una deducción lógica basada estrictamente en la información implícita y explícita del texto. Una inferencia es incorrecta si contradice los datos expuestos o si generaliza más allá de lo planteado por el autor."
+  },
+  {
+    "id": "CARD-SPA-REA-003",
+    "examTargets": ["prepatec", "buap"],
+    "area": "spanish",
+    "category": "reading",
+    "title": "Tipos de Textos: Argumentativo",
+    "front": "¿Cuál es el propósito y estructura elemental de un texto argumentativo?",
+    "back": "Su propósito es convencer o persuadir al lector sobre un punto de vista. Su estructura básica consta de: Introducción (presenta la tesis o postura), Desarrollo (cuerpo de argumentos lógicos/evidencia) y Conclusión (cierre persuasivo)."
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "id": "ENG-WRI-020",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "opening_sentence",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Which of the following sentences would best begin the text?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Some choices are good, and some are bad choices."
+      },
+      {
+        "id": "B",
+        "text": "Making informed decisions today will benefit a young person’s future."
+      },
+      {
+        "id": "C",
+        "text": "Selecting a career is the most important choice in life."
+      },
+      {
+        "id": "D",
+        "text": "To make a good choice is difficult for most people."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The draft discusses important choices and their consequences for a young person’s future; option B introduces that central idea clearly.",
+    "stimulus_id": "ENG-DRAFT-001"
+  },
+  {
+    "id": "ENG-WRI-021",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "transitions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "The choice that best connects sentences 3 and 4 is",
+    "options": [
+      {
+        "id": "A",
+        "text": "however,"
+      },
+      {
+        "id": "B",
+        "text": "somewhat,"
+      },
+      {
+        "id": "C",
+        "text": "and then,"
+      },
+      {
+        "id": "D",
+        "text": "to summarize,"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Sentence 3 says all choices are important, while sentence 4 contrasts that some are more important; «however» signals that contrast.",
+    "stimulus_id": "ENG-DRAFT-001"
+  },
+  {
+    "id": "ENG-WRI-022",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "sentence_combination",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Which sentence would best combine the ideas in sentences 4 and 5?",
+    "options": [
+      {
+        "id": "A",
+        "text": "You should decide your future now; tomorrow may be too late."
+      },
+      {
+        "id": "B",
+        "text": "Don’t wait too long to make your plans for the future."
+      },
+      {
+        "id": "C",
+        "text": "Today may be the best time to plan the most crucial decision about your future profession."
+      },
+      {
+        "id": "D",
+        "text": "Selecting a career or profession carefully is among a young person’s top choices."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Option D preserves both ideas: some choices are especially important, and choosing a career is one of them.",
+    "stimulus_id": "ENG-DRAFT-001"
+  },
+  {
+    "id": "ENG-WRI-023",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "logical_sequence",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Which choice would best follow sentence 9?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nobody has the power to predict what happens in our future."
+      },
+      {
+        "id": "B",
+        "text": "In our times, it is important to have good counselors."
+      },
+      {
+        "id": "C",
+        "text": "Only you will be responsible for the results of today’s decisions."
+      },
+      {
+        "id": "D",
+        "text": "Some young people are not interested in planning their future."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Sentence 9 concerns anticipating consequences; the next logical point is that the young person is responsible for those consequences.",
+    "stimulus_id": "ENG-DRAFT-001"
+  },
+  {
+    "id": "ENG-WRI-024",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "closing_sentence",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Which statement would best conclude the text?",
+    "options": [
+      {
+        "id": "A",
+        "text": "To be what you want to be is an important decision."
+      },
+      {
+        "id": "B",
+        "text": "Your future depends on how you make decisions now."
+      },
+      {
+        "id": "C",
+        "text": "One important thing to do is to finish high school."
+      },
+      {
+        "id": "D",
+        "text": "Many people can help you to decide about future plans."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The draft emphasizes present decisions and future consequences, so option B summarizes its main message.",
+    "stimulus_id": "ENG-DRAFT-001"
+  },
+  {
+    "id": "ENG-WRI-025",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "irrelevant_sentence",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Which sentence does NOT belong in the text?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10"
+      },
+      {
+        "id": "B",
+        "text": "7"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "3"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Sentence 6 about getting high grades does not directly support the draft’s main focus on making important future decisions.",
+    "stimulus_id": "ENG-DRAFT-001"
+  }
+]

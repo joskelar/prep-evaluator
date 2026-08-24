@@ -1,0 +1,167 @@
+[
+  {
+    "id": "MAT-NUM-014",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "operations",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Un turista alquiló un automóvil a $17 por día y $4 por hora adicional. Lo alquiló el lunes a las 9 a. m. y lo devolvió el viernes a las 11 a. m. ¿Cuánto pagó?",
+    "options": [
+      {
+        "id": "A",
+        "text": "$68"
+      },
+      {
+        "id": "B",
+        "text": "$70"
+      },
+      {
+        "id": "C",
+        "text": "$76"
+      },
+      {
+        "id": "D",
+        "text": "$85"
+      },
+      {
+        "id": "E",
+        "text": "$93"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Son cuatro días completos ($68) y dos horas adicionales ($8): total $76."
+  },
+  {
+    "id": "MAT-NUM-015",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "operations",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Simplifique 2 × 2 × 2 × 1/2 × 1/2 × 1/2.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3/4"
+      },
+      {
+        "id": "B",
+        "text": "1"
+      },
+      {
+        "id": "C",
+        "text": "9/8"
+      },
+      {
+        "id": "D",
+        "text": "7 1/2"
+      },
+      {
+        "id": "E",
+        "text": "12"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Los tres factores 2 producen 8 y los tres factores 1/2 producen 1/8; el producto es 1."
+  },
+  {
+    "id": "MAT-NUM-016",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "operations",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un atleta corrió 3 1/4 km el sábado y 2 7/8 km el domingo. ¿Cuántos kilómetros corrió en total?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5 8/12"
+      },
+      {
+        "id": "B",
+        "text": "5 8/32"
+      },
+      {
+        "id": "C",
+        "text": "5 2/3"
+      },
+      {
+        "id": "D",
+        "text": "6 1/8"
+      },
+      {
+        "id": "E",
+        "text": "6 7/32"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "3 1/4 = 3 2/8; al sumar 3 2/8 + 2 7/8 se obtiene 5 9/8 = 6 1/8."
+  },
+  {
+    "id": "MAT-NUM-017",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "operations",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "50 ÷ 5 + 2(2³ − 2²) =",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "18"
+      },
+      {
+        "id": "D",
+        "text": "24"
+      },
+      {
+        "id": "E",
+        "text": "48"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "50÷5=10; 2³−2²=8−4=4; 2×4=8; total 18."
+  },
+  {
+    "id": "MAT-NUM-018",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "positive_integer_powers",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Al expresar 250 en notación científica se obtiene",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.25 × 10⁻²"
+      },
+      {
+        "id": "B",
+        "text": "2.5 × 10⁻²"
+      },
+      {
+        "id": "C",
+        "text": "2.5 × 10"
+      },
+      {
+        "id": "D",
+        "text": "2.5 × 10²"
+      },
+      {
+        "id": "E",
+        "text": "0.25 × 10³"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La notación científica requiere un coeficiente entre 1 y 10: 250 = 2.5×10²."
+  }
+]

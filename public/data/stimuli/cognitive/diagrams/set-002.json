@@ -1,0 +1,22 @@
+[
+  {
+    "id": "COG-FIG-001",
+    "type": "figure",
+    "assets": [
+      {
+        "src": "/assets/cognitive/practice-exam-venn-sports.svg",
+        "description": "Diagrama de Venn de tres círculos A, B y C con siete sectores numerados. A = deportes con raquetas; B = deportes con redes o mallas; C = deportes que involucren ruedas. Reproducir claramente los siete sectores numerados como en el examen."
+      }
+    ]
+  },
+  {
+    "id": "COG-FIG-002",
+    "type": "figure",
+    "assets": [
+      {
+        "src": "/assets/cognitive/practice-exam-venn-produce.svg",
+        "description": "Diagrama de Venn de tres círculos A, B y C con siete sectores numerados. A = frutas o verduras cuyo nombre empieza con vocal; B = artículos verdes; C = artículos de forma redonda u ovalada. Reproducir claramente los siete sectores numerados."
+      }
+    ]
+  }
+]

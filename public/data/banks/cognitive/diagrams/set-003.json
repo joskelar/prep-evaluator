@@ -1,0 +1,142 @@
+[
+  {
+    "id": "COG-DIA-026",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "sets",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Lucía y Elena investigaron el efecto que tuvieron las elecciones en los bancos locales. En el diagrama Historia–Política–Economía, este tema se ubica en el sector",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "3"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El tema combina Política y Economía, pero no Historia; esa intersección corresponde al sector 6.",
+    "assets": [
+      {
+        "src": "/assets/cognitive/COG-DIA-LEGACY-SOCIAL.svg",
+        "description": "Diagrama de Venn de tres círculos superpuestos. Círculo A = Historia, círculo B = Política, círculo C = Economía. Sectores numerados: 1 solo A, 2 A∩B sin C, 3 solo B, 4 A∩C sin B, 5 A∩B∩C, 6 B∩C sin A, 7 solo C."
+      }
+    ]
+  },
+  {
+    "id": "COG-DIA-027",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "sets",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Ricardo y Daniel hicieron una monografía sobre las causas de la Primera Guerra Mundial. En el diagrama Historia–Política–Economía, este tema se ubica en el sector",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "5"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Las causas de una guerra mundial pueden abarcar historia, política y economía; la intersección de las tres áreas es el sector 5.",
+    "assets": [
+      {
+        "src": "/assets/cognitive/COG-DIA-LEGACY-SOCIAL.svg",
+        "description": "Diagrama de Venn de tres círculos superpuestos. Círculo A = Historia, círculo B = Política, círculo C = Economía. Sectores numerados: 1 solo A, 2 A∩B sin C, 3 solo B, 4 A∩C sin B, 5 A∩B∩C, 6 B∩C sin A, 7 solo C."
+      }
+    ]
+  },
+  {
+    "id": "COG-DIA-028",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "sets",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En el diagrama frutas–flores–hortalizas, Enrique compró manzanas para su hermano y rosas para su novia. Enrique se ubica en el sector",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "3"
+      },
+      {
+        "id": "D",
+        "text": "5"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Las manzanas pertenecen a frutas y las rosas a flores; la intersección A∩B corresponde al sector 2.",
+    "assets": [
+      {
+        "src": "/assets/cognitive/COG-DIA-LEGACY-MARKET.svg",
+        "description": "Diagrama de Venn de tres círculos superpuestos. Círculo A = frutas, círculo B = flores, círculo C = hortalizas. Sectores numerados: 1 solo A, 2 A∩B sin C, 3 solo B, 4 A∩C sin B, 5 A∩B∩C, 6 B∩C sin A, 7 solo C."
+      }
+    ]
+  },
+  {
+    "id": "COG-DIA-029",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "sets",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En el diagrama frutas–flores–hortalizas, el señor González vende zanahorias, su esposa limones y su hija claveles. La familia González se ubica en el sector",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "3"
+      },
+      {
+        "id": "C",
+        "text": "5"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La familia reúne hortalizas, frutas y flores, por lo que corresponde a la intersección de las tres categorías: sector 5.",
+    "assets": [
+      {
+        "src": "/assets/cognitive/COG-DIA-LEGACY-MARKET.svg",
+        "description": "Diagrama de Venn de tres círculos superpuestos. Círculo A = frutas, círculo B = flores, círculo C = hortalizas. Sectores numerados: 1 solo A, 2 A∩B sin C, 3 solo B, 4 A∩C sin B, 5 A∩B∩C, 6 B∩C sin A, 7 solo C."
+      }
+    ]
+  }
+]

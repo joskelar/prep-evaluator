@@ -1,0 +1,89 @@
+[
+  {
+    "id": "COG-CON-023",
+    "area": "cognitive",
+    "category": "conditional_reasoning",
+    "subcategory": "premises",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Algunos lenguajes son románticos. Todos los lenguajes son hermosos. Por lo tanto,",
+    "options": [
+      {
+        "id": "A",
+        "text": "todo lenguaje es romántico."
+      },
+      {
+        "id": "B",
+        "text": "todo lo hermoso es romántico."
+      },
+      {
+        "id": "C",
+        "text": "si es hermoso, entonces es lenguaje."
+      },
+      {
+        "id": "D",
+        "text": "algunos lenguajes románticos son hermosos."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Si algunos lenguajes son románticos y todos los lenguajes son hermosos, esos lenguajes románticos también son hermosos."
+  },
+  {
+    "id": "COG-CON-024",
+    "area": "cognitive",
+    "category": "conditional_reasoning",
+    "subcategory": "premises",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Los anfibios son vertebrados. Las ranas son anfibios. Por lo tanto,",
+    "options": [
+      {
+        "id": "A",
+        "text": "los vertebrados son anfibios."
+      },
+      {
+        "id": "B",
+        "text": "los anfibios son ranas."
+      },
+      {
+        "id": "C",
+        "text": "los vertebrados son ranas."
+      },
+      {
+        "id": "D",
+        "text": "las ranas son vertebrados."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Si toda rana pertenece a los anfibios y todo anfibio pertenece a los vertebrados, entonces toda rana es vertebrado."
+  },
+  {
+    "id": "COG-CON-025",
+    "area": "cognitive",
+    "category": "conditional_reasoning",
+    "subcategory": "premises",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Juan puede estudiar para su clase o se puede ir a la fiesta. Si Juan va a la fiesta, entonces obtendrá bajas calificaciones. Juan fue el mejor de la clase. Por lo tanto, Juan",
+    "options": [
+      {
+        "id": "A",
+        "text": "no estudió para su clase."
+      },
+      {
+        "id": "B",
+        "text": "no fue a la fiesta."
+      },
+      {
+        "id": "C",
+        "text": "fue a la fiesta y no estudió para la clase."
+      },
+      {
+        "id": "D",
+        "text": "no fue a la fiesta, pero obtuvo buenas calificaciones."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Ir a la fiesta implicaba bajas calificaciones; el hecho de haber sido el mejor de la clase descarta esa consecuencia, por lo que no fue a la fiesta."
+  }
+]

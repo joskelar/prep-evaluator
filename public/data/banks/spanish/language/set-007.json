@@ -1,0 +1,350 @@
+[
+  {
+    "id": "SPA-LAN-034",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "orthography_punctuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "El alumno afirmo que, el examen estuvo dificil pero aprobó",
+    "options": [
+      {
+        "id": "A",
+        "text": "El alumno afirmó que, el examen estuvo difícil, pero aprobó"
+      },
+      {
+        "id": "B",
+        "text": "El alumno afirmó que el examen estuvo difícil, pero aprobó"
+      },
+      {
+        "id": "C",
+        "text": "El alumno afirmo que el examen estuvo dificil pero aprobó"
+      },
+      {
+        "id": "D",
+        "text": "El alumno afirmó, que el examen estuvo difícil pero aprobó"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Se eliminan la coma indebida después de «que» y se colocan las tildes necesarias."
+  },
+  {
+    "id": "SPA-LAN-035",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "orthography_punctuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "No se si vendras mañana o si prefieres quedarte aquí",
+    "options": [
+      {
+        "id": "A",
+        "text": "No sé si vendrás mañana o si prefieres quedarte aquí"
+      },
+      {
+        "id": "B",
+        "text": "No se si vendrás mañana o si prefieres quedarte aquí"
+      },
+      {
+        "id": "C",
+        "text": "No sé sí vendrás mañana o si prefieres quedarte aquí"
+      },
+      {
+        "id": "D",
+        "text": "No se sí vendras mañana o si prefieres quedarte aquí"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "«Sé» y «vendrás» llevan tilde en este contexto."
+  },
+  {
+    "id": "SPA-LAN-036",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "orthography_punctuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "El profesor explico el tema sin embargo, los alumnos no comprendieron",
+    "options": [
+      {
+        "id": "A",
+        "text": "El profesor explicó el tema, sin embargo los alumnos no comprendieron"
+      },
+      {
+        "id": "B",
+        "text": "El profesor explicó el tema; sin embargo, los alumnos no comprendieron"
+      },
+      {
+        "id": "C",
+        "text": "El profesor explico el tema, sin embargo los alumnos no comprendieron"
+      },
+      {
+        "id": "D",
+        "text": "El profesor explicó el tema sin embargo los alumnos no comprendieron"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "«Sin embargo» queda correctamente aislado tras punto y coma y seguido de coma."
+  },
+  {
+    "id": "SPA-LAN-037",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "orthography_punctuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Aun no se ha decidido si el evento sera hoy o mañana",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aún no se ha decidido si el evento será hoy o mañana"
+      },
+      {
+        "id": "B",
+        "text": "Aun no se ha decidido si el evento será hoy o mañana"
+      },
+      {
+        "id": "C",
+        "text": "Aún no se ha decidido si el evento sera hoy o mañana"
+      },
+      {
+        "id": "D",
+        "text": "Aún no se a decidido si el evento será hoy o mañana"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "«Aún» equivale a «todavía» y lleva tilde; «será» también."
+  },
+  {
+    "id": "SPA-LAN-038",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "orthography_punctuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Quien quiera participar deberá registrarse antes del viernes",
+    "options": [
+      {
+        "id": "A",
+        "text": "Quien quiera participar deberá registrarse antes del viernes"
+      },
+      {
+        "id": "B",
+        "text": "Quién quiera participar deberá registrarse antes del viernes"
+      },
+      {
+        "id": "C",
+        "text": "Quién quiera participar debera registrarse antes del viernes"
+      },
+      {
+        "id": "D",
+        "text": "Quien quiera participar deberá registrarse, antes del viernes"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "«Quien quiera participar» usa un relativo sin tilde; la opción A es la forma normativa."
+  },
+  {
+    "id": "SPA-LAN-039",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "orthography_punctuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "El analisis de los datos fue exhaustivo sin embargo falto claridad",
+    "options": [
+      {
+        "id": "A",
+        "text": "El análisis de los datos fue exhaustivo, sin embargo faltó claridad"
+      },
+      {
+        "id": "B",
+        "text": "El análisis de los datos fue exhaustivo; sin embargo, faltó claridad"
+      },
+      {
+        "id": "C",
+        "text": "El analisis de los datos fue exhaustivo, sin embargo faltó claridad"
+      },
+      {
+        "id": "D",
+        "text": "El análisis de los datos fue exhaustivo sin embargo, faltó claridad"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "«Análisis» y «faltó» llevan tilde y «sin embargo» se puntúa adecuadamente."
+  },
+  {
+    "id": "SPA-LAN-040",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "orthography_punctuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "El proyecto fue aprobado por lo tanto se iniciara mañana",
+    "options": [
+      {
+        "id": "A",
+        "text": "El proyecto fue aprobado, por lo tanto se iniciará mañana"
+      },
+      {
+        "id": "B",
+        "text": "El proyecto fue aprobado; por lo tanto, se iniciará mañana"
+      },
+      {
+        "id": "C",
+        "text": "El proyecto fue aprobado por lo tanto se iniciará mañana"
+      },
+      {
+        "id": "D",
+        "text": "El proyecto fue aprobado, por lo tanto, se iniciara mañana"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El conector consecutivo «por lo tanto» se separa correctamente mediante punto y coma y coma."
+  },
+  {
+    "id": "SPA-LAN-041",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "orthography_punctuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "A pesar de que estudio mucho no aprobo el examen",
+    "options": [
+      {
+        "id": "A",
+        "text": "A pesar de que estudió mucho, no aprobó el examen"
+      },
+      {
+        "id": "B",
+        "text": "A pesar de que estudio mucho no aprobó el examen"
+      },
+      {
+        "id": "C",
+        "text": "A pesar de que estudió mucho no aprobó el examen"
+      },
+      {
+        "id": "D",
+        "text": "A pesar de que estudio mucho, no aprobó el examen"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "«Estudió» y «aprobó» llevan tilde y la subordinada inicial se separa con coma."
+  },
+  {
+    "id": "SPA-LAN-042",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "orthography_punctuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "El alumno dijo que: no habia entendido el tema 101 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP",
+    "options": [
+      {
+        "id": "A",
+        "text": "El alumno dijo que no había entendido el tema"
+      },
+      {
+        "id": "B",
+        "text": "El alumno dijo que: no había entendido el tema"
+      },
+      {
+        "id": "C",
+        "text": "El alumno dijo que no habia entendido el tema"
+      },
+      {
+        "id": "D",
+        "text": "El alumno dijo, que no había entendido el tema"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "No corresponde usar dos puntos después de «que» y «había» lleva tilde."
+  },
+  {
+    "id": "SPA-LAN-043",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "orthography_punctuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Aunque parecia facil el ejercicio resulto complejo",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aunque parecía fácil el ejercicio, resultó complejo"
+      },
+      {
+        "id": "B",
+        "text": "Aunque parecía fácil, el ejercicio resultó complejo"
+      },
+      {
+        "id": "C",
+        "text": "Aunque parecia facil, el ejercicio resultó complejo"
+      },
+      {
+        "id": "D",
+        "text": "Aunque parecía fácil el ejercicio resulto complejo"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La subordinada inicial se separa con coma y las palabras llevan la acentuación correcta."
+  },
+  {
+    "id": "SPA-LAN-044",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "orthography_punctuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Es importante que estudies, ya que el examen es difícil",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es importante que estudies, ya que el examen es difícil"
+      },
+      {
+        "id": "B",
+        "text": "Es importante que estudies ya que, el examen es difícil"
+      },
+      {
+        "id": "C",
+        "text": "Es importante que estudies ya que el examen es difícil"
+      },
+      {
+        "id": "D",
+        "text": "Es importante que estudies, ya que el examen es dificil"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La opción conserva la acentuación y una puntuación válida del conector causal."
+  },
+  {
+    "id": "SPA-LAN-045",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "orthography_punctuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "No entiendo porque no viniste ayer",
+    "options": [
+      {
+        "id": "A",
+        "text": "No entiendo por qué no viniste ayer"
+      },
+      {
+        "id": "B",
+        "text": "No entiendo porque no viniste ayer"
+      },
+      {
+        "id": "C",
+        "text": "No entiendo porqué no viniste ayer"
+      },
+      {
+        "id": "D",
+        "text": "No entiendo por que no viniste ayer 102 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "En una interrogativa indirecta se escribe «por qué» separado y con tilde."
+  }
+]

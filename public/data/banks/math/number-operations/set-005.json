@@ -1,0 +1,77 @@
+[
+  {
+    "id": "MAT-NUM-019",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "successive_discounts",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "En una papelería, un producto cuesta $28.50 con rebaja de 25% y otro $63.50 con rebaja de 60%. En caja se aplica al primer producto otra rebaja de 25% sobre el precio ya rebajado. ¿Cuál es la cantidad total aproximada a pagar?",
+    "options": [
+      {
+        "id": "A",
+        "text": "$41"
+      },
+      {
+        "id": "B",
+        "text": "$44"
+      },
+      {
+        "id": "C",
+        "text": "$48"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Primer producto: 28.50×0.75×0.75≈16.03; segundo: 63.50×0.40=25.40; total≈41.43, que redondea a $41."
+  },
+  {
+    "id": "MAT-NUM-020",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "unit_conversion_estimation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Un árbol frutal crece en promedio 12 ____ por año. Si el árbol mide 4.2 m, significa que actualmente tiene ____ años.",
+    "options": [
+      {
+        "id": "A",
+        "text": "cm, 75.5"
+      },
+      {
+        "id": "B",
+        "text": "cm, 35"
+      },
+      {
+        "id": "C",
+        "text": "mm, 35"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "4.2 m = 420 cm; 420/12 = 35 años."
+  },
+  {
+    "id": "MAT-NUM-021",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "prime_factorization",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Identifica los factores primos del número 825.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2, 3, 7"
+      },
+      {
+        "id": "B",
+        "text": "3, 5, 11"
+      },
+      {
+        "id": "C",
+        "text": "5, 7, 11"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "825 = 3 × 275 = 3 × 5² × 11; sus factores primos son 3, 5 y 11."
+  }
+]

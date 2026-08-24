@@ -1,0 +1,495 @@
+[
+  {
+    "id": "SPA-LAN-007",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "accentuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la opción en la que la palabra subrayada \nse usa CORRECTAMENTE.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ana dijo que té vio ayer en la plaza."
+      },
+      {
+        "id": "B",
+        "text": "Tomás llegó con un regalo para mi."
+      },
+      {
+        "id": "C",
+        "text": "El poeta escribió estos versos para ti."
+      },
+      {
+        "id": "D",
+        "text": "Su amiga sé fue temprano de la fiesta."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) El poeta escribió estos versos para ti.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-008",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "homophones_homonyms_paronyms",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿En cuál de las siguientes oraciones la palabra \nsubrayada está usada CORRECTAMENTE?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nadie sabía que él era un expía extranjero."
+      },
+      {
+        "id": "B",
+        "text": "Yo cerebro tu llegada cada vez que vienes."
+      },
+      {
+        "id": "C",
+        "text": "Te dieron el trabajo porque tienes la aptitud."
+      },
+      {
+        "id": "D",
+        "text": "Sufrió una lección en la rodilla mientras corría."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) Te dieron el trabajo porque tienes la aptitud.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-009",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "prefixes_suffixes",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿En cuál de las siguientes palabras se utiliza un \nprefijo para formar un antónimo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Innatural"
+      },
+      {
+        "id": "B",
+        "text": "Indicativo"
+      },
+      {
+        "id": "C",
+        "text": "Individual"
+      },
+      {
+        "id": "D",
+        "text": "Inclinación"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) Innatural. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-010",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "subject_verb_agreement",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la oración INCORRECTA.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Casi todos los estudiantes viven en el pueblo."
+      },
+      {
+        "id": "B",
+        "text": "La nueva costurera confeccionó los vestidos."
+      },
+      {
+        "id": "C",
+        "text": "Ese árbol de hojas naranjas florecerá en abril."
+      },
+      {
+        "id": "D",
+        "text": "La familia Pérez asistirán a la obra de teatro."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) La familia Pérez asistirán a la obra de teatro.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-011",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "accentuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿En cuál de las siguientes oraciones se usa \nCORRECTAMENTE la palabra subrayada?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Dime cual es tu programa favorito."
+      },
+      {
+        "id": "B",
+        "text": "Quiero saber quién ganará el premio."
+      },
+      {
+        "id": "C",
+        "text": "No sé cuando llegarán los libros de arte."
+      },
+      {
+        "id": "D",
+        "text": "Cuánto más leo, más me interesa el tema."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) Quiero saber quién ganará el premio.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-012",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "verb_forms",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿En cuál de las siguientes oraciones la palabra \nsubrayada está escrita CORRECTAMENTE?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los vecinos han descubrido una flor valiosa  \nen el bosque."
+      },
+      {
+        "id": "B",
+        "text": "No hemos imprimido todavía el trabajo de la \nclase de Español."
+      },
+      {
+        "id": "C",
+        "text": "¿Alguien sabe si ellos ya han envolvido los \nregalos para Miguel?"
+      },
+      {
+        "id": "D",
+        "text": "Las autoridades han imponido un límite  \nde velocidad en la ciudad."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) No hemos imprimido todavía el trabajo de la  clase de Español.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-013",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "prefixes_suffixes",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿En cuál de las siguientes palabras “des-” significa \n“sin”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Destrucción"
+      },
+      {
+        "id": "B",
+        "text": "Desiderativa"
+      },
+      {
+        "id": "C",
+        "text": "Desequilibrio"
+      },
+      {
+        "id": "D",
+        "text": "Desafiante"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) Desequilibrio. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-014",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "subject_verb_agreement",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿En cuál de las siguientes opciones se usa \nINCORRECTAMENTE la palabra subrayada?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Les compré un par de zapatos a los niños."
+      },
+      {
+        "id": "B",
+        "text": "El chocolate caliente le encanta a Laura."
+      },
+      {
+        "id": "C",
+        "text": "A mis amigos no le sorprende mi dedicación."
+      },
+      {
+        "id": "D",
+        "text": "¿Cuánta práctica les exigen a los músicos?"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) A mis amigos no le sorprende mi dedicación.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-015",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "joined_separate_words",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la opción en la que la parte subrayada  \nse usa CORRECTAMENTE.",
+    "options": [
+      {
+        "id": "A",
+        "text": "En la fiesta había comida demás."
+      },
+      {
+        "id": "B",
+        "text": "Recorrimos un camino sin fin."
+      },
+      {
+        "id": "C",
+        "text": "Vi a José y hablé con él a parte."
+      },
+      {
+        "id": "D",
+        "text": "Llegó tarde, pero no sé porqué."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) Recorrimos un camino sin fin.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-016",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "homophones_homonyms_paronyms",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿En cuál de las siguientes opciones la palabra \nsubrayada está utilizada CORRECTAMENTE?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La oficina médica se haya en el tercer piso."
+      },
+      {
+        "id": "B",
+        "text": "Siempre hallas lo que se le pierde a Mariana."
+      },
+      {
+        "id": "C",
+        "text": "Si hayas a mi perro, te daré una recompensa."
+      },
+      {
+        "id": "D",
+        "text": "No creo que el niño halla entendido la película."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) Siempre hallas lo que se le pierde a Mariana.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-017",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "capitalization",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la opción que está escrita \nCORRECTAMENTE.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Instituto nacional de antropología e historia"
+      },
+      {
+        "id": "B",
+        "text": "Instituto Nacional de Antropología e Historia"
+      },
+      {
+        "id": "C",
+        "text": "Instituto nacional de Antropología e Historia"
+      },
+      {
+        "id": "D",
+        "text": "Instituto Nacional De Antropología E Historia"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) Instituto Nacional de Antropología e Historia. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-018",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "verb_forms",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la opción en la que la parte subrayada está \nescrita INCORRECTAMENTE.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tú traíste fotos de las ciudades."
+      },
+      {
+        "id": "B",
+        "text": "Nosotros trajimos flores frescas."
+      },
+      {
+        "id": "C",
+        "text": "Ustedes traerán mesas y sillas."
+      },
+      {
+        "id": "D",
+        "text": "Ella quisiera que trajeras frutas."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) Tú traíste fotos de las ciudades.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-019",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "prepositions",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la oración INCORRECTA.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Asegúrense de que cerraron con llave."
+      },
+      {
+        "id": "B",
+        "text": "Pensaba de que no vendrías hoy."
+      },
+      {
+        "id": "C",
+        "text": "Se alegró de que ganaras el premio."
+      },
+      {
+        "id": "D",
+        "text": "Me llamas antes de que llegues."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) Pensaba de que no vendrías hoy.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-020",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "verb_forms",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la opción CORRECTA.",
+    "options": [
+      {
+        "id": "A",
+        "text": "El joven pintando cuadros expondrá en una \ngalería."
+      },
+      {
+        "id": "B",
+        "text": "Se solicita chofer conduciendo camiones de \ncarga."
+      },
+      {
+        "id": "C",
+        "text": "La bailarina practicaba escuchando música \nclásica."
+      },
+      {
+        "id": "D",
+        "text": "La niña jugando ajedrez participará en la \ncompetencia."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) La bailarina practicaba escuchando música  clásica.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-021",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "verb_complements",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "En la oración “El hermano de Paco no ha vendido \ntodos los boletos”, el núcleo del predicado es",
+    "options": [
+      {
+        "id": "A",
+        "text": "el hermano."
+      },
+      {
+        "id": "B",
+        "text": "de Paco."
+      },
+      {
+        "id": "C",
+        "text": "ha vendido."
+      },
+      {
+        "id": "D",
+        "text": "los boletos."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) ha vendido.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-022",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "sentence_order",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la oración CORRECTA.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Le compré una muñeca a mi sobrina de tela."
+      },
+      {
+        "id": "B",
+        "text": "Juan construyó un caballito para su hijo de \nmadera."
+      },
+      {
+        "id": "C",
+        "text": "El maestro entregó el certificado a Inés de \nparticipación."
+      },
+      {
+        "id": "D",
+        "text": "Les regalaron un arreglo de flores a todas las \nmadres."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) Les regalaron un arreglo de flores a todas las  madres.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  },
+  {
+    "id": "SPA-LAN-023",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "verb_forms",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la oración cuya parte subrayada \nrepresenta el verbo en voz pasiva.",
+    "options": [
+      {
+        "id": "A",
+        "text": "El bizcocho ha sido horneado por el repostero."
+      },
+      {
+        "id": "B",
+        "text": "La tubería se ha roto a causa del frío invernal."
+      },
+      {
+        "id": "C",
+        "text": "Han quitado los carteles que anunciaban la feria."
+      },
+      {
+        "id": "D",
+        "text": "Las láminas recortadas se usarán para un \ncollage.\n\n2 15"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) El bizcocho ha sido horneado por el repostero.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo."
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "id": "COG-MTX-013",
+    "area": "cognitive",
+    "category": "matrices",
+    "subcategory": "numeric",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Complete la matriz:\n2 4 6\n3 5 7\n5 __ __",
+    "options": [
+      {
+        "id": "A",
+        "text": "6, 8"
+      },
+      {
+        "id": "B",
+        "text": "7, 9"
+      },
+      {
+        "id": "C",
+        "text": "8, 10"
+      },
+      {
+        "id": "D",
+        "text": "9, 11"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Cada fila avanza de 2 en 2. La tercera debe ser 5, 7, 9."
+  },
+  {
+    "id": "COG-MTX-014",
+    "area": "cognitive",
+    "category": "matrices",
+    "subcategory": "mixed",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Complete la matriz:\n4H 2h 2h 2h\n4H 4H 2h 2h\n4H 4H 4H 2h\n4H 4H __ __",
+    "options": [
+      {
+        "id": "A",
+        "text": "4H, 4H"
+      },
+      {
+        "id": "B",
+        "text": "4H, 2H"
+      },
+      {
+        "id": "C",
+        "text": "2h, 4H"
+      },
+      {
+        "id": "D",
+        "text": "2h, 2h"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "En cada fila aparece un 4H adicional desde la izquierda. La última fila debe contener cuatro 4H."
+  },
+  {
+    "id": "COG-MTX-015",
+    "area": "cognitive",
+    "category": "matrices",
+    "subcategory": "numeric",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Complete la matriz:\n1 2 3 4\n1 4 9 16\n1 8 __ __",
+    "options": [
+      {
+        "id": "A",
+        "text": "12, 20"
+      },
+      {
+        "id": "B",
+        "text": "18, 32"
+      },
+      {
+        "id": "C",
+        "text": "27, 48"
+      },
+      {
+        "id": "D",
+        "text": "27, 64"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Las filas representan n, n² y n³ para n=1,2,3,4. Por ello faltan 3³=27 y 4³=64."
+  }
+]

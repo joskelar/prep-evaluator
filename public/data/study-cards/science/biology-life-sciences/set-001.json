@@ -1,0 +1,20 @@
+[
+  {
+    "id": "CARD-SCI-BIO-001",
+    "examTargets": ["buap"],
+    "area": "science",
+    "category": "biology-life-sciences",
+    "title": "Variables Experimentales",
+    "front": "¿Cuál es la diferencia entre variable independiente y variable dependiente?",
+    "back": "La variable independiente es el factor controlado o manipulado intencionalmente por el investigador (causa). La variable dependiente es la respuesta o cambio medido resultante (efecto)."
+  },
+  {
+    "id": "CARD-SCI-BIO-002",
+    "examTargets": ["buap"],
+    "area": "science",
+    "category": "biology-life-sciences",
+    "title": "Células Eucariotas vs. Procariotas",
+    "front": "¿Cuál es la diferencia fundamental entre célula eucariota y procariota?",
+    "back": "La célula eucariota posee un núcleo definido rodeado por una membrana nuclear y organelos membranosos (ej. mitocondrias). La procariota no tiene núcleo delimitado, su ADN está disperso en el citoplasma (nucleoide)."
+  }
+]

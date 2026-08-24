@@ -1,0 +1,147 @@
+[
+  {
+    "id": "COG-PRA-023",
+    "area": "cognitive",
+    "category": "practical_reasoning",
+    "subcategory": "situational",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Antonia se conoce todas las calles de su ciudad, \nnunca se pierde y siempre llega a tiempo a los \ncompromisos. A Fernando, un amigo de Antonia, \nlo invitaron a un festival de poesía. Él se pierde con \nmucha facilidad, así que le pide a Antonia que lo \nacompañe para llegar a tiempo al festival. Cuando \nFernando recoge a Antonia en su carro a la hora \nque le indicó Antonia, él le entrega la dirección del \nlugar. Antonia y Fernando llegan una hora tarde y \nFernando se queda sin declamar el poema que le \ncorrespondía. A partir de esta información, se puede \nconcluir que",
+    "options": [
+      {
+        "id": "A",
+        "text": "Antonia no conoce las direcciones tan bien \ncomo la gente cree."
+      },
+      {
+        "id": "B",
+        "text": "Fernando estaba nervioso y no quería llegar  \na tiempo al evento."
+      },
+      {
+        "id": "C",
+        "text": "los dos amigos salieron tarde, y por eso llegaron \ntarde."
+      },
+      {
+        "id": "D",
+        "text": "la dirección del lugar no quedaba dentro de la \nciudad."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) la dirección del lugar no quedaba dentro de la  ciudad.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-PRA-024",
+    "area": "cognitive",
+    "category": "practical_reasoning",
+    "subcategory": "situational",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Juliana quiere pasar la tarde del sábado con sus \nprimos. Uno de ellos, Andrés, disfruta viendo \npelículas y comiendo comida saludable, pero a él \nno le gusta la playa. A otro primo, Nicolás, le gustan \nlos juegos de video y la pizza, pero le molestan \nlos deportes extremos. Finalmente, a Xavier le \nencantan el paracaidismo, nadar y comer pescado, \ny le disgusta la televisión. Juliana consideró varios \nlugares, seleccionó uno e invitó a sus primos para \nque fueran todos juntos. Al final de la tarde, los \ncuatro se despidieron muy contentos. Es más \nprobable que Juliana los haya invitado a un",
+    "options": [
+      {
+        "id": "A",
+        "text": "restaurante que vende comida de mar y agua de \ncoco, construido en medio de la arena, cerca del \nmar."
+      },
+      {
+        "id": "B",
+        "text": "centro de entretenimiento que vende pizza y \nofrece cientos de pantallas conectadas a un \njuego de video."
+      },
+      {
+        "id": "C",
+        "text": "negocio en el que la gente puede bañarse en una \npiscina, comer pescado al horno y ver películas \ncortas basadas en videojuegos."
+      },
+      {
+        "id": "D",
+        "text": "aeropuerto pequeño donde los asistentes se \nlanzan en paracaídas y pueden comer aperitivos \nsaludables mientras esperan."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) negocio en el que la gente puede bañarse en una  piscina, comer pescado al horno y ver películas  cortas basadas en videojuegos.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-PRA-025",
+    "area": "cognitive",
+    "category": "practical_reasoning",
+    "subcategory": "situational",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Ofelia ha calculado que, cuando conduce en una \ncarretera pavimentada, viaja a 60 kilómetros por \nhora. Cuando conduce en una carretera que no está \npavimentada, viaja a 30 kilómetros por hora. Todos \nlos días, Ofelia se tarda una hora en recorrer el \ntrayecto de 60 kilómetros entre su oficina y su casa, \npero esta mañana se tardó una hora y media. De esta \ninformación se puede inferir que",
+    "options": [
+      {
+        "id": "A",
+        "text": "esta mañana Ofelia viajó por carreteras \npavimentadas y no pavimentadas."
+      },
+      {
+        "id": "B",
+        "text": "Ofelia salió de su casa más tarde de la hora a la \nque sale normalmente."
+      },
+      {
+        "id": "C",
+        "text": "la carretera entre la oficina y la casa de Ofelia no \nestá pavimentada."
+      },
+      {
+        "id": "D",
+        "text": "Ofelia se confundió al escoger la carretera de la \noficina a la casa."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) esta mañana Ofelia viajó por carreteras  pavimentadas y no pavimentadas.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-PRA-026",
+    "area": "cognitive",
+    "category": "practical_reasoning",
+    "subcategory": "situational",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Martín pintó un cuadro para el Concurso de Paisajes \ny Obras sobre la Naturaleza. Martín llegó tarde, pero \nvio que alrededor de su obra se había congregado \nmucha gente, que exclamaba que era una obra \nexcelente y decía que Martín expresó emociones \nmuy profundas a través de ese retrato de una madre \ny una hija en un tren. La pintura de Martín no fue \nconsiderada entre las diez obras premiadas, a pesar \nde que los jueces le dijeron a Martín, en privado, que \nles gustaba mucho. Se puede concluir que",
+    "options": [
+      {
+        "id": "A",
+        "text": "los jueces se oponían al tipo de arte de Martín."
+      },
+      {
+        "id": "B",
+        "text": "la gente no fue sincera en su apreciación de la \nobra."
+      },
+      {
+        "id": "C",
+        "text": "Martín fue descalificado por haber llegado tarde \nal evento."
+      },
+      {
+        "id": "D",
+        "text": "la temática de la obra le impedía ser premiada \nen el concurso."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) la temática de la obra le impedía ser premiada  en el concurso.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-PRA-027",
+    "area": "cognitive",
+    "category": "practical_reasoning",
+    "subcategory": "situational",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "La compañía ABC compra los productos de \npapelería de un proveedor. En el mes de enero, el \nprecio de cada bolígrafo fue de $2.00 y el precio de \ncada paquete de papel fue de $10.00. ABC compró \n100 bolígrafos y 50 paquetes de papel. En el mes de \nfebrero, el precio de los bolígrafos fue de $3.50 y el \ndel papel fue de $20.00 por paquete. ABC compró \n60 bolígrafos y 50 paquetes de papel. En el mes de \nmarzo, cada bolígrafo costó $1.00 y cada paquete \nde papel costó $5.00. ABC compró 180 bolígrafos y \n50 paquetes de papel. De esta información se puede \ninferir que",
+    "options": [
+      {
+        "id": "A",
+        "text": "a menor precio de los bolígrafos, mayor  \nla cantidad que solicita ABC."
+      },
+      {
+        "id": "B",
+        "text": "la cantidad de paquetes de papel que compra \nABC depende del precio."
+      },
+      {
+        "id": "C",
+        "text": "cada mes ABC paga el mismo precio total  \npor los bolígrafos que compra."
+      },
+      {
+        "id": "D",
+        "text": "a mayor precio del papel, menor la cantidad  \nde paquetes que compra ABC."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) a menor precio de los bolígrafos, mayor   la cantidad que solicita ABC.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  }
+]

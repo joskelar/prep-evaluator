@@ -1,0 +1,437 @@
+[
+  {
+    "id": "ENG-LAN-009",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "determiners",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "- - - - cat is on the bed.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Carmen"
+      },
+      {
+        "id": "B",
+        "text": "Carmens"
+      },
+      {
+        "id": "C",
+        "text": "Carmen’s"
+      },
+      {
+        "id": "D",
+        "text": "Carmens’"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) Carmen’s. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item."
+  },
+  {
+    "id": "ENG-LAN-010",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "subject_predicate_complements",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Many - - - - exercise every day.",
+    "options": [
+      {
+        "id": "A",
+        "text": "person"
+      },
+      {
+        "id": "B",
+        "text": "people"
+      },
+      {
+        "id": "C",
+        "text": "person’s"
+      },
+      {
+        "id": "D",
+        "text": "people’s"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The correct answer is B) people. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item."
+  },
+  {
+    "id": "ENG-LAN-011",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "verbs",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "When Miguel walked by at 7:30 p.m., Ileana - - - -  \nto the radio.",
+    "options": [
+      {
+        "id": "A",
+        "text": "listens"
+      },
+      {
+        "id": "B",
+        "text": "listened"
+      },
+      {
+        "id": "C",
+        "text": "is listening"
+      },
+      {
+        "id": "D",
+        "text": "was listening"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The correct answer is D) was listening. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item."
+  },
+  {
+    "id": "ENG-LAN-012",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "questions_requests",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Choose the BEST question.",
+    "options": [
+      {
+        "id": "A",
+        "text": "How many eggs do you want me to serve you?"
+      },
+      {
+        "id": "B",
+        "text": "Do you want how many eggs me to serve you?"
+      },
+      {
+        "id": "C",
+        "text": "How eggs many do you want me to you serve?"
+      },
+      {
+        "id": "D",
+        "text": "Do you want me to serve how many eggs to \nyou?"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The correct answer is A) How many eggs do you want me to serve you?. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item."
+  },
+  {
+    "id": "ENG-LAN-013",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "prepositions",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Javier looked - - - - all his clothes for the blue sock.",
+    "options": [
+      {
+        "id": "A",
+        "text": "within"
+      },
+      {
+        "id": "B",
+        "text": "toward"
+      },
+      {
+        "id": "C",
+        "text": "through"
+      },
+      {
+        "id": "D",
+        "text": "between"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) through. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item."
+  },
+  {
+    "id": "ENG-LAN-014",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "sentence_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Choose the CORRECT sentence.",
+    "options": [
+      {
+        "id": "A",
+        "text": "They celebrate their sixty anniversary  \nin Trinidad this year."
+      },
+      {
+        "id": "B",
+        "text": "This anniversary sixtieth is the Trinidad \ncelebrates this year."
+      },
+      {
+        "id": "C",
+        "text": "Trinidad celebrates this year the sixty \nanniversary of its independence."
+      },
+      {
+        "id": "D",
+        "text": "This year Trinidad celebrates the sixtieth \nanniversary of its independence."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The correct answer is D) This year Trinidad celebrates the sixtieth  anniversary of its independence.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item."
+  },
+  {
+    "id": "ENG-LAN-015",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "prepositions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Our next class will be - - - - Friday.",
+    "options": [
+      {
+        "id": "A",
+        "text": "in"
+      },
+      {
+        "id": "B",
+        "text": "at"
+      },
+      {
+        "id": "C",
+        "text": "on"
+      },
+      {
+        "id": "D",
+        "text": "over"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) on. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item."
+  },
+  {
+    "id": "ENG-LAN-016",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "determiners",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "There is - - - - mud in the yard.",
+    "options": [
+      {
+        "id": "A",
+        "text": "a lot"
+      },
+      {
+        "id": "B",
+        "text": "a few"
+      },
+      {
+        "id": "C",
+        "text": "many"
+      },
+      {
+        "id": "D",
+        "text": "much"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The correct answer is D) much. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item."
+  },
+  {
+    "id": "ENG-LAN-017",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "determiners",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "- - - - apples are sweeter than usual.",
+    "options": [
+      {
+        "id": "A",
+        "text": "This"
+      },
+      {
+        "id": "B",
+        "text": "That"
+      },
+      {
+        "id": "C",
+        "text": "Them"
+      },
+      {
+        "id": "D",
+        "text": "These"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The correct answer is D) These. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item."
+  },
+  {
+    "id": "ENG-LAN-018",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "sentence_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Choose the CORRECT sentence.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hattie Caraway became the first woman in 1932 \nelected to the US Senate."
+      },
+      {
+        "id": "B",
+        "text": "Became the first woman elected to the US \nSenate Hattie Caraway, in 1932."
+      },
+      {
+        "id": "C",
+        "text": "In 1932, Hattie Caraway became the first \nwoman elected to the US Senate."
+      },
+      {
+        "id": "D",
+        "text": "Elected to the US Senate in 1932, Hattie \nCaraway became the first woman."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) In 1932, Hattie Caraway became the first  woman elected to the US Senate.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item."
+  },
+  {
+    "id": "ENG-LAN-019",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "subject_predicate_complements",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "In this nature reserve, - - - - hunt elk.",
+    "options": [
+      {
+        "id": "A",
+        "text": "wolf"
+      },
+      {
+        "id": "B",
+        "text": "wolfs"
+      },
+      {
+        "id": "C",
+        "text": "wolves"
+      },
+      {
+        "id": "D",
+        "text": "wolves’"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) wolves. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item."
+  },
+  {
+    "id": "ENG-LAN-020",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "pronouns",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "I think Juan was talking to",
+    "options": [
+      {
+        "id": "A",
+        "text": "I."
+      },
+      {
+        "id": "B",
+        "text": "her."
+      },
+      {
+        "id": "C",
+        "text": "she."
+      },
+      {
+        "id": "D",
+        "text": "they."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The correct answer is B) her.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item."
+  },
+  {
+    "id": "ENG-LAN-021",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "verbs",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "If Angel - - - - better tennis shoes, he would have run \nthe marathon.",
+    "options": [
+      {
+        "id": "A",
+        "text": "has"
+      },
+      {
+        "id": "B",
+        "text": "had"
+      },
+      {
+        "id": "C",
+        "text": "had had"
+      },
+      {
+        "id": "D",
+        "text": "would have"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) had had. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item."
+  },
+  {
+    "id": "ENG-LAN-022",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "sentence_structure",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Choose the CORRECT sentence.",
+    "options": [
+      {
+        "id": "A",
+        "text": "We don’t understand what is the weekly reading \nabout."
+      },
+      {
+        "id": "B",
+        "text": "We don’t understand what is about the weekly \nreading."
+      },
+      {
+        "id": "C",
+        "text": "We don’t understand what the weekly reading  \nis about."
+      },
+      {
+        "id": "D",
+        "text": "We don’t understand what the reading weekly  \nis about."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) We don’t understand what the weekly reading   is about.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item."
+  },
+  {
+    "id": "ENG-LAN-023",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "adjectives",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "My uncle John was wearing a - - - - old silk shirt.",
+    "options": [
+      {
+        "id": "A",
+        "text": "football"
+      },
+      {
+        "id": "B",
+        "text": "beautiful"
+      },
+      {
+        "id": "C",
+        "text": "French"
+      },
+      {
+        "id": "D",
+        "text": "green"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The correct answer is B) beautiful. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item."
+  }
+]

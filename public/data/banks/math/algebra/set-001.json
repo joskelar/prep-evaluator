@@ -1,0 +1,338 @@
+[
+  {
+    "id": "MAT-ALG-006",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "polynomials",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es el resultado de (x³ − 2x + 3) + (3x² + 6x − 2)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "x³ + 3x² + 4x + 1"
+      },
+      {
+        "id": "B",
+        "text": "3x⁶ + 4x + 1"
+      },
+      {
+        "id": "C",
+        "text": "3x⁶ − 12x² − 6"
+      },
+      {
+        "id": "D",
+        "text": "4x⁵ + 4x + 1"
+      },
+      {
+        "id": "E",
+        "text": "4x⁵ + 4x² + 1"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Se suman términos semejantes: x³+3x²+(-2x+6x)+(3-2)=x³+3x²+4x+1."
+  },
+  {
+    "id": "MAT-ALG-007",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "linear_equations_one_variable",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Si 5(2x − 2) = 3x + 11, entonces ¿cuál es el valor de x?",
+    "options": [
+      {
+        "id": "A",
+        "text": "−4"
+      },
+      {
+        "id": "B",
+        "text": "−2"
+      },
+      {
+        "id": "C",
+        "text": "2"
+      },
+      {
+        "id": "D",
+        "text": "3"
+      },
+      {
+        "id": "E",
+        "text": "7"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "10x−10=3x+11; entonces 7x=21 y x=3."
+  },
+  {
+    "id": "MAT-ALG-008",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "factorization",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la factorización de x² + 2x?",
+    "options": [
+      {
+        "id": "A",
+        "text": "x²(2x)"
+      },
+      {
+        "id": "B",
+        "text": "x(x + 2)"
+      },
+      {
+        "id": "C",
+        "text": "(x²)(2)"
+      },
+      {
+        "id": "D",
+        "text": "x(x + 2x)"
+      },
+      {
+        "id": "E",
+        "text": "x²(1 + 2x)"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Ambos términos tienen factor común x: x²+2x=x(x+2)."
+  },
+  {
+    "id": "MAT-ALG-009",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "algebraic_expressions",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Evalúe 4n² + 3n para n = 3.",
+    "options": [
+      {
+        "id": "A",
+        "text": "22"
+      },
+      {
+        "id": "B",
+        "text": "33"
+      },
+      {
+        "id": "C",
+        "text": "45"
+      },
+      {
+        "id": "D",
+        "text": "82"
+      },
+      {
+        "id": "E",
+        "text": "153"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Sustituyendo n=3: 4(9)+9=36+9=45."
+  },
+  {
+    "id": "MAT-ALG-010",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "inequalities_one_variable",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es el valor de x que satisface x < −5?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0"
+      },
+      {
+        "id": "B",
+        "text": "−2"
+      },
+      {
+        "id": "C",
+        "text": "−3"
+      },
+      {
+        "id": "D",
+        "text": "−4"
+      },
+      {
+        "id": "E",
+        "text": "−6"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "De las opciones, solo −6 es menor que −5."
+  },
+  {
+    "id": "MAT-ALG-011",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "algebraic_expressions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué expresión representa el área de un rectángulo de largo (b + 1) y ancho (b − 1)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2b"
+      },
+      {
+        "id": "B",
+        "text": "b²"
+      },
+      {
+        "id": "C",
+        "text": "4b"
+      },
+      {
+        "id": "D",
+        "text": "b² + 1"
+      },
+      {
+        "id": "E",
+        "text": "b² − 1"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "El área es (b+1)(b−1), una diferencia de cuadrados: b²−1."
+  },
+  {
+    "id": "MAT-ALG-012",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "quadratic_equations",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es el conjunto solución de la ecuación x² − 5 = 4?",
+    "options": [
+      {
+        "id": "A",
+        "text": "{−1, 1}"
+      },
+      {
+        "id": "B",
+        "text": "{1}"
+      },
+      {
+        "id": "C",
+        "text": "{−3, 3}"
+      },
+      {
+        "id": "D",
+        "text": "{9}"
+      },
+      {
+        "id": "E",
+        "text": "{−9, 9}"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "x²=9, por lo que x puede ser 3 o −3."
+  },
+  {
+    "id": "MAT-ALG-013",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "linear_equations_one_variable",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Si (a − 3)/3 = (3 − a)/5, ¿cuál es el valor de a?",
+    "options": [
+      {
+        "id": "A",
+        "text": "−3"
+      },
+      {
+        "id": "B",
+        "text": "0"
+      },
+      {
+        "id": "C",
+        "text": "1/2"
+      },
+      {
+        "id": "D",
+        "text": "3"
+      },
+      {
+        "id": "E",
+        "text": "12"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Multiplicando en cruz: 5(a−3)=3(3−a); 5a−15=9−3a; 8a=24; a=3."
+  },
+  {
+    "id": "MAT-ALG-014",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "linear_systems",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la solución del sistema x + 2y = 3; 3x + 5y = 4?",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 7; y = −5"
+      },
+      {
+        "id": "B",
+        "text": "x = −7; y = 5"
+      },
+      {
+        "id": "C",
+        "text": "x = 1; y = 2"
+      },
+      {
+        "id": "D",
+        "text": "x = 1; y = −1"
+      },
+      {
+        "id": "E",
+        "text": "x = 11; y = 7"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "De x=3−2y y sustituyendo: 9−6y+5y=4, así y=5 y x=−7."
+  },
+  {
+    "id": "MAT-ALG-015",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "functions_graphs",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En la figura 1, ¿cuál es la ecuación de la recta?",
+    "options": [
+      {
+        "id": "A",
+        "text": "y = 3x + 1"
+      },
+      {
+        "id": "B",
+        "text": "y = 3x − 1"
+      },
+      {
+        "id": "C",
+        "text": "y = 3x − 2"
+      },
+      {
+        "id": "D",
+        "text": "y = 3x − 3"
+      },
+      {
+        "id": "E",
+        "text": "y = −3x + 1"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La recta pasa por (0,−1) y (1,2), por lo que su pendiente es 3 y su intercepto es −1: y=3x−1.",
+    "assets": [
+      {
+        "src": "/assets/math/MAT-ALG-015.svg",
+        "description": "Plano cartesiano con una recta ascendente que pasa por los puntos (0, −1) y (1, 2). Ejes x e y con marcas enteras y flechas en ambos extremos."
+      }
+    ]
+  }
+]

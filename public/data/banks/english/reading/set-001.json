@@ -1,0 +1,332 @@
+[
+  {
+    "id": "ENG-REA-009",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "details",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "The two girls were going with Mr. Dodgson to",
+    "options": [
+      {
+        "id": "A",
+        "text": "Christ Church."
+      },
+      {
+        "id": "B",
+        "text": "the Botanic Garden."
+      },
+      {
+        "id": "C",
+        "text": "Merton College."
+      },
+      {
+        "id": "D",
+        "text": "the Ginkgo Forest."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The passage states that they were allowed to go with Mr. Dodgson to the Botanic Garden.",
+    "stimulus_id": "ENG-PASS-001"
+  },
+  {
+    "id": "ENG-REA-010",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "conclusions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "The most important activity in the reading is",
+    "options": [
+      {
+        "id": "A",
+        "text": "a botanical lesson."
+      },
+      {
+        "id": "B",
+        "text": "an observation of snails."
+      },
+      {
+        "id": "C",
+        "text": "the feeding of ducks."
+      },
+      {
+        "id": "D",
+        "text": "a visit to Christ Church."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The outing centers on Mr. Dodgson teaching the children about nature, culminating in the planned introduction to Ginkgo biloba.",
+    "stimulus_id": "ENG-PASS-001"
+  },
+  {
+    "id": "ENG-REA-011",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "From the reading, it can be concluded that",
+    "options": [
+      {
+        "id": "A",
+        "text": "Alice does not like to study at school."
+      },
+      {
+        "id": "B",
+        "text": "Mr. Dodgson is the academic tutor."
+      },
+      {
+        "id": "C",
+        "text": "Alice and Ina are very poor children."
+      },
+      {
+        "id": "D",
+        "text": "Mr. Dodgson and Alice are dreaming."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The children are on a lesson-related outing and Mr. Dodgson guides and teaches them, supporting the inference that he is their tutor.",
+    "stimulus_id": "ENG-PASS-001"
+  },
+  {
+    "id": "ENG-REA-012",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "figurative_language",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "In the reading, when Mr. Dodgson refers to the snails as soldiers, he uses",
+    "options": [
+      {
+        "id": "A",
+        "text": "simile."
+      },
+      {
+        "id": "B",
+        "text": "metaphor."
+      },
+      {
+        "id": "C",
+        "text": "hyperbole."
+      },
+      {
+        "id": "D",
+        "text": "personification."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The snails are given human roles and behaviors such as being soldiers and pacifists, which is personification.",
+    "stimulus_id": "ENG-PASS-001"
+  },
+  {
+    "id": "ENG-REA-013",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "text_type",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "This reading may be classified as",
+    "options": [
+      {
+        "id": "A",
+        "text": "argumentative."
+      },
+      {
+        "id": "B",
+        "text": "descriptive."
+      },
+      {
+        "id": "C",
+        "text": "expository."
+      },
+      {
+        "id": "D",
+        "text": "narrative."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The passage tells a sequence of events involving characters and dialogue, so it is narrative.",
+    "stimulus_id": "ENG-PASS-001"
+  },
+  {
+    "id": "ENG-REA-014",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "vocabulary_in_context",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "The word «dumped» means",
+    "options": [
+      {
+        "id": "A",
+        "text": "abandoned."
+      },
+      {
+        "id": "B",
+        "text": "emptied."
+      },
+      {
+        "id": "C",
+        "text": "forgotten."
+      },
+      {
+        "id": "D",
+        "text": "donated."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "In context, chemicals are discharged into water systems; «emptied» is the closest meaning.",
+    "stimulus_id": "ENG-PASS-002"
+  },
+  {
+    "id": "ENG-REA-015",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "details",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "According to the reading, one of the dangers of drinking polluted water is that it can",
+    "options": [
+      {
+        "id": "A",
+        "text": "contain vitamins and minerals."
+      },
+      {
+        "id": "B",
+        "text": "affect our kidneys and liver."
+      },
+      {
+        "id": "C",
+        "text": "decrease the ability to walk."
+      },
+      {
+        "id": "D",
+        "text": "develop our mathematical skills."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The passage explicitly states that polluted water can cause kidney and liver disease.",
+    "stimulus_id": "ENG-PASS-002"
+  },
+  {
+    "id": "ENG-REA-016",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "cause_effect",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "According to scientists, what has caused the disappearance of lakes in North America?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Chemicals used in agriculture"
+      },
+      {
+        "id": "B",
+        "text": "Some kind of bacteria"
+      },
+      {
+        "id": "C",
+        "text": "Smoke emissions from factories"
+      },
+      {
+        "id": "D",
+        "text": "Waste from nitrate fertilizers"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The passage identifies factory smoke emissions as the cause associated with acid rain and disappearing lakes.",
+    "stimulus_id": "ENG-PASS-002"
+  },
+  {
+    "id": "ENG-REA-017",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "figurative_language",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "The expression «precious gem» is an example of",
+    "options": [
+      {
+        "id": "A",
+        "text": "hyperbole."
+      },
+      {
+        "id": "B",
+        "text": "simile."
+      },
+      {
+        "id": "C",
+        "text": "metaphor."
+      },
+      {
+        "id": "D",
+        "text": "personification."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Earth is directly described as a «precious gem» without «like» or «as», making it a metaphor.",
+    "stimulus_id": "ENG-PASS-002"
+  },
+  {
+    "id": "ENG-REA-018",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "conclusions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "According to the reading, which statement expresses the author’s opinion?",
+    "options": [
+      {
+        "id": "A",
+        "text": "The rain carries and deposits chemicals into bodies of water."
+      },
+      {
+        "id": "B",
+        "text": "Other forms of water pollution are acid and toxic rain."
+      },
+      {
+        "id": "C",
+        "text": "Another source of contamination comes from animal waste."
+      },
+      {
+        "id": "D",
+        "text": "The water supply must be treated adequately by government authorities."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "«Must be treated adequately» expresses a recommendation or judgment, unlike the other factual statements.",
+    "stimulus_id": "ENG-PASS-002"
+  },
+  {
+    "id": "ENG-REA-019",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "purpose",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "The purpose of this reading is to",
+    "options": [
+      {
+        "id": "A",
+        "text": "call the reader to action."
+      },
+      {
+        "id": "B",
+        "text": "entertain or amuse the reader."
+      },
+      {
+        "id": "C",
+        "text": "describe how water is polluted."
+      },
+      {
+        "id": "D",
+        "text": "criticize modern ways of living."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The final paragraphs explicitly urge readers and governments to act to stop water pollution, so the main purpose is a call to action.",
+    "stimulus_id": "ENG-PASS-002"
+  }
+]

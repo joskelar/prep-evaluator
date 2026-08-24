@@ -1,0 +1,234 @@
+[
+  {
+    "id": "ENG-LAN-001",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "pronouns",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Rafy and I have been friends for years. ____ even went to school together.",
+    "options": [
+      {
+        "id": "A",
+        "text": "He"
+      },
+      {
+        "id": "B",
+        "text": "She"
+      },
+      {
+        "id": "C",
+        "text": "We"
+      },
+      {
+        "id": "D",
+        "text": "They"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "«Rafy and I» is first-person plural, so the correct pronoun is «We»."
+  },
+  {
+    "id": "ENG-LAN-002",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "verbs",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Lisa ____ her lunch yesterday.",
+    "options": [
+      {
+        "id": "A",
+        "text": "forgot"
+      },
+      {
+        "id": "B",
+        "text": "forget"
+      },
+      {
+        "id": "C",
+        "text": "forgets"
+      },
+      {
+        "id": "D",
+        "text": "forgotten"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "«Yesterday» requires the simple past; the past form of «forget» is «forgot»."
+  },
+  {
+    "id": "ENG-LAN-003",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "questions_requests",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "____ are my reading glasses?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Who"
+      },
+      {
+        "id": "B",
+        "text": "What"
+      },
+      {
+        "id": "C",
+        "text": "Whose"
+      },
+      {
+        "id": "D",
+        "text": "Where"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The question asks for the location of the glasses, so «Where» is correct."
+  },
+  {
+    "id": "ENG-LAN-004",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "comparatives_superlatives",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Robert and Kent are fast runners, but Kent is ____ Robert.",
+    "options": [
+      {
+        "id": "A",
+        "text": "the faster than"
+      },
+      {
+        "id": "B",
+        "text": "more faster"
+      },
+      {
+        "id": "C",
+        "text": "the most fast"
+      },
+      {
+        "id": "D",
+        "text": "faster than"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The comparative form of «fast» is «faster», followed by «than» when comparing two people."
+  },
+  {
+    "id": "ENG-LAN-005",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "adjectives",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "The young girl bought a",
+    "options": [
+      {
+        "id": "A",
+        "text": "beautiful, light blue, silk scarf."
+      },
+      {
+        "id": "B",
+        "text": "light blue, silk, beautiful scarf."
+      },
+      {
+        "id": "C",
+        "text": "silk, beautiful scarf, light blue."
+      },
+      {
+        "id": "D",
+        "text": "scarf, light blue, beautiful, silk."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "English adjective order places opinion before color and material: «beautiful, light blue, silk scarf»."
+  },
+  {
+    "id": "ENG-LAN-006",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "prepositions",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "The party will be held ____ May 15.",
+    "options": [
+      {
+        "id": "A",
+        "text": "at"
+      },
+      {
+        "id": "B",
+        "text": "in"
+      },
+      {
+        "id": "C",
+        "text": "on"
+      },
+      {
+        "id": "D",
+        "text": "from"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The preposition «on» is used with specific dates."
+  },
+  {
+    "id": "ENG-LAN-007",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "sentence_structure",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Which sentence is CORRECT?",
+    "options": [
+      {
+        "id": "A",
+        "text": "She a member of the team became."
+      },
+      {
+        "id": "B",
+        "text": "A member she became of the team."
+      },
+      {
+        "id": "C",
+        "text": "She became a member of the team."
+      },
+      {
+        "id": "D",
+        "text": "She of the team a member became."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Standard English word order is subject + verb + complement: «She became a member of the team.»"
+  },
+  {
+    "id": "ENG-LAN-008",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "verbs",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "With better players, we ____ that game.",
+    "options": [
+      {
+        "id": "A",
+        "text": "can have won"
+      },
+      {
+        "id": "B",
+        "text": "could have won"
+      },
+      {
+        "id": "C",
+        "text": "can had win"
+      },
+      {
+        "id": "D",
+        "text": "could has won"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "«Could have won» is the correct modal-perfect structure for a past unreal possibility."
+  }
+]

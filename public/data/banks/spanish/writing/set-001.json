@@ -1,0 +1,240 @@
+[
+  {
+    "id": "SPA-WRI-019",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "irrelevant_sentence",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las siguientes oraciones guarda MENOS relación con las demás?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "5"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      },
+      {
+        "id": "E",
+        "text": "11"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La oración 5 trata sobre la familia, mientras el resto del borrador desarrolla el tema de la amistad.",
+    "stimulus_id": "SPA-DRAFT-001"
+  },
+  {
+    "id": "SPA-WRI-020",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "punctuation",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En la oración 2, el signo que debe usarse antes y después de «amigos son aquellos que se aceptan con todo y defectos» es",
+    "options": [
+      {
+        "id": "A",
+        "text": "el paréntesis."
+      },
+      {
+        "id": "B",
+        "text": "el guion."
+      },
+      {
+        "id": "C",
+        "text": "las comillas."
+      },
+      {
+        "id": "D",
+        "text": "la coma."
+      },
+      {
+        "id": "E",
+        "text": "el punto y coma."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La expresión explicativa que precisa quiénes son los amigos debe aislarse mediante comas.",
+    "stimulus_id": "SPA-DRAFT-001"
+  },
+  {
+    "id": "SPA-WRI-021",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "lexical_choice",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "La opción que MEJOR sustituye a la palabra «conexiones» en la oración 3 es",
+    "options": [
+      {
+        "id": "A",
+        "text": "relaciones."
+      },
+      {
+        "id": "B",
+        "text": "obligaciones."
+      },
+      {
+        "id": "C",
+        "text": "responsabilidades."
+      },
+      {
+        "id": "D",
+        "text": "estrecheces."
+      },
+      {
+        "id": "E",
+        "text": "instituciones."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "«Relaciones» conserva el sentido interpersonal de «conexiones» y resulta más natural en el contexto.",
+    "stimulus_id": "SPA-DRAFT-001"
+  },
+  {
+    "id": "SPA-WRI-022",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "connectors",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "La opción MÁS apropiada para unir las oraciones 6 y 7 es",
+    "options": [
+      {
+        "id": "A",
+        "text": "por lo cual."
+      },
+      {
+        "id": "B",
+        "text": "para que."
+      },
+      {
+        "id": "C",
+        "text": "ya que."
+      },
+      {
+        "id": "D",
+        "text": "a sabiendas."
+      },
+      {
+        "id": "E",
+        "text": "por lo tanto."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La oración 7 explica la razón de la función esencial de la amistad; «ya que» introduce adecuadamente esa causa.",
+    "stimulus_id": "SPA-DRAFT-001"
+  },
+  {
+    "id": "SPA-WRI-023",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "precision",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la MEJOR opción para sustituir a la expresión «poco a poco» en la oración 8.",
+    "options": [
+      {
+        "id": "A",
+        "text": "disimuladamente"
+      },
+      {
+        "id": "B",
+        "text": "francamente"
+      },
+      {
+        "id": "C",
+        "text": "sosegadamente"
+      },
+      {
+        "id": "D",
+        "text": "paulatinamente"
+      },
+      {
+        "id": "E",
+        "text": "discretamente"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "«Paulatinamente» significa de manera gradual y sustituye con precisión la expresión «poco a poco».",
+    "stimulus_id": "SPA-DRAFT-001"
+  },
+  {
+    "id": "SPA-WRI-024",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "connectors",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la MEJOR opción para sustituir a «Por tanto» en la oración 11.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Para qué"
+      },
+      {
+        "id": "B",
+        "text": "En tanto que"
+      },
+      {
+        "id": "C",
+        "text": "Por consiguiente"
+      },
+      {
+        "id": "D",
+        "text": "Porque"
+      },
+      {
+        "id": "E",
+        "text": "Con que"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "«Por consiguiente» expresa consecuencia y mantiene la misma relación lógica que «Por tanto».",
+    "stimulus_id": "SPA-DRAFT-001"
+  },
+  {
+    "id": "SPA-WRI-025",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "closing_sentence",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la opción que MEJOR cierra el texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      },
+      {
+        "id": "E",
+        "text": "11"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La oración 11 presenta una consecuencia y advertencia final sobre la amistad, por lo que funciona mejor como cierre del texto.",
+    "stimulus_id": "SPA-DRAFT-001"
+  }
+]

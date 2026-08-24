@@ -1,0 +1,142 @@
+[
+  {
+    "id": "COG-DIA-016",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "sets",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En el diagrama, ¿en qué sectores se ubicaría una persona que estudia literatura o trabaja enseñando matemáticas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 y 3"
+      },
+      {
+        "id": "B",
+        "text": "1 y 7"
+      },
+      {
+        "id": "C",
+        "text": "3 y 7"
+      },
+      {
+        "id": "D",
+        "text": "4 y 5"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Literatura sola corresponde al sector 7 y matemáticas sola al sector 1; la opción que incluye ambos sectores es 1 y 7.",
+    "assets": [
+      {
+        "src": "/assets/cognitive/COG-DIA-001.svg",
+        "description": "Diagrama de Venn de tres círculos superpuestos. A (izquierda) representa matemáticas, B (derecha) astronomía y C (abajo) literatura. Sectores: 1 solo A, 2 A∩B sin C, 3 solo B, 4 A∩C sin B, 5 A∩B∩C, 6 B∩C sin A y 7 solo C."
+      }
+    ]
+  },
+  {
+    "id": "COG-DIA-017",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "sets",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un curso en el que se aprenderá a hacer cálculos que luego se aplicarán a la teoría del movimiento de los astros se ubica en los sectores",
+    "options": [
+      {
+        "id": "A",
+        "text": "1 y 3"
+      },
+      {
+        "id": "B",
+        "text": "1 y 7"
+      },
+      {
+        "id": "C",
+        "text": "3 y 7"
+      },
+      {
+        "id": "D",
+        "text": "4 y 7"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "El curso combina matemáticas y astronomía; los sectores pertinentes son el área solo de matemáticas (1) y solo de astronomía (3) según el planteamiento del ejercicio.",
+    "assets": [
+      {
+        "src": "/assets/cognitive/COG-DIA-001.svg",
+        "description": "Diagrama de Venn de tres círculos superpuestos. A (izquierda) representa matemáticas, B (derecha) astronomía y C (abajo) literatura. Sectores: 1 solo A, 2 A∩B sin C, 3 solo B, 4 A∩C sin B, 5 A∩B∩C, 6 B∩C sin A y 7 solo C."
+      }
+    ]
+  },
+  {
+    "id": "COG-DIA-018",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "sets",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En un curso se estudiarán las teorías del movimiento de los astros y su influencia en la literatura de la época. El curso se ubica en el sector",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La combinación de astronomía y literatura, sin matemáticas, corresponde a la intersección B∩C, sector 6.",
+    "assets": [
+      {
+        "src": "/assets/cognitive/COG-DIA-001.svg",
+        "description": "Diagrama de Venn de tres círculos superpuestos. A (izquierda) representa matemáticas, B (derecha) astronomía y C (abajo) literatura. Sectores: 1 solo A, 2 A∩B sin C, 3 solo B, 4 A∩C sin B, 5 A∩B∩C, 6 B∩C sin A y 7 solo C."
+      }
+    ]
+  },
+  {
+    "id": "COG-DIA-019",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "sets",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "El curso en que se aprenderá la métrica de la poesía utilizando cálculos numéricos se ubica en el sector",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "5"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La métrica de la poesía combina literatura y matemáticas; la intersección A∩C sin astronomía es el sector 4.",
+    "assets": [
+      {
+        "src": "/assets/cognitive/COG-DIA-001.svg",
+        "description": "Diagrama de Venn de tres círculos superpuestos. A (izquierda) representa matemáticas, B (derecha) astronomía y C (abajo) literatura. Sectores: 1 solo A, 2 A∩B sin C, 3 solo B, 4 A∩C sin B, 5 A∩B∩C, 6 B∩C sin A y 7 solo C."
+      }
+    ]
+  }
+]

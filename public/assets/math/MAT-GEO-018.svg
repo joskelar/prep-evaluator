@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+<title id="title">Figura 4: círculo con triángulo inscrito</title>
+<desc id="desc">Círculo con centro Q; A y B son extremos de un diámetro oblicuo y C está en la parte superior izquierda.</desc>
+<rect width="100%" height="100%" fill="white"/>
+
+<g fill="none" stroke="#111" stroke-width="4">
+<circle cx="450" cy="315" r="210"/>
+<line x1="622.0" y1="435.5" x2="278.0" y2="194.5"/>
+<line x1="622.0" y1="435.5" x2="278.0" y2="435.5"/>
+<line x1="278.0" y1="194.5" x2="278.0" y2="435.5"/>
+</g>
+<circle cx="450" cy="315" r="5.5" fill="#111"/>
+<text x="638.0" y="455.5" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">A</text>
+<text x="248.0" y="202.5" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">B</text>
+<text x="253.0" y="423.5" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">C</text>
+<text x="462.0" y="305.0" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">Q</text>
+</svg>

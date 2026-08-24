@@ -1,0 +1,310 @@
+[
+  {
+    "id": "MAT-ALG-016",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "algebraic_expressions",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Si k representa la edad de Julio en años,  \n¿qué representa k – 3 ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La edad de Julio dentro de 3 años"
+      },
+      {
+        "id": "B",
+        "text": "La edad de Julio hace 3 años"
+      },
+      {
+        "id": "C",
+        "text": "Tres veces la edad de Julio"
+      },
+      {
+        "id": "D",
+        "text": "Un tercio de la edad de Julio"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) La edad de Julio hace 3 años. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-ALG-017",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "factorization",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la factorización del polinomio x2 – 2x – 15 ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "(x + 5)(x – 3)"
+      },
+      {
+        "id": "B",
+        "text": "(x – 2)(x – 15)"
+      },
+      {
+        "id": "C",
+        "text": "(x – 5)(x + 3)"
+      },
+      {
+        "id": "D",
+        "text": "(x + 2)(x – 15)"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) (x – 5)(x + 3). Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-ALG-018",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "inequalities_one_variable",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la solución de 4(x – 3) < 2x – 2 ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "x < 1"
+      },
+      {
+        "id": "B",
+        "text": "x < 5"
+      },
+      {
+        "id": "C",
+        "text": "x < 6"
+      },
+      {
+        "id": "D",
+        "text": "x < 7"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) x < 5. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-ALG-019",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "cartesian_plane",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En la figura anterior, PQ  es paralela al eje de x, QR  \nes paralela al eje de y, PE = QE, QF = RF, la distancia \nentre P y Q es 5 y la distancia entre Q y R es 6. Halle \nlas coordenadas del punto R.",
+    "options": [
+      {
+        "id": "A",
+        "text": "R = −\n−\n3\n5\n2\n,"
+      },
+      {
+        "id": "B",
+        "text": "R = −\n−\n5\n2\n3\n,"
+      },
+      {
+        "id": "C",
+        "text": "R = −5\n2 3\n,"
+      },
+      {
+        "id": "D",
+        "text": "R =\n−\n5\n2\n3\n,"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) R = − − 5 2 3 ,. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado.",
+    "assets": [
+      {
+        "src": "/assets/math/practice-exam-q12.svg",
+        "description": "Plano cartesiano con puntos P,Q,R,E,F; PQ horizontal, QR vertical, PE=QE y QF=RF; incluir las coordenadas/etiquetas visibles."
+      }
+    ]
+  },
+  {
+    "id": "MAT-ALG-020",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "functions_graphs",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Si f (x) = 1 – x2, halle f (3 + k).",
+    "options": [
+      {
+        "id": "A",
+        "text": "–8 – 6k – k2"
+      },
+      {
+        "id": "B",
+        "text": "–8 + 6k – k2"
+      },
+      {
+        "id": "C",
+        "text": "–8 – 6k + k2"
+      },
+      {
+        "id": "D",
+        "text": "–8 + 6k + k2\n\n3 23"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) –8 – 6k – k2. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-ALG-021",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "algebraic_expressions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En la figura anterior, el radio x del círculo más \npequeño es uno menos que el radio del círculo \nmás grande. ¿Cuál de las siguientes expresiones \nrepresenta la diferencia en áreas entre ambos \ncírculos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "π(2x + 1)"
+      },
+      {
+        "id": "B",
+        "text": "π(x2 + 2x + 1)"
+      },
+      {
+        "id": "C",
+        "text": "π(x2 + 1)"
+      },
+      {
+        "id": "D",
+        "text": "π(x + 1)"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) π(2x + 1). Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado.",
+    "assets": [
+      {
+        "src": "/assets/math/practice-exam-q14.svg",
+        "description": "Dos círculos de radios consecutivos: el pequeño tiene radio x y el grande radio x+1."
+      }
+    ]
+  },
+  {
+    "id": "MAT-ALG-022",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "quadratic_equations",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En la figura anterior, el área del cuadrado grande es \n20 cm2 más que la del cuadrado pequeño. Halle las \nlongitudes de los lados de ambos cuadrados.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2  y  8"
+      },
+      {
+        "id": "B",
+        "text": "4  y  6"
+      },
+      {
+        "id": "C",
+        "text": "3  y  7"
+      },
+      {
+        "id": "D",
+        "text": "5  y  5"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) 4  y  6. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado.",
+    "assets": [
+      {
+        "src": "/assets/math/practice-exam-q15.svg",
+        "description": "Dos cuadrados, uno grande y uno pequeño, cuyas áreas difieren en 20 cm²; incluir las etiquetas de lado de la figura original."
+      }
+    ]
+  },
+  {
+    "id": "MAT-ALG-023",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "algebraic_expressions",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "La ecuación t\nd\n=\n2\n9  representa el tiempo \naproximado t, en segundos, que toma un objeto en \ncaer una cierta distancia d, en metros. Si se deja caer \nun objeto desde una altura de 16 metros, ¿cuántos \nsegundos tardará en llegar al suelo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4 2\n3"
+      },
+      {
+        "id": "B",
+        "text": "8\n3"
+      },
+      {
+        "id": "C",
+        "text": "2 2\n3"
+      },
+      {
+        "id": "D",
+        "text": "4\n3"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) 4 2 3. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-ALG-024",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "algebraic_expressions",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Si la longitud de un rectángulo aumenta un 20 % y su \nancho aumenta un 60 %, ¿de cuánto es el aumento en \nel área?",
+    "options": [
+      {
+        "id": "A",
+        "text": "40 %"
+      },
+      {
+        "id": "B",
+        "text": "80 %"
+      },
+      {
+        "id": "C",
+        "text": "92 %"
+      },
+      {
+        "id": "D",
+        "text": "120 %"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) 92 %. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-ALG-025",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "linear_equations_one_variable",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Dos carros salen a la misma hora desde el mismo \nlugar y viajan en direcciones opuestas. Luego de \n4 horas, están a 240 millas de distancia. Si uno de \nlos carros viaja 6 millas por hora más rápido que el \notro, ¿a qué velocidades, en millas por hora, van los \ncarros?",
+    "options": [
+      {
+        "id": "A",
+        "text": "27  y  33"
+      },
+      {
+        "id": "B",
+        "text": "30  y  33"
+      },
+      {
+        "id": "C",
+        "text": "45  y  51"
+      },
+      {
+        "id": "D",
+        "text": "50  y  56"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) 27  y  33. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  }
+]

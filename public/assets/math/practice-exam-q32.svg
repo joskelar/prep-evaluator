@@ -1,0 +1,22 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="640" viewBox="0 0 900 640" role="img" aria-labelledby="title desc">
+<title id="title">Libros de Isaac</title>
+<desc id="desc">Gráfica circular de libros de Isaac. Detectives 6; ficción 3; drama, historia y arte tienen la misma cantidad, 3 cada uno.</desc>
+<rect width="100%" height="100%" fill="white"/>
+
+<path d="M 360,325 L 360.00,110.00 A 215,215 0 0 1 546.20,432.50 Z" fill="#d0d0d0" stroke="#111" stroke-width="2"/>
+<text x="477.3" y="257.3" text-anchor="middle" dominant-baseline="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">Detectives</text>
+<text x="477.3" y="279.3" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17">6</text>
+<path d="M 360,325 L 546.20,432.50 A 215,215 0 0 1 360.00,540.00 Z" fill="#eeeeee" stroke="#111" stroke-width="2"/>
+<text x="427.7" y="442.3" text-anchor="middle" dominant-baseline="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">Ficción</text>
+<text x="427.7" y="464.3" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17">3</text>
+<path d="M 360,325 L 360.00,540.00 A 215,215 0 0 1 173.80,432.50 Z" fill="#bcbcbc" stroke="#111" stroke-width="2"/>
+<text x="292.3" y="442.3" text-anchor="middle" dominant-baseline="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">Drama</text>
+<text x="292.3" y="464.3" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17">3</text>
+<path d="M 360,325 L 173.80,432.50 A 215,215 0 0 1 173.80,217.50 Z" fill="#f7f7f7" stroke="#111" stroke-width="2"/>
+<text x="224.6" y="325.0" text-anchor="middle" dominant-baseline="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">Historia</text>
+<text x="224.6" y="347.0" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17">3</text>
+<path d="M 360,325 L 173.80,217.50 A 215,215 0 0 1 360.00,110.00 Z" fill="#9f9f9f" stroke="#111" stroke-width="2"/>
+<text x="292.3" y="207.7" text-anchor="middle" dominant-baseline="middle" font-family="Arial,Helvetica,sans-serif" font-size="18" font-weight="700">Arte</text>
+<text x="292.3" y="229.7" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="17">3</text>
+<text x="360" y="55" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">Libros de Isaac</text>
+</svg>

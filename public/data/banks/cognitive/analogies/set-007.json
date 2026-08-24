@@ -1,0 +1,60 @@
+[
+  {
+    "id": "COG-ANA-001",
+    "area": "cognitive",
+    "category": "analogies",
+    "subcategory": "conceptual_analogy",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es un ejemplo de analogía?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Organizar el tiempo requiere disciplina constante"
+      },
+      {
+        "id": "B",
+        "text": "El cerebro es como un músculo; se fortalece con práctica"
+      },
+      {
+        "id": "C",
+        "text": "Todos los mamíferos respiran"
+      },
+      {
+        "id": "D",
+        "text": "Si estudio, apruebo"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Una analogía establece una relación estructural entre dos situaciones distintas para explicar una idea. Comparar el cerebro con un músculo permite comprender su funcionamiento mediante una relación explicativa."
+  },
+  {
+    "id": "COG-ANA-002",
+    "area": "cognitive",
+    "category": "analogies",
+    "subcategory": "conceptual_analogy",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Si alguien compara organizar un proyecto con armar un rompecabezas, está utilizando:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Relación causa–efecto"
+      },
+      {
+        "id": "B",
+        "text": "Memoria"
+      },
+      {
+        "id": "C",
+        "text": "Analogía"
+      },
+      {
+        "id": "D",
+        "text": "Generalización"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Comparar organizar un proyecto con armar un rompecabezas implica establecer una relación estructural entre dos situaciones distintas para explicar una idea. Respuesta 19: F-V-F Una analogía es un tipo específico de comparación que busca explicar una idea mediante otra con estructura similar. Sin embargo, no toda comparación es una analogía, ya que muchas comparaciones solo describen semejanzas o diferencias sin intención explicativa profunda."
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "id": "COG-TRN-001",
+    "area": "cognitive",
+    "category": "logical_transformations",
+    "subcategory": "letters",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "La opción que indica que T está al lado de R, R está antes que P y P está antes que S es",
+    "options": [
+      {
+        "id": "A",
+        "text": "T, R, P, S."
+      },
+      {
+        "id": "B",
+        "text": "R, P, S, T."
+      },
+      {
+        "id": "C",
+        "text": "T, R, S, P."
+      },
+      {
+        "id": "D",
+        "text": "P, S, R, T."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "T debe quedar junto a R; además R debe preceder a P y P a S. El único orden que cumple las tres condiciones es T, R, P, S."
+  },
+  {
+    "id": "COG-TRN-002",
+    "area": "cognitive",
+    "category": "logical_transformations",
+    "subcategory": "numbers",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "La opción en la que 8 va después de 4 y entre 9 y 11, y 4 va entre 9 y 8 es",
+    "options": [
+      {
+        "id": "A",
+        "text": "9, 4, 11, 8."
+      },
+      {
+        "id": "B",
+        "text": "9, 4, 8, 11."
+      },
+      {
+        "id": "C",
+        "text": "4, 9, 8, 11."
+      },
+      {
+        "id": "D",
+        "text": "4, 8, 11, 9."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Para que 4 esté entre 9 y 8 debe aparecer 9, 4, 8; como 8 también está entre 9 y 11, el orden compatible es 9, 4, 8, 11."
+  },
+  {
+    "id": "COG-TRN-003",
+    "area": "cognitive",
+    "category": "logical_transformations",
+    "subcategory": "numbers",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "La opción que indica que 27 va después de 32, pero antes que 16 y 8, cuando 16 va después de 8, es",
+    "options": [
+      {
+        "id": "A",
+        "text": "8, 16, 32, 27."
+      },
+      {
+        "id": "B",
+        "text": "32, 27, 8, 16."
+      },
+      {
+        "id": "C",
+        "text": "27, 32, 8, 16."
+      },
+      {
+        "id": "D",
+        "text": "8, 32, 27, 16."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Las condiciones exigen 32 antes de 27; 27 antes de 8 y 16; y 8 antes de 16. Esto produce 32, 27, 8, 16."
+  }
+]

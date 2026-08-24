@@ -1,0 +1,89 @@
+[
+  {
+    "id": "COG-CON-031",
+    "area": "cognitive",
+    "category": "conditional_reasoning",
+    "subcategory": "premises",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Todos los atletas son fuertes. Todos mis hermanos son atletas. Por lo tanto, todos",
+    "options": [
+      {
+        "id": "A",
+        "text": "los fuertes son atletas."
+      },
+      {
+        "id": "B",
+        "text": "los atletas son mis hermanos."
+      },
+      {
+        "id": "C",
+        "text": "mis hermanos son fuertes."
+      },
+      {
+        "id": "D",
+        "text": "los fuertes son mis hermanos."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Si todos los hermanos pertenecen al conjunto de atletas y todos los atletas son fuertes, entonces todos los hermanos son fuertes."
+  },
+  {
+    "id": "COG-CON-032",
+    "area": "cognitive",
+    "category": "conditional_reasoning",
+    "subcategory": "premises",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Todos los ciudadanos responsables son cooperadores. Algunos vecinos son ciudadanos responsables. Por lo tanto,",
+    "options": [
+      {
+        "id": "A",
+        "text": "todos los vecinos son cooperadores."
+      },
+      {
+        "id": "B",
+        "text": "algunos vecinos son cooperadores."
+      },
+      {
+        "id": "C",
+        "text": "ningún vecino es cooperador."
+      },
+      {
+        "id": "D",
+        "text": "ningún ciudadano es cooperador."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Los vecinos que son ciudadanos responsables pertenecen también al conjunto de cooperadores; por tanto, algunos vecinos son cooperadores."
+  },
+  {
+    "id": "COG-CON-033",
+    "area": "cognitive",
+    "category": "conditional_reasoning",
+    "subcategory": "premises",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Si todos los atletas llevan una dieta rigurosa, entonces",
+    "options": [
+      {
+        "id": "A",
+        "text": "todos los que llevan una dieta rigurosa son atletas."
+      },
+      {
+        "id": "B",
+        "text": "algunos atletas no llevan una dieta rigurosa."
+      },
+      {
+        "id": "C",
+        "text": "Roberto lleva una dieta rigurosa y, por lo tanto, tiene que ser atleta."
+      },
+      {
+        "id": "D",
+        "text": "todo atleta lleva una dieta rigurosa."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La premisa afirma directamente que pertenecer al conjunto de atletas implica llevar una dieta rigurosa."
+  }
+]

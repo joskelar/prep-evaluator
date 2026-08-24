@@ -1,0 +1,302 @@
+[
+  {
+    "id": "SPA-REA-019",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "El narrador de la lectura es",
+    "options": [
+      {
+        "id": "A",
+        "text": "testigo."
+      },
+      {
+        "id": "B",
+        "text": "observador."
+      },
+      {
+        "id": "C",
+        "text": "antagonista."
+      },
+      {
+        "id": "D",
+        "text": "protagonista."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) observador.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-PASS-003"
+  },
+  {
+    "id": "SPA-REA-020",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "vocabulary_in_context",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En la lectura, la palabra “fines” (línea 8) significa",
+    "options": [
+      {
+        "id": "A",
+        "text": "finales."
+      },
+      {
+        "id": "B",
+        "text": "límites."
+      },
+      {
+        "id": "C",
+        "text": "extremos."
+      },
+      {
+        "id": "D",
+        "text": "propósitos."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) propósitos.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-PASS-003"
+  },
+  {
+    "id": "SPA-REA-021",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "literary_devices",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "La expresión “Pero la pobre vasija agrietada estaba \navergonzada” (línea 9) contiene",
+    "options": [
+      {
+        "id": "A",
+        "text": "un símil."
+      },
+      {
+        "id": "B",
+        "text": "una metáfora."
+      },
+      {
+        "id": "C",
+        "text": "una hipérbole."
+      },
+      {
+        "id": "D",
+        "text": "una personificación."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) una personificación.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-PASS-003"
+  },
+  {
+    "id": "SPA-REA-022",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "discourse_or_genre",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "La lectura anterior es un",
+    "options": [
+      {
+        "id": "A",
+        "text": "drama."
+      },
+      {
+        "id": "B",
+        "text": "cuento."
+      },
+      {
+        "id": "C",
+        "text": "ensayo."
+      },
+      {
+        "id": "D",
+        "text": "artículo."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) cuento.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-PASS-003"
+  },
+  {
+    "id": "SPA-REA-023",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "implicit_information",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En la lectura, la vasija agrietada se sentía",
+    "options": [
+      {
+        "id": "A",
+        "text": "despreciada."
+      },
+      {
+        "id": "B",
+        "text": "importante."
+      },
+      {
+        "id": "C",
+        "text": "inservible."
+      },
+      {
+        "id": "D",
+        "text": "aburrida.\n(5)\n(10)\n(15)\n(20)\n(25)\n(30)"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) inservible.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-PASS-003"
+  },
+  {
+    "id": "SPA-REA-024",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "vocabulary_in_context",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En la lectura, la palabra “disponen” (línea 26) \nsignifica",
+    "options": [
+      {
+        "id": "A",
+        "text": "organizan."
+      },
+      {
+        "id": "B",
+        "text": "preparan."
+      },
+      {
+        "id": "C",
+        "text": "poseen."
+      },
+      {
+        "id": "D",
+        "text": "colocan."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) poseen.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-PASS-004"
+  },
+  {
+    "id": "SPA-REA-025",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "explicit_information",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es el tiempo MÍNIMO de una órbita alrededor \ndel Sol que se menciona en la lectura?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10 horas"
+      },
+      {
+        "id": "B",
+        "text": "17.24 horas"
+      },
+      {
+        "id": "C",
+        "text": "12 años"
+      },
+      {
+        "id": "D",
+        "text": "164 años"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) 12 años. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-PASS-004"
+  },
+  {
+    "id": "SPA-REA-026",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "explicit_information",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Según la lectura, ¿cuál de las siguientes afirmaciones \nes FALSA?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El diámetro de Júpiter es poco más de once \nveces el tamaño de la Tierra."
+      },
+      {
+        "id": "B",
+        "text": "Los astrónomos no están seguros del número \nexacto de lunas de Saturno."
+      },
+      {
+        "id": "C",
+        "text": "La sonda espacial Cassini ya no funciona."
+      },
+      {
+        "id": "D",
+        "text": "Neptuno fue descubierto antes que Urano.\n(5)\n(10)\n(15)\n(20)\n(25)\n(30)\n(35)\n(40)\n(45)\n(50)"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) Neptuno fue descubierto antes que Urano. (5) (10) (15) (20) (25) (30) (35) (40) (45) (50). Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-PASS-004"
+  },
+  {
+    "id": "SPA-REA-027",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "De acuerdo con la lectura, ¿qué se puede concluir \nsobre los planetas gigantes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sin el telescopio, no habríamos descubierto \nninguno de estos planetas."
+      },
+      {
+        "id": "B",
+        "text": "Los elementos más comunes en estos planetas \nson hidrógeno, helio y agua."
+      },
+      {
+        "id": "C",
+        "text": "El colorido de estos planetas impide conocer \nmejor lo que ocurre en la superficie."
+      },
+      {
+        "id": "D",
+        "text": "Parte del conocimiento sobre estos planetas es \nreciente y falta mucho por descubrir."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) Parte del conocimiento sobre estos planetas es  reciente y falta mucho por descubrir.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-PASS-004"
+  },
+  {
+    "id": "SPA-REA-028",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "title",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Seleccione el MEJOR título para la lectura anterior.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Júpiter: el más grande de los planetas"
+      },
+      {
+        "id": "B",
+        "text": "Las sondas espaciales y los planetas"
+      },
+      {
+        "id": "C",
+        "text": "Los planetas gigantes: datos principales"
+      },
+      {
+        "id": "D",
+        "text": "El descubrimiento de los planetas gigantes"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) Los planetas gigantes: datos principales. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-PASS-004"
+  }
+]

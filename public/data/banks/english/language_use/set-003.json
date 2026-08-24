@@ -1,0 +1,379 @@
+[
+  {
+    "id": "ENG-LAN-024",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "comparatives_superlatives",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Between Mary, Nancy, and Lucy, I think Nancy’s cooking is the ___.",
+    "options": [
+      {
+        "id": "A",
+        "text": "goodest"
+      },
+      {
+        "id": "B",
+        "text": "more good"
+      },
+      {
+        "id": "C",
+        "text": "most best"
+      },
+      {
+        "id": "D",
+        "text": "best"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "For three people, the superlative form of «good» is «best»."
+  },
+  {
+    "id": "ENG-LAN-025",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "verbs",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Mrs. Rivera ___ a terrible cold.",
+    "options": [
+      {
+        "id": "A",
+        "text": "has"
+      },
+      {
+        "id": "B",
+        "text": "have"
+      },
+      {
+        "id": "C",
+        "text": "is"
+      },
+      {
+        "id": "D",
+        "text": "were"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The singular subject «Mrs. Rivera» takes «has»."
+  },
+  {
+    "id": "ENG-LAN-026",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "sentence_structure",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      {
+        "id": "A",
+        "text": "To Pedro I will call early in the morning."
+      },
+      {
+        "id": "B",
+        "text": "I will call Pedro early in the morning."
+      },
+      {
+        "id": "C",
+        "text": "In the morning early will I call Pedro."
+      },
+      {
+        "id": "D",
+        "text": "I will call in the morning early to Pedro."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Standard English word order is subject + verb + object + adverbial phrase."
+  },
+  {
+    "id": "ENG-LAN-027",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "determiners",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "___ boats in the river look very dim.",
+    "options": [
+      {
+        "id": "A",
+        "text": "That"
+      },
+      {
+        "id": "B",
+        "text": "Those"
+      },
+      {
+        "id": "C",
+        "text": "This"
+      },
+      {
+        "id": "D",
+        "text": "Them"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "«Boats» is plural, so the demonstrative determiner must be «Those»."
+  },
+  {
+    "id": "ENG-LAN-028",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "sentence_structure",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Choose the correct sentence.",
+    "options": [
+      {
+        "id": "A",
+        "text": "The boy sits next to me."
+      },
+      {
+        "id": "B",
+        "text": "The boys sits next to me."
+      },
+      {
+        "id": "C",
+        "text": "The girls sits next to me."
+      },
+      {
+        "id": "D",
+        "text": "The boys and girls sits next to me."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The singular subject «The boy» correctly agrees with the singular verb form «sits»."
+  },
+  {
+    "id": "ENG-LAN-029",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "connectors",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "He not only ran quickly but he ___ won the event.",
+    "options": [
+      {
+        "id": "A",
+        "text": "still"
+      },
+      {
+        "id": "B",
+        "text": "either"
+      },
+      {
+        "id": "C",
+        "text": "neither"
+      },
+      {
+        "id": "D",
+        "text": "also"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The correlative construction is «not only … but also»."
+  },
+  {
+    "id": "ENG-LAN-030",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "questions_requests",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "___ far is the bus-stop?",
+    "options": [
+      {
+        "id": "A",
+        "text": "What"
+      },
+      {
+        "id": "B",
+        "text": "How"
+      },
+      {
+        "id": "C",
+        "text": "When"
+      },
+      {
+        "id": "D",
+        "text": "Where"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Distance is asked with «How far…?»."
+  },
+  {
+    "id": "ENG-LAN-032",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "verbs",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "I thought you had ___ the shortest route!",
+    "options": [
+      {
+        "id": "A",
+        "text": "took"
+      },
+      {
+        "id": "B",
+        "text": "take"
+      },
+      {
+        "id": "C",
+        "text": "taking"
+      },
+      {
+        "id": "D",
+        "text": "taken"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "After «had», the past participle is required: «had taken»."
+  },
+  {
+    "id": "ENG-LAN-033",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "questions_requests",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Which is the CORRECT question?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Your uncle is an intelligent person?"
+      },
+      {
+        "id": "B",
+        "text": "An intelligent person is your uncle?"
+      },
+      {
+        "id": "C",
+        "text": "Is your uncle an intelligent person?"
+      },
+      {
+        "id": "D",
+        "text": "Your uncle an intelligent person is?"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "A yes/no question with «be» inverts verb and subject: «Is your uncle…?»"
+  },
+  {
+    "id": "ENG-LAN-034",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "pronouns",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "___ are studying English this semester.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Them"
+      },
+      {
+        "id": "B",
+        "text": "He"
+      },
+      {
+        "id": "C",
+        "text": "Your"
+      },
+      {
+        "id": "D",
+        "text": "We"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "A subject pronoun is required; «We» correctly functions as the subject."
+  },
+  {
+    "id": "ENG-LAN-036",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "determiners",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "___ brain controls all muscular movements of the body.",
+    "options": [
+      {
+        "id": "A",
+        "text": "A"
+      },
+      {
+        "id": "B",
+        "text": "The"
+      },
+      {
+        "id": "C",
+        "text": "An"
+      },
+      {
+        "id": "D",
+        "text": "Some"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The sentence refers to the brain as the specific organ controlling movements, so «The» is appropriate."
+  },
+  {
+    "id": "ENG-LAN-037",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "sentence_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Which of the following sentences is in the CORRECT order?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Are you sure about this information?"
+      },
+      {
+        "id": "B",
+        "text": "You sure are about this information?"
+      },
+      {
+        "id": "C",
+        "text": "About this information are sure you?"
+      },
+      {
+        "id": "D",
+        "text": "Sure are you about this information?"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The grammatical interrogative order is «Are you sure about this information?»"
+  },
+  {
+    "id": "ENG-LAN-038",
+    "area": "english",
+    "category": "language_use",
+    "subcategory": "adjectives",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "I’ll bring the ___.",
+    "options": [
+      {
+        "id": "A",
+        "text": "blue small cotton umbrella"
+      },
+      {
+        "id": "B",
+        "text": "cotton umbrella, blue, small"
+      },
+      {
+        "id": "C",
+        "text": "umbrella cotton blue small"
+      },
+      {
+        "id": "D",
+        "text": "small blue cotton umbrella"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "English adjective order places size before color and material: «small blue cotton umbrella»."
+  }
+]

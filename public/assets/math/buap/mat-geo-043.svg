@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="650" viewBox="0 0 950 650" role="img" aria-labelledby="title desc">
+<title id="title">Triángulo semejante con DE paralelo a AC</title>
+<desc id="desc">Triángulo ABC con AB horizontal de 6 cm, AC vertical de 10 cm, D sobre AB con AD igual a un cuarto de AB y DE paralelo a AC.</desc>
+<rect width="100%" height="100%" fill="white"/>
+
+<g fill="none" stroke="#111" stroke-width="4">
+<polygon points="230,500 700,500 230,120"/>
+<line x1="347.5" y1="500" x2="347.5" y2="215.0"/>
+</g>
+<text x="202.0" y="528.0" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">A</text>
+<text x="712.0" y="528.0" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">B</text>
+<text x="202.0" y="112.0" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">C</text>
+<text x="339.5" y="530.0" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">D</text>
+<text x="359.5" y="220.0" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">E</text>
+<text x="465" y="540" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="26">AB = 6 cm</text>
+<text x="150" y="315" transform="rotate(-90 150 315)" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="26">AC = 10 cm</text>
+<text x="292" y="475" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22">AD = ¼ AB</text>
+</svg>

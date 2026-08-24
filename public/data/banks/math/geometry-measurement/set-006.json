@@ -1,0 +1,245 @@
+[
+  {
+    "id": "MAT-GEO-043",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "congruence_similarity",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En el triángulo de la figura, AC = 10 cm, AB = 6 cm y AD = 1/4 de AB. Si DE es paralelo a AC, ¿cuánto mide DE?",
+    "options": [
+      {
+        "id": "A",
+        "text": "7.5 cm"
+      },
+      {
+        "id": "B",
+        "text": "5 cm"
+      },
+      {
+        "id": "C",
+        "text": "8.5 cm"
+      },
+      {
+        "id": "D",
+        "text": "7 cm"
+      },
+      {
+        "id": "E",
+        "text": "10 cm"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "AD=1.5 y DB=4.5. Por semejanza, DE/AC=DB/AB=0.75; DE=7.5 cm.",
+    "assets": [
+      {
+        "src": "/assets/math/buap/mat-geo-043.svg",
+        "description": "Triángulo ABC con AB horizontal de 6 cm y AC vertical de 10 cm. Punto D sobre AB tal que AD = 1/4 de AB. Punto E sobre CB y segmento DE vertical paralelo a AC. Etiquetar A inferior izquierdo, B inferior derecho, C superior izquierdo, D sobre AB y E sobre CB."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-044",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "angles_triangles",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "En el triángulo de la figura, ∠A = 2x+1, ∠B = x+2 y ∠C = 5x+7. ¿Cuánto mide el ángulo suplementario de C?",
+    "options": [
+      {
+        "id": "A",
+        "text": "21.25°"
+      },
+      {
+        "id": "B",
+        "text": "113.25°"
+      },
+      {
+        "id": "C",
+        "text": "29°"
+      },
+      {
+        "id": "D",
+        "text": "66.75°"
+      },
+      {
+        "id": "E",
+        "text": "180°"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "8x+10=180, así x=21.25; ∠C=113.25° y su suplementario es 66.75°.",
+    "assets": [
+      {
+        "src": "/assets/math/buap/mat-geo-044.svg",
+        "description": "Triángulo ABC con ∠A=2x+1, ∠B=x+2 y ∠C=5x+7. La base BC se prolonga hacia F para mostrar el ángulo suplementario exterior de C."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-045",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "solids",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Un cubo tiene aristas de 5 cm. ¿Cuál es el área superficial total del cubo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "125 cm²"
+      },
+      {
+        "id": "B",
+        "text": "150 cm²"
+      },
+      {
+        "id": "C",
+        "text": "100 cm²"
+      },
+      {
+        "id": "D",
+        "text": "25 cm²"
+      },
+      {
+        "id": "E",
+        "text": "300 cm²"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Cada cara mide 25 cm² y hay 6 caras: 150 cm²."
+  },
+  {
+    "id": "MAT-GEO-046",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "volume",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Una pirámide cuadrangular tiene base cuadrada de lado 8 cm y altura 9 cm. ¿Cuál es su volumen?",
+    "options": [
+      {
+        "id": "A",
+        "text": "192 cm³"
+      },
+      {
+        "id": "B",
+        "text": "144 cm³"
+      },
+      {
+        "id": "C",
+        "text": "216 cm³"
+      },
+      {
+        "id": "D",
+        "text": "72 cm³"
+      },
+      {
+        "id": "E",
+        "text": "576 cm³"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "V=(1/3)(8×8)(9)=192 cm³."
+  },
+  {
+    "id": "MAT-GEO-047",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "volume",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un cilindro tiene radio 4 cm y altura 10 cm. ¿Cuál es su volumen?",
+    "options": [
+      {
+        "id": "A",
+        "text": "160π cm³"
+      },
+      {
+        "id": "B",
+        "text": "40π cm³"
+      },
+      {
+        "id": "C",
+        "text": "80π cm³"
+      },
+      {
+        "id": "D",
+        "text": "320π cm³"
+      },
+      {
+        "id": "E",
+        "text": "64π cm³"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "V=πr²h=π(16)(10)=160π cm³."
+  },
+  {
+    "id": "MAT-GEO-048",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "volume",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Un prisma rectangular tiene dimensiones 6 cm, 4 cm y 10 cm. ¿Cuál es su volumen?",
+    "options": [
+      {
+        "id": "A",
+        "text": "240 cm³"
+      },
+      {
+        "id": "B",
+        "text": "120 cm³"
+      },
+      {
+        "id": "C",
+        "text": "200 cm³"
+      },
+      {
+        "id": "D",
+        "text": "180 cm³"
+      },
+      {
+        "id": "E",
+        "text": "20 cm³"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "V=6×4×10=240 cm³."
+  },
+  {
+    "id": "MAT-GEO-049",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "angles_lines",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Dos rectas paralelas son cortadas por una transversal. Si un ángulo correspondiente mide 54°, ¿cuánto mide su ángulo adyacente lineal?",
+    "options": [
+      {
+        "id": "A",
+        "text": "54°"
+      },
+      {
+        "id": "B",
+        "text": "70°"
+      },
+      {
+        "id": "C",
+        "text": "126°"
+      },
+      {
+        "id": "D",
+        "text": "110°"
+      },
+      {
+        "id": "E",
+        "text": "180°"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Los ángulos adyacentes sobre una recta suman 180°; 180−54=126°."
+  }
+]

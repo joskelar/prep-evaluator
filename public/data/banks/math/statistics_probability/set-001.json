@@ -1,0 +1,107 @@
+[
+  {
+    "id": "MAT-STA-023",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "central_tendency",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Los puntajes de Sara en las pruebas de ciencia son 92, 85, 86 y 90. ¿Cuál es el puntaje mínimo que necesitaría en el examen final, cuyo valor máximo es 100, para tener un promedio de 90?",
+    "options": [
+      {
+        "id": "A",
+        "text": "90"
+      },
+      {
+        "id": "B",
+        "text": "92"
+      },
+      {
+        "id": "C",
+        "text": "95"
+      },
+      {
+        "id": "D",
+        "text": "97"
+      },
+      {
+        "id": "E",
+        "text": "100"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Para promedio 90 en cinco pruebas se necesitan 450 puntos. Los cuatro puntajes suman 353, así que necesita 450−353=97."
+  },
+  {
+    "id": "MAT-STA-024",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "event_probability",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En la figura 9, ¿cuál es la probabilidad de que al girar la ruleta una sola vez la flecha señale la región sombreada?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1/4"
+      },
+      {
+        "id": "B",
+        "text": "1/2"
+      },
+      {
+        "id": "C",
+        "text": "3/4"
+      },
+      {
+        "id": "D",
+        "text": "4/4"
+      },
+      {
+        "id": "E",
+        "text": "4/1"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La ruleta está dividida en cuatro regiones iguales y solo una está sombreada; la probabilidad es 1/4.",
+    "assets": [
+      {
+        "src": "/assets/math/MAT-STA-024.svg",
+        "description": "Ruleta circular dividida por dos diámetros perpendiculares en cuatro cuartos iguales. El cuadrante superior derecho está sombreado y una flecha apunta hacia el borde superior."
+      }
+    ]
+  },
+  {
+    "id": "MAT-STA-025",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "central_tendency",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En un torneo, María obtuvo 95, 85, 75, 90 y 100. ¿Cuál es la mediana de las puntuaciones?",
+    "options": [
+      {
+        "id": "A",
+        "text": "100"
+      },
+      {
+        "id": "B",
+        "text": "95"
+      },
+      {
+        "id": "C",
+        "text": "90"
+      },
+      {
+        "id": "D",
+        "text": "85"
+      },
+      {
+        "id": "E",
+        "text": "75"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Ordenando 75, 85, 90, 95, 100, el valor central es 90."
+  }
+]

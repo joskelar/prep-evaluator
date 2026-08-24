@@ -1,0 +1,302 @@
+[
+  {
+    "id": "SPA-WRI-026",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "punctuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes signos de puntuación debe \ncolocarse después de la palabra “electrónicos” en la \noración 1?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Coma (,)"
+      },
+      {
+        "id": "B",
+        "text": "Punto y coma (;)"
+      },
+      {
+        "id": "C",
+        "text": "Dos puntos (:)"
+      },
+      {
+        "id": "D",
+        "text": "Raya (—)"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) Coma (,). Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-DRAFT-003"
+  },
+  {
+    "id": "SPA-WRI-027",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "connectors",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la opción CORRECTA para sustituir a la \npalabra “pero” en la oración 2.",
+    "options": [
+      {
+        "id": "A",
+        "text": "o"
+      },
+      {
+        "id": "B",
+        "text": "y"
+      },
+      {
+        "id": "C",
+        "text": "sino"
+      },
+      {
+        "id": "D",
+        "text": "aunque"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) y. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-DRAFT-003"
+  },
+  {
+    "id": "SPA-WRI-028",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "redundancy",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué parte de la oración 4 se puede eliminar sin que \ncambie el significado?",
+    "options": [
+      {
+        "id": "A",
+        "text": "materiales"
+      },
+      {
+        "id": "B",
+        "text": "reutilizados"
+      },
+      {
+        "id": "C",
+        "text": "otra vez"
+      },
+      {
+        "id": "D",
+        "text": "productos"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) otra vez. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-DRAFT-003"
+  },
+  {
+    "id": "SPA-WRI-029",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "sentence_relationship",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la opción que MEJOR combina las \noraciones 6 y 7.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Las organizaciones comunitarias también \ncolaboran con negocios al detal de auspiciar \neventos de reciclaje."
+      },
+      {
+        "id": "B",
+        "text": "Las organizaciones comunitarias también \ncolaboran con negocios al detal, pero auspician \neventos de reciclaje."
+      },
+      {
+        "id": "C",
+        "text": "Las organizaciones comunitarias también \ncolaboran con negocios al detal para auspiciar \neventos de reciclaje."
+      },
+      {
+        "id": "D",
+        "text": "Las organizaciones comunitarias también \ncolaboran con negocios al detal; no obstante, \nauspician eventos de reciclaje."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) Las organizaciones comunitarias también  colaboran con negocios al detal para auspiciar  eventos de reciclaje.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-DRAFT-003"
+  },
+  {
+    "id": "SPA-WRI-030",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "precision",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la opción que MEJOR sustituye a la frase \n“cuántas cosas son recicladas” en la oración 8.",
+    "options": [
+      {
+        "id": "A",
+        "text": "cuántos enseres tecnológicos son reciclados"
+      },
+      {
+        "id": "B",
+        "text": "cuántos artículos eléctricos son reciclados"
+      },
+      {
+        "id": "C",
+        "text": "cuántos aparatos modernos son reciclados"
+      },
+      {
+        "id": "D",
+        "text": "cuántos efectos electrónicos son reciclados\nLos ejercicios del 33 al 37 se basan en el \nsiguiente texto:\n(1) Esta familia es muy diversa está conformada por más \nde 30 especies y sus integrantes están presentes en todos \nlos océanos del mundo así como en mares y ríos. (2) Los \ndelfines poseen un hocico alargado. (3) Tienen también \nuna cabeza con un orificio que utilizan para respirar. \n(4) Emiten sonidos, realizan movimientos los delfines \ndancísticos, para comunicarse, y saltan fuera del agua, \norientarse y capturar presas. (5) Su cuerpo alargado les \nda la habilidad de nadar con fluidez reducir la resistencia \ndel agua a los movimientos. (6) Se consideran uno de \nlos animales más inteligentes, puesto que su cerebro está \nbien desarrollado. (7) Las orcas son más grandes. (8) Por \nesto, los requieren tanto en parques de diversiones y en \nalgunas instituciones de salud donde ofrecen terapias en \nagua para niños y adultos."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) cuántos efectos electrónicos son reciclados Los ejercicios del 33 al 37 se basan en el  siguiente texto: (1) Esta familia es muy diversa está conformada por más  de 30 especies y sus integrantes están presentes en todos  los océanos del mundo así como en mares y ríos. (2) Los  delfines poseen un hocico alargado. (3) Tienen también  una cabeza con un orificio que utilizan para respirar.  (4) Emiten sonidos, realizan movimientos los delfines  dancísticos, para comunicarse, y saltan fuera del agua,  orientarse y capturar presas. (5) Su cuerpo alargado les  da la habilidad de nadar con fluidez reducir la resistencia  del agua a los movimientos. (6) Se consideran uno de  los animales más inteligentes, puesto que su cerebro está  bien desarrollado. (7) Las orcas son más grandes. (8) Por  esto, los requieren tanto en parques de diversiones y en  algunas instituciones de salud donde ofrecen terapias en  agua para niños y adultos.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-DRAFT-003"
+  },
+  {
+    "id": "SPA-WRI-031",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "opening_sentence",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las siguientes oraciones es la MÁS \nADECUADA para comenzar el texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los delfínidos, comúnmente llamados delfines \noceánicos, son parte de la familia de los cetáceos \ndentados."
+      },
+      {
+        "id": "B",
+        "text": "Los delfines con dientes pertenecen a una \nfamilia muy diversa que algunos conocen como \ndelfines oceánicos."
+      },
+      {
+        "id": "C",
+        "text": "Los delfínidos son cetáceos que tienen \ndientes, son parte de una familia y se conocen \ncomúnmente como delfines oceánicos."
+      },
+      {
+        "id": "D",
+        "text": "La familia de los cetáceos dentados incluye a \nlos delfines que podemos ver en los parques de \ndiversiones."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) Los delfínidos, comúnmente llamados delfines  oceánicos, son parte de la familia de los cetáceos  dentados.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-DRAFT-004"
+  },
+  {
+    "id": "SPA-WRI-032",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "punctuation",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la opción que MEJOR sustituye a la \noración 1.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Esta familia es muy diversa; está conformada \npor más de 30 especies y sus integrantes están \npresentes en todos los océanos del mundo; así \ncomo en mares y ríos."
+      },
+      {
+        "id": "B",
+        "text": "Esta familia es muy diversa: está conformada \npor más de 30 especies y sus integrantes están \npresentes en todos los océanos del mundo, así \ncomo en mares y ríos."
+      },
+      {
+        "id": "C",
+        "text": "Esta familia es muy diversa, está conformada \npor más de 30 especies, y sus integrantes están \npresentes en todos los océanos del mundo, así \ncomo en mares y ríos."
+      },
+      {
+        "id": "D",
+        "text": "Esta familia es muy diversa —está conformada \npor más de 30 especies y sus integrantes están \npresentes en todos los océanos del mundo—, así \ncomo en mares y ríos."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) Esta familia es muy diversa: está conformada  por más de 30 especies y sus integrantes están  presentes en todos los océanos del mundo, así  como en mares y ríos.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-DRAFT-004"
+  },
+  {
+    "id": "SPA-WRI-033",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "sentence_relationship",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las siguientes opciones combina MEJOR las \noraciones 2 y 3?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los delfines poseen un hocico alargado con una \ncabeza con un orificio que utilizan para respirar."
+      },
+      {
+        "id": "B",
+        "text": "Los delfines poseen un hocico alargado y una \ncabeza con un orificio que utilizan para respirar."
+      },
+      {
+        "id": "C",
+        "text": "Los delfines poseen un hocico alargado, pero \ntienen una cabeza con un orificio que utilizan \npara respirar."
+      },
+      {
+        "id": "D",
+        "text": "Los delfines poseen un hocico alargado, aunque \ntienen una cabeza con un orificio que utilizan \npara respirar."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) Los delfines poseen un hocico alargado y una  cabeza con un orificio que utilizan para respirar.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-DRAFT-004"
+  },
+  {
+    "id": "SPA-WRI-034",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "sentence_relationship",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las siguientes opciones sustituye MEJOR  \na la oración 4?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los delfines emiten sonidos, realizan \nmovimientos dancísticos y saltan fuera del agua \npara comunicarse, orientarse y capturar presas."
+      },
+      {
+        "id": "B",
+        "text": "Emiten los delfines sonidos y saltan fuera del \nagua, realizan movimientos dancísticos, para \ncomunicarse, orientarse y capturar presas."
+      },
+      {
+        "id": "C",
+        "text": "Los delfines dancísticos saltan fuera del agua \npara comunicarse, orientarse y capturar presas, \nemiten movimientos y realizan sonidos."
+      },
+      {
+        "id": "D",
+        "text": "Emiten sonidos y realizan movimientos \nlos delfines dancísticos, para comunicarse, \norientarse y saltan fuera del agua y capturar \npresas."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) Los delfines emiten sonidos, realizan  movimientos dancísticos y saltan fuera del agua  para comunicarse, orientarse y capturar presas.. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-DRAFT-004"
+  },
+  {
+    "id": "SPA-WRI-035",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "irrelevant_sentence",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la oración que guarda MENOS relación \ncon las demás.",
+    "options": [
+      {
+        "id": "A",
+        "text": "5"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "7"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) 7. Es la opción que cumple la regla lingüística o que está mejor sustentada por el texto del reactivo.",
+    "stimulus_id": "SPA-DRAFT-004"
+  }
+]

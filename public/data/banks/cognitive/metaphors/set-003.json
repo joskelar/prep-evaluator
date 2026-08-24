@@ -1,0 +1,118 @@
+[
+  {
+    "id": "COG-MET-012",
+    "area": "cognitive",
+    "category": "metaphors",
+    "subcategory": "general",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Llanto celeste",
+    "options": [
+      {
+        "id": "A",
+        "text": "rocío"
+      },
+      {
+        "id": "B",
+        "text": "estrella"
+      },
+      {
+        "id": "C",
+        "text": "nube"
+      },
+      {
+        "id": "D",
+        "text": "lluvia"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La lluvia es la imagen que mejor representa metafóricamente un «llanto» que proviene del cielo."
+  },
+  {
+    "id": "COG-MET-013",
+    "area": "cognitive",
+    "category": "metaphors",
+    "subcategory": "general",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Ojo de la casa",
+    "options": [
+      {
+        "id": "A",
+        "text": "ventana"
+      },
+      {
+        "id": "B",
+        "text": "televisor"
+      },
+      {
+        "id": "C",
+        "text": "balcón"
+      },
+      {
+        "id": "D",
+        "text": "puerta"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La ventana permite ver desde y hacia una casa, por lo que funciona metafóricamente como su «ojo»."
+  },
+  {
+    "id": "COG-MET-014",
+    "area": "cognitive",
+    "category": "metaphors",
+    "subcategory": "general",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Plumas del gato",
+    "options": [
+      {
+        "id": "A",
+        "text": "bigote"
+      },
+      {
+        "id": "B",
+        "text": "piel"
+      },
+      {
+        "id": "C",
+        "text": "pelos"
+      },
+      {
+        "id": "D",
+        "text": "patas"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Las plumas cubren el cuerpo de un ave del mismo modo que los pelos cubren el cuerpo de un gato."
+  },
+  {
+    "id": "COG-MET-015",
+    "area": "cognitive",
+    "category": "metaphors",
+    "subcategory": "general",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Panal humano",
+    "options": [
+      {
+        "id": "A",
+        "text": "ciudad"
+      },
+      {
+        "id": "B",
+        "text": "edificio"
+      },
+      {
+        "id": "C",
+        "text": "sociedad"
+      },
+      {
+        "id": "D",
+        "text": "muchedumbre"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Un panal reúne muchas unidades que viven y trabajan juntas; la imagen más cercana en el ámbito humano es un edificio con múltiples ocupantes."
+  }
+]

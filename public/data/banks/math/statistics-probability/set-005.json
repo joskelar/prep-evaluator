@@ -1,0 +1,245 @@
+[
+  {
+    "id": "MAT-STA-039",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "mean",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "La gráfica muestra el número de libros vendidos diariamente por una empresa durante una semana. ¿Cuál es la media aritmética?",
+    "options": [
+      {
+        "id": "A",
+        "text": "22"
+      },
+      {
+        "id": "B",
+        "text": "23"
+      },
+      {
+        "id": "C",
+        "text": "22.5"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La clave de la fuente marca 22; el cálculo depende de los valores de la gráfica original.",
+    "assets": [
+      {
+        "src": "assets/math/statistics_probability/mat-sta-039.png",
+        "description": "Gráfica de barras original del reactivo 4 con ventas diarias de libros durante una semana; reproducir ejes y valores exactamente."
+      }
+    ]
+  },
+  {
+    "id": "MAT-STA-040",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "rates",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En tres ciudades se registran población y casos activos: ciudad 1: 86,000 y 180; ciudad 2: 134,000 y 202; ciudad 3: 330,000 y 326. ¿En cuál es mayor la cifra de casos activos por cada 1,000 habitantes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "1"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Las tasas aproximadas son 0.99, 1.51 y 2.09 por mil para las ciudades 3, 2 y 1, respectivamente; la mayor es la ciudad 1."
+  },
+  {
+    "id": "MAT-STA-041",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "weighted_probability",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En un juego se utiliza un dado con el cual es 2 veces más probable que salga un número impar que uno par. ¿Cuál es la probabilidad de que salga el número 4?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1/9"
+      },
+      {
+        "id": "B",
+        "text": "1/18"
+      },
+      {
+        "id": "C",
+        "text": "1/6"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Asignando peso 2 a cada impar y 1 a cada par hay 9 unidades de probabilidad total; el 4 tiene peso 1, así que P(4)=1/9."
+  },
+  {
+    "id": "MAT-STA-042",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "classical_probability",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Al lanzar 2 dados, la probabilidad de que la suma sea 5 es _____ la probabilidad de que la suma sea 8.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mayor que"
+      },
+      {
+        "id": "B",
+        "text": "Menor que"
+      },
+      {
+        "id": "C",
+        "text": "Igual"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Hay 4 resultados que suman 5 y 5 resultados que suman 8; por tanto, P(suma 5) < P(suma 8)."
+  },
+  {
+    "id": "MAT-STA-043",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "tree_diagrams",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué diagrama de árbol representa correctamente las posibilidades de girar dos veces una ruleta con resultados Negro o Blanco?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Diagrama A"
+      },
+      {
+        "id": "B",
+        "text": "Diagrama B"
+      },
+      {
+        "id": "C",
+        "text": "Diagrama C"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Dos giros binarios producen cuatro secuencias: NN, NB, BN y BB. Sólo el diagrama C muestra las cuatro ramas.",
+    "assets": [
+      {
+        "src": "assets/math/statistics_probability/mat-sta-043.png",
+        "description": "Ruleta mitad negra/mitad blanca y tres diagramas de árbol A, B y C; C debe mostrar Negro/Blanco en el primer giro y, desde cada rama, Negro/Blanco en el segundo."
+      }
+    ]
+  },
+  {
+    "id": "MAT-STA-044",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "bar_to_pie",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Una gráfica de barras tiene frecuencias 20, 10, 30, 15 y 25 para 8, 9, 10, 11 y 12 días de espera. ¿Qué gráfica circular representa esos datos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gráfica circular A"
+      },
+      {
+        "id": "B",
+        "text": "Gráfica circular B"
+      },
+      {
+        "id": "C",
+        "text": "Gráfica circular C"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Las frecuencias suman 100, por lo que los porcentajes son 20%, 10%, 30%, 15% y 25%; esa distribución aparece en B.",
+    "assets": [
+      {
+        "src": "assets/math/statistics_probability/mat-sta-044.png",
+        "description": "Incluir la gráfica de barras con categorías 8–12 y alturas 20,10,30,15,25, seguida de tres gráficas circulares A/B/C; B debe mostrar 20%,10%,30%,15%,25%."
+      }
+    ]
+  },
+  {
+    "id": "MAT-STA-045",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "percentiles",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "La distribución de salarios es: $1000: 6 empleados; $1200: 10; $1400: 13; $1600: 8; $1800: 20; $2000: 6; $2200: 2. ¿Cuál es el salario por debajo del cual queda aproximadamente el 30% de los empleados?",
+    "options": [
+      {
+        "id": "A",
+        "text": "$1800"
+      },
+      {
+        "id": "B",
+        "text": "$1600"
+      },
+      {
+        "id": "C",
+        "text": "$1400"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Hay 65 empleados; 30% corresponde a 19.5 observaciones. La frecuencia acumulada llega a 16 en $1200 y a 29 en $1400, por lo que el percentil 30 cae en $1400."
+  },
+  {
+    "id": "MAT-STA-046",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "standard_deviation",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué conjunto de números presenta una desviación estándar mayor?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2, 3, 5, 8, 9"
+      },
+      {
+        "id": "B",
+        "text": "1, 3, 5, 7, 13"
+      },
+      {
+        "id": "C",
+        "text": "3, 5, 11, 12, 13"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Las desviaciones estándar poblacionales aproximadas son 2.73, 4.12 y 4.02; la mayor corresponde al conjunto B."
+  },
+  {
+    "id": "MAT-STA-047",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "median",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Se tienen tuberías con diámetros 2, 9, 2, 5, 2 y 4 cm. ¿Cuál es la mediana?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "3"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Ordenando: 2,2,2,4,5,9. La mediana es el promedio de los dos centrales: (2+4)/2=3."
+  }
+]

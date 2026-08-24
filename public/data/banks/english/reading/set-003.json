@@ -1,0 +1,152 @@
+[
+  {
+    "id": "ENG-REA-035",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "details",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "According to the selection, the last country to find out about ice cream was",
+    "options": [
+      {
+        "id": "A",
+        "text": "France."
+      },
+      {
+        "id": "B",
+        "text": "America."
+      },
+      {
+        "id": "C",
+        "text": "Italy."
+      },
+      {
+        "id": "D",
+        "text": "England."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The passage says the news traveled from Italy to France, then England, and finally America.",
+    "stimulus_id": "ENG-PASS-003"
+  },
+  {
+    "id": "ENG-REA-036",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "details",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "According to the selection, Marco Polo was a known",
+    "options": [
+      {
+        "id": "A",
+        "text": "storyteller."
+      },
+      {
+        "id": "B",
+        "text": "traveler."
+      },
+      {
+        "id": "C",
+        "text": "teamaker."
+      },
+      {
+        "id": "D",
+        "text": "ice cream man."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The passage centers on Marco Polo returning from his travels in China and recounting them.",
+    "stimulus_id": "ENG-PASS-003"
+  },
+  {
+    "id": "ENG-REA-037",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "The best title for the selection is",
+    "options": [
+      {
+        "id": "A",
+        "text": "The First Ice Cream Store."
+      },
+      {
+        "id": "B",
+        "text": "Marco Polo’s Travels."
+      },
+      {
+        "id": "C",
+        "text": "Where to Buy Ice Cream."
+      },
+      {
+        "id": "D",
+        "text": "The History of Ice Cream."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The passage traces how ice cream knowledge moved from China through Europe to America, so a history-focused title is broadest.",
+    "stimulus_id": "ENG-PASS-003"
+  },
+  {
+    "id": "ENG-REA-038",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "details",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "According to the selection, the first people to have ice cream were",
+    "options": [
+      {
+        "id": "A",
+        "text": "Italian."
+      },
+      {
+        "id": "B",
+        "text": "French."
+      },
+      {
+        "id": "C",
+        "text": "English."
+      },
+      {
+        "id": "D",
+        "text": "American."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The passage says people in Italy began preparing ices and then ice cream before the practice spread to France, England, and America.",
+    "stimulus_id": "ENG-PASS-003"
+  },
+  {
+    "id": "ENG-REA-039",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "From the reading, it can be concluded that during the 1800’s Americans probably got their ice cream by",
+    "options": [
+      {
+        "id": "A",
+        "text": "importing it from Italy."
+      },
+      {
+        "id": "B",
+        "text": "buying it from the drugstore."
+      },
+      {
+        "id": "C",
+        "text": "making it at home."
+      },
+      {
+        "id": "D",
+        "text": "buying it at the supermarket."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The passage notes an American bought an ice-cream-making machine in the late 1700s, while modern stores are mentioned later; home preparation is the supported inference.",
+    "stimulus_id": "ENG-PASS-003"
+  }
+]

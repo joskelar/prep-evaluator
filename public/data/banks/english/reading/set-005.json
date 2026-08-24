@@ -1,0 +1,54 @@
+[
+  {
+    "id": "ENG-REA-040",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "text_type",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "The text above is…",
+    "options": [
+      {
+        "id": "A",
+        "text": "a menu"
+      },
+      {
+        "id": "B",
+        "text": "an advertisement"
+      },
+      {
+        "id": "C",
+        "text": "an offer"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "It advertises an all-day dining plan at an amusement park rather than listing a restaurant menu.",
+    "stimulus_id": "ENG-PASS-007"
+  },
+  {
+    "id": "ENG-REA-041",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "specific_information",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "What is the value of the dining plan?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A free souvenir bottle"
+      },
+      {
+        "id": "B",
+        "text": "Unlimited food through the day"
+      },
+      {
+        "id": "C",
+        "text": "Have a full meal every hour"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The plan allows three food items every hour, which together form a full meal; the bottle costs extra and food is not unlimited.",
+    "stimulus_id": "ENG-PASS-007"
+  }
+]

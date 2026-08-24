@@ -1,0 +1,147 @@
+[
+  {
+    "id": "COG-CON-026",
+    "area": "cognitive",
+    "category": "conditional_reasoning",
+    "subcategory": "premises",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Todos los tunecinos son africanos. Todos \nlos cartaginenses son tunecinos. Por lo tanto, todos \nlos",
+    "options": [
+      {
+        "id": "A",
+        "text": "africanos son tunecinos."
+      },
+      {
+        "id": "B",
+        "text": "tunecinos son cartaginenses."
+      },
+      {
+        "id": "C",
+        "text": "africanos son cartaginenses."
+      },
+      {
+        "id": "D",
+        "text": "cartaginenses son africanos."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) cartaginenses son africanos.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-CON-027",
+    "area": "cognitive",
+    "category": "conditional_reasoning",
+    "subcategory": "premises",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Si Esmeralda compite en la carrera de 60 metros \nvallas, Sonia también compite. Si Sonia compite, \nentonces el equipo anfitrión no recibirá una medalla. \nEl equipo anfitrión recibió una medalla. Por lo tanto,",
+    "options": [
+      {
+        "id": "A",
+        "text": "Esmeralda compitió en la carrera."
+      },
+      {
+        "id": "B",
+        "text": "Esmeralda no compitió en la carrera."
+      },
+      {
+        "id": "C",
+        "text": "Sonia compitió en la carrera."
+      },
+      {
+        "id": "D",
+        "text": "Sonia es parte del equipo anfitrión."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) Esmeralda no compitió en la carrera.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-CON-028",
+    "area": "cognitive",
+    "category": "conditional_reasoning",
+    "subcategory": "premises",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Todos los filósofos son optimistas. Ningún optimista \nes un soñador. Por lo tanto,",
+    "options": [
+      {
+        "id": "A",
+        "text": "ningún filósofo es un soñador."
+      },
+      {
+        "id": "B",
+        "text": "todos los soñadores son filósofos."
+      },
+      {
+        "id": "C",
+        "text": "algunos soñadores son optimistas."
+      },
+      {
+        "id": "D",
+        "text": "todos los soñadores son optimistas."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) ningún filósofo es un soñador.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-CON-029",
+    "area": "cognitive",
+    "category": "conditional_reasoning",
+    "subcategory": "premises",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Ninguna persona benévola es suspicaz. Algunos \nantagonistas son benévolos. Por lo tanto,",
+    "options": [
+      {
+        "id": "A",
+        "text": "ningún antagonista es suspicaz."
+      },
+      {
+        "id": "B",
+        "text": "algunos antagonistas no son suspicaces."
+      },
+      {
+        "id": "C",
+        "text": "ninguna persona suspicaz es un antagonista."
+      },
+      {
+        "id": "D",
+        "text": "algunas personas suspicaces son benévolas."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) algunos antagonistas no son suspicaces.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-CON-030",
+    "area": "cognitive",
+    "category": "conditional_reasoning",
+    "subcategory": "premises",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Aníbal va a la fiesta solamente si Betty va. Además, si \nBetty va a la fiesta, Carlos no irá. Si la fiesta no es el \ndomingo, entonces Carlos irá. Si tanto el examen de \nEspañol como el de Física son el lunes, entonces la \nfiesta no será el domingo. El maestro de Español y la \nmaestra de Física confirmaron hoy que el examen es \nel lunes. Por lo tanto,",
+    "options": [
+      {
+        "id": "A",
+        "text": "ni Carlos ni Betty irán a la fiesta."
+      },
+      {
+        "id": "B",
+        "text": "Aníbal no irá a la fiesta."
+      },
+      {
+        "id": "C",
+        "text": "la fiesta será el sábado."
+      },
+      {
+        "id": "D",
+        "text": "Betty irá a la fiesta."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) Aníbal no irá a la fiesta.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  }
+]

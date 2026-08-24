@@ -1,0 +1,29 @@
+[
+  {
+    "id": "CARD-COG-ANA-001",
+    "examTargets": ["prepatec", "buap"],
+    "area": "cognitive",
+    "category": "analogies",
+    "title": "Tipos de Analogías: Sinonimia",
+    "front": "¿Qué es una analogía de sinonimia y cómo se identifica?",
+    "back": "Es la relación de semejanza entre dos términos que comparten significados equivalentes o muy similares. Se identifica buscando pares de palabras que representen el mismo concepto en diferente forma o intensidad (ej. 'Gélido : Frío')."
+  },
+  {
+    "id": "CARD-COG-ANA-002",
+    "examTargets": ["prepatec", "buap"],
+    "area": "cognitive",
+    "category": "analogies",
+    "title": "Analogía Causa-Efecto",
+    "front": "¿Cómo funciona la relación causa-efecto en un reactivo verbal?",
+    "back": "El primer término representa la acción, fuerza o evento desencadenante (causa), y el segundo representa el resultado directo e inevitable de dicha acción (efecto). Ejemplos típicos: 'Fuego : Ceniza', 'Infección : Fiebre'."
+  },
+  {
+    "id": "CARD-COG-ANA-003",
+    "examTargets": ["prepatec", "buap"],
+    "area": "cognitive",
+    "category": "analogies",
+    "title": "Analogía de Agente-Instrumento",
+    "front": "¿Qué caracteriza a la relación de Agente-Instrumento?",
+    "back": "Asocia a un profesional, oficio u objeto activo (agente) con la herramienta específica que utiliza para realizar su labor (instrumento). Ejemplo: 'Escultor : Cincel', 'Pintor : Pincel'."
+  }
+]

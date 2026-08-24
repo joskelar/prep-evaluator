@@ -1,0 +1,60 @@
+[
+  {
+    "id": "COG-CON-001",
+    "area": "cognitive",
+    "category": "conditional_reasoning",
+    "subcategory": "deductive_validity",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Identifica la conclusión correcta e indica el tipo de razonamiento utilizado. Todos los árboles necesitan agua. El pino es un árbol.",
+    "options": [
+      {
+        "id": "A",
+        "text": "El pino probablemente necesita agua. Razonamiento lógico"
+      },
+      {
+        "id": "B",
+        "text": "El pino necesita agua. Razonamiento inductivo"
+      },
+      {
+        "id": "C",
+        "text": "Algunos árboles no necesitan agua. Razonamiento inductivo"
+      },
+      {
+        "id": "D",
+        "text": "El agua es necesaria para el pino. Razonamiento lógico"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La conclusión correcta es “El agua es necesaria para el pino”, ya que se aplica una regla general a un caso particular. Esto corresponde a un razonamiento lógico deductivo, donde la conclusión se deriva necesariamente de las premisas."
+  },
+  {
+    "id": "COG-CON-002",
+    "area": "cognitive",
+    "category": "conditional_reasoning",
+    "subcategory": "deductive_validity",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Observa la siguiente información desordenada: •   Si no se carga el dispositivo, se apaga. •   El dispositivo está apagado. •   El dispositivo no fue cargado. ¿Es correcta la conclusión “El dispositivo no fue cargado”? Explica por qué.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sí, porque si el dispositivo está apagado, necesariamente no fue cargado."
+      },
+      {
+        "id": "B",
+        "text": "No, porque el dispositivo podría estar apagado por otras razones además de no haber sido cargado."
+      },
+      {
+        "id": "C",
+        "text": "Sí, porque todo dispositivo apagado está siempre descargado."
+      },
+      {
+        "id": "D",
+        "text": "No, porque la información no menciona nada sobre la batería."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "No es correcta la conclusión porque el hecho de que el dispositivo esté apagado no implica necesariamente que no fue cargado. Podría existir otra causa. Se evita así el error lógico de afirmar el consecuente."
+  }
+]

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="540" viewBox="0 0 900 540" role="img" aria-labelledby="title desc">
+<title id="title">Dos rectángulos de 6 por 5</title>
+<desc id="desc">Dos rectángulos iguales, cada uno con base 6 y altura 5.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+  <marker id="arrow" markerWidth="9" markerHeight="9" refX="4.5" refY="4.5" orient="auto-start-reverse">
+    <path d="M0,0 L9,4.5 L0,9 z" fill="#111"/>
+  </marker>
+</defs>
+
+<rect x="150" y="130" width="250" height="210" fill="none" stroke="#111" stroke-width="4"/>
+<text x="275" y="377" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30">6</text>
+<text x="420" y="242" font-family="Arial,Helvetica,sans-serif" font-size="30">5</text>
+<rect x="505" y="130" width="250" height="210" fill="none" stroke="#111" stroke-width="4"/>
+<text x="630" y="377" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30">6</text>
+<text x="775" y="242" font-family="Arial,Helvetica,sans-serif" font-size="30">5</text>
+</svg>

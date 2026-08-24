@@ -1,0 +1,147 @@
+[
+  {
+    "id": "COG-MET-007",
+    "area": "cognitive",
+    "category": "metaphors",
+    "subcategory": "general",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Depósito de palabras",
+    "options": [
+      {
+        "id": "A",
+        "text": "idea"
+      },
+      {
+        "id": "B",
+        "text": "libro"
+      },
+      {
+        "id": "C",
+        "text": "teclado"
+      },
+      {
+        "id": "D",
+        "text": "voz"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) libro. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-MET-008",
+    "area": "cognitive",
+    "category": "metaphors",
+    "subcategory": "general",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Armadura del árbol",
+    "options": [
+      {
+        "id": "A",
+        "text": "corteza"
+      },
+      {
+        "id": "B",
+        "text": "ramas"
+      },
+      {
+        "id": "C",
+        "text": "raíces"
+      },
+      {
+        "id": "D",
+        "text": "follaje"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) corteza. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-MET-009",
+    "area": "cognitive",
+    "category": "metaphors",
+    "subcategory": "general",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Ventana al pasado",
+    "options": [
+      {
+        "id": "A",
+        "text": "reloj"
+      },
+      {
+        "id": "B",
+        "text": "tiempo"
+      },
+      {
+        "id": "C",
+        "text": "fotografía"
+      },
+      {
+        "id": "D",
+        "text": "paisaje"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) fotografía. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-MET-010",
+    "area": "cognitive",
+    "category": "metaphors",
+    "subcategory": "general",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Opulencia de colores",
+    "options": [
+      {
+        "id": "A",
+        "text": "brillo"
+      },
+      {
+        "id": "B",
+        "text": "pigmentos"
+      },
+      {
+        "id": "C",
+        "text": "arcoíris"
+      },
+      {
+        "id": "D",
+        "text": "resplandor"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) arcoíris. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-MET-011",
+    "area": "cognitive",
+    "category": "metaphors",
+    "subcategory": "general",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Éxodo del invierno",
+    "options": [
+      {
+        "id": "A",
+        "text": "primavera"
+      },
+      {
+        "id": "B",
+        "text": "otoño"
+      },
+      {
+        "id": "C",
+        "text": "frío"
+      },
+      {
+        "id": "D",
+        "text": "estación"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) primavera. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  }
+]

@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+<title id="title">Triángulo con recta paralela por C</title>
+<desc id="desc">Triángulo ABC con base AB horizontal. Por C pasa una recta CD paralela a AB. Se indican 48 grados en C y 62 grados en B.</desc>
+<rect width="100%" height="100%" fill="white"/>
+
+<g fill="none" stroke="#111" stroke-width="4">
+<polyline points="240,470 660,470 420,190 240,470"/>
+<line x1="140" y1="190" x2="760" y2="190"/>
+</g>
+<text x="215" y="500" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">A</text>
+<text x="672" y="500" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">B</text>
+<text x="412" y="172" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">C</text>
+<text x="120" y="180" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">D</text>
+<path d="M 365 190 A 55 55 0 0 1 390 236" fill="none" stroke="#111" stroke-width="2.5"/>
+<text x="300" y="245" font-family="Arial,Helvetica,sans-serif" font-size="26">48°</text>
+<path d="M 605 470 A 55 55 0 0 0 630 425" fill="none" stroke="#111" stroke-width="2.5"/>
+<text x="580" y="420" font-family="Arial,Helvetica,sans-serif" font-size="26">62°</text>
+</svg>

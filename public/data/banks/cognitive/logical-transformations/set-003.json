@@ -1,0 +1,118 @@
+[
+  {
+    "id": "COG-TRN-010",
+    "area": "cognitive",
+    "category": "logical_transformations",
+    "subcategory": "letters",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "La opción que indica que X va después de Z y Z va antes de Y es",
+    "options": [
+      {
+        "id": "A",
+        "text": "X, Y, Z."
+      },
+      {
+        "id": "B",
+        "text": "Z, X, Y."
+      },
+      {
+        "id": "C",
+        "text": "Y, Z, X."
+      },
+      {
+        "id": "D",
+        "text": "Y, X, Z."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "«X después de Z» exige Z antes que X, y «Z antes de Y» exige Z antes que Y. La opción compatible es Z, X, Y."
+  },
+  {
+    "id": "COG-TRN-011",
+    "area": "cognitive",
+    "category": "logical_transformations",
+    "subcategory": "letters",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "La opción que indica que F va antes de G, G va después de H, H va antes de K y K va entre F y G es",
+    "options": [
+      {
+        "id": "A",
+        "text": "F, H, K, G"
+      },
+      {
+        "id": "B",
+        "text": "F, G, H, K"
+      },
+      {
+        "id": "C",
+        "text": "K, H, F, G"
+      },
+      {
+        "id": "D",
+        "text": "H, F, G, K"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Las condiciones se satisfacen con F antes de K y G, H antes de K y G, y K entre F y G: F, H, K, G."
+  },
+  {
+    "id": "COG-TRN-012",
+    "area": "cognitive",
+    "category": "logical_transformations",
+    "subcategory": "numbers",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "La opción que indica que 15 NO va después de 20 y 20 NO va después de 25 es",
+    "options": [
+      {
+        "id": "A",
+        "text": "25, 15, 20"
+      },
+      {
+        "id": "B",
+        "text": "20, 25, 15"
+      },
+      {
+        "id": "C",
+        "text": "15, 25, 20"
+      },
+      {
+        "id": "D",
+        "text": "15, 20, 25"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "15 no puede estar después de 20 y 20 no puede estar después de 25; el orden compatible es 15, 20, 25."
+  },
+  {
+    "id": "COG-TRN-013",
+    "area": "cognitive",
+    "category": "logical_transformations",
+    "subcategory": "numbers",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "La opción que indica que 3 va después de 5 y entre 7 y 12, y 5 va antes de 12 y entre 7 y 3 es",
+    "options": [
+      {
+        "id": "A",
+        "text": "7, 5, 12, 3"
+      },
+      {
+        "id": "B",
+        "text": "7, 5, 3, 12"
+      },
+      {
+        "id": "C",
+        "text": "5, 7, 3, 12"
+      },
+      {
+        "id": "D",
+        "text": "5, 3, 12, 7"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Las restricciones obligan el orden 7, 5, 3, 12."
+  }
+]

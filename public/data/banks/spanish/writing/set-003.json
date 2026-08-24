@@ -1,0 +1,172 @@
+[
+  {
+    "id": "SPA-WRI-036",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "irrelevant_sentence",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Identifique la oración que NO guarda relación con las demás.",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "3"
+      },
+      {
+        "id": "D",
+        "text": "4"
+      },
+      {
+        "id": "E",
+        "text": "5"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "La oración 5 sobre los tiempos de crisis y descubrimiento interrumpe el desarrollo centrado en mente, racionalidad y vida plena.",
+    "stimulus_id": "SPA-DRAFT-002"
+  },
+  {
+    "id": "SPA-WRI-037",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "sentence_combination",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál opción combina MEJOR las oraciones 1 y 2?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nuestra mente porque es un gran don maravilloso y creativo al mismo tiempo."
+      },
+      {
+        "id": "B",
+        "text": "Nuestra mente es un gran don maravilloso y creativo al mismo tiempo."
+      },
+      {
+        "id": "C",
+        "text": "Nuestra mente es un gran don a pesar de lo maravilloso y creativo que es al mismo tiempo."
+      },
+      {
+        "id": "D",
+        "text": "Al mismo tiempo, nuestra mente es un gran don, cuando lo maravilloso es creativo."
+      },
+      {
+        "id": "E",
+        "text": "Al mismo tiempo lo maravilloso es creativo, el gran don de nuestra mente."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La segunda opción integra ambas ideas en una oración gramatical, clara y sin redundancia innecesaria.",
+    "stimulus_id": "SPA-DRAFT-002"
+  },
+  {
+    "id": "SPA-WRI-038",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "precision",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la opción que sustituye MEJOR la parte problemática de la oración 3.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sin embargo, con frecuencia escapamos a la mente para que se convierta…"
+      },
+      {
+        "id": "B",
+        "text": "Sin embargo, la entrada a la mente puede convertirse con frecuencia…"
+      },
+      {
+        "id": "C",
+        "text": "Sin embargo, con frecuencia permitimos que la mente se convierta…"
+      },
+      {
+        "id": "D",
+        "text": "Con frecuencia, sin embargo, el escape de la mente podría convertirse…"
+      },
+      {
+        "id": "E",
+        "text": "Con frecuencia, sin embargo, para que la mente se convierta entramos…"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "«Permitimos que la mente se convierta…» expresa de forma clara y directa la idea pretendida.",
+    "stimulus_id": "SPA-DRAFT-002"
+  },
+  {
+    "id": "SPA-WRI-039",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "connectors",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "La palabra que enlaza CORRECTAMENTE la oración 6 con la 7 es",
+    "options": [
+      {
+        "id": "A",
+        "text": "sino."
+      },
+      {
+        "id": "B",
+        "text": "cuando."
+      },
+      {
+        "id": "C",
+        "text": "todavía."
+      },
+      {
+        "id": "D",
+        "text": "pero."
+      },
+      {
+        "id": "E",
+        "text": "donde."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La oración 7 contrasta un resultado racionalmente exitoso con una consecuencia negativa; «pero» expresa esa oposición.",
+    "stimulus_id": "SPA-DRAFT-002"
+  },
+  {
+    "id": "SPA-WRI-040",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "closing_sentence",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál oración es la MÁS adecuada para concluir el párrafo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es por ello que la mente es energía."
+      },
+      {
+        "id": "B",
+        "text": "El sentido espiritual de la vida está en la mente."
+      },
+      {
+        "id": "C",
+        "text": "Para una vida balanceada, cultivemos todo nuestro ser."
+      },
+      {
+        "id": "D",
+        "text": "Nuestra sociedad no es pacífica ni generosa."
+      },
+      {
+        "id": "E",
+        "text": "La tranquilidad tiene muchos enemigos silenciosos."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto contrasta racionalidad con sentimientos y espiritualidad; una invitación a cultivar todo el ser sintetiza mejor la idea.",
+    "stimulus_id": "SPA-DRAFT-002"
+  }
+]

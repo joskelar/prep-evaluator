@@ -1,0 +1,20 @@
+[
+  {
+    "old_id": "ENG-PASS-004",
+    "new_id": "ENG-PASS-007",
+    "file": "data/stimuli/english/reading/set-005.json",
+    "action": "renamed newer conflicting stimulus due to different content"
+  },
+  {
+    "old_id": "SPA-PASS-003",
+    "new_id": "SPA-PASS-005",
+    "file": "data/stimuli/spanish/reading/set-003.json",
+    "action": "renamed newer conflicting stimulus due to different content"
+  },
+  {
+    "old_id": "SPA-PASS-004",
+    "new_id": "SPA-PASS-006",
+    "file": "data/stimuli/spanish/reading/set-005.json",
+    "action": "renamed newer conflicting stimulus due to different content"
+  }
+]

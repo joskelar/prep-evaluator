@@ -1,0 +1,3272 @@
+[
+  {
+    "id": "SPA-REA-001",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué puede inferirse sobre la postura general del texto respecto al consumo de comida chatarra?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Debe eliminarse por completo de la dieta en cualquier circunstancia."
+      },
+      {
+        "id": "B",
+        "text": "Puede consumirse libremente siempre que sea económica."
+      },
+      {
+        "id": "C",
+        "text": "Es necesario regular su consumo mediante educación y hábitos saludables."
+      },
+      {
+        "id": "D",
+        "text": "Es un problema exclusivo de las escuelas."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto señala que no se trata de prohibir totalmente estos alimentos, sino de fomentar un consumo moderado y consciente, lo que implica regulación mediante educación y hábitos saludables.",
+    "stimulus_id": "SPA-BUAP-R-01"
+  },
+  {
+    "id": "SPA-REA-002",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "relationships_between_ideas",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "A partir de la información presentada, ¿qué relación se establece entre estilo de vida y alimentación?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El ritmo acelerado favorece elecciones rápidas, aunque menos saludables."
+      },
+      {
+        "id": "B",
+        "text": "Las personas con poco tiempo necesariamente desconocen la nutrición."
+      },
+      {
+        "id": "C",
+        "text": "El bajo costo garantiza una alimentación equilibrada. 23 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "D",
+        "text": "La publicidad elimina la responsabilidad individual en la elección de alimentos."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "El texto menciona que el ritmo de vida acelerado lleva a preferir opciones rápidas en lugar de comidas preparadas en casa, lo que permite inferir una relación entre estilo de vida y mala alimentación.",
+    "stimulus_id": "SPA-BUAP-R-01"
+  },
+  {
+    "id": "SPA-REA-003",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "details",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea que sintetiza mejor las consecuencias del consumo frecuente de comida chatarra?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Produce únicamente aumento de peso sin otras implicaciones."
+      },
+      {
+        "id": "B",
+        "text": "Genera impactos físicos, académicos y emocionales."
+      },
+      {
+        "id": "C",
+        "text": "Solo afecta a personas adultas con enfermedades previas."
+      },
+      {
+        "id": "D",
+        "text": "Mejora la energía y el rendimiento escolar."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto menciona efectos físicos (obesidad, enfermedades cardiovasculares), académicos (baja concentración) y emocionales (cambios de ánimo), por lo que la opción B sintetiza mejor las consecuencias.",
+    "stimulus_id": "SPA-BUAP-R-01"
+  },
+  {
+    "id": "SPA-REA-004",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Si se integran las ideas sobre familia, escuela y campañas públicas, ¿qué se puede inferir?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La responsabilidad del problema recae únicamente en el gobierno."
+      },
+      {
+        "id": "B",
+        "text": "El cambio de hábitos requiere participación de distintos sectores sociales."
+      },
+      {
+        "id": "C",
+        "text": "Las campañas de salud sustituyen el ejemplo familiar."
+      },
+      {
+        "id": "D",
+        "text": "La solución depende solo de la fuerza de voluntad individual."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto menciona el papel de la familia, la escuela y las campañas de salud pública, lo que permite inferir que la solución es colectiva y requiere participación de varios sectores.",
+    "stimulus_id": "SPA-BUAP-R-01"
+  },
+  {
+    "id": "SPA-REA-005",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué intención comunicativa global se puede deducir del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Promover marcas específicas de alimentos saludables."
+      },
+      {
+        "id": "B",
+        "text": "Informar y concientizar sobre riesgos y alternativas de consumo."
+      },
+      {
+        "id": "C",
+        "text": "Criticar exclusivamente a los jóvenes por sus hábitos."
+      },
+      {
+        "id": "D",
+        "text": "Describir recetas caseras como única solución posible."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto presenta causas, consecuencias y posibles soluciones relacionadas con la comida chatarra, lo que indica una intención informativa y de concientización, no comercial ni acusatoria.",
+    "stimulus_id": "SPA-BUAP-R-01"
+  },
+  {
+    "id": "SPA-REA-006",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal que articula todo el texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La comida chatarra es económica y fácil de conseguir."
+      },
+      {
+        "id": "B",
+        "text": "El consumo de comida chatarra tiene causas sociales y consecuencias negativas, por lo que requiere un consumo moderado y consciente."
+      },
+      {
+        "id": "C",
+        "text": "Las escuelas son responsables del aumento de la obesidad infantil."
+      },
+      {
+        "id": "D",
+        "text": "Las enfermedades cardiovasculares son el problema más grave de la actualidad."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto no se centra únicamente en el costo ni en un solo sector o enfermedad, sino que integra causas, consecuencias y propuestas de solución, lo que permite sintetizar que su idea principal es la necesidad de regular y moderar el consumo ante sus efectos negativos.",
+    "stimulus_id": "SPA-BUAP-R-01"
+  },
+  {
+    "id": "SPA-REA-037",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar la coherencia ni la intención global del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Otro factor importante es el ritmo de vida acelerado, que lleva a muchas personas a preferir opciones rápidas.”"
+      },
+      {
+        "id": "B",
+        "text": "“La educación nutricional desde edades tempranas permite comprender la importancia de una dieta equilibrada.”"
+      },
+      {
+        "id": "C",
+        "text": "“Adoptar una alimentación balanceada no solo mejora la salud física, sino también la calidad de vida en general.”"
+      },
+      {
+        "id": "D",
+        "text": "“Algunos estudios señalan que una dieta poco equilibrada puede influir en cambios de ánimo y niveles bajos de energía.”"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Aunque el enunciado aporta un matiz adicional (ámbito emocional), su eliminación no afecta la estructura central del texto, ya que los argumentos principales (causas, consecuencias físicas y soluciones) seguirían sosteniendo la intención informativa y de concientización.",
+    "stimulus_id": "SPA-BUAP-R-01"
+  },
+  {
+    "id": "SPA-REA-038",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los dinosaurios fueron los únicos animales importantes del planeta."
+      },
+      {
+        "id": "B",
+        "text": "La extinción de los dinosaurios fue un proceso complejo causado por diversos factores que transformaron la vida en la Tierra."
+      },
+      {
+        "id": "C",
+        "text": "El impacto de un asteroide fue el único motivo de la desaparición de las especies."
+      },
+      {
+        "id": "D",
+        "text": "Las aves actuales no tienen relación con los dinosaurios."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto integra diversas causas (asteroide y actividad volcánica) y consecuencias (cambios evolutivos), concluyendo que fue un proceso complejo que transformó el planeta, lo cual sintetiza la idea central.",
+    "stimulus_id": "SPA-BUAP-R-02"
+  },
+  {
+    "id": "SPA-REA-039",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "A partir del texto, ¿qué se puede inferir sobre la causa de la extinción?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fue un fenómeno inmediato provocado por un solo evento aislado."
+      },
+      {
+        "id": "B",
+        "text": "Se debió exclusivamente a cambios naturales graduales."
+      },
+      {
+        "id": "C",
+        "text": "Probablemente fue el resultado de la combinación de varios factores catastróficos."
+      },
+      {
+        "id": "D",
+        "text": "Ocurrió porque los dinosaurios dejaron de reproducirse."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto menciona tanto el impacto del asteroide como la actividad volcánica, lo que permite inferir que la extinción fue consecuencia de múltiples factores combinados.",
+    "stimulus_id": "SPA-BUAP-R-02"
+  },
+  {
+    "id": "SPA-REA-040",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué función cumple el párrafo donde se menciona que las aves son descendientes de los dinosaurios?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Contradecir la teoría de la extinción total."
+      },
+      {
+        "id": "B",
+        "text": "Introducir una idea secundaria que matiza el concepto de desaparición absoluta."
+      },
+      {
+        "id": "C",
+        "text": "Desviar la atención hacia la clasificación de las aves modernas."
+      },
+      {
+        "id": "D",
+        "text": "Explicar el origen de las aves actuales."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto aclara que la extinción no fue absoluta, sino selectiva, lo que complementa y matiza la explicación general sin contradecirla.",
+    "stimulus_id": "SPA-BUAP-R-02"
+  },
+  {
+    "id": "SPA-REA-041",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Durante millones de años, los dinosaurios dominaron los ecosistemas terrestres.”"
+      },
+      {
+        "id": "B",
+        "text": "“Las aves actuales son consideradas descendientes directos de ciertos grupos de dinosaurios.”"
+      },
+      {
+        "id": "C",
+        "text": "“Ocurrió hace aproximadamente 66 millones de años.”"
+      },
+      {
+        "id": "D",
+        "text": "“Este cambio marcó el inicio de una nueva etapa en la evolución de la vida en la Tierra.” 26 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Aunque aporta contexto histórico, su eliminación no altera la explicación de las causas y consecuencias de la extinción, que constituyen el eje central del texto.",
+    "stimulus_id": "SPA-BUAP-R-02"
+  },
+  {
+    "id": "SPA-REA-042",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "title",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué título sintetiza mejor el contenido del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“El dominio absoluto de los dinosaurios”"
+      },
+      {
+        "id": "B",
+        "text": "“El meteorito de Yucatán”"
+      },
+      {
+        "id": "C",
+        "text": "“Causas y consecuencias de la extinción de los dinosaurios”"
+      },
+      {
+        "id": "D",
+        "text": "“La vida secreta de las aves modernas”"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto aborda tanto las causas (impacto y volcanismo) como las consecuencias (diversificación de mamíferos y supervivencia de aves), por lo que ese título resume de forma integral su contenido.",
+    "stimulus_id": "SPA-BUAP-R-02"
+  },
+  {
+    "id": "SPA-REA-043",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "relationships_between_ideas",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué relación lógica se establece entre el impacto del asteroide y la alteración de las cadenas alimenticias?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El impacto mejoró las condiciones climáticas."
+      },
+      {
+        "id": "B",
+        "text": "El polvo en la atmósfera redujo la luz solar, afectando la fotosíntesis y, por lo tanto, la alimentación."
+      },
+      {
+        "id": "C",
+        "text": "Los dinosaurios decidieron migrar a otros continentes."
+      },
+      {
+        "id": "D",
+        "text": "La atmósfera se volvió más rica en oxígeno."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto explica que la nube de polvo bloqueó la luz solar, lo que afectó la fotosíntesis y alteró las cadenas alimenticias; esta opción sintetiza correctamente esa relación causal.",
+    "stimulus_id": "SPA-BUAP-R-02"
+  },
+  {
+    "id": "SPA-REA-044",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la importancia evolutiva de la extinción de los dinosaurios?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Provocó la desaparición definitiva de toda forma de vida terrestre."
+      },
+      {
+        "id": "B",
+        "text": "Impidió la aparición de nuevas especies durante millones de años."
+      },
+      {
+        "id": "C",
+        "text": "Permitió la diversificación de otros grupos, como los mamíferos."
+      },
+      {
+        "id": "D",
+        "text": "Generó estabilidad ecológica inmediata y permanente."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto señala que, tras la extinción, los mamíferos ocuparon nuevos espacios ecológicos, lo que indica que el evento abrió oportunidades evolutivas para otros grupos.",
+    "stimulus_id": "SPA-BUAP-R-02"
+  },
+  {
+    "id": "SPA-REA-045",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los cómics de los años 90 fracasaron por completo y desaparecieron."
+      },
+      {
+        "id": "B",
+        "text": "La industria del cómic en los 90 vivió un proceso de auge, crisis y transformación que redefinió su futuro."
+      },
+      {
+        "id": "C",
+        "text": "Las portadas alternativas fueron la innovación más importante del siglo XX."
+      },
+      {
+        "id": "D",
+        "text": "Los dibujantes fueron los únicos responsables de los cambios en el mercado."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto describe un crecimiento inicial, una crisis posterior y una transformación estructural que sentó bases para el futuro, lo que sintetiza la idea central de auge, caída y redefinición.",
+    "stimulus_id": "SPA-BUAP-R-03"
+  },
+  {
+    "id": "SPA-REA-046",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la burbuja especulativa mencionada en el texto? 28 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se basó principalmente en el interés genuino por la lectura de historias innovadoras."
+      },
+      {
+        "id": "B",
+        "text": "Fue impulsada por la compra masiva con fines de reventa más que de consumo cultural."
+      },
+      {
+        "id": "C",
+        "text": "Garantizó estabilidad económica permanente en la industria."
+      },
+      {
+        "id": "D",
+        "text": "Se originó exclusivamente por la independencia de los artistas."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto señala que muchos compradores adquirían ejemplares sin intención de leerlos, sino de revenderlos, lo que permite inferir que el motor principal fue la especulación económica.",
+    "stimulus_id": "SPA-BUAP-R-03"
+  },
+  {
+    "id": "SPA-REA-047",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué función cumple el párrafo que menciona la independencia de artistas y la fundación de nuevas compañías?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Introducir una causa directa del colapso financiero."
+      },
+      {
+        "id": "B",
+        "text": "Mostrar una transformación estructural en el control creativo dentro de la industria."
+      },
+      {
+        "id": "C",
+        "text": "Describir el cierre de tiendas especializadas."
+      },
+      {
+        "id": "D",
+        "text": "Explicar el origen del cine de superhéroes."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Ese fragmento destaca el fortalecimiento del dibujante como creador con mayor control, lo cual señala un cambio estructural en la industria, no una causa directa del colapso.",
+    "stimulus_id": "SPA-BUAP-R-03"
+  },
+  {
+    "id": "SPA-REA-048",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Se consolidaron estilos visuales más dinámicos.”"
+      },
+      {
+        "id": "B",
+        "text": "“Muchas tiendas especializadas cerraron.”"
+      },
+      {
+        "id": "C",
+        "text": "“Las editoriales apostaron por portadas alternativas y ediciones especiales.”"
+      },
+      {
+        "id": "D",
+        "text": "“Hacia el final de la década, comenzaron a sentarse las bases para futuras adaptaciones cinematográficas.”"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Aunque aporta un detalle relevante, su eliminación no altera la secuencia central de auge, crisis y transformación estructural, que constituye el eje del texto.",
+    "stimulus_id": "SPA-BUAP-R-03"
+  },
+  {
+    "id": "SPA-REA-049",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "title",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué título sintetiza mejor el contenido del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“La caída definitiva del cómic en los 90”"
+      },
+      {
+        "id": "B",
+        "text": "“Portadas alternativas y números de colección”"
+      },
+      {
+        "id": "C",
+        "text": "“Auge, crisis y renovación del cómic en los años 90”"
+      },
+      {
+        "id": "D",
+        "text": "“El nacimiento exclusivo de los universos compartidos”"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto aborda crecimiento, colapso y transformación, por lo que ese título resume de manera integral las tres etapas descritas.",
+    "stimulus_id": "SPA-BUAP-R-03"
+  },
+  {
+    "id": "SPA-REA-050",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "relationships_between_ideas",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué relación lógica se establece entre la sobreproducción y el cierre de tiendas especializadas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La sobreproducción incrementó el valor de los ejemplares."
+      },
+      {
+        "id": "B",
+        "text": "La caída del interés especulativo redujo ventas, afectando la viabilidad económica de las tiendas."
+      },
+      {
+        "id": "C",
+        "text": "La independencia de artistas obligó al cierre inmediato de comercios."
+      },
+      {
+        "id": "D",
+        "text": "El aumento del público lector provocó saturación comercial positiva."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto explica que el colapso del mercado se debió a la sobreproducción y a la caída del interés especulativo, lo que afectó económicamente a tiendas y editoriales.",
+    "stimulus_id": "SPA-BUAP-R-03"
+  },
+  {
+    "id": "SPA-REA-051",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre el impacto a largo plazo de la crisis de los 90?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Impidió cualquier crecimiento posterior en la industria."
+      },
+      {
+        "id": "B",
+        "text": "Eliminó la posibilidad de expansión hacia otros medios."
+      },
+      {
+        "id": "C",
+        "text": "Obligó a replantear estrategias, sentando bases para desarrollos futuros."
+      },
+      {
+        "id": "D",
+        "text": "Provocó que los lectores abandonaran definitivamente el medio. 29 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto señala que la industria se reorganizó y que hacia el final de la década se sentaron bases para adaptaciones cinematográficas, lo que implica un impacto transformador a largo plazo.",
+    "stimulus_id": "SPA-BUAP-R-03"
+  },
+  {
+    "id": "SPA-REA-052",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Las mamás cactus son frías y distantes por naturaleza."
+      },
+      {
+        "id": "B",
+        "text": "El estilo de las mamás cactus combina firmeza y protección con el objetivo de fomentar autonomía e independencia."
+      },
+      {
+        "id": "C",
+        "text": "La disciplina estricta es el único método efectivo de crianza."
+      },
+      {
+        "id": "D",
+        "text": "La sobreprotección es el modelo más adecuado en la actualidad."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto explica que este estilo mezcla firmeza y protección para formar individuos fuertes e independientes, lo cual sintetiza la intención global del contenido.",
+    "stimulus_id": "SPA-BUAP-R-04"
+  },
+  {
+    "id": "SPA-REA-053",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la metáfora del “cactus”?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Representa indiferencia emocional permanente."
+      },
+      {
+        "id": "B",
+        "text": "Simboliza una apariencia firme que protege y fortalece en el fondo."
+      },
+      {
+        "id": "C",
+        "text": "Describe una relación conflictiva entre madres e hijos."
+      },
+      {
+        "id": "D",
+        "text": "Indica ausencia total de afecto en la crianza."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto señala que, aunque pueden parecer firmes o distantes, su intención es proteger y fortalecer, lo que explica el sentido simbólico del cactus.",
+    "stimulus_id": "SPA-BUAP-R-04"
+  },
+  {
+    "id": "SPA-REA-054",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué función cumple el párrafo donde se mencionan las críticas a este modelo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Contradecir por completo la postura del texto."
+      },
+      {
+        "id": "B",
+        "text": "Introducir un punto de vista alternativo que equilibra la explicación."
+      },
+      {
+        "id": "C",
+        "text": "Cambiar el tema hacia la psicología clínica."
+      },
+      {
+        "id": "D",
+        "text": "Justificar la eliminación de la disciplina en la crianza."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto incluye críticas para ofrecer una visión más equilibrada, no para contradecir su planteamiento central.",
+    "stimulus_id": "SPA-BUAP-R-04"
+  },
+  {
+    "id": "SPA-REA-055",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Prefieren orientar en lugar de resolver todos los problemas.”"
+      },
+      {
+        "id": "B",
+        "text": "“Algunas personas consideran que podría percibirse como frialdad emocional.”"
+      },
+      {
+        "id": "C",
+        "text": "“Su objetivo principal es formar individuos fuertes e independientes.”"
+      },
+      {
+        "id": "D",
+        "text": "“De esta manera, buscan que los hijos desarrollen criterio propio y capacidad de análisis.”"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Aunque complementa la idea de autonomía, su eliminación no altera la estructura central del texto, ya que la intención formativa ya está claramente establecida en otros enunciados.",
+    "stimulus_id": "SPA-BUAP-R-04"
+  },
+  {
+    "id": "SPA-REA-056",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "title",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué título sintetiza mejor el contenido del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“La frialdad en la crianza moderna”"
+      },
+      {
+        "id": "B",
+        "text": "“Mamás cactus: firmeza y autonomía en la educación de los hijos”"
+      },
+      {
+        "id": "C",
+        "text": "“La desaparición del afecto en la familia” 31 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "D",
+        "text": "“Errores irreparables en la disciplina infantil”"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto explica el concepto, características, críticas y propósito del modelo, por lo que ese título resume de manera integral el contenido.",
+    "stimulus_id": "SPA-BUAP-R-04"
+  },
+  {
+    "id": "SPA-REA-057",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "relationships_between_ideas",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué relación lógica se establece entre el establecimiento de límites y la formación de responsabilidad?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La disciplina coherente favorece el desarrollo de responsabilidad en los hijos."
+      },
+      {
+        "id": "B",
+        "text": "La responsabilidad surge únicamente de la experiencia escolar."
+      },
+      {
+        "id": "C",
+        "text": "Los límites restringen completamente la libertad individual."
+      },
+      {
+        "id": "D",
+        "text": "La ausencia de normas fortalece la autonomía."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "El texto afirma que el establecimiento claro de normas y disciplina coherente contribuye a la formación de responsabilidad.",
+    "stimulus_id": "SPA-BUAP-R-04"
+  },
+  {
+    "id": "SPA-REA-058",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre el equilibrio necesario en este modelo de crianza?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La firmeza debe reemplazar cualquier muestra de afecto."
+      },
+      {
+        "id": "B",
+        "text": "La autonomía solo se logra eliminando toda supervisión."
+      },
+      {
+        "id": "C",
+        "text": "La comunicación abierta es necesaria para evitar que la firmeza sea interpretada como frialdad."
+      },
+      {
+        "id": "D",
+        "text": "El modelo funciona únicamente en contextos altamente competitivos."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto menciona que la comunicación abierta es fundamental para evitar malentendidos y equilibrar la percepción de firmeza con afecto, lo que implica la necesidad de equilibrio emocional. 32 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP",
+    "stimulus_id": "SPA-BUAP-R-04"
+  },
+  {
+    "id": "SPA-REA-059",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los gladiadores eran únicamente esclavos obligados a luchar hasta la muerte."
+      },
+      {
+        "id": "B",
+        "text": "Los espectáculos de gladiadores fueron un fenómeno complejo que combinó entretenimiento, política y dinámica social en Roma."
+      },
+      {
+        "id": "C",
+        "text": "Los anfiteatros eran construcciones arquitectónicas innovadoras."
+      },
+      {
+        "id": "D",
+        "text": "La prohibición de los combates fue causada solo por motivos religiosos."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto no se limita a describir combates, sino que integra su dimensión social, política, cultural y personal, concluyendo que fueron un fenómeno complejo dentro de la sociedad romana.",
+    "stimulus_id": "SPA-BUAP-R-05"
+  },
+  {
+    "id": "SPA-REA-060",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la función política de los espectáculos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Eran eventos exclusivamente deportivos sin intención estratégica."
+      },
+      {
+        "id": "B",
+        "text": "Servían como herramienta para fortalecer la imagen y el poder de los gobernantes."
+      },
+      {
+        "id": "C",
+        "text": "Se organizaban únicamente por tradición cultural."
+      },
+      {
+        "id": "D",
+        "text": "Sustituían completamente las decisiones del Senado romano."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto señala que los gobernantes organizaban juegos para ganar el favor del pueblo y demostrar poder, lo que permite inferir su función política estratégica.",
+    "stimulus_id": "SPA-BUAP-R-05"
+  },
+  {
+    "id": "SPA-REA-061",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué función cumple el párrafo que menciona los distintos tipos de gladiadores y sus armas? 33 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP",
+    "options": [
+      {
+        "id": "A",
+        "text": "Introducir una idea secundaria que explica la diversidad y el atractivo del espectáculo."
+      },
+      {
+        "id": "B",
+        "text": "Contradecir la idea de que eran combatientes entrenados."
+      },
+      {
+        "id": "C",
+        "text": "Describir la arquitectura de los anfiteatros."
+      },
+      {
+        "id": "D",
+        "text": "Justificar la prohibición de los combates."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Ese fragmento amplía la información explicando cómo la variedad de armas y estilos aumentaba el interés del público, funcionando como desarrollo descriptivo secundario.",
+    "stimulus_id": "SPA-BUAP-R-05"
+  },
+  {
+    "id": "SPA-REA-062",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Su entrenamiento se llevaba a cabo en escuelas especiales llamadas ludus.”"
+      },
+      {
+        "id": "B",
+        "text": "“Algunos alcanzaron gran prestigio y recibieron premios.”"
+      },
+      {
+        "id": "C",
+        "text": "“Existían distintos tipos de gladiadores, cada uno con armas específicas.”"
+      },
+      {
+        "id": "D",
+        "text": "“Algunos utilizaban espada y escudo, mientras que otros combatían con redes o tridentes.”"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Aunque aporta un ejemplo concreto, su eliminación no afecta la idea central de diversidad en los tipos de gladiadores, ya que esta ya está establecida en el enunciado anterior.",
+    "stimulus_id": "SPA-BUAP-R-05"
+  },
+  {
+    "id": "SPA-REA-063",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "title",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué título sintetiza mejor el contenido del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“La violencia como único entretenimiento romano”"
+      },
+      {
+        "id": "B",
+        "text": "“Gladiadores: espectáculo, poder y sociedad en Roma”"
+      },
+      {
+        "id": "C",
+        "text": "“La arquitectura de los anfiteatros”"
+      },
+      {
+        "id": "D",
+        "text": "“El entrenamiento físico en la antigüedad”"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto aborda el espectáculo, la función política y el contexto social de los gladiadores, por lo que ese título resume de manera integral su contenido.",
+    "stimulus_id": "SPA-BUAP-R-05"
+  },
+  {
+    "id": "SPA-REA-064",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la percepción social de los gladiadores?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Eran universalmente rechazados por la sociedad romana."
+      },
+      {
+        "id": "B",
+        "text": "Eran figuras marginales sin reconocimiento público."
+      },
+      {
+        "id": "C",
+        "text": "Podían alcanzar popularidad y prestigio a pesar del riesgo constante."
+      },
+      {
+        "id": "D",
+        "text": "Solo eran vistos como criminales sin posibilidad de ascenso social."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto menciona que algunos recibían premios, reconocimiento e incluso la libertad, lo que permite inferir que podían alcanzar prestigio social.",
+    "stimulus_id": "SPA-BUAP-R-05"
+  },
+  {
+    "id": "SPA-REA-065",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "relationships_between_ideas",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué relación lógica se establece entre el cuestionamiento ético y la prohibición de los espectáculos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La prohibición ocurrió sin ningún cambio cultural previo."
+      },
+      {
+        "id": "B",
+        "text": "Los cambios religiosos y éticos influyeron en la desaparición de los combates."
+      },
+      {
+        "id": "C",
+        "text": "Los gladiadores se negaron a seguir participando."
+      },
+      {
+        "id": "D",
+        "text": "La economía romana colapsó por completo debido a los juegos."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto indica que los espectáculos fueron cuestionados por razones éticas y religiosas y que posteriormente fueron prohibidos, lo que muestra una relación causal entre cambio cultural y prohibición.",
+    "stimulus_id": "SPA-BUAP-R-05"
+  },
+  {
+    "id": "SPA-REA-066",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Las nuevas generaciones han perdido completamente la capacidad de concentrarse."
+      },
+      {
+        "id": "B",
+        "text": "La tecnología es perjudicial y debe eliminarse del entorno educativo."
+      },
+      {
+        "id": "C",
+        "text": "El uso constante de estímulos digitales ha modificado la atención, lo que exige un equilibrio consciente en su uso."
+      },
+      {
+        "id": "D",
+        "text": "La multitarea digital es la única causa del bajo rendimiento escolar."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto no plantea una condena absoluta, sino que explica cambios en la atención debido a la tecnología y propone un equilibrio consciente como solución, lo que sintetiza su idea central.",
+    "stimulus_id": "SPA-BUAP-R-06"
+  },
+  {
+    "id": "SPA-REA-067",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la multitarea digital según el texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Aumenta la profundidad del aprendizaje."
+      },
+      {
+        "id": "B",
+        "text": "Genera una ilusión de productividad mientras fragmenta la atención."
+      },
+      {
+        "id": "C",
+        "text": "Sustituye eficazmente los métodos tradicionales de estudio."
+      },
+      {
+        "id": "D",
+        "text": "Es irrelevante para el desarrollo cognitivo."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto afirma que la multitarea puede dar sensación de productividad, pero en realidad divide el foco y reduce la capacidad de profundización.",
+    "stimulus_id": "SPA-BUAP-R-06"
+  },
+  {
+    "id": "SPA-REA-068",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué función cumple el párrafo donde se mencionan las habilidades desarrolladas por las nuevas generaciones?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Contradecir por completo la postura crítica del texto."
+      },
+      {
+        "id": "B",
+        "text": "Introducir un matiz equilibrado que reconoce ventajas junto a dificultades."
+      },
+      {
+        "id": "C",
+        "text": "Desviar el tema hacia la programación informática."
+      },
+      {
+        "id": "D",
+        "text": "Justificar la eliminación de dispositivos electrónicos."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto reconoce habilidades como rapidez y adaptabilidad, lo que equilibra la postura y evita una visión completamente negativa.",
+    "stimulus_id": "SPA-BUAP-R-06"
+  },
+  {
+    "id": "SPA-REA-069",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Asimismo, muestran adaptabilidad ante cambios tecnológicos constantes.”"
+      },
+      {
+        "id": "B",
+        "text": "“Como consecuencia, se dificulta mantener la concentración en actividades prolongadas.”"
+      },
+      {
+        "id": "C",
+        "text": "“El problema surge cuando la estimulación continua impide momentos de reflexión profunda.”"
+      },
+      {
+        "id": "D",
+        "text": "“La clave está en educar para un consumo digital consciente.”"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Aunque aporta un matiz positivo, su eliminación no altera la estructura central del texto, que gira en torno a la transformación de la atención y la necesidad de equilibrio.",
+    "stimulus_id": "SPA-BUAP-R-06"
+  },
+  {
+    "id": "SPA-REA-070",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "title",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué título sintetiza mejor el contenido del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“La desaparición definitiva de la concentración”"
+      },
+      {
+        "id": "B",
+        "text": "“Tecnología y atención: retos y equilibrio en las nuevas generaciones” 36 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "C",
+        "text": "“La prohibición de redes sociales en la escuela”"
+      },
+      {
+        "id": "D",
+        "text": "“La multitarea como solución educativa”"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto aborda tanto los retos derivados de la tecnología como la necesidad de equilibrio, por lo que ese título integra ambos aspectos.",
+    "stimulus_id": "SPA-BUAP-R-06"
+  },
+  {
+    "id": "SPA-REA-071",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "relationships_between_ideas",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué relación lógica se establece entre la inmediatez de la información y la tolerancia a la frustración?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La rapidez de la información fortalece la paciencia académica."
+      },
+      {
+        "id": "B",
+        "text": "La expectativa de recompensas inmediatas reduce la tolerancia ante tareas prolongadas."
+      },
+      {
+        "id": "C",
+        "text": "La frustración no tiene relación con el entorno digital."
+      },
+      {
+        "id": "D",
+        "text": "La información instantánea elimina la necesidad de esfuerzo."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto menciona que la inmediatez crea expectativas de respuestas rápidas, lo que se vincula con menor tolerancia cuando las tareas requieren análisis prolongado.",
+    "stimulus_id": "SPA-BUAP-R-06"
+  },
+  {
+    "id": "SPA-REA-072",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la postura final del texto respecto a la tecnología?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Debe eliminarse por completo del entorno juvenil."
+      },
+      {
+        "id": "B",
+        "text": "Es la causa irreversible de un deterioro cognitivo permanente."
+      },
+      {
+        "id": "C",
+        "text": "Puede coexistir con el desarrollo de atención sostenida si se usa de forma equilibrada."
+      },
+      {
+        "id": "D",
+        "text": "Solo afecta negativamente al ámbito escolar."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto concluye que el reto consiste en equilibrar el uso tecnológico con hábitos que fortalezcan la concentración, lo que implica una postura moderada y no radical.",
+    "stimulus_id": "SPA-BUAP-R-06"
+  },
+  {
+    "id": "SPA-REA-073",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El cáncer es causado únicamente por hábitos poco saludables."
+      },
+      {
+        "id": "B",
+        "text": "La quimioterapia es el tratamiento más efectivo en todos los casos."
+      },
+      {
+        "id": "C",
+        "text": "El cáncer es una enfermedad compleja que requiere prevención, detección oportuna y tratamiento integral."
+      },
+      {
+        "id": "D",
+        "text": "Todos los tipos de cáncer se desarrollan de la misma manera."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto aborda definición, causas, detección, tratamiento y apoyo emocional, concluyendo que se trata de una enfermedad compleja que exige un enfoque integral.",
+    "stimulus_id": "SPA-BUAP-R-07"
+  },
+  {
+    "id": "SPA-REA-074",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre las causas del cáncer según el texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Siempre existe una causa única claramente identificable."
+      },
+      {
+        "id": "B",
+        "text": "Los factores genéticos no influyen en su desarrollo. 38 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "C",
+        "text": "Es el resultado de la interacción de diversos factores y no siempre puede explicarse por uno solo."
+      },
+      {
+        "id": "D",
+        "text": "Solo afecta a personas con malos hábitos alimenticios."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto menciona factores genéticos, ambientales y de estilo de vida, y aclara que no todos los casos se explican por una sola causa.",
+    "stimulus_id": "SPA-BUAP-R-07"
+  },
+  {
+    "id": "SPA-REA-075",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué función cumple el párrafo que aborda el apoyo psicológico y familiar?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Desviar el tema hacia la salud mental exclusivamente."
+      },
+      {
+        "id": "B",
+        "text": "Complementar la visión médica con una dimensión emocional del tratamiento."
+      },
+      {
+        "id": "C",
+        "text": "Contradecir la importancia de los tratamientos clínicos."
+      },
+      {
+        "id": "D",
+        "text": "Sustituir la necesidad de intervenciones médicas."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto amplía la perspectiva mostrando que el tratamiento no es solo físico, sino también emocional, lo que refuerza el enfoque integral.",
+    "stimulus_id": "SPA-BUAP-R-07"
+  },
+  {
+    "id": "SPA-REA-076",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Cada tipo presenta características particulares, aunque comparten mecanismos similares.”"
+      },
+      {
+        "id": "B",
+        "text": "“Existen diversos tipos de cáncer, dependiendo del órgano donde se originen.”"
+      },
+      {
+        "id": "C",
+        "text": "“En las últimas décadas, la investigación científica ha impulsado avances significativos.”"
+      },
+      {
+        "id": "D",
+        "text": "“El acompañamiento familiar contribuye al bienestar emocional del paciente.”"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Aunque aporta un matiz explicativo, su eliminación no altera la estructura central del texto, que ya establece la diversidad de tipos y la complejidad de la enfermedad.",
+    "stimulus_id": "SPA-BUAP-R-07"
+  },
+  {
+    "id": "SPA-REA-077",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "title",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué título sintetiza mejor el contenido del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“La quimioterapia como única esperanza médica”"
+      },
+      {
+        "id": "B",
+        "text": "“El cáncer: causas, prevención y tratamiento integral”"
+      },
+      {
+        "id": "C",
+        "text": "“Los efectos psicológicos de las enfermedades”"
+      },
+      {
+        "id": "D",
+        "text": "“Hábitos alimenticios y enfermedades comunes”"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto aborda definición, causas, detección, tratamientos y apoyo, por lo que ese título resume de manera completa su contenido.",
+    "stimulus_id": "SPA-BUAP-R-07"
+  },
+  {
+    "id": "SPA-REA-078",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "relationships_between_ideas",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué relación lógica se establece entre detección temprana y éxito del tratamiento?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La detección tardía garantiza mejores resultados."
+      },
+      {
+        "id": "B",
+        "text": "La identificación en etapas iniciales amplía las posibilidades de intervención efectiva."
+      },
+      {
+        "id": "C",
+        "text": "Los exámenes médicos no influyen en la evolución de la enfermedad."
+      },
+      {
+        "id": "D",
+        "text": "El tratamiento depende únicamente del estado emocional del paciente."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto afirma que cuando se detecta a tiempo, las opciones terapéuticas suelen ser más efectivas, lo que establece una relación directa entre diagnóstico temprano y éxito.",
+    "stimulus_id": "SPA-BUAP-R-07"
+  },
+  {
+    "id": "SPA-REA-079",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre el enfoque del texto respecto al cáncer?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Presenta una visión fatalista sin posibilidad de mejora."
+      },
+      {
+        "id": "B",
+        "text": "Ofrece una explicación equilibrada que integra información científica y recomendaciones preventivas."
+      },
+      {
+        "id": "C",
+        "text": "Minimiza la gravedad de la enfermedad."
+      },
+      {
+        "id": "D",
+        "text": "Se enfoca exclusivamente en estadísticas médicas."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto combina definición, causas, tratamientos, prevención y apoyo emocional, mostrando un enfoque informativo y equilibrado, no alarmista ni reduccionista.",
+    "stimulus_id": "SPA-BUAP-R-07"
+  },
+  {
+    "id": "SPA-REA-080",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Las personas con experiencia siempre dudan de todo lo que saben."
+      },
+      {
+        "id": "B",
+        "text": "El efecto Dunning-Kruger demuestra que la autopercepción de competencia puede no coincidir con la habilidad real."
+      },
+      {
+        "id": "C",
+        "text": "El efecto Dunning-Kruger demuestra que las redes sociales son la causa principal de la ignorancia moderna."
+      },
+      {
+        "id": "D",
+        "text": "El efecto Dunning-Kruger demuestra que la humildad cognitiva es innecesaria en el aprendizaje."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto explica el fenómeno psicológico, sus causas y consecuencias, concluyendo que existe una discrepancia entre competencia real y percepción subjetiva.",
+    "stimulus_id": "SPA-BUAP-R-08"
+  },
+  {
+    "id": "SPA-REA-081",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la relación entre conocimiento y autoconfianza?",
+    "options": [
+      {
+        "id": "A",
+        "text": "A mayor ignorancia, menor seguridad en uno mismo."
+      },
+      {
+        "id": "B",
+        "text": "La autoconfianza siempre refleja con precisión la competencia real."
+      },
+      {
+        "id": "C",
+        "text": "La falta de conocimiento puede generar una confianza desproporcionada."
+      },
+      {
+        "id": "D",
+        "text": "El conocimiento elimina completamente la duda."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto señala que quienes tienen menos habilidades tienden a sobreestimarse, lo que implica una confianza excesiva basada en desconocimiento.",
+    "stimulus_id": "SPA-BUAP-R-08"
+  },
+  {
+    "id": "SPA-REA-082",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué función cumple el párrafo donde se menciona el ámbito digital y las redes sociales?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Desviar el tema hacia la tecnología como único problema."
+      },
+      {
+        "id": "B",
+        "text": "Ofrecer un ejemplo contemporáneo donde el fenómeno puede intensificarse."
+      },
+      {
+        "id": "C",
+        "text": "Contradecir la explicación psicológica inicial."
+      },
+      {
+        "id": "D",
+        "text": "Justificar la prohibición del uso de internet."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Ese fragmento ejemplifica cómo el efecto puede amplificarse en contextos digitales, reforzando la explicación general.",
+    "stimulus_id": "SPA-BUAP-R-08"
+  },
+  {
+    "id": "SPA-REA-083",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“A medida que se adquiere conocimiento, mejora la capacidad de autoevaluación.”"
+      },
+      {
+        "id": "B",
+        "text": "“Este fenómeno también invita a reflexionar sobre la importancia de la humildad cognitiva.”"
+      },
+      {
+        "id": "C",
+        "text": "“El concepto fue propuesto a partir de investigaciones que analizaron la relación entre competencia real y autoconfianza.” 41 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "D",
+        "text": "“En entornos digitales, la facilidad para opinar sin verificación puede amplificar esta distorsión.”"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Aunque aporta un ejemplo contextual, su eliminación no afecta la explicación central del fenómeno psicológico ni su relación con el aprendizaje y la autopercepción.",
+    "stimulus_id": "SPA-BUAP-R-08"
+  },
+  {
+    "id": "SPA-REA-084",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "title",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué título sintetiza mejor el contenido del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“La ignorancia en la era digital”"
+      },
+      {
+        "id": "B",
+        "text": "“Confianza y error: comprensión del efecto Dunning-Kruger”"
+      },
+      {
+        "id": "C",
+        "text": "“La prohibición de opinar sin estudios”"
+      },
+      {
+        "id": "D",
+        "text": "“La superioridad intelectual de los expertos”"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto aborda la discrepancia entre confianza y competencia, así como sus implicaciones educativas, lo que ese título resume adecuadamente.",
+    "stimulus_id": "SPA-BUAP-R-08"
+  },
+  {
+    "id": "SPA-REA-085",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "relationships_between_ideas",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué relación lógica se establece entre metacognición y reducción del efecto Dunning- Kruger?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La metacognición elimina toda posibilidad de error."
+      },
+      {
+        "id": "B",
+        "text": "Evaluar el propio aprendizaje fortalece la competencia real y la autoconciencia."
+      },
+      {
+        "id": "C",
+        "text": "La metacognición reemplaza el conocimiento técnico."
+      },
+      {
+        "id": "D",
+        "text": "Reflexionar sobre el aprendizaje disminuye la motivación."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto afirma que enseñar a evaluar el propio proceso fortalece la competencia real, lo que implica una mejor autopercepción y menor distorsión.",
+    "stimulus_id": "SPA-BUAP-R-08"
+  },
+  {
+    "id": "SPA-REA-086",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la postura final del texto respecto al efecto Dunning- Kruger?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es un problema irreversible sin solución posible."
+      },
+      {
+        "id": "B",
+        "text": "Solo afecta a personas sin estudios formales."
+      },
+      {
+        "id": "C",
+        "text": "Puede superarse mediante aprendizaje continuo y autocrítica."
+      },
+      {
+        "id": "D",
+        "text": "Es un fenómeno exclusivo del ámbito académico."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto destaca la importancia del reconocimiento de errores, la humildad cognitiva y la formación constante, lo que sugiere que el efecto puede mitigarse mediante desarrollo intelectual.",
+    "stimulus_id": "SPA-BUAP-R-08"
+  },
+  {
+    "id": "SPA-REA-087",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los zoológicos deben desaparecer por completo."
+      },
+      {
+        "id": "B",
+        "text": "Los santuarios de vida silvestre priorizan el bienestar y la conservación de especies, diferenciándose de los zoológicos por su enfoque."
+      },
+      {
+        "id": "C",
+        "text": "La reproducción animal debe prohibirse en todos los espacios controlados."
+      },
+      {
+        "id": "D",
+        "text": "La educación ambiental solo puede realizarse fuera de espacios cerrados. 43 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto desarrolla la función de los santuarios, su importancia en la conservación y establece una comparación con los zoológicos para resaltar su enfoque en la protección y el bienestar.",
+    "stimulus_id": "SPA-BUAP-R-09"
+  },
+  {
+    "id": "SPA-REA-088",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la finalidad principal de los santuarios?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Generar ingresos mediante la exhibición constante de animales."
+      },
+      {
+        "id": "B",
+        "text": "Sustituir completamente los ecosistemas naturales."
+      },
+      {
+        "id": "C",
+        "text": "Proteger, rehabilitar y preservar especies vulnerables priorizando su bienestar."
+      },
+      {
+        "id": "D",
+        "text": "Competir con los zoológicos en número de visitantes."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto enfatiza que los santuarios ofrecen refugio, rehabilitación y protección, sin centrarse en la exhibición pública.",
+    "stimulus_id": "SPA-BUAP-R-09"
+  },
+  {
+    "id": "SPA-REA-089",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué función cumple el párrafo donde se establece la diferencia con los zoológicos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Desacreditar completamente la existencia de los zoológicos."
+      },
+      {
+        "id": "B",
+        "text": "Introducir una comparación que permite comprender mejor el enfoque ético de los santuarios."
+      },
+      {
+        "id": "C",
+        "text": "Cambiar el tema hacia la historia de los zoológicos."
+      },
+      {
+        "id": "D",
+        "text": "Justificar la comercialización de especies en cautiverio."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La comparación ayuda a clarificar la identidad y propósito de los santuarios al contrastarlos con otra institución conocida.",
+    "stimulus_id": "SPA-BUAP-R-09"
+  },
+  {
+    "id": "SPA-REA-090",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Asimismo, estos espacios generan información científica útil para la protección futura.”"
+      },
+      {
+        "id": "B",
+        "text": "“En un santuario, los animales no suelen ser obligados a interactuar con el público.”"
+      },
+      {
+        "id": "C",
+        "text": "“Muchos santuarios trabajan en coordinación con organizaciones ambientales.”"
+      },
+      {
+        "id": "D",
+        "text": "“Al resguardar especies vulnerables, se preservan funciones ecológicas esenciales.”"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Aunque aporta un beneficio adicional, su eliminación no afecta la estructura central del texto, que se centra en la conservación, el bienestar y la diferencia con los zoológicos.",
+    "stimulus_id": "SPA-BUAP-R-09"
+  },
+  {
+    "id": "SPA-REA-091",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "title",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué título sintetiza mejor el contenido del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“La exhibición animal en espacios controlados”"
+      },
+      {
+        "id": "B",
+        "text": "“Santuarios de vida silvestre: conservación y bienestar frente a la exhibición tradicional”"
+      },
+      {
+        "id": "C",
+        "text": "“La historia de los zoológicos modernos”"
+      },
+      {
+        "id": "D",
+        "text": "“El comercio internacional de especies”"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto explica la importancia de los santuarios y los contrasta con los zoológicos, por lo que este título resume ambos elementos centrales.",
+    "stimulus_id": "SPA-BUAP-R-09"
+  },
+  {
+    "id": "SPA-REA-092",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "relationships_between_ideas",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué relación lógica se establece entre la conservación de especies y el equilibrio ambiental?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La conservación solo beneficia a los animales individuales."
+      },
+      {
+        "id": "B",
+        "text": "Mantener especies vulnerables ayuda a preservar funciones ecológicas esenciales."
+      },
+      {
+        "id": "C",
+        "text": "El equilibrio ambiental depende únicamente de factores climáticos."
+      },
+      {
+        "id": "D",
+        "text": "La biodiversidad no influye en los ecosistemas."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto señala que proteger especies también implica mantener funciones ecológicas, lo que establece una relación directa entre conservación y equilibrio ambiental.",
+    "stimulus_id": "SPA-BUAP-R-09"
+  },
+  {
+    "id": "SPA-REA-093",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la dimensión educativa de los santuarios?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Su propósito educativo es exclusivamente recreativo."
+      },
+      {
+        "id": "B",
+        "text": "Buscan sensibilizar desde una perspectiva ética sobre el impacto humano en la biodiversidad. 44 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "C",
+        "text": "Sustituyen por completo la educación formal en biología."
+      },
+      {
+        "id": "D",
+        "text": "Solo educan a especialistas en ciencias naturales."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto menciona que los santuarios promueven la concientización y el respeto hacia los ecosistemas, lo que implica una función educativa con enfoque ético.",
+    "stimulus_id": "SPA-BUAP-R-09"
+  },
+  {
+    "id": "SPA-REA-094",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los cachorros son animales que requieren únicamente afecto durante sus primeras semanas."
+      },
+      {
+        "id": "B",
+        "text": "La etapa de cachorro es un periodo clave que exige cuidados, socialización y responsabilidad para garantizar un desarrollo equilibrado."
+      },
+      {
+        "id": "C",
+        "text": "Las vacunas son el aspecto más importante en la vida de un cachorro."
+      },
+      {
+        "id": "D",
+        "text": "El juego es la única actividad relevante en el crecimiento animal."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto integra alimentación, socialización, atención veterinaria y responsabilidad, concluyendo que esta etapa requiere compromiso integral para un desarrollo saludable.",
+    "stimulus_id": "SPA-BUAP-R-10"
+  },
+  {
+    "id": "SPA-REA-095",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la relación entre juego y desarrollo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El juego es una actividad recreativa sin impacto en el crecimiento."
+      },
+      {
+        "id": "B",
+        "text": "El juego contribuye al desarrollo físico, social y conductual del cachorro."
+      },
+      {
+        "id": "C",
+        "text": "El juego debe evitarse para prevenir accidentes."
+      },
+      {
+        "id": "D",
+        "text": "El juego sustituye la necesidad de supervisión adulta."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto señala que el juego fortalece habilidades físicas, coordinación y comprensión de señales sociales, lo que implica un impacto integral en el desarrollo.",
+    "stimulus_id": "SPA-BUAP-R-10"
+  },
+  {
+    "id": "SPA-REA-096",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué función cumple el párrafo sobre socialización temprana?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Introducir una consecuencia futura del entorno inicial del cachorro."
+      },
+      {
+        "id": "B",
+        "text": "Contradecir la importancia del cuidado veterinario."
+      },
+      {
+        "id": "C",
+        "text": "Describir únicamente el comportamiento de perros adultos."
+      },
+      {
+        "id": "D",
+        "text": "Desviar el tema hacia la genética animal."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Ese fragmento explica cómo las experiencias tempranas influyen en el comportamiento futuro, funcionando como proyección de consecuencias.",
+    "stimulus_id": "SPA-BUAP-R-10"
+  },
+  {
+    "id": "SPA-REA-097",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Asimismo, la orientación profesional permite detectar posibles problemas de salud a tiempo.”"
+      },
+      {
+        "id": "B",
+        "text": "“Durante sus primeras semanas dependen casi por completo de su madre.”"
+      },
+      {
+        "id": "C",
+        "text": "“El juego cumple una función importante en el desarrollo.”"
+      },
+      {
+        "id": "D",
+        "text": "“Adoptar un cachorro implica una responsabilidad a largo plazo.”"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Aunque aporta un detalle complementario, la idea central sobre cuidado veterinario ya está establecida con las vacunas y revisiones, por lo que su eliminación no rompe la coherencia general.",
+    "stimulus_id": "SPA-BUAP-R-10"
+  },
+  {
+    "id": "SPA-REA-098",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "title",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué título sintetiza mejor el contenido del texto? 46 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP",
+    "options": [
+      {
+        "id": "A",
+        "text": "“El entretenimiento en los animales jóvenes”"
+      },
+      {
+        "id": "B",
+        "text": "“Cachorros: cuidados, socialización y responsabilidad en su desarrollo”"
+      },
+      {
+        "id": "C",
+        "text": "“Vacunación obligatoria en mascotas”"
+      },
+      {
+        "id": "D",
+        "text": "“La independencia temprana de los animales domésticos”"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto aborda varias dimensiones del desarrollo del cachorro, integrando cuidados físicos, sociales y responsabilidad humana.",
+    "stimulus_id": "SPA-BUAP-R-10"
+  },
+  {
+    "id": "SPA-REA-099",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "relationships_between_ideas",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué relación lógica se establece entre entorno seguro y crecimiento saludable?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El entorno no influye en el desarrollo físico."
+      },
+      {
+        "id": "B",
+        "text": "La seguridad y alimentación adecuada favorecen un desarrollo integral."
+      },
+      {
+        "id": "C",
+        "text": "El crecimiento depende únicamente de factores genéticos."
+      },
+      {
+        "id": "D",
+        "text": "La protección excesiva impide cualquier aprendizaje."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto menciona que la alimentación adecuada y un entorno seguro son esenciales para el crecimiento saludable, estableciendo una relación directa.",
+    "stimulus_id": "SPA-BUAP-R-10"
+  },
+  {
+    "id": "SPA-REA-100",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la responsabilidad de adoptar un cachorro?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es una decisión temporal limitada a la etapa juvenil del animal."
+      },
+      {
+        "id": "B",
+        "text": "Implica únicamente brindar cariño inicial."
+      },
+      {
+        "id": "C",
+        "text": "Supone un compromiso continuo que va más allá del afecto."
+      },
+      {
+        "id": "D",
+        "text": "Se reduce a cumplir con el calendario de vacunas."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto afirma que adoptar un cachorro implica responsabilidad a largo plazo y no solo afecto, lo que indica un compromiso integral y continuo. 47 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP",
+    "stimulus_id": "SPA-BUAP-R-10"
+  },
+  {
+    "id": "SPA-REA-101",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto sobre los dinosaurios?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los dinosaurios fueron los animales más grandes que han existido."
+      },
+      {
+        "id": "B",
+        "text": "La extinción por asteroide es el único aspecto relevante de su historia."
+      },
+      {
+        "id": "C",
+        "text": "Los dinosaurios fueron un grupo diverso que dominaron la Tierra y cuya desaparición transformó la evolución."
+      },
+      {
+        "id": "D",
+        "text": "Las aves modernas no tienen relación con los dinosaurios."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto integra origen, diversidad, evidencia fósil y consecuencias evolutivas, mostrando que su importancia radica tanto en su dominio como en el impacto de su extinción.",
+    "stimulus_id": "SPA-BUAP-R-11"
+  },
+  {
+    "id": "SPA-REA-102",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la relación entre fósiles y conocimiento científico?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los fósiles solo permiten conocer el tamaño de los dinosaurios."
+      },
+      {
+        "id": "B",
+        "text": "Sin fósiles sería imposible reconstruir aspectos de su comportamiento y entorno."
+      },
+      {
+        "id": "C",
+        "text": "Los fósiles explican exclusivamente la causa de la extinción."
+      },
+      {
+        "id": "D",
+        "text": "Los fósiles no aportan información climática."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto indica que gracias a restos óseos y huellas se reconstruye su modo de vida y se comprenden cambios climáticos, lo que implica su papel esencial en la investigación. 3. Respuesta correcta: A 50 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP Justificación: Aunque aporta un dato relevante, no altera la estructura central del texto (dominio, fósiles, extinción y consecuencias evolutivas).",
+    "stimulus_id": "SPA-BUAP-R-11"
+  },
+  {
+    "id": "SPA-REA-103",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "title",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué título sintetiza mejor el contenido del texto sobre dinosaurios?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“El asteroide que cambió la historia”"
+      },
+      {
+        "id": "B",
+        "text": "“Dinosaurios: dominio, evidencia fósil y transformación evolutiva”"
+      },
+      {
+        "id": "C",
+        "text": "“Las aves y su origen misterioso”"
+      },
+      {
+        "id": "D",
+        "text": "“La vida secreta de los reptiles gigantes”"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Resume los tres ejes principales: dominio, estudio científico y consecuencias evolutivas.",
+    "stimulus_id": "SPA-BUAP-R-11"
+  },
+  {
+    "id": "SPA-REA-104",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la extinción de los dinosaurios?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fue un evento sin impacto posterior en la biodiversidad."
+      },
+      {
+        "id": "B",
+        "text": "Solo afectó a especies herbívoras."
+      },
+      {
+        "id": "C",
+        "text": "Generó condiciones que favorecieron la expansión de otros grupos."
+      },
+      {
+        "id": "D",
+        "text": "Ocurrió gradualmente sin factores externos."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto indica que permitió la diversificación de los mamíferos, lo que implica un cambio ecológico significativo.",
+    "stimulus_id": "SPA-BUAP-R-11"
+  },
+  {
+    "id": "SPA-REA-105",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto sobre combustibles fósiles?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El petróleo es el recurso más importante del mundo. 49 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "B",
+        "text": "Los combustibles fósiles han impulsado el desarrollo moderno, pero generan problemas ambientales y de sostenibilidad."
+      },
+      {
+        "id": "C",
+        "text": "Las energías renovables ya han reemplazado totalmente a los combustibles fósiles."
+      },
+      {
+        "id": "D",
+        "text": "El carbón es la fuente más antigua de energía."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto presenta tanto su importancia histórica como sus consecuencias ambientales y el desafío energético futuro.",
+    "stimulus_id": "SPA-BUAP-R-11"
+  },
+  {
+    "id": "SPA-REA-106",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "relationships_between_ideas",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué relación lógica se establece entre su formación y el problema de sostenibilidad?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se forman rápidamente y se consumen lentamente."
+      },
+      {
+        "id": "B",
+        "text": "Se regeneran con cada ciclo climático."
+      },
+      {
+        "id": "C",
+        "text": "Tardan millones de años en formarse, pero se consumen en poco tiempo."
+      },
+      {
+        "id": "D",
+        "text": "Su formación depende del uso humano."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto señala que son no renovables porque su formación es muy lenta frente a su consumo acelerado.",
+    "stimulus_id": "SPA-BUAP-R-11"
+  },
+  {
+    "id": "SPA-REA-107",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto sobre combustibles fósiles?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Su alta densidad energética los convierte en fuentes eficientes.”"
+      },
+      {
+        "id": "B",
+        "text": "“Desde la Revolución Industrial han sido base del desarrollo.”"
+      },
+      {
+        "id": "C",
+        "text": "“Estas emisiones contribuyen al calentamiento global.”"
+      },
+      {
+        "id": "D",
+        "text": "“Estas fuentes buscan reducir la dependencia de los combustibles fósiles.”"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Aunque complementa la explicación técnica, no altera la estructura central: origen, importancia histórica, impacto ambiental y alternativas.",
+    "stimulus_id": "SPA-BUAP-R-11"
+  },
+  {
+    "id": "SPA-REA-108",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "comparison_synthesis",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué elemento conceptual comparten ambos textos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ambos describen recursos energéticos actuales."
+      },
+      {
+        "id": "B",
+        "text": "Ambos abordan procesos de transformación a lo largo del tiempo con impacto global."
+      },
+      {
+        "id": "C",
+        "text": "Ambos explican exclusivamente fenómenos climáticos."
+      },
+      {
+        "id": "D",
+        "text": "Ambos se centran en la vida animal contemporánea."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Los dinosaurios y los combustibles fósiles están vinculados a procesos históricos prolongados que transformaron la Tierra y su equilibrio ecológico.",
+    "stimulus_id": "SPA-BUAP-R-11"
+  },
+  {
+    "id": "SPA-REA-109",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "comparison_synthesis",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué diferencia fundamental existe entre el enfoque de ambos textos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Uno es histórico-científico y el otro es exclusivamente científico."
+      },
+      {
+        "id": "B",
+        "text": "Uno explica un fenómeno biológico del pasado y el otro analiza un recurso energético con implicaciones actuales."
+      },
+      {
+        "id": "C",
+        "text": "Ambos tratan únicamente sobre la extinción."
+      },
+      {
+        "id": "D",
+        "text": "Ambos son textos narrativos sobre el origen y evolución de los fósiles."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto de dinosaurios se centra en historia natural y evolución pasada, mientras que el de combustibles fósiles analiza un recurso actual con impacto ambiental y económico.",
+    "stimulus_id": "SPA-BUAP-R-11"
+  },
+  {
+    "id": "SPA-REA-110",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto sobre la obsolescencia programada?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La obsolescencia programada es una práctica exclusivamente ambiental."
+      },
+      {
+        "id": "B",
+        "text": "La obsolescencia programada es una estrategia que impulsa el consumo constante y genera consecuencias económicas y ambientales."
+      },
+      {
+        "id": "C",
+        "text": "Todos los productos tecnológicos dejan de funcionar por accidente."
+      },
+      {
+        "id": "D",
+        "text": "La reparación de dispositivos es imposible en la actualidad."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto explica qué es la obsolescencia programada, sus fines económicos y sus impactos ambientales y sociales, mostrando un enfoque integral.",
+    "stimulus_id": "SPA-BUAP-R-12"
+  },
+  {
+    "id": "SPA-REA-111",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la relación entre obsolescencia programada y cultura de consumo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Promueve la reparación prolongada de productos. 52 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "B",
+        "text": "Fomenta la sustitución frecuente en lugar del mantenimiento."
+      },
+      {
+        "id": "C",
+        "text": "Reduce la producción industrial."
+      },
+      {
+        "id": "D",
+        "text": "Elimina la necesidad de marketing."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto señala que se promovió una cultura de reemplazo en lugar de reparación, lo que implica una relación directa con el consumo constante.",
+    "stimulus_id": "SPA-BUAP-R-12"
+  },
+  {
+    "id": "SPA-REA-112",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Muchos dispositivos contienen materiales contaminantes difíciles de reciclar.”"
+      },
+      {
+        "id": "B",
+        "text": "“Por un lado, mantiene activa la producción industrial y genera empleo.”"
+      },
+      {
+        "id": "C",
+        "text": "“Esta práctica busca incentivar la compra constante.”"
+      },
+      {
+        "id": "D",
+        "text": "“Frente a este problema, han surgido movimientos que promueven el derecho a reparar.”"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Aunque aporta un detalle específico, la idea del impacto ambiental ya está establecida; su eliminación no rompe la estructura central del texto.",
+    "stimulus_id": "SPA-BUAP-R-12"
+  },
+  {
+    "id": "SPA-REA-113",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "title",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué título sintetiza mejor el contenido del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“La imposibilidad de reparar productos modernos”"
+      },
+      {
+        "id": "B",
+        "text": "“Obsolescencia programada: consumo, economía e impacto ambiental”"
+      },
+      {
+        "id": "C",
+        "text": "“La historia de la industria tecnológica”"
+      },
+      {
+        "id": "D",
+        "text": "“El reciclaje como única solución”"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Resume la definición, consecuencias económicas y ambientales, y el debate social en torno al tema.",
+    "stimulus_id": "SPA-BUAP-R-12"
+  },
+  {
+    "id": "SPA-REA-114",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto sobre hábitos de consumo tecnológico?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La tecnología moderna es innecesaria."
+      },
+      {
+        "id": "B",
+        "text": "Los hábitos de consumo tecnológico están influenciados por factores sociales y económicos que pueden orientarse hacia prácticas responsables."
+      },
+      {
+        "id": "C",
+        "text": "La publicidad determina completamente las decisiones individuales."
+      },
+      {
+        "id": "D",
+        "text": "Comprar el último modelo es siempre una necesidad funcional."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto analiza factores sociales, culturales y económicos que influyen en el consumo, concluyendo con la posibilidad de un consumo más consciente.",
+    "stimulus_id": "SPA-BUAP-R-12"
+  },
+  {
+    "id": "SPA-REA-115",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre el papel del marketing en el consumo tecnológico?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Solo informa objetivamente sobre mejoras técnicas."
+      },
+      {
+        "id": "B",
+        "text": "Puede generar la percepción de obsolescencia aun cuando el producto funciona correctamente."
+      },
+      {
+        "id": "C",
+        "text": "Reduce el deseo de adquirir nuevos dispositivos."
+      },
+      {
+        "id": "D",
+        "text": "No influye en la percepción social del estatus."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto indica que la publicidad destaca innovaciones incrementales que generan sensación de obsolescencia.",
+    "stimulus_id": "SPA-BUAP-R-12"
+  },
+  {
+    "id": "SPA-REA-116",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Mostrar el último modelo puede asociarse con estatus.”"
+      },
+      {
+        "id": "B",
+        "text": "“La compra constante puede afectar el presupuesto familiar.”"
+      },
+      {
+        "id": "C",
+        "text": "“Dispositivos como teléfonos inteligentes se actualizan constantemente.”"
+      },
+      {
+        "id": "D",
+        "text": "“Este cambio refleja una mayor preocupación por la sostenibilidad.”"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Aunque aporta una dimensión simbólica, el eje central (influencia social y económica + posibilidad de consumo responsable) se mantiene sin ese detalle. 54 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP",
+    "stimulus_id": "SPA-BUAP-R-12"
+  },
+  {
+    "id": "SPA-REA-117",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "comparison_synthesis",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué elemento estructural comparten ambos textos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ambos presentan un problema y luego mencionan posibles respuestas o alternativas."
+      },
+      {
+        "id": "B",
+        "text": "Ambos critican exclusivamente a los consumidores. 53 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "C",
+        "text": "Ambos son textos narrativos históricos."
+      },
+      {
+        "id": "D",
+        "text": "Ambos se enfocan únicamente en el reciclaje."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "En ambos textos se presenta una problemática (obsolescencia y consumo excesivo) y luego se mencionan movimientos o prácticas más responsables.",
+    "stimulus_id": "SPA-BUAP-R-12"
+  },
+  {
+    "id": "SPA-REA-118",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "relationships_between_ideas",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué relación conceptual puede establecerse entre obsolescencia programada y hábitos de consumo tecnológico?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Son fenómenos independientes sin conexión."
+      },
+      {
+        "id": "B",
+        "text": "La obsolescencia programada influye en los hábitos de consumo al incentivar la renovación constante."
+      },
+      {
+        "id": "C",
+        "text": "Los hábitos de consumo eliminan la necesidad de obsolescencia."
+      },
+      {
+        "id": "D",
+        "text": "Ambos temas tratan exclusivamente sobre reciclaje industrial."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La estrategia empresarial descrita en el primer texto impacta directamente en las decisiones de compra analizadas en el segundo.",
+    "stimulus_id": "SPA-BUAP-R-12"
+  },
+  {
+    "id": "SPA-REA-119",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "comparison_synthesis",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué síntesis general puede elaborarse a partir de ambos textos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La tecnología debe prohibirse para evitar contaminación."
+      },
+      {
+        "id": "B",
+        "text": "El consumo tecnológico es inevitable y no puede modificarse."
+      },
+      {
+        "id": "C",
+        "text": "Existe una interacción entre estrategias industriales y decisiones individuales que impacta en economía y medio ambiente."
+      },
+      {
+        "id": "D",
+        "text": "El problema se limita exclusivamente a empresas tecnológicas."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Ambos textos muestran cómo decisiones empresariales y hábitos de consumo se relacionan y generan consecuencias económicas y ambientales compartidas.",
+    "stimulus_id": "SPA-BUAP-R-12"
+  },
+  {
+    "id": "SPA-REA-120",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto sobre Acapulco?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Acapulco es únicamente un destino de playa sin relevancia histórica."
+      },
+      {
+        "id": "B",
+        "text": "Los huracanes son el aspecto más importante en la historia de la ciudad."
+      },
+      {
+        "id": "C",
+        "text": "Acapulco es un destino turístico de relevancia histórica y cultural que enfrenta retos y procesos de adaptación."
+      },
+      {
+        "id": "D",
+        "text": "La gastronomía es el único atractivo del puerto."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto integra su importancia histórica, económica y cultural, así como los desafíos y proyectos de renovación, mostrando una visión amplia y no limitada a un solo aspecto.",
+    "stimulus_id": "SPA-BUAP-R-13"
+  },
+  {
+    "id": "SPA-REA-121",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre los proyectos de renovación urbana?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sustituyen completamente la actividad turística tradicional."
+      },
+      {
+        "id": "B",
+        "text": "Buscan fortalecer la economía y mejorar la imagen del destino ante nuevos desafíos."
+      },
+      {
+        "id": "C",
+        "text": "Eliminan la necesidad de turismo sustentable."
+      },
+      {
+        "id": "D",
+        "text": "Son iniciativas exclusivamente culturales sin impacto económico."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto señala que estas iniciativas buscan fortalecer la actividad económica y mejorar la imagen, lo que implica una respuesta estratégica ante los retos mencionados.",
+    "stimulus_id": "SPA-BUAP-R-13"
+  },
+  {
+    "id": "SPA-REA-122",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto sobre Acapulco?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Platillos típicos y tradiciones locales enriquecen la experiencia de los visitantes.”"
+      },
+      {
+        "id": "B",
+        "text": "“Hoteles, restaurantes y actividades acuáticas forman parte esencial de su oferta.”"
+      },
+      {
+        "id": "C",
+        "text": "“Su bahía es considerada una de las más hermosas del país.”"
+      },
+      {
+        "id": "D",
+        "text": "“Estas exhibiciones se han convertido en un símbolo cultural del puerto.”"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Aunque complementa la dimensión cultural, el eje central (turismo, retos y renovación) se mantiene sin ese detalle gastronómico específico.",
+    "stimulus_id": "SPA-BUAP-R-13"
+  },
+  {
+    "id": "SPA-REA-123",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "title",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué título sintetiza mejor el contenido del texto sobre Acapulco? 56 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Huracanes en el Pacífico mexicano”"
+      },
+      {
+        "id": "B",
+        "text": "“Acapulco: historia, turismo y desafíos contemporáneos”"
+      },
+      {
+        "id": "C",
+        "text": "“La gastronomía del estado de Guerrero”"
+      },
+      {
+        "id": "D",
+        "text": "“El declive definitivo del turismo mexicano”"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Resume los elementos centrales: relevancia histórica, motor turístico y adaptación ante retos.",
+    "stimulus_id": "SPA-BUAP-R-13"
+  },
+  {
+    "id": "SPA-REA-124",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué función cumple el ejemplo de los clavadistas de La Quebrada dentro del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Introducir un problema ambiental."
+      },
+      {
+        "id": "B",
+        "text": "Ejemplificar un símbolo cultural representativo del puerto."
+      },
+      {
+        "id": "C",
+        "text": "Describir una actividad deportiva internacional."
+      },
+      {
+        "id": "D",
+        "text": "Sustituir la explicación económica del turismo."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto los menciona como símbolo cultural, reforzando la identidad turística de Acapulco.",
+    "stimulus_id": "SPA-BUAP-R-13"
+  },
+  {
+    "id": "SPA-REA-125",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto sobre videojuegos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los videojuegos generan únicamente efectos negativos."
+      },
+      {
+        "id": "B",
+        "text": "Los videojuegos son una industria tecnológica con impacto cultural y potencial educativo que requiere uso equilibrado."
+      },
+      {
+        "id": "C",
+        "text": "Los deportes electrónicos reemplazarán al deporte tradicional."
+      },
+      {
+        "id": "D",
+        "text": "Los videojuegos solo sirven como entretenimiento infantil."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto integra evolución, impacto económico, beneficios cognitivos y necesidad de equilibrio, mostrando una visión integral.",
+    "stimulus_id": "SPA-BUAP-R-13"
+  },
+  {
+    "id": "SPA-REA-126",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la relación entre videojuegos y habilidades cognitivas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los videojuegos eliminan la necesidad de educación formal."
+      },
+      {
+        "id": "B",
+        "text": "Algunos videojuegos pueden contribuir al desarrollo de habilidades específicas."
+      },
+      {
+        "id": "C",
+        "text": "Todas las modalidades generan los mismos beneficios."
+      },
+      {
+        "id": "D",
+        "text": "No existe ninguna relación entre juego y aprendizaje."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto menciona resolución de problemas, coordinación y trabajo en equipo, lo que implica beneficios potenciales.",
+    "stimulus_id": "SPA-BUAP-R-13"
+  },
+  {
+    "id": "SPA-REA-127",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto sobre videojuegos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Personajes y narrativas se integran en el cine y la música.”"
+      },
+      {
+        "id": "B",
+        "text": "“Genera empleos en áreas como programación y diseño gráfico.”"
+      },
+      {
+        "id": "C",
+        "text": "“El uso excesivo puede afectar el rendimiento académico.”"
+      },
+      {
+        "id": "D",
+        "text": "“Actualmente abarcan múltiples géneros.”"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Aunque aporta diversidad temática, no altera la estructura central (evolución, impacto económico, riesgos y dimensión cultural).",
+    "stimulus_id": "SPA-BUAP-R-13"
+  },
+  {
+    "id": "SPA-REA-128",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "comparison_synthesis",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿En qué aspecto fundamental se relacionan o no ambos textos (Acapulco y videojuegos)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "En que uno aborda un espacio geográfico con actividad turística y el otro una industria digital de entretenimiento."
+      },
+      {
+        "id": "B",
+        "text": "En que ambos influyen en la economía y en la cultura contemporánea."
+      },
+      {
+        "id": "C",
+        "text": "En que los dos requieren procesos de adaptación ante cambios sociales y tecnológicos."
+      },
+      {
+        "id": "D",
+        "text": "En que ambos generan impacto en distintos sectores de la sociedad."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "El texto de Acapulco se centra en un destino turístico físico y territorial, mientras que el de videojuegos analiza una industria tecnológica digital. Las demás opciones señalan aspectos que sí comparten (impacto económico, cultural y necesidad de adaptación).",
+    "stimulus_id": "SPA-BUAP-R-13"
+  },
+  {
+    "id": "SPA-REA-129",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "comparison_synthesis",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué síntesis general puede elaborarse a partir de ambos textos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El entretenimiento siempre genera efectos negativos. 57 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "B",
+        "text": "Tanto los destinos turísticos como los videojuegos requieren adaptación y uso responsable para mantenerse relevantes y sostenibles."
+      },
+      {
+        "id": "C",
+        "text": "Ambos fenómenos dependen exclusivamente de factores naturales."
+      },
+      {
+        "id": "D",
+        "text": "El desarrollo cultural es independiente de la economía."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Acapulco necesita adaptación ante retos y los videojuegos requieren uso equilibrado; ambos implican procesos de ajuste para conservar su impacto positivo. 58 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP",
+    "stimulus_id": "SPA-BUAP-R-13"
+  },
+  {
+    "id": "SPA-REA-130",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto sobre el estrés académico?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El estrés académico es siempre negativo y debe eliminarse por completo."
+      },
+      {
+        "id": "B",
+        "text": "El estrés académico es una respuesta compleja ante exigencias educativas que requiere estrategias de manejo personal e institucional."
+      },
+      {
+        "id": "C",
+        "text": "Las tareas escolares son la única causa del bajo rendimiento."
+      },
+      {
+        "id": "D",
+        "text": "El descanso sustituye la necesidad de planificación."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto explica causas, efectos, dimensión positiva y estrategias de prevención, mostrando que es un fenómeno complejo que requiere intervención múltiple.",
+    "stimulus_id": "SPA-BUAP-R-14"
+  },
+  {
+    "id": "SPA-REA-131",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre el estrés moderado según el texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No tiene ninguna función útil en el desempeño académico."
+      },
+      {
+        "id": "B",
+        "text": "Puede actuar como un impulso organizativo si se mantiene en niveles controlados."
+      },
+      {
+        "id": "C",
+        "text": "Garantiza automáticamente el éxito escolar."
+      },
+      {
+        "id": "D",
+        "text": "Es idéntico al agotamiento crónico."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto señala que en niveles moderados puede funcionar como estímulo para cumplir objetivos.",
+    "stimulus_id": "SPA-BUAP-R-14"
+  },
+  {
+    "id": "SPA-REA-132",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto sobre estrés académico?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Asimismo, el descanso y la actividad física favorecen el equilibrio emocional.”"
+      },
+      {
+        "id": "B",
+        "text": "“A nivel físico, el estrés puede provocar insomnio.”"
+      },
+      {
+        "id": "C",
+        "text": "“No todo el estrés es negativo.”"
+      },
+      {
+        "id": "D",
+        "text": "“Las instituciones pueden contribuir mediante programas de orientación psicológica.”"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Aunque complementa las estrategias personales, la idea central sobre gestión y apoyo institucional permanece clara sin ese detalle específico.",
+    "stimulus_id": "SPA-BUAP-R-14"
+  },
+  {
+    "id": "SPA-REA-133",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "relationships_between_ideas",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué relación lógica se establece entre percepción de exigencias y aparición del estrés?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El estrés surge únicamente por causas biológicas."
+      },
+      {
+        "id": "B",
+        "text": "La percepción de que las demandas superan los recursos personales desencadena la respuesta de estrés."
+      },
+      {
+        "id": "C",
+        "text": "El estrés depende exclusivamente de factores familiares."
+      },
+      {
+        "id": "D",
+        "text": "Las exigencias académicas no influyen en el estado emocional."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto define el estrés como una respuesta cuando el estudiante percibe que las demandas superan sus recursos.",
+    "stimulus_id": "SPA-BUAP-R-14"
+  },
+  {
+    "id": "SPA-REA-134",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "title",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué título sintetiza mejor el contenido del texto sobre estrés académico?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“El fracaso escolar inevitable”"
+      },
+      {
+        "id": "B",
+        "text": "“Estrés académico: causas, efectos y estrategias de manejo”"
+      },
+      {
+        "id": "C",
+        "text": "“La importancia exclusiva del descanso”"
+      },
+      {
+        "id": "D",
+        "text": "“El papel de la familia en la educación”"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Resume la estructura del texto: definición, causas, efectos y soluciones.",
+    "stimulus_id": "SPA-BUAP-R-14"
+  },
+  {
+    "id": "SPA-REA-135",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto sobre deserción universitaria? 60 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP",
+    "options": [
+      {
+        "id": "A",
+        "text": "La deserción universitaria es un problema individual sin impacto social."
+      },
+      {
+        "id": "B",
+        "text": "La deserción universitaria es un fenómeno multifactorial que requiere estrategias preventivas e institucionales."
+      },
+      {
+        "id": "C",
+        "text": "El bajo rendimiento es la única causa de abandono."
+      },
+      {
+        "id": "D",
+        "text": "Todos los estudiantes desertan por razones económicas."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto presenta múltiples causas, efectos y estrategias institucionales, concluyendo que es un fenómeno complejo.",
+    "stimulus_id": "SPA-BUAP-R-14"
+  },
+  {
+    "id": "SPA-REA-136",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué se puede inferir sobre la adaptación al entorno universitario?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es automática y no representa dificultad."
+      },
+      {
+        "id": "B",
+        "text": "Puede influir significativamente en la decisión de abandonar los estudios."
+      },
+      {
+        "id": "C",
+        "text": "No guarda relación con factores emocionales."
+      },
+      {
+        "id": "D",
+        "text": "Es menos importante que la orientación vocacional."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto menciona que la falta de adaptación aumenta el riesgo de abandono.",
+    "stimulus_id": "SPA-BUAP-R-14"
+  },
+  {
+    "id": "SPA-REA-137",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes enunciados podría eliminarse sin afectar gravemente la coherencia global del texto sobre deserción universitaria?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“Algunos estudiantes retoman sus estudios después de superar dificultades.”"
+      },
+      {
+        "id": "B",
+        "text": "“Desde el punto de vista personal, puede generar frustración.”"
+      },
+      {
+        "id": "C",
+        "text": "“Entre las causas se encuentran dificultades económicas.”"
+      },
+      {
+        "id": "D",
+        "text": "“Las universidades han implementado estrategias para reducir el problema.”"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Aunque añade una distinción interesante, la explicación central (causas, impacto y estrategias) permanece intacta sin esa precisión.",
+    "stimulus_id": "SPA-BUAP-R-14"
+  },
+  {
+    "id": "SPA-REA-138",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "comparison_synthesis",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué elemento conceptual comparten ambos textos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ambos analizan únicamente problemas económicos."
+      },
+      {
+        "id": "B",
+        "text": "Ambos presentan fenómenos educativos con múltiples causas que requieren apoyo institucional."
+      },
+      {
+        "id": "C",
+        "text": "Ambos concluyen que la solución depende exclusivamente del estudiante."
+      },
+      {
+        "id": "D",
+        "text": "Ambos se enfocan en políticas gubernamentales internacionales."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Tanto el estrés académico como la deserción universitaria se presentan como fenómenos complejos que requieren intervención institucional y estrategias de apoyo.",
+    "stimulus_id": "SPA-BUAP-R-14"
+  },
+  {
+    "id": "SPA-REA-139",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "comparison_synthesis",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué síntesis general puede elaborarse al comparar ambos textos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El estrés académico conduce inevitablemente a la deserción universitaria."
+      },
+      {
+        "id": "B",
+        "text": "Ambos fenómenos reflejan desafíos educativos que pueden prevenirse mediante acompañamiento y planificación."
+      },
+      {
+        "id": "C",
+        "text": "La educación superior es inherentemente perjudicial."
+      },
+      {
+        "id": "D",
+        "text": "Las dificultades emocionales no influyen en la trayectoria académica."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Ambos textos proponen que, mediante estrategias personales e institucionales, es posible reducir riesgos y mejorar la permanencia y bienestar estudiantil. 62 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP MÓDULO 2: REDACCIÓN INDIRECTA La redacción indirecta es una habilidad lingüística que consiste en expresar una idea sin repetirla de forma literal, utilizando distintas formas del lenguaje para mantener el mismo significado. Este proceso implica transformar, reorganizar o reinterpretar la información, lo que permite mejorar la comprensión y la capacidad de expresión escrita. Esta habilidad es fundamental en contextos académicos, ya que permite al estudiante explicar con sus propias palabras, evitar la copia textual y demostrar que ha comprendido un contenido. Además, favorece el desarrollo de un lenguaje más amplio y preciso, así como la capacidad de analizar y sintetizar información. La redacción indirecta se apoya en recursos como la paráfrasis, el resumen, la sustitución de palabras por sinónimos, el cambio de estructura gramatical y la reorganización de ideas. Estos elementos permiten comunicar el mismo mensaje de diferentes maneras sin alterar su sentido original. Dominar la redacción indirecta contribuye a mejorar la claridad en la escritura, la comprensión lectora y la capacidad de responder adecuadamente en ejercicios académicos que requieren interpretación y reformulación de textos. Estudio El estudio en la redacción indirecta implica la capacidad de comprender, procesar y reformular información académica, utilizando un lenguaje propio sin alterar el significado original. Esta habilidad permite al estudiante apropiarse del conocimiento, evitando la repetición literal y demostrando una comprensión real del contenido. En este contexto, el estudiante no solo lee, sino que analiza, interpreta y transforma la información, organizándola de manera clara y coherente. Esto es fundamental en actividades como la elaboración de resúmenes, paráfrasis, apuntes y explicaciones, donde se requiere expresar ideas con precisión y claridad. El estudio mediante redacción indirecta favorece el desarrollo de habilidades como la síntesis de información, el uso adecuado del vocabulario, la reorganización de ideas y la claridad en la expresión escrita. Además, permite identificar conceptos clave, establecer relaciones entre ideas y comunicar el contenido de manera efectiva. Esta práctica fortalece el aprendizaje significativo, ya que el estudiante deja de memorizar y comienza a comprender y reconstruir el conocimiento, lo que facilita su aplicación en distintos contextos académicos. 63 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP Comunicativa La función comunicativa en la redacción indirecta se refiere a la capacidad de transmitir un mensaje de manera clara, coherente y comprensible, utilizando palabras propias sin alterar el sentido original de la información. Esta habilidad es esencial en el ámbito académico, ya que permite al estudiante expresar ideas de forma efectiva y adaptarlas a distintos contextos. En este proceso, el estudiante debe considerar elementos fundamentales de la comunicación como el emisor, el receptor, el mensaje y el contexto, asegurando que la información sea adecuada para quien la recibe. La redacción indirecta implica no solo cambiar palabras, sino reorganizar las ideas y ajustar el lenguaje para que el mensaje mantenga su intención original. Además, la función comunicativa exige el uso de un lenguaje claro, preciso y ordenado, evitando ambigüedades o confusiones. Esto implica seleccionar adecuadamente el vocabulario, utilizar conectores que den coherencia al texto y estructurar las ideas de manera lógica. Desarrollar esta habilidad permite mejorar la expresión escrita, facilitar la comprensión del lector y asegurar que el mensaje cumpla su propósito comunicativo dentro del ámbito académico. Registro lingüístico: carta formal, articulo científico El registro lingüístico se refiere al tipo de lenguaje que se utiliza según el contexto, el propósito comunicativo y el receptor. En la redacción indirecta, es fundamental adaptar el mensaje a un registro adecuado, manteniendo claridad, precisión y coherencia. En el ámbito académico, destacan registros formales como la carta formal y el artículo científico, los cuales exigen un uso específico del lenguaje. Carta formal La carta formal utiliza un registro respetuoso, claro y directo, dirigido a una persona o institución. Su finalidad puede ser solicitar información, presentar una petición o comunicar una situación específica. El lenguaje evita expresiones coloquiales y se caracteriza por el uso de fórmulas de cortesía, como “por medio de la presente” o “sin otro particular”. En la redacción indirecta, este tipo de texto implica reformular ideas manteniendo un tono adecuado, organizando la información de manera ordenada y cuidando la estructura, que incluye saludo, desarrollo del mensaje y despedida. La claridad es fundamental, ya que el objetivo es que el receptor comprenda fácilmente la solicitud o información. Artículo científico El artículo científico emplea un registro formal, técnico y objetivo, cuyo propósito es comunicar conocimientos basados en investigación. Se caracteriza por el uso de términos especializados, la precisión en el lenguaje y la ausencia de opiniones personales sin fundamento. 64 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP En la redacción indirecta, este tipo de texto requiere reformular información respetando su exactitud, utilizando vocabulario técnico adecuado y manteniendo la objetividad. Además, se organiza en apartados como introducción, desarrollo metodológico, resultados y análisis, lo que exige coherencia y orden en la presentación de las ideas. Género textual: monografía La monografía es un texto académico que tiene como propósito desarrollar de manera detallada un tema específico, a partir de la recopilación, análisis y organización de información proveniente de diversas fuentes. Se caracteriza por su enfoque explicativo y estructurado, así como por el uso de un lenguaje formal, claro y objetivo. En el contexto de la redacción indirecta, la elaboración de una monografía implica que el estudiante sea capaz de reformular la información con sus propias palabras, evitando la copia literal. Esto requiere comprender el contenido, seleccionar las ideas más importantes y organizarlas de manera coherente, manteniendo el sentido original de las fuentes consultadas. La monografía presenta una estructura definida que facilita la comprensión del tema. Generalmente incluye una introducción, donde se presenta el tema y su importancia; un desarrollo, en el que se explican las ideas principales con apoyo de información organizada; y un cierre o conclusión, donde se sintetiza lo expuesto. Además, puede incluir referencias o fuentes de información. Este tipo de texto exige el uso adecuado de conectores, una correcta organización de párrafos y un manejo preciso del vocabulario, lo que permite comunicar el conocimiento de manera clara. La monografía es una herramienta fundamental en el ámbito académico, ya que favorece la comprensión profunda y la expresión escrita estructurada. Gramatical y semántica La dimensión gramatical y semántica en la redacción indirecta se refiere al uso correcto de las estructuras del lenguaje (gramática) y al manejo adecuado del significado de las palabras y expresiones (semántica) para reformular un mensaje sin alterar su sentido original. Ambas dimensiones son fundamentales para lograr una comunicación clara, precisa y coherente. Desde el aspecto gramatical, la redacción indirecta implica modificar la estructura de las oraciones, respetando las reglas del idioma. Esto incluye el uso correcto de tiempos verbales, concordancia entre sujeto y verbo, uso adecuado de pronombres, conectores y signos de puntuación. Al reformular una idea, es común cambiar el orden de los elementos en la oración o transformar estructuras, como pasar de una oración directa a una indirecta, manteniendo la coherencia. Por otro lado, el aspecto semántico se enfoca en el significado de las palabras. En la redacción indirecta, es necesario utilizar sinónimos, expresiones equivalentes o reformulaciones, cuidando que el sentido del mensaje no se modifique. Esto implica 65 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP comprender profundamente el contenido para evitar errores de interpretación o cambios de significado. El dominio de estos dos aspectos permite al estudiante expresar ideas con mayor precisión, evitar ambigüedades y mejorar la calidad de su escritura. Además, favorece la comprensión lectora, ya que entender la estructura y el significado del lenguaje facilita la interpretación de textos académicos. Gramática La gramática es el conjunto de reglas que nos dicen cómo usar un idioma correctamente para formar palabras, oraciones y textos con sentido. En otras palabras, es lo que nos permite hablar y escribir de forma clara para que los demás nos entiendan. Incluye elementos cómo: • Ortografía → cómo se escriben las palabras • Morfología → cómo se forman las palabras (raíz, prefijos, sufijos) • Sintaxis → cómo se ordenan las palabras en una oración • Semántica → qué significan las palabras • Fonética y fonología → cómo se pronuncian los sonidos También incluye a las personas gramaticales, las cuales Indican quien realiza la acción del verbo, se identifican con pronombres personales (1°, 2° y 3° persona del singular y plural). • Singular: yo, tú, usted, él, ella. • Plural: nosotros, nosotras, ustedes, ellos, ellas Ejemplos 1. “Yo tienda voy” → incorrecto según la gramática 2. “Yo voy a la tienda” → correcto según la gramática Categoría y función de las palabras En gramática, las categorías gramaticales permiten clasificar las palabras según su forma y la función que cumplen dentro de la oración, esta clasificación es fundamental para comprender cómo se construyen los enunciados y cómo se organizan las ideas en un texto. Sustantivos El sustantivo es la palabra que nombra personas, animales, objetos, lugares o ideas, su función principal es ser el núcleo del sujeto, aunque también puede aparecer como complemento dentro del predicado. Sin el sustantivo, no es posible identificar claramente de quién o de qué se habla en la oración. 66 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP Ejemplos Casa, perro, maestro, ciudad, escuela, libro, mesa, amigo, computadora, árbol, amor, tiempo, música, examen, alumno, profesor, ventana, cuaderno, familia, trabajo. Ejemplos 1. El alumno estudia para el examen. Explicación: La palabra “alumno” es un sustantivo porque nombra a una persona y funciona como el núcleo del sujeto de la oración. 2. La ciudad creció rápidamente. Explicación: “Ciudad” es un sustantivo que nombra un lugar y es aquello de lo que se habla en la oración. 3. Mi amigo trajo su computadora. Explicación: “Amigo” y “computadora” son sustantivos; el primero nombra a una persona y el segundo a un objeto. 4. El amor fortalece a la familia. Explicación: “Amor” es un sustantivo abstracto porque nombra una idea o sentimiento, mientras que “familia” nombra un grupo de personas. 5. El maestro revisó el cuaderno. Explicación: “Maestro” es un sustantivo que nombra a una persona y “cuaderno” es un sustantivo que nombra un objeto. Adjetivos Los adjetivos son palabras que acompañan al sustantivo para describirlo, calificarlo o precisar su significado, aportando información adicional sobre sus características, generalmente se colocan antes o después del sustantivo al que modifican. Gracias a ellos se añaden detalles y precisión a la información, como en los ejemplos “una hermosa flor”, “un día soleado”, “un cielo despejado” o “un libro interesante”, donde el adjetivo aporta más información sobre el sustantivo. Ejemplos 1. El examen estuvo tan difícil que me causó nerviosismo. Explicación: “Difícil” es un adjetivo porque describe una característica del sustantivo “examen”. 2. La casa es tan grande como la cuadra. Explicación: “Grande” es un adjetivo que indica el tamaño del sustantivo “casa”. 3. Un alumno responsable siempre hace la tarea. Explicación: “responsable” es un adjetivo que califica al sustantivo “alumno”. 4. Compré un libro interesante sobre conejos teporingos. Explicación: “Interesante” es un adjetivo porque señala una cualidad del sustantivo “libro”. 5. Los árboles altos nos dan sombra cuando sale el sol. Explicación: “Altos” es un adjetivo que describe la altura del sustantivo “árboles”. 67 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP Adverbios Los adverbios son palabras que se utilizan para modificar verbos, adjetivos, otros adverbios e incluso oraciones completas aportando información adicional relacionada con el tiempo, el lugar, la cantidad, el modo, entre otros aspectos. Cuando acompañan a un verbo, pueden desempeñar la función de complemento circunstancial, en cambio, cuando modifican adjetivos u otros adverbios, suelen funcionar como cuantificadores. Los adverbios se pueden clasificar en diferentes tipos según su función, algunos de los tipos más comunes son: Adverbios de modo Indican la manera en que se realiza la acción (responden a “¿cómo?”), suelen terminar en -mente (rápidamente, suavemente), aunque no siempre es así. Ejemplos 1. María habló claramente. “Claramente” explica cómo habló (de forma clara) y modifica al verbo habló. 2. El bebé duerme tranquilo. “Tranquilo” indica cómo duerme y modifica al verbo duerme. Adverbios de tiempo Indican el momento en que ocurre algo (responden a “¿cuándo?”), pueden señalar tiempo exacto, frecuencia o cercanía temporal. Ejemplos 1. Llegaré mañana a mi ciudad. “Mañana” indica cuándo llegaré y modifica el verbo llegaré. 2. Yo siempre estudio antes del examen. “Siempre” indica con qué frecuencia estudio y modifica estudio. Adverbios de lugar Indican el sitio donde ocurre la acción (responden a “¿dónde?”). Ejemplos 1. Deja la mochila aquí. “Aquí” indica dónde dejarla y modifica el verbo deja. 2. Mi perro está afuera. “Afuera” indica dónde está y modifica el verbo está. Adverbios de cantidad Indican grado o intensidad (responden a “¿cuánto?” o “¿en qué medida?”) y pueden modificar verbos, adjetivos o adverbios. Ejemplos 1. Estoy muy cansado. “Muy” aumenta el grado del adjetivo cansado (indica intensidad). 68 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP 2. Ella trabaja poco. “Poco” indica cuánto trabaja y modifica el verbo trabaja. Adverbios de afirmación Expresan que algo es verdadero o seguro (equivalen a “sí” o “claro”). Ejemplos 1. Definitivamente participaré en el proyecto. 2. Ciertamente, esto es importante. Adverbios de negación Expresan rechazo o ausencia (equivalen a “no”, “nunca”, “jamás”). Ejemplos 1. Yo jamás vería esa serie 2. Ella nunca miente. Adverbios de duda Expresan inseguridad o posibilidad, no certeza (equivalen a “tal vez”, “quizá”). Ejemplos 1. Tal vez podamos ir al cine más tarde. 2. Hoy podría llover. Nexos Los nexos son palabras o expresiones que sirven para vincular o conectar palabras, grupos de palabras, oraciones, ideas o argumentos dentro de un texto. Su función principal es mostrar la relación que existe entre ellas, como puede ser de suma, contraste, causa, condición o tiempo. Gracias al uso de nexos, los textos descriptivos o narrativos adquieren mayor coherencia y fluidez, ya que evitan una secuencia simple o inconexa de oraciones y permiten que las ideas se comprendan mejor. Por lo general, los nexos poseen poco significado propio y suelen estar formados por conjunciones y algunos adverbios. Por ello, se pueden clasificar en diferentes tipos según su función. Algunos de los tipos más comunes son: Nexos copulativos Son aquellos que se utilizan para unir dos o más elementos de la misma categoría gramatical. Indican suma, adición o acumulación. Algunos son “y”, “e”, “ni”, “que”, “como”, “tanto…como”, “no solo…sino también”, entre otros; La conjunción “e” se usa en lugar de “y” cuando la siguiente palabra empieza por “i, hi”, se suele usar como enlace final en enumeraciones o para unir situaciones equivalentes; Mientras que la conjunción “ni” equivale a “y no” y se utiliza principalmente para enumerar negaciones o exclusiones. 69 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP Ejemplos 1. Estudié toda la noche matemáticas y física. 2. No quiero comer huevo ni salchichas 3. Karla hizo la tarea; además, repasó para el examen. Nexos disyuntivos Son aquellos que se utilizan para presentar opciones o alternativas, algunos de estos nexos son “o”, “u”, “o bien”, “ya…ya”, “sea…o”, entre otros. Nótese que la conjunción “u” se usa en lugar de “o” cuando la palabra empieza por “o, ho”. Ejemplos 1. Juan tuvo que elegir entre estudiar o jugar. 2. Me gusta los juegos dónde eliges entre dinero u honor. 3. Podemos ir al cine o bien ir a un safari. Nexos adversativos Son aquellos que se utilizan para expresar contraste o contradicción entre dos ideas. Los más comunes son “pero”, “mas”, “aunque”, “sin embargo”, “no obstante”, entre otros. Ejemplos 1. Me gustan los gatos, pero soy alérgico. 2. Barry corre muy rápido, sin embargo, Wally es más veloz. 3. Ángela es muy famosa, no obstante nadie la quiere. Nexos casuales Son aquellos que se utilizan para expresar la causa de algo. Algunos son: “porque”, “puesto que”, “ya que”, “como”, “debido a que”, entre otros. Ejemplos 1. Necesito estudiar porque quiero entrar a la BUAP. 2. Lavé mi playera a mano debido a que era delicada. 3. No pude ir al cine puesto que no tenía dinero. Nexos condicionales Son aquellos que se utilizan para expresar una condición, por Ejemplo “si…entonces”, “en caso de que”, “a condición de que”, “con tal de que”, entre otros. Ejemplos 1. Si comienzas a ahorrar en enero, entonces podrás salir de viaje en diciembre. 2. En caso de que llueva, cierra las ventanas de la casa. 3. Carlos seguirá estudiando a condición de que no tenga otro reporte. 70 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP Nexos consecutivos Son aquellos que se utilizan para expresar una consecuencia algunos son: “así que”, “por lo tanto”, “por consiguiente”, “luego”, entre otros. Ejemplos 1. Anunciaron nuevo videojuego, así que hice la preventa. 2. En la mañana tembló, por lo tanto, no hubo clases. 3. México va ser sede del mundial, por consiguiente, remodelaron los estadios. Nexos distributivos Son aquellos que se utilizan para distribuir o alternar acciones, entre dos o más elementos de la oración. Algunos ejemplos de nexos distributivos son: “ya…ya”, “sea…sea”, “ora…ora”, “cada…cada”, entre otros. Ejemplos 1. Bien ríe bien llora, siempre expresa lo que siente. 2. Unas veces hace la tarea, unas veces prefiere descansar. 3. Ya sea de una forma, o sea de otra, tengo que ir al concierto. Nexos explicativos Son aquellos que se emplean para introducir una explicación o aclaración o de una idea mencionada anteriormente en la oración. Su función es añadir información complementaria que ayude a comprender mejor el concepto, sin alterar la relación lógica de la oración principal. Algunos de los nexos explicativos más utilizados son: “es decir”, “o sea” y “esto es”. Ejemplos 1. Max lleva meses en el hospital, mejor dicho, ha estado internada semanas. 2. A Esau no le alcanza el dinero, en otras palabras, necesita un trabajo. 3. Kenia ya no ha vendido a clases, es decir, se ha dado de baja. El verbo El verbo es un elemento fundamental en la estructura de la oración, ya que constituye el núcleo del predicado y expresa la acción o el estado del sujeto.",
+    "stimulus_id": "SPA-BUAP-R-14"
+  }
+]

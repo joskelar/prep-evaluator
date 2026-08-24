@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+<title id="title">Figura 7: rombo ABCD</title>
+<desc id="desc">Rombo inclinado ABCD con diagonal DB y AB = 5.</desc>
+<rect width="100%" height="100%" fill="white"/>
+
+<g fill="none" stroke="#111" stroke-width="4">
+<polygon points="290,380 520,430 650,260 420,210"/>
+<line x1="420" y1="210" x2="520" y2="430"/>
+</g>
+<text x="272" y="404" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">A</text>
+<text x="530" y="448" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">B</text>
+<text x="660" y="254" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">C</text>
+<text x="395" y="200" font-family="Arial,Helvetica,sans-serif" font-size="28" font-weight="700">D</text>
+<text x="395.0" y="445.0" font-family="Arial,Helvetica,sans-serif" font-size="28">AB = 5</text>
+</svg>

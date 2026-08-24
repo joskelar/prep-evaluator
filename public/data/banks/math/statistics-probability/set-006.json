@@ -1,0 +1,761 @@
+[
+  {
+    "id": "MAT-STA-048",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "sample_space",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Un restaurante ofrece 4 entradas, 5 platos fuertes y 3 postres. Si se elige uno de cada tipo, ¿cuántas comidas completas diferentes pueden formarse?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "60"
+      },
+      {
+        "id": "D",
+        "text": "15"
+      },
+      {
+        "id": "E",
+        "text": "45"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Principio multiplicativo: 4×5×3=60."
+  },
+  {
+    "id": "MAT-STA-049",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "sample_space",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Un estudiante puede elegir un curso de arte entre 3 opciones o uno de música entre 5 opciones, pero no ambos. ¿Cuántas opciones distintas tiene?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "15"
+      },
+      {
+        "id": "C",
+        "text": "3"
+      },
+      {
+        "id": "D",
+        "text": "5"
+      },
+      {
+        "id": "E",
+        "text": "2"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Principio aditivo: 3+5=8."
+  },
+  {
+    "id": "MAT-STA-050",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "sample_space",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿De cuántas maneras diferentes pueden ordenarse 5 estudiantes en una fila?",
+    "options": [
+      {
+        "id": "A",
+        "text": "20"
+      },
+      {
+        "id": "B",
+        "text": "60"
+      },
+      {
+        "id": "C",
+        "text": "120"
+      },
+      {
+        "id": "D",
+        "text": "25"
+      },
+      {
+        "id": "E",
+        "text": "10"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "5!=120."
+  },
+  {
+    "id": "MAT-STA-051",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "sample_space",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "De un grupo de 8 personas, ¿de cuántas maneras se puede elegir un comité de 3 personas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "56"
+      },
+      {
+        "id": "B",
+        "text": "24"
+      },
+      {
+        "id": "C",
+        "text": "336"
+      },
+      {
+        "id": "D",
+        "text": "28"
+      },
+      {
+        "id": "E",
+        "text": "64"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "C(8,3)=56."
+  },
+  {
+    "id": "MAT-STA-052",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "event_probability",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Se lanza una moneda y un dado. ¿Cuál es la probabilidad de obtener cara y un número par?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1/12"
+      },
+      {
+        "id": "B",
+        "text": "1/4"
+      },
+      {
+        "id": "C",
+        "text": "1/3"
+      },
+      {
+        "id": "D",
+        "text": "1/2"
+      },
+      {
+        "id": "E",
+        "text": "2/3"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "(1/2)(3/6)=1/4."
+  },
+  {
+    "id": "MAT-STA-053",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "event_probability",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En una caja hay 5 bolas rojas y 3 azules. Se extrae una sin reemplazo. ¿Cuál es la probabilidad de que la segunda sea roja dado que la primera fue roja?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5/8"
+      },
+      {
+        "id": "B",
+        "text": "4/7"
+      },
+      {
+        "id": "C",
+        "text": "5/7"
+      },
+      {
+        "id": "D",
+        "text": "1/2"
+      },
+      {
+        "id": "E",
+        "text": "3/7"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Quedan 4 rojas entre 7 bolas: 4/7."
+  },
+  {
+    "id": "MAT-STA-054",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "event_probability",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En una baraja de 52 cartas, si se sabe que la carta extraída es roja, ¿cuál es la probabilidad de que sea un corazón?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1/2"
+      },
+      {
+        "id": "B",
+        "text": "1/4"
+      },
+      {
+        "id": "C",
+        "text": "1/13"
+      },
+      {
+        "id": "D",
+        "text": "13/26"
+      },
+      {
+        "id": "E",
+        "text": "1/26"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Hay 13 corazones entre 26 cartas rojas: 1/2."
+  },
+  {
+    "id": "MAT-STA-055",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "event_probability",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Se lanzan dos dados. ¿Cuál es la probabilidad de que la suma sea 7?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1/12"
+      },
+      {
+        "id": "B",
+        "text": "1/6"
+      },
+      {
+        "id": "C",
+        "text": "1/3"
+      },
+      {
+        "id": "D",
+        "text": "5/36"
+      },
+      {
+        "id": "E",
+        "text": "1/18"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Seis de los 36 resultados suman 7: 6/36=1/6."
+  },
+  {
+    "id": "MAT-STA-056",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "event_probability",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Se lanzan tres monedas. ¿Cuál es la probabilidad de obtener exactamente dos caras?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3/8"
+      },
+      {
+        "id": "B",
+        "text": "1/4"
+      },
+      {
+        "id": "C",
+        "text": "1/2"
+      },
+      {
+        "id": "D",
+        "text": "1/8"
+      },
+      {
+        "id": "E",
+        "text": "5/8"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Hay 3 resultados favorables entre 8 equiprobables."
+  },
+  {
+    "id": "MAT-STA-057",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "tables_graphs",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En los datos «Fútbol, Básquetbol, Fútbol, Tenis, Fútbol, Básquetbol, Tenis, Fútbol», ¿cuál es la frecuencia absoluta de Fútbol?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "3"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "5"
+      },
+      {
+        "id": "E",
+        "text": "6"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Fútbol aparece 4 veces."
+  },
+  {
+    "id": "MAT-STA-058",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "tables_graphs",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En una clase de 20 estudiantes, 6 prefieren matemáticas. ¿Cuál es su frecuencia relativa?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.20"
+      },
+      {
+        "id": "B",
+        "text": "0.30"
+      },
+      {
+        "id": "C",
+        "text": "0.25"
+      },
+      {
+        "id": "D",
+        "text": "0.40"
+      },
+      {
+        "id": "E",
+        "text": "0.35"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "6/20=0.30."
+  },
+  {
+    "id": "MAT-STA-059",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "tables_graphs",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Una tabla tiene frecuencias 6→3, 7→5, 8→6, 9→4. ¿Cuál es la frecuencia acumulada hasta 8?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "14"
+      },
+      {
+        "id": "C",
+        "text": "9"
+      },
+      {
+        "id": "D",
+        "text": "11"
+      },
+      {
+        "id": "E",
+        "text": "12"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "3+5+6=14."
+  },
+  {
+    "id": "MAT-STA-060",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "central_tendency",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Calcula el rango del conjunto 4, 7, 9, 10, 15.",
+    "options": [
+      {
+        "id": "A",
+        "text": "15"
+      },
+      {
+        "id": "B",
+        "text": "11"
+      },
+      {
+        "id": "C",
+        "text": "10"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      },
+      {
+        "id": "E",
+        "text": "7"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "15−4=11."
+  },
+  {
+    "id": "MAT-STA-061",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "central_tendency",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Calcula la varianza poblacional del conjunto 2, 4, 6.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2.67"
+      },
+      {
+        "id": "B",
+        "text": "3.2"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "6"
+      },
+      {
+        "id": "E",
+        "text": "5.32"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La media es 4; (4+0+4)/3=8/3≈2.67."
+  },
+  {
+    "id": "MAT-STA-062",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "central_tendency",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Calcula la desviación estándar poblacional del conjunto 2, 4, 6.",
+    "options": [
+      {
+        "id": "A",
+        "text": "√5.32"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "√2.67"
+      },
+      {
+        "id": "D",
+        "text": "√3.2"
+      },
+      {
+        "id": "E",
+        "text": "√6"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La varianza es 2.67; la desviación estándar es √2.67."
+  },
+  {
+    "id": "MAT-STA-063",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "sample_space",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Una contraseña tiene una letra mayúscula seguida de un dígito. Con 26 letras y 10 dígitos, ¿cuántas contraseñas pueden formarse?",
+    "options": [
+      {
+        "id": "A",
+        "text": "260"
+      },
+      {
+        "id": "B",
+        "text": "36"
+      },
+      {
+        "id": "C",
+        "text": "520"
+      },
+      {
+        "id": "D",
+        "text": "2600"
+      },
+      {
+        "id": "E",
+        "text": "16"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Por el principio multiplicativo: 26×10=260."
+  },
+  {
+    "id": "MAT-STA-064",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "sample_space",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿De cuántas maneras pueden ordenarse las letras distintas de la palabra SOL?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "9"
+      },
+      {
+        "id": "D",
+        "text": "12"
+      },
+      {
+        "id": "E",
+        "text": "18"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Son 3 letras distintas: 3!=6."
+  },
+  {
+    "id": "MAT-STA-065",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "sample_space",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "De un grupo de 6 estudiantes, ¿de cuántas maneras puede formarse un equipo de 2?",
+    "options": [
+      {
+        "id": "A",
+        "text": "30"
+      },
+      {
+        "id": "B",
+        "text": "12"
+      },
+      {
+        "id": "C",
+        "text": "15"
+      },
+      {
+        "id": "D",
+        "text": "20"
+      },
+      {
+        "id": "E",
+        "text": "6"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "C(6,2)=15."
+  },
+  {
+    "id": "MAT-STA-066",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "event_probability",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Se lanzan dos monedas. ¿Cuál es la probabilidad de obtener dos caras?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1/2"
+      },
+      {
+        "id": "B",
+        "text": "1/4"
+      },
+      {
+        "id": "C",
+        "text": "1/3"
+      },
+      {
+        "id": "D",
+        "text": "3/4"
+      },
+      {
+        "id": "E",
+        "text": "1/8"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Solo CC es favorable entre cuatro resultados equiprobables."
+  },
+  {
+    "id": "MAT-STA-067",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "event_probability",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Se lanza un dado. ¿Cuál es la probabilidad de obtener un número mayor que 4?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1/6"
+      },
+      {
+        "id": "B",
+        "text": "1/3"
+      },
+      {
+        "id": "C",
+        "text": "1/2"
+      },
+      {
+        "id": "D",
+        "text": "2/3"
+      },
+      {
+        "id": "E",
+        "text": "1/4"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Los resultados favorables son 5 y 6: 2/6=1/3."
+  },
+  {
+    "id": "MAT-STA-068",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "central_tendency",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Calcula la media de 4, 6, 8, 10, 12.",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "7"
+      },
+      {
+        "id": "C",
+        "text": "9"
+      },
+      {
+        "id": "D",
+        "text": "10"
+      },
+      {
+        "id": "E",
+        "text": "6"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La suma es 40 y 40/5=8."
+  },
+  {
+    "id": "MAT-STA-069",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "central_tendency",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Determina la mediana de 2, 4, 6, 8, 10, 12.",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "7"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      },
+      {
+        "id": "E",
+        "text": "5"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Los valores centrales son 6 y 8; su promedio es 7."
+  },
+  {
+    "id": "MAT-STA-070",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "central_tendency",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Determina la moda de 6, 8, 8, 10, 12, 8, 14.",
+    "options": [
+      {
+        "id": "A",
+        "text": "10"
+      },
+      {
+        "id": "B",
+        "text": "12"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      },
+      {
+        "id": "E",
+        "text": "14"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "8 aparece tres veces, más que cualquier otro valor."
+  }
+]

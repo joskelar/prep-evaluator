@@ -1,0 +1,379 @@
+[
+  {
+    "id": "SCI-REA-001",
+    "area": "science",
+    "category": "scientific_reasoning",
+    "subcategory": "variables_experimental_design",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En un experimento sobre células, se analiza cómo la concentración de glucosa afecta la producción de ATP. ¿Cuál es la variable dependiente?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tipo de célula"
+      },
+      {
+        "id": "B",
+        "text": "Producción de ATP"
+      },
+      {
+        "id": "C",
+        "text": "Concentración de glucosa"
+      },
+      {
+        "id": "D",
+        "text": "Temperatura del medio"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Se mide la producción de ATP, por lo tanto es la variable dependiente."
+  },
+  {
+    "id": "SCI-REA-002",
+    "area": "science",
+    "category": "scientific_reasoning",
+    "subcategory": "variables_experimental_design",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "En un experimento sobre evolución, ¿cuál sería una variable independiente?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Número de descendientes"
+      },
+      {
+        "id": "B",
+        "text": "Características heredadas"
+      },
+      {
+        "id": "C",
+        "text": "Condiciones ambientales"
+      },
+      {
+        "id": "D",
+        "text": "Tasa de supervivencia"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Las condiciones ambientales son la variable que se manipula."
+  },
+  {
+    "id": "SCI-REA-003",
+    "area": "science",
+    "category": "scientific_reasoning",
+    "subcategory": "concept_variable_process",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál opción integra correctamente concepto, variable y proceso?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ADN – temperatura – observación"
+      },
+      {
+        "id": "B",
+        "text": "Energía – medición – hipótesis"
+      },
+      {
+        "id": "C",
+        "text": "Selección natural – frecuencia genética – evolución"
+      },
+      {
+        "id": "D",
+        "text": "Proteína – experimento – resultado"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "• Concepto: selección natural • Variable: frecuencia genética • Proceso: evolución"
+  },
+  {
+    "id": "SCI-REA-004",
+    "area": "science",
+    "category": "scientific_reasoning",
+    "subcategory": "science_technology_society",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál enunciado expresa mejor la relación entre ciencia y tecnología en el ámbito de la salud?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La tecnología reemplaza totalmente al conocimiento científico"
+      },
+      {
+        "id": "B",
+        "text": "La ciencia genera explicaciones y la tecnología aplica ese conocimiento en soluciones concretas"
+      },
+      {
+        "id": "C",
+        "text": "La ciencia depende de la tecnología, pero la tecnología no depende de la ciencia"
+      },
+      {
+        "id": "D",
+        "text": "La tecnología solo tiene utilidad industrial, no médica"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La ciencia genera explicaciones y la tecnología aplica ese conocimiento en soluciones concretas. Justificación: La guía establece que la ciencia produce conocimiento mediante observación y análisis, mientras que la tecnología lo transforma en herramientas, dispositivos y procesos útiles. Procedimiento de resolución: Se separan ambos conceptos. La ciencia explica; la tecnología aplica. Afirmar que una reemplaza a la otra es incorrecto. Por tanto, la relación correcta es la de la opción B."
+  },
+  {
+    "id": "SCI-REA-005",
+    "area": "science",
+    "category": "scientific_reasoning",
+    "subcategory": "science_ethics_society",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es una implicación ética central de la manipulación genética en humanos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El aumento obligatorio de la gravedad terrestre"
+      },
+      {
+        "id": "B",
+        "text": "La imposibilidad de producir medicamentos"
+      },
+      {
+        "id": "C",
+        "text": "El debate sobre los límites de modificar embriones"
+      },
+      {
+        "id": "D",
+        "text": "La desaparición automática de enfermedades infecciosas"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El debate sobre los límites de modificar embriones. Justificación: La edición genética en embriones humanos es uno de los puntos éticos más discutidos por sus implicaciones biológicas, sociales y morales."
+  },
+  {
+    "id": "SCI-REA-006",
+    "area": "science",
+    "category": "scientific_reasoning",
+    "subcategory": "science_technology_society",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué situación muestra con mayor claridad la utilidad social de la ciencia y la tecnología?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El uso de ultrasonido para diagnosticar alteraciones en el cuerpo"
+      },
+      {
+        "id": "B",
+        "text": "La formación natural de relámpagos en la atmósfera"
+      },
+      {
+        "id": "C",
+        "text": "El brillo metálico del cobre"
+      },
+      {
+        "id": "D",
+        "text": "La existencia de enlaces covalentes en el agua"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "El uso de ultrasonido para diagnosticar alteraciones en el cuerpo. Justificación: Es una aplicación tecnológica directa del conocimiento científico con impacto social y médico."
+  },
+  {
+    "id": "SCI-REA-007",
+    "area": "science",
+    "category": "scientific_reasoning",
+    "subcategory": "concept_evidence_application",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál opción integra de manera correcta proceso, componente y consecuencia social del conocimiento científico?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Proceso: observación; componente: evidencia; consecuencia: desarrollo de vacunas"
+      },
+      {
+        "id": "B",
+        "text": "Proceso: sublimación; componente: superstición; consecuencia: homeostasis"
+      },
+      {
+        "id": "C",
+        "text": "Proceso: combustión; componente: dogma; consecuencia: gravitación"
+      },
+      {
+        "id": "D",
+        "text": "Proceso: mutación; componente: opinión; consecuencia: respiración celular"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Proceso: observación; componente: evidencia; consecuencia: desarrollo de vacunas. Justificación: La observación y la evidencia forman parte del proceso científico, y una consecuencia social positiva de ese conocimiento puede ser el desarrollo de vacunas."
+  },
+  {
+    "id": "SCI-REA-008",
+    "area": "science",
+    "category": "scientific_reasoning",
+    "subcategory": "science_technology_society",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué ejemplo muestra mejor cómo un avance tecnológico retroalimenta al conocimiento científico?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El microscopio permitió observar células y ampliar la biología y la medicina"
+      },
+      {
+        "id": "B",
+        "text": "Los planetas se formaron únicamente por invención humana"
+      },
+      {
+        "id": "C",
+        "text": "La destilación creó de manera espontánea las leyes del movimiento"
+      },
+      {
+        "id": "D",
+        "text": "La temperatura corporal reemplazó al método experimental"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "El microscopio permitió observar células y ampliar la biología y la medicina. Justificación: Es un ejemplo clásico de cómo un avance tecnológico amplía la capacidad de observación y produce nuevo conocimiento científico."
+  },
+  {
+    "id": "SCI-REA-009",
+    "area": "science",
+    "category": "scientific_reasoning",
+    "subcategory": "concept_evidence_application",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál afirmación resume mejor la relación entre temas, procesos y componentes del conocimiento científico y sus consecuencias en la sociedad?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El conocimiento científico solo describe fenómenos y no tiene impacto social"
+      },
+      {
+        "id": "B",
+        "text": "Los procesos científicos organizan la obtención de evidencia, los conceptos permiten explicarla y sus aplicaciones transforman la salud, la tecnología y el ambiente"
+      },
+      {
+        "id": "C",
+        "text": "Las consecuencias sociales de la ciencia siempre son negativas"
+      },
+      {
+        "id": "D",
+        "text": "La sociedad avanza únicamente por ensayo y error, sin conceptos ni evidencia"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Los procesos científicos organizan la obtención de evidencia, los conceptos permiten explicarla y sus aplicaciones transforman la salud, la tecnología y el ambiente. Justificación: Esta opción resume con mayor precisión la relación entre procesos, componentes y consecuencias sociales del conocimiento científico."
+  },
+  {
+    "id": "SCI-REA-010",
+    "area": "science",
+    "category": "scientific_reasoning",
+    "subcategory": "quantitative_evidence",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Un alimento contiene 20 g de carbohidratos. Considerando que cada gramo aporta 4 kcal, ¿cuál es el aporte energético total?",
+    "options": [
+      {
+        "id": "A",
+        "text": "40 kcal"
+      },
+      {
+        "id": "B",
+        "text": "60 kcal"
+      },
+      {
+        "id": "C",
+        "text": "80 kcal"
+      },
+      {
+        "id": "D",
+        "text": "100 kcal"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "20 g × 4 kcal/g = 80 kcal Procedimiento: Multiplicar cantidad de carbohidratos por su valor energético."
+  },
+  {
+    "id": "SCI-REA-011",
+    "area": "science",
+    "category": "scientific_reasoning",
+    "subcategory": "science_technology_society",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es un ejemplo de cómo la tecnología impulsa el conocimiento científico?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La observación directa sin herramientas"
+      },
+      {
+        "id": "B",
+        "text": "El uso de microscopios para estudiar células"
+      },
+      {
+        "id": "C",
+        "text": "La repetición de creencias"
+      },
+      {
+        "id": "D",
+        "text": "La eliminación de datos"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Tecnología permite observación avanzada. Procedimiento: Relación ciencia-tecnología."
+  },
+  {
+    "id": "SCI-REA-012",
+    "area": "science",
+    "category": "scientific_reasoning",
+    "subcategory": "scientific_representation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál representación es más adecuada para analizar el flujo de energía en un ecosistema?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tabla periódica"
+      },
+      {
+        "id": "B",
+        "text": "Pirámide energética"
+      },
+      {
+        "id": "C",
+        "text": "Línea del tiempo"
+      },
+      {
+        "id": "D",
+        "text": "Mapa político"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Pirámide energética representa flujo de energía. Procedimiento: Identificar representación adecuada."
+  },
+  {
+    "id": "SCI-REA-013",
+    "area": "science",
+    "category": "scientific_reasoning",
+    "subcategory": "evidence_interpretation_argumentation",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál opción integra correctamente evidencia, interpretación y argumentación en estos subtemas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Datos → creencia → conclusión"
+      },
+      {
+        "id": "B",
+        "text": "Observación → interpretación → explicación basada en evidencia"
+      },
+      {
+        "id": "C",
+        "text": "Opinión → análisis → resultado"
+      },
+      {
+        "id": "D",
+        "text": "Suposición → evidencia → opinión"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Secuencia científica correcta. Procedimiento: Evidencia → análisis → explicación lógica."
+  }
+]

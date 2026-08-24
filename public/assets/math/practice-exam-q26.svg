@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+<title id="title">Círculo de radio 1.5 cm</title>
+<desc id="desc">Círculo con un radio indicado de 1.5 cm.</desc>
+<rect width="100%" height="100%" fill="white"/>
+
+<g fill="none" stroke="#111" stroke-width="4">
+<circle cx="450" cy="300" r="180"/>
+<line x1="450" y1="300" x2="630" y2="300"/>
+</g>
+<circle cx="450" cy="300" r="5.5" fill="#111"/>
+<text x="545" y="280" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30">1.5 cm</text>
+</svg>

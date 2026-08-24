@@ -1,0 +1,172 @@
+[
+  {
+    "id": "SPA-REA-029",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "main_idea",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "La lectura anterior presenta todos los temas siguientes, EXCEPTO:",
+    "options": [
+      {
+        "id": "A",
+        "text": "la rebeldía y la angustia ante la muerte."
+      },
+      {
+        "id": "B",
+        "text": "el menosprecio ante lo viejo y el pasado."
+      },
+      {
+        "id": "C",
+        "text": "la indiferencia ante el dolor ajeno."
+      },
+      {
+        "id": "D",
+        "text": "el creciente orgullo nacional por el patrimonio histórico."
+      },
+      {
+        "id": "E",
+        "text": "la imposición indiscriminada de lo moderno sobre lo antiguo."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "El texto muestra deterioro, destrucción e indiferencia, pero no desarrolla un creciente orgullo nacional por el patrimonio.",
+    "stimulus_id": "SPA-PASS-005"
+  },
+  {
+    "id": "SPA-REA-030",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En el texto, los lectores se enteran de lo que acontece a través de",
+    "options": [
+      {
+        "id": "A",
+        "text": "un espectador."
+      },
+      {
+        "id": "B",
+        "text": "uno de los obreros."
+      },
+      {
+        "id": "C",
+        "text": "la casa."
+      },
+      {
+        "id": "D",
+        "text": "un transeúnte."
+      },
+      {
+        "id": "E",
+        "text": "la última habitante de la casa."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La casa está personificada y narra en primera persona su propia destrucción.",
+    "stimulus_id": "SPA-PASS-005"
+  },
+  {
+    "id": "SPA-REA-031",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "vocabulary_in_context",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Cuando el narrador menciona a «los brutos» se refiere a los",
+    "options": [
+      {
+        "id": "A",
+        "text": "rastros del tiempo."
+      },
+      {
+        "id": "B",
+        "text": "transeúntes."
+      },
+      {
+        "id": "C",
+        "text": "hierros de la grúa."
+      },
+      {
+        "id": "D",
+        "text": "obreros."
+      },
+      {
+        "id": "E",
+        "text": "sufrimientos."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Por el contexto —personas que entran con hierros y golpean paredes— «los brutos» son los obreros.",
+    "stimulus_id": "SPA-PASS-005"
+  },
+  {
+    "id": "SPA-REA-032",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "De acuerdo con la lectura, la actitud de los transeúntes ante el derrumbe es que",
+    "options": [
+      {
+        "id": "A",
+        "text": "se muestran indiferentes a lo que pasa."
+      },
+      {
+        "id": "B",
+        "text": "pasan rápidamente sin querer detenerse."
+      },
+      {
+        "id": "C",
+        "text": "muestran tristeza ante la destrucción."
+      },
+      {
+        "id": "D",
+        "text": "quieren detenerse, pero su vestimenta les impide hacerlo."
+      },
+      {
+        "id": "E",
+        "text": "observan con nostalgia el derrumbe."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La narradora describe a la gente pasando sin detenerse a observar, lo que sugiere indiferencia.",
+    "stimulus_id": "SPA-PASS-005"
+  },
+  {
+    "id": "SPA-REA-033",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "vocabulary_in_context",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "De acuerdo con la lectura, el cambio de colores crea una imagen",
+    "options": [
+      {
+        "id": "A",
+        "text": "atractiva."
+      },
+      {
+        "id": "B",
+        "text": "nebulosa."
+      },
+      {
+        "id": "C",
+        "text": "pura."
+      },
+      {
+        "id": "D",
+        "text": "manchada."
+      },
+      {
+        "id": "E",
+        "text": "deprimente."
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Los colores aparecen «sin color» e «impuros» en una casa deteriorada, generando una imagen deprimente.",
+    "stimulus_id": "SPA-PASS-005"
+  }
+]

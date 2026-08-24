@@ -1,0 +1,89 @@
+[
+  {
+    "id": "COG-SEQ-010",
+    "area": "cognitive",
+    "category": "complex_sequences",
+    "subcategory": "alphanumeric",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "2y², 4y³, 8y⁴, ___.",
+    "options": [
+      {
+        "id": "A",
+        "text": "12y⁴"
+      },
+      {
+        "id": "B",
+        "text": "14y⁶"
+      },
+      {
+        "id": "C",
+        "text": "16y⁵"
+      },
+      {
+        "id": "D",
+        "text": "18y⁶"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Los coeficientes se duplican: 2, 4, 8, 16; y el exponente aumenta de uno en uno: 2, 3, 4, 5."
+  },
+  {
+    "id": "COG-SEQ-011",
+    "area": "cognitive",
+    "category": "complex_sequences",
+    "subcategory": "numeric",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "60, 120, 40, 80, 20, ___, ___.",
+    "options": [
+      {
+        "id": "A",
+        "text": "40, 0"
+      },
+      {
+        "id": "B",
+        "text": "40, 8"
+      },
+      {
+        "id": "C",
+        "text": "60, 12"
+      },
+      {
+        "id": "D",
+        "text": "60, 20"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El patrón alterna ×2 y ÷3: 60→120→40→80→20→40→8."
+  },
+  {
+    "id": "COG-SEQ-012",
+    "area": "cognitive",
+    "category": "complex_sequences",
+    "subcategory": "alphanumeric",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "1B, 2A, 3D, 4C, 5F, ___, ___.",
+    "options": [
+      {
+        "id": "A",
+        "text": "6E, 7H"
+      },
+      {
+        "id": "B",
+        "text": "6E, 7G"
+      },
+      {
+        "id": "C",
+        "text": "6G, 7H"
+      },
+      {
+        "id": "D",
+        "text": "6H, 7G"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Los números aumentan consecutivamente y las letras aparecen en pares invertidos: B,A; D,C; F,E; H,G."
+  }
+]

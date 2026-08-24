@@ -1,0 +1,89 @@
+[
+  {
+    "id": "COG-PRA-020",
+    "area": "cognitive",
+    "category": "practical_reasoning",
+    "subcategory": "situational",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Cristina empezó a ir a un gimnasio hace algunos meses. En su rutina de levantar pesas, ella empezó el primer mes levantando 5 kilos, el segundo mes 7 kilos, el tercer mes 10 kilos y el cuarto mes 11 kilos. Con esta información, se puede concluir que Cristina",
+    "options": [
+      {
+        "id": "A",
+        "text": "podría levantar 11 o más kilos."
+      },
+      {
+        "id": "B",
+        "text": "continuará yendo al gimnasio."
+      },
+      {
+        "id": "C",
+        "text": "levantará cualquier peso."
+      },
+      {
+        "id": "D",
+        "text": "se quedará levantando 11 kilos."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Los datos solo respaldan que ha llegado a levantar 11 kg y que podría mantener o superar ese nivel; las demás opciones afirman hechos no garantizados."
+  },
+  {
+    "id": "COG-PRA-021",
+    "area": "cognitive",
+    "category": "practical_reasoning",
+    "subcategory": "situational",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Para ir a su trabajo, María viaja aproximadamente 200 kilómetros, y esto le toma 2 horas de viaje. De regreso a su casa se detuvo tres veces antes de llegar. De esta información se puede concluir que María",
+    "options": [
+      {
+        "id": "A",
+        "text": "tardó 3 horas en llegar a su trabajo."
+      },
+      {
+        "id": "B",
+        "text": "les compró unas golosinas a sus hijos."
+      },
+      {
+        "id": "C",
+        "text": "se detuvo en casa de su madre a dejar a sus hijos."
+      },
+      {
+        "id": "D",
+        "text": "tardó más de 2 horas en regresar a su casa."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "El trayecto directo toma unas 2 horas; las tres paradas en el regreso añaden tiempo, así que el regreso debió tardar más de 2 horas."
+  },
+  {
+    "id": "COG-PRA-022",
+    "area": "cognitive",
+    "category": "practical_reasoning",
+    "subcategory": "situational",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "El profesor asignó a Juan, Margarita, Silvia y Mario cuatro informes distintos sobre Roma. Margarita eligió marco geográfico, Juan desarrollo histórico y Silvia organización política. Mario tuvo que trabajar el tema que quedaba. Se puede inferir que Mario",
+    "options": [
+      {
+        "id": "A",
+        "text": "no hizo el informe que le asignaron."
+      },
+      {
+        "id": "B",
+        "text": "tuvo que presentar las conclusiones."
+      },
+      {
+        "id": "C",
+        "text": "seleccionó el tema del arte."
+      },
+      {
+        "id": "D",
+        "text": "analizó la geografía de Roma."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Como los cuatro temas no se repiten y geografía, historia y política ya fueron asignados, el tema restante es arte."
+  }
+]

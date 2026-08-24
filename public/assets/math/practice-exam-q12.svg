@@ -1,0 +1,35 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+<title id="title">Plano cartesiano con P, Q, R, E y F</title>
+<desc id="desc">PQ es horizontal, QR vertical, E es punto medio de PQ y F es punto medio de QR.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<defs>
+  <marker id="arrow" markerWidth="9" markerHeight="9" refX="4.5" refY="4.5" orient="auto-start-reverse">
+    <path d="M0,0 L9,4.5 L0,9 z" fill="#111"/>
+  </marker>
+</defs>
+
+<line x1="110" y1="335" x2="800" y2="335" stroke="#111" stroke-width="3" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+<line x1="455" y1="560" x2="455" y2="80" stroke="#111" stroke-width="3" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+<text x="814" y="344" font-family="Arial,Helvetica,sans-serif" font-size="26" font-style="italic">x</text>
+<text x="467" y="72" font-family="Arial,Helvetica,sans-serif" font-size="26" font-style="italic">y</text>
+<line x1="285" y1="165" x2="625" y2="165" stroke="#111" stroke-width="4"/>
+<line x1="285" y1="165" x2="285" y2="505" stroke="#111" stroke-width="4"/>
+<line x1="368" y1="154" x2="368" y2="176" stroke="#111" stroke-width="2"/>
+<line x1="372" y1="154" x2="372" y2="176" stroke="#111" stroke-width="2"/>
+<line x1="538" y1="154" x2="538" y2="176" stroke="#111" stroke-width="2"/>
+<line x1="542" y1="154" x2="542" y2="176" stroke="#111" stroke-width="2"/>
+<line x1="274" y1="248" x2="296" y2="248" stroke="#111" stroke-width="2"/>
+<line x1="274" y1="252" x2="296" y2="252" stroke="#111" stroke-width="2"/>
+<line x1="274" y1="418" x2="296" y2="418" stroke="#111" stroke-width="2"/>
+<line x1="274" y1="422" x2="296" y2="422" stroke="#111" stroke-width="2"/>
+<circle cx="285" cy="165" r="5" fill="#111"/>
+<text x="267" y="151" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">Q</text>
+<circle cx="455" cy="165" r="5" fill="#111"/>
+<text x="437" y="151" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">E</text>
+<circle cx="625" cy="165" r="5" fill="#111"/>
+<text x="617" y="151" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">P</text>
+<circle cx="285" cy="335" r="5" fill="#111"/>
+<text x="261" y="327" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">F</text>
+<circle cx="285" cy="505" r="5" fill="#111"/>
+<text x="269" y="533" font-family="Arial,Helvetica,sans-serif" font-size="27" font-weight="700">R</text>
+</svg>

@@ -1,0 +1,252 @@
+[
+  {
+    "id": "MAT-NUM-006",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "real_numbers",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Un día de enero, la temperatura en Alaska fue de 0 \ngrados. Al cabo de 7 días aumentó 5 grados. Diez \ndías después disminuyó 8 grados debido a un frente \nfrío. ¿Cuál entero representa mejor la temperatura \ndespués del frente frío?",
+    "options": [
+      {
+        "id": "A",
+        "text": "–8"
+      },
+      {
+        "id": "B",
+        "text": "–3"
+      },
+      {
+        "id": "C",
+        "text": "3"
+      },
+      {
+        "id": "D",
+        "text": "13"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) –3. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-NUM-007",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "operations",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En la ecuación \n, ¿con qué número se tiene \nque rellenar el espacio \n de tal manera que la \necuación sea verdadera?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) 4. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado.",
+    "assets": [
+      {
+        "src": "/assets/math/practice-exam-q02.svg",
+        "description": "Ecuación matemática mostrada en el reactivo, con un espacio en blanco que debe completarse para que la igualdad sea verdadera; recrear exactamente la notación de la página 20."
+      }
+    ]
+  },
+  {
+    "id": "MAT-NUM-008",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "positive_integer_powers",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es el valor de la expresión (–3)3 ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "81"
+      },
+      {
+        "id": "B",
+        "text": "27"
+      },
+      {
+        "id": "C",
+        "text": "–9"
+      },
+      {
+        "id": "D",
+        "text": "–27"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) –27. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-NUM-009",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "real_numbers",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "5\n<\n<\nk\n, ¿cuál de los siguientes es un posible \nvalor para k ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.660"
+      },
+      {
+        "id": "B",
+        "text": "0.665"
+      },
+      {
+        "id": "C",
+        "text": "0.666"
+      },
+      {
+        "id": "D",
+        "text": "0.667"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) 0.667. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-NUM-010",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "real_numbers",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En la figura anterior, ¿cuál es el valor de P ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2\n3"
+      },
+      {
+        "id": "B",
+        "text": "5\n6"
+      },
+      {
+        "id": "C",
+        "text": "2"
+      },
+      {
+        "id": "D",
+        "text": "4"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) 2 3. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado.",
+    "assets": [
+      {
+        "src": "/assets/math/practice-exam-q05.svg",
+        "description": "Figura geométrica del reactivo 5 con el valor P señalado; recrear las medidas y etiquetas exactamente."
+      }
+    ]
+  },
+  {
+    "id": "MAT-NUM-011",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "real_numbers",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es el resultado de  –9 – (–3) – 8 ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "–20"
+      },
+      {
+        "id": "B",
+        "text": "–14"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "14"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) –14. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-NUM-012",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "positive_integer_powers",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "La matrícula de la Universidad X se hace por \ninternet. La cantidad de estudiantes matriculados \nse duplicó cada hora. Si a las 5:00 a. m. había 4 \nestudiantes matriculados, ¿cuántos estudiantes había \na las 8:00 a. m.?",
+    "options": [
+      {
+        "id": "A",
+        "text": "12"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "32"
+      },
+      {
+        "id": "D",
+        "text": "64"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) 32. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-NUM-013",
+    "area": "math",
+    "category": "number_operations",
+    "subcategory": "real_numbers",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las siguientes opciones representa el total \nde las longitudes que se muestran en la figura \nanterior?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4 + 3 + 5"
+      },
+      {
+        "id": "B",
+        "text": "1\n5 4\n1\n5 3\n10\n( )\n( )\n+\n+"
+      },
+      {
+        "id": "C",
+        "text": "2 4\n3\n1\n2 10\n(\n)\n(\n)\n+\n+"
+      },
+      {
+        "id": "D",
+        "text": "4\n3\n1\n2\n+\n+"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) 2 4 3 1 2 10 ( ) ( ) + +. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado.",
+    "assets": [
+      {
+        "src": "/assets/math/practice-exam-q08.svg",
+        "description": "Figura de longitudes del reactivo 8; recrear todos los segmentos y medidas fraccionarias exactamente."
+      }
+    ]
+  }
+]

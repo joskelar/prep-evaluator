@@ -1,0 +1,77 @@
+[
+  {
+    "id": "SPA-WRI-041",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "communicative_register",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un estudiante debe entregar una monografía para obtener parte de su evaluación. ¿Cuál de los textos es adecuado en esta situación comunicativa?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un texto sobre Louis Armstrong que termina con una valoración personal de sus mejores grabaciones."
+      },
+      {
+        "id": "B",
+        "text": "Un texto sobre suricatas con expresiones emotivas y una digresión sobre El rey león."
+      },
+      {
+        "id": "C",
+        "text": "Un texto objetivo sobre la viruela, sus síntomas y su erradicación, sin valoraciones personales."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Una monografía desarrolla un tema de manera objetiva, impersonal y sin digresiones; la tercera opción cumple esas características."
+  },
+  {
+    "id": "SPA-WRI-042",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "contextual_antonym",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Elige la opción que, de acuerdo con el contexto, tiene significado contrario a la palabra en negritas: «El estrés representa uno de los problemas de mayor seriedad entre los adolescentes».",
+    "options": [
+      {
+        "id": "A",
+        "text": "Informalidad"
+      },
+      {
+        "id": "B",
+        "text": "Irresponsabilidad"
+      },
+      {
+        "id": "C",
+        "text": "Insignificancia"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "En este contexto, «seriedad» significa gravedad o importancia; su contrario adecuado es «insignificancia»."
+  },
+  {
+    "id": "SPA-WRI-043",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "orthography_diaeresis",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Completa el enunciado con las grafías correctas: «En la antig___edad se pensaba que no ir a la g___erra era una verg___enza».",
+    "options": [
+      {
+        "id": "A",
+        "text": "ü - u - u"
+      },
+      {
+        "id": "B",
+        "text": "u - ü - ü"
+      },
+      {
+        "id": "C",
+        "text": "ü - u - ü"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Las formas correctas son «antigüedad», «guerra» y «vergüenza»."
+  }
+]

@@ -1,0 +1,89 @@
+[
+  {
+    "id": "COG-ANA-007",
+    "area": "cognitive",
+    "category": "analogies",
+    "subcategory": "general",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Sol es a día como conocimiento es a",
+    "options": [
+      {
+        "id": "A",
+        "text": "ideas"
+      },
+      {
+        "id": "B",
+        "text": "razón"
+      },
+      {
+        "id": "C",
+        "text": "descubrimiento"
+      },
+      {
+        "id": "D",
+        "text": "sabiduría"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "El Sol se asocia con el día del mismo modo que el conocimiento conduce o se asocia con la sabiduría."
+  },
+  {
+    "id": "COG-ANA-008",
+    "area": "cognitive",
+    "category": "analogies",
+    "subcategory": "function",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Libro es a visión como radio es a",
+    "options": [
+      {
+        "id": "A",
+        "text": "música"
+      },
+      {
+        "id": "B",
+        "text": "audición"
+      },
+      {
+        "id": "C",
+        "text": "locutor"
+      },
+      {
+        "id": "D",
+        "text": "comunicación"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Un libro se percibe principalmente mediante la visión; una radio se percibe principalmente mediante la audición."
+  },
+  {
+    "id": "COG-ANA-009",
+    "area": "cognitive",
+    "category": "analogies",
+    "subcategory": "part_whole",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Continente es a selva como ciudad es a",
+    "options": [
+      {
+        "id": "A",
+        "text": "parque"
+      },
+      {
+        "id": "B",
+        "text": "nación"
+      },
+      {
+        "id": "C",
+        "text": "municipio"
+      },
+      {
+        "id": "D",
+        "text": "estado"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Una selva puede formar parte de un continente; de manera análoga, un parque puede formar parte de una ciudad."
+  }
+]

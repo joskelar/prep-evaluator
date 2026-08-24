@@ -1,0 +1,32 @@
+[
+  {
+    "id": "COG-CON-034",
+    "area": "cognitive",
+    "category": "conditional_reasoning",
+    "subcategory": "syllogistic_reasoning",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Si todos los estudiantes de secundaria son adolescentes y algunos adolescentes son muy altos, entonces",
+    "options": [
+      {
+        "id": "A",
+        "text": "Todos los estudiantes de secundaria son muy altos."
+      },
+      {
+        "id": "B",
+        "text": "Todos los estudiantes altos son de secundaria."
+      },
+      {
+        "id": "C",
+        "text": "Algunos estudiantes de secundaria son muy altos."
+      },
+      {
+        "id": "D",
+        "text": "Algunos adolescentes estudian secundaria."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La guía fuente marca C y razona que, al ser los estudiantes de secundaria adolescentes y existir adolescentes muy altos, algunos estudiantes de secundaria son muy altos.",
+    "source_note": "La conclusión marcada por la guía no se sigue necesariamente de las premisas en lógica formal; se conserva la clave de la fuente y se documenta esta incidencia en QUALITY-NOTES.md."
+  }
+]

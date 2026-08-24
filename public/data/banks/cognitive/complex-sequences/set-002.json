@@ -1,0 +1,147 @@
+[
+  {
+    "id": "COG-SEQ-013",
+    "area": "cognitive",
+    "category": "complex_sequences",
+    "subcategory": "alphanumeric",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "10t, 25u, ___ , 55w.",
+    "options": [
+      {
+        "id": "A",
+        "text": "30v"
+      },
+      {
+        "id": "B",
+        "text": "35x"
+      },
+      {
+        "id": "C",
+        "text": "40v"
+      },
+      {
+        "id": "D",
+        "text": "45x"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) 40v. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-SEQ-014",
+    "area": "cognitive",
+    "category": "complex_sequences",
+    "subcategory": "numeric",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "(1, 3); (2, 5); (__ , 7); (4, __).",
+    "options": [
+      {
+        "id": "A",
+        "text": "3, 8"
+      },
+      {
+        "id": "B",
+        "text": "3, 9"
+      },
+      {
+        "id": "C",
+        "text": "4, 10"
+      },
+      {
+        "id": "D",
+        "text": "4, 11"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) 3, 9. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-SEQ-015",
+    "area": "cognitive",
+    "category": "complex_sequences",
+    "subcategory": "alphanumeric",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "f3, L5, e4, K6, __ , __ .",
+    "options": [
+      {
+        "id": "A",
+        "text": "d5, J7"
+      },
+      {
+        "id": "B",
+        "text": "d7, J5"
+      },
+      {
+        "id": "C",
+        "text": "g5, I7"
+      },
+      {
+        "id": "D",
+        "text": "g7, I5"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) d5, J7. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-SEQ-016",
+    "area": "cognitive",
+    "category": "complex_sequences",
+    "subcategory": "alphabetic",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "m, O, k, Q, i, S, g, __ , __ .",
+    "options": [
+      {
+        "id": "A",
+        "text": "T, f"
+      },
+      {
+        "id": "B",
+        "text": "T, e"
+      },
+      {
+        "id": "C",
+        "text": "U, f"
+      },
+      {
+        "id": "D",
+        "text": "U, e"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) U, e. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-SEQ-017",
+    "area": "cognitive",
+    "category": "complex_sequences",
+    "subcategory": "alphanumeric",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "16x2, 18x4, 14x8, 22x16, __ .",
+    "options": [
+      {
+        "id": "A",
+        "text": "6x32"
+      },
+      {
+        "id": "B",
+        "text": "12x24"
+      },
+      {
+        "id": "C",
+        "text": "18x32"
+      },
+      {
+        "id": "D",
+        "text": "26x24"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) 6x32. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  }
+]

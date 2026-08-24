@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="650" viewBox="0 0 900 650" role="img" aria-labelledby="title desc">
+<title id="title">Recta en plano cartesiano</title>
+<desc id="desc">Recta ascendente que pasa por (0,-1) y (1,2).</desc>
+<rect width="100%" height="100%" fill="white"/>
+
+
+<defs>
+  <marker id="arrow" markerWidth="8" markerHeight="8" refX="4" refY="4" orient="auto-start-reverse">
+    <path d="M0,0 L8,4 L0,8 z" fill="#111"/>
+  </marker>
+</defs>
+
+<g>
+<line x1="120.00" y1="80" x2="120.00" y2="580" stroke="#ddd" stroke-width="1"/>
+<line x1="207.50" y1="80" x2="207.50" y2="580" stroke="#ddd" stroke-width="1"/>
+<line x1="295.00" y1="80" x2="295.00" y2="580" stroke="#ddd" stroke-width="1"/>
+<line x1="382.50" y1="80" x2="382.50" y2="580" stroke="#ddd" stroke-width="1"/>
+<line x1="470.00" y1="80" x2="470.00" y2="580" stroke="#ddd" stroke-width="1"/>
+<line x1="557.50" y1="80" x2="557.50" y2="580" stroke="#ddd" stroke-width="1"/>
+<line x1="645.00" y1="80" x2="645.00" y2="580" stroke="#ddd" stroke-width="1"/>
+<line x1="732.50" y1="80" x2="732.50" y2="580" stroke="#ddd" stroke-width="1"/>
+<line x1="820.00" y1="80" x2="820.00" y2="580" stroke="#ddd" stroke-width="1"/>
+<line x1="120" y1="580.00" x2="820" y2="580.00" stroke="#ddd" stroke-width="1"/>
+<line x1="120" y1="538.33" x2="820" y2="538.33" stroke="#ddd" stroke-width="1"/>
+<line x1="120" y1="496.67" x2="820" y2="496.67" stroke="#ddd" stroke-width="1"/>
+<line x1="120" y1="455.00" x2="820" y2="455.00" stroke="#ddd" stroke-width="1"/>
+<line x1="120" y1="413.33" x2="820" y2="413.33" stroke="#ddd" stroke-width="1"/>
+<line x1="120" y1="371.67" x2="820" y2="371.67" stroke="#ddd" stroke-width="1"/>
+<line x1="120" y1="330.00" x2="820" y2="330.00" stroke="#ddd" stroke-width="1"/>
+<line x1="120" y1="288.33" x2="820" y2="288.33" stroke="#ddd" stroke-width="1"/>
+<line x1="120" y1="246.67" x2="820" y2="246.67" stroke="#ddd" stroke-width="1"/>
+<line x1="120" y1="205.00" x2="820" y2="205.00" stroke="#ddd" stroke-width="1"/>
+<line x1="120" y1="163.33" x2="820" y2="163.33" stroke="#ddd" stroke-width="1"/>
+<line x1="120" y1="121.67" x2="820" y2="121.67" stroke="#ddd" stroke-width="1"/>
+<line x1="120" y1="80.00" x2="820" y2="80.00" stroke="#ddd" stroke-width="1"/>
+<line x1="470.00" y1="80" x2="470.00" y2="580" stroke="#111" stroke-width="2.5" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+<line x1="120" y1="371.67" x2="820" y2="371.67" stroke="#111" stroke-width="2.5" marker-start="url(#arrow)" marker-end="url(#arrow)"/>
+<line x1="120.00" y1="366.67" x2="120.00" y2="376.67" stroke="#111" stroke-width="1.5"/>
+<text x="120.00" y="394.67" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">-4</text>
+<line x1="207.50" y1="366.67" x2="207.50" y2="376.67" stroke="#111" stroke-width="1.5"/>
+<text x="207.50" y="394.67" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">-3</text>
+<line x1="295.00" y1="366.67" x2="295.00" y2="376.67" stroke="#111" stroke-width="1.5"/>
+<text x="295.00" y="394.67" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">-2</text>
+<line x1="382.50" y1="366.67" x2="382.50" y2="376.67" stroke="#111" stroke-width="1.5"/>
+<text x="382.50" y="394.67" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">-1</text>
+<line x1="557.50" y1="366.67" x2="557.50" y2="376.67" stroke="#111" stroke-width="1.5"/>
+<text x="557.50" y="394.67" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">1</text>
+<line x1="645.00" y1="366.67" x2="645.00" y2="376.67" stroke="#111" stroke-width="1.5"/>
+<text x="645.00" y="394.67" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">2</text>
+<line x1="732.50" y1="366.67" x2="732.50" y2="376.67" stroke="#111" stroke-width="1.5"/>
+<text x="732.50" y="394.67" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">3</text>
+<line x1="820.00" y1="366.67" x2="820.00" y2="376.67" stroke="#111" stroke-width="1.5"/>
+<text x="820.00" y="394.67" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">4</text>
+<line x1="465.00" y1="580.00" x2="475.00" y2="580.00" stroke="#111" stroke-width="1.5"/>
+<text x="458.00" y="585.00" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">-5</text>
+<line x1="465.00" y1="538.33" x2="475.00" y2="538.33" stroke="#111" stroke-width="1.5"/>
+<text x="458.00" y="543.33" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">-4</text>
+<line x1="465.00" y1="496.67" x2="475.00" y2="496.67" stroke="#111" stroke-width="1.5"/>
+<text x="458.00" y="501.67" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">-3</text>
+<line x1="465.00" y1="455.00" x2="475.00" y2="455.00" stroke="#111" stroke-width="1.5"/>
+<text x="458.00" y="460.00" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">-2</text>
+<line x1="465.00" y1="413.33" x2="475.00" y2="413.33" stroke="#111" stroke-width="1.5"/>
+<text x="458.00" y="418.33" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">-1</text>
+<line x1="465.00" y1="330.00" x2="475.00" y2="330.00" stroke="#111" stroke-width="1.5"/>
+<text x="458.00" y="335.00" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">1</text>
+<line x1="465.00" y1="288.33" x2="475.00" y2="288.33" stroke="#111" stroke-width="1.5"/>
+<text x="458.00" y="293.33" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">2</text>
+<line x1="465.00" y1="246.67" x2="475.00" y2="246.67" stroke="#111" stroke-width="1.5"/>
+<text x="458.00" y="251.67" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">3</text>
+<line x1="465.00" y1="205.00" x2="475.00" y2="205.00" stroke="#111" stroke-width="1.5"/>
+<text x="458.00" y="210.00" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">4</text>
+<line x1="465.00" y1="163.33" x2="475.00" y2="163.33" stroke="#111" stroke-width="1.5"/>
+<text x="458.00" y="168.33" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">5</text>
+<line x1="465.00" y1="121.67" x2="475.00" y2="121.67" stroke="#111" stroke-width="1.5"/>
+<text x="458.00" y="126.67" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">6</text>
+<line x1="465.00" y1="80.00" x2="475.00" y2="80.00" stroke="#111" stroke-width="1.5"/>
+<text x="458.00" y="85.00" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="16" fill="#111">7</text>
+<text x="810" y="359.67" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">x</text>
+<text x="482.00" y="102" font-family="Arial,Helvetica,sans-serif" font-size="22" font-weight="700">y</text>
+</g>
+<line x1="295.00" y1="663.33" x2="697.50" y2="88.33" stroke="#111" stroke-width="4"/>
+<circle cx="470.00" cy="413.33" r="6" fill="#111"/>
+<text x="482.00" y="401.33" font-family="Arial,Helvetica,sans-serif" font-size="18">(0, −1)</text>
+<circle cx="557.50" cy="288.33" r="6" fill="#111"/>
+<text x="569.50" y="276.33" font-family="Arial,Helvetica,sans-serif" font-size="18">(1, 2)</text>
+</svg>

@@ -1,0 +1,147 @@
+[
+  {
+    "id": "COG-ANA-010",
+    "area": "cognitive",
+    "category": "analogies",
+    "subcategory": "general",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Elefante es a pesado como pluma es a",
+    "options": [
+      {
+        "id": "A",
+        "text": "firme."
+      },
+      {
+        "id": "B",
+        "text": "aérea."
+      },
+      {
+        "id": "C",
+        "text": "liviana."
+      },
+      {
+        "id": "D",
+        "text": "volátil."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) liviana.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-ANA-011",
+    "area": "cognitive",
+    "category": "analogies",
+    "subcategory": "general",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Sombrero es a cabeza como tulipán es a",
+    "options": [
+      {
+        "id": "A",
+        "text": "pétalo."
+      },
+      {
+        "id": "B",
+        "text": "flor."
+      },
+      {
+        "id": "C",
+        "text": "estambre."
+      },
+      {
+        "id": "D",
+        "text": "tallo."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) tallo.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-ANA-012",
+    "area": "cognitive",
+    "category": "analogies",
+    "subcategory": "general",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Cansancio es a vitalidad como interés es a",
+    "options": [
+      {
+        "id": "A",
+        "text": "afinidad."
+      },
+      {
+        "id": "B",
+        "text": "intriga."
+      },
+      {
+        "id": "C",
+        "text": "apatía."
+      },
+      {
+        "id": "D",
+        "text": "fortuna."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) apatía.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-ANA-013",
+    "area": "cognitive",
+    "category": "analogies",
+    "subcategory": "general",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Joyero es a anillo como coreógrafo es a",
+    "options": [
+      {
+        "id": "A",
+        "text": "canción."
+      },
+      {
+        "id": "B",
+        "text": "danza."
+      },
+      {
+        "id": "C",
+        "text": "coro."
+      },
+      {
+        "id": "D",
+        "text": "partitura."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) danza.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-ANA-014",
+    "area": "cognitive",
+    "category": "analogies",
+    "subcategory": "general",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Uva es a vino como carbono es a",
+    "options": [
+      {
+        "id": "A",
+        "text": "diamante."
+      },
+      {
+        "id": "B",
+        "text": "mina."
+      },
+      {
+        "id": "C",
+        "text": "elemento."
+      },
+      {
+        "id": "D",
+        "text": "contaminación.\n\n1 5"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) diamante.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  }
+]

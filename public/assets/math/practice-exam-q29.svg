@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+<title id="title">Edades de los miembros del coro</title>
+<desc id="desc">Gráfica de barras con edades 18, 19, 20 y 21; cantidades 10, 25, 15 y 10.</desc>
+<rect width="100%" height="100%" fill="white"/>
+<text x="450" y="60" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30" font-weight="700">Edades de los miembros del coro</text>
+<line x1="130" y1="500" x2="800" y2="500" stroke="#111" stroke-width="3"/>
+<line x1="130" y1="500" x2="130" y2="120" stroke="#111" stroke-width="3"/>
+<text x="465" y="565" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24">Edades</text>
+<text x="45" y="310" transform="rotate(-90 45 310)" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="24">Cantidad de miembros</text>
+<line x1="130" y1="500.0" x2="800" y2="500.0" stroke="#ddd" stroke-width="1"/>
+<text x="105" y="507.0" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="20">0</text>
+<line x1="130" y1="410.0" x2="800" y2="410.0" stroke="#ddd" stroke-width="1"/>
+<text x="105" y="417.0" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="20">10</text>
+<line x1="130" y1="320.0" x2="800" y2="320.0" stroke="#ddd" stroke-width="1"/>
+<text x="105" y="327.0" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="20">20</text>
+<line x1="130" y1="230.0" x2="800" y2="230.0" stroke="#ddd" stroke-width="1"/>
+<text x="105" y="237.0" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="20">30</text>
+<line x1="130" y1="140.0" x2="800" y2="140.0" stroke="#ddd" stroke-width="1"/>
+<text x="105" y="147.0" text-anchor="end" font-family="Arial,Helvetica,sans-serif" font-size="20">40</text>
+<rect x="200" y="410.0" width="80" height="90.0" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<text x="240" y="530" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22">18</text>
+<rect x="345" y="275.0" width="80" height="225.0" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<text x="385" y="530" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22">19</text>
+<rect x="490" y="365.0" width="80" height="135.0" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<text x="530" y="530" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22">20</text>
+<rect x="635" y="410.0" width="80" height="90.0" fill="#bdbdbd" stroke="#111" stroke-width="2"/>
+<text x="675" y="530" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="22">21</text>
+</svg>

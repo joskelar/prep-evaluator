@@ -1,0 +1,147 @@
+[
+  {
+    "id": "COG-MTX-016",
+    "area": "cognitive",
+    "category": "matrices",
+    "subcategory": "alphabetic",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "A\ne\ni\no\nf\nG\nh\nj\nE\ni\no\nu\n__\nH\nj\nk\n__\no\nu\na",
+    "options": [
+      {
+        "id": "A",
+        "text": "f, E"
+      },
+      {
+        "id": "B",
+        "text": "F, e"
+      },
+      {
+        "id": "C",
+        "text": "g, I"
+      },
+      {
+        "id": "D",
+        "text": "G, i"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) g, I. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-MTX-017",
+    "area": "cognitive",
+    "category": "matrices",
+    "subcategory": "numeric",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "24\n31\n38\n45\n52\n30\n37\n44\n51\n58\n36\n43\n50\n57\n64\n42\n49\n56\n__\n__",
+    "options": [
+      {
+        "id": "A",
+        "text": "62, 69"
+      },
+      {
+        "id": "B",
+        "text": "63, 70"
+      },
+      {
+        "id": "C",
+        "text": "64, 71"
+      },
+      {
+        "id": "D",
+        "text": "65, 72"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) 63, 70. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-MTX-018",
+    "area": "cognitive",
+    "category": "matrices",
+    "subcategory": "numeric",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "1\n4\n14\n3\n7\n37\n7\n2\n__",
+    "options": [
+      {
+        "id": "A",
+        "text": "49"
+      },
+      {
+        "id": "B",
+        "text": "51"
+      },
+      {
+        "id": "C",
+        "text": "72"
+      },
+      {
+        "id": "D",
+        "text": "74"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) 72. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-MTX-019",
+    "area": "cognitive",
+    "category": "matrices",
+    "subcategory": "mixed",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "p\n1\nQ\n8\nr\n15\ns\nT\n22\nu\n29\nV\n36\nw\n__\n__\n__\n50\nz\n57\nA",
+    "options": [
+      {
+        "id": "A",
+        "text": "x, 43, Y"
+      },
+      {
+        "id": "B",
+        "text": "x, 43, y"
+      },
+      {
+        "id": "C",
+        "text": "X, 43, Y"
+      },
+      {
+        "id": "D",
+        "text": "X, 43, y"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) x, 43, Y. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-MTX-020",
+    "area": "cognitive",
+    "category": "matrices",
+    "subcategory": "numeric",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "2\n5\n12\n28\n64\n3\n7\n80\n4\n9\n20\n44\n96\n1\n3\n5\n7\n9\n2\n5\n14\n3\n7\n11\n15\n19\n__\n__",
+    "options": [
+      {
+        "id": "A",
+        "text": "167, 369"
+      },
+      {
+        "id": "B",
+        "text": "168, 3611"
+      },
+      {
+        "id": "C",
+        "text": "187, 329"
+      },
+      {
+        "id": "D",
+        "text": "188, 3211"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) 168, 3611. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  }
+]

@@ -1,0 +1,20 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="600" viewBox="0 0 900 600" role="img" aria-labelledby="title desc">
+<title id="title">Figura 9: ruleta</title>
+<desc id="desc">Ruleta circular dividida en cuatro cuartos iguales; el cuadrante superior derecho está sombreado y una flecha apunta hacia arriba.</desc>
+<rect width="100%" height="100%" fill="white"/>
+
+
+<defs>
+  <marker id="arrow" markerWidth="10" markerHeight="10" refX="5" refY="5" orient="auto">
+    <path d="M0,0 L10,5 L0,10 z" fill="#111"/>
+  </marker>
+</defs>
+
+<g stroke="#111" stroke-width="4">
+<path d="M 450,300 L 620,300 A 170,170 0 0 0 450,130 Z" fill="#d9d9d9"/>
+<circle cx="450" cy="300" r="170" fill="none"/>
+<line x1="280" y1="300" x2="620" y2="300" />
+<line x1="450" y1="130" x2="450" y2="470" />
+<line x1="450" y1="50" x2="450" y2="120" marker-end="url(#arrow)"/>
+</g>
+</svg>

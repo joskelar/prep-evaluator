@@ -1,0 +1,301 @@
+[
+  {
+    "id": "MAT-ALG-032",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "quadratic_roots",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál valor corresponde a uno de los puntos en los que la parábola y = x² + 11x + 28 interseca al eje x?",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 4"
+      },
+      {
+        "id": "B",
+        "text": "x = -7"
+      },
+      {
+        "id": "C",
+        "text": "x = 28"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "x² + 11x + 28 = (x + 7)(x + 4); por tanto, las raíces son -7 y -4."
+  },
+  {
+    "id": "MAT-ALG-033",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "inequalities",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "El salario mínimo de una persona es de $22.5 por hora y el valor de la canasta básica alimentaria es de $2,182.5. Si debe trabajar por lo menos 97 horas para cubrirla, ¿qué inecuación describe la situación?",
+    "options": [
+      {
+        "id": "A",
+        "text": "x ≥ 97"
+      },
+      {
+        "id": "B",
+        "text": "x ≤ 97"
+      },
+      {
+        "id": "C",
+        "text": "x = 97"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "«Por lo menos 97» significa 97 o más horas, por lo que x ≥ 97."
+  },
+  {
+    "id": "MAT-ALG-034",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "proportions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Para qué valor se cumple AC/CB = DF/FE al presentar los segmentos y longitudes indicados en términos de x?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "16"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La proporción entre los segmentos conduce al valor x = 8.",
+    "assets": [
+      {
+        "src": "assets/math/algebra/mat-alg-034.png",
+        "description": "Figura original del reactivo 5 con dos segmentos subdivididos en AC, CB, DF y FE y longitudes expresadas en términos de x."
+      }
+    ]
+  },
+  {
+    "id": "MAT-ALG-035",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "graph_interpretation",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál enunciado representa una situación equilibradamente beneficiosa entre la oferta, la demanda y la tendencia de compra actual?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al elaborarse 300 productos y cada uno cuesta $120."
+      },
+      {
+        "id": "B",
+        "text": "Al alcanzar la elaboración de 100 productos con un costo de $150 cada uno."
+      },
+      {
+        "id": "C",
+        "text": "Cuando se llega a la elaboración de 150 productos y cada uno cuesta $200."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La fuente identifica la opción C como el punto que representa el equilibrio mostrado en la gráfica.",
+    "assets": [
+      {
+        "src": "assets/math/algebra/mat-alg-035.png",
+        "description": "Gráfica original de oferta, demanda y tendencia de compra del reactivo 6, con cantidades y precios necesarios para identificar el punto de equilibrio."
+      }
+    ]
+  },
+  {
+    "id": "MAT-ALG-036",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "powers",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Selecciona el valor que debe colocarse en el recuadro de ((m³)^□) para que sea equivalente a ((m⁴)³)².",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "8"
+      },
+      {
+        "id": "C",
+        "text": "16"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "((m⁴)³)² = m^(4·3·2)=m²⁴. Para (m³)^k=m²⁴ se requiere 3k=24, por lo que k=8."
+  },
+  {
+    "id": "MAT-ALG-037",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "polynomial_operations",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es el resultado de C + 2A − B, si A = x² − 3x, B = 5x⁴ + x² y C = −4x + 2?",
+    "options": [
+      {
+        "id": "A",
+        "text": "−5x⁴ + 3x² − 7x + 2"
+      },
+      {
+        "id": "B",
+        "text": "−5x⁴ − 3x² + 10x + 2"
+      },
+      {
+        "id": "C",
+        "text": "−5x⁴ + x² − 10x + 2"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "C+2A−B=(-4x+2)+2(x²−3x)−(5x⁴+x²)=−5x⁴+x²−10x+2."
+  },
+  {
+    "id": "MAT-ALG-038",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "linear_equations",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál afirmación es correcta para la ecuación 2x − 7y = 14?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Una de las posibles soluciones es x = 0, y = −2."
+      },
+      {
+        "id": "B",
+        "text": "No tiene solución."
+      },
+      {
+        "id": "C",
+        "text": "La única solución posible es x = 0, y = −2."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Al sustituir (0,−2), 2(0)−7(−2)=14. La ecuación lineal en dos variables tiene infinitas soluciones, así que esa pareja es una de ellas."
+  },
+  {
+    "id": "MAT-ALG-039",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "systems_graphical",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "La gráfica representa un sistema de 3 ecuaciones de 2 variables. ¿Cuál es la solución del sistema?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No tiene solución"
+      },
+      {
+        "id": "B",
+        "text": "Los puntos A y B son solución"
+      },
+      {
+        "id": "C",
+        "text": "Los puntos C y D son solución"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La fuente marca B; en la gráfica, los puntos A y B corresponden a las intersecciones señaladas como solución del sistema.",
+    "assets": [
+      {
+        "src": "assets/math/algebra/mat-alg-039.png",
+        "description": "Gráfica original del reactivo 19 con tres ecuaciones y puntos A, B, C y D etiquetados."
+      }
+    ]
+  },
+  {
+    "id": "MAT-ALG-040",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "quadratic_graphs",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál gráfica representa la parábola y = (x + 5 + 2)²?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Gráfica A"
+      },
+      {
+        "id": "B",
+        "text": "Gráfica B"
+      },
+      {
+        "id": "C",
+        "text": "Gráfica C"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La expresión es (x+7)², cuya parábola abre hacia arriba y tiene vértice en (−7,0); corresponde a la gráfica B.",
+    "assets": [
+      {
+        "src": "assets/math/algebra/mat-alg-040.png",
+        "description": "Tres gráficas de parábolas A, B y C del reactivo 21; B debe tener vértice en (−7,0), A alrededor de (7,0) y C alrededor de (0,−7)."
+      }
+    ]
+  },
+  {
+    "id": "MAT-ALG-041",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "linear_models",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál modelo representa mejor el costo de la corriente eléctrica según los pares (850,1240), (650,946), (700,1030), (450,680)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "y = 1.4x + 50"
+      },
+      {
+        "id": "B",
+        "text": "y = 1.45x"
+      },
+      {
+        "id": "C",
+        "text": "y = 0.86x"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La opción A reproduce exactamente 1240 cuando x=850 y aproxima adecuadamente los demás valores; es la opción seleccionada por la fuente."
+  },
+  {
+    "id": "MAT-ALG-042",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "equivalent_expressions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué opción es equivalente a 4(x + 2y)(x + 2y)?",
+    "options": [
+      {
+        "id": "A",
+        "text": "(4x + 2y)²"
+      },
+      {
+        "id": "B",
+        "text": "(2x + 4y)²"
+      },
+      {
+        "id": "C",
+        "text": "(4x + 8y)²"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "4(x+2y)² = [2(x+2y)]² = (2x+4y)²."
+  }
+]

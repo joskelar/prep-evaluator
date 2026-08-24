@@ -1,0 +1,206 @@
+[
+  {
+    "id": "MAT-ALG-026",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "functions_graphs",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En la figura, las coordenadas del punto de intersección de las rectas l₁ y l₂ son",
+    "options": [
+      {
+        "id": "A",
+        "text": "(-4, 4)"
+      },
+      {
+        "id": "B",
+        "text": "(4, -4)"
+      },
+      {
+        "id": "C",
+        "text": "(-4, -4)"
+      },
+      {
+        "id": "D",
+        "text": "(4, 4)"
+      },
+      {
+        "id": "E",
+        "text": "(0, 4)"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Las dos rectas se cruzan visualmente en x=4, y=4.",
+    "assets": [
+      {
+        "src": "/assets/math/MAT-ALG-LEGACY-INTERSECTION.svg",
+        "description": "Plano cartesiano con cuadrícula. Dos rectas diagonales l1 y l2 se cruzan en el punto (4, 4): l1 desciende aproximadamente de (2,6) a (8,0) y l2 asciende aproximadamente de (0,0) a (6,6)."
+      }
+    ]
+  },
+  {
+    "id": "MAT-ALG-027",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "linear_equations_one_variable",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Si 3(x − 20) = x + 4, entonces x =",
+    "options": [
+      {
+        "id": "A",
+        "text": "−28"
+      },
+      {
+        "id": "B",
+        "text": "−14"
+      },
+      {
+        "id": "C",
+        "text": "12"
+      },
+      {
+        "id": "D",
+        "text": "16"
+      },
+      {
+        "id": "E",
+        "text": "32"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "3x−60=x+4; por tanto 2x=64 y x=32."
+  },
+  {
+    "id": "MAT-ALG-028",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "algebraic_expressions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Juan ganó el doble de juegos que Pedro. Si jugaron 18 partidos, la ecuación para buscar el número de juegos que ganó Pedro es",
+    "options": [
+      {
+        "id": "A",
+        "text": "2x + x = 18"
+      },
+      {
+        "id": "B",
+        "text": "18 − 2x = y"
+      },
+      {
+        "id": "C",
+        "text": "x + 2 = 18"
+      },
+      {
+        "id": "D",
+        "text": "x + 18 = 2x"
+      },
+      {
+        "id": "E",
+        "text": "2x = 18"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Si Pedro ganó x, Juan ganó 2x; juntos suman 18, de modo que x+2x=18."
+  },
+  {
+    "id": "MAT-ALG-029",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "linear_equations_one_variable",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "La solución de la ecuación (1/2)x + 1 = 5 es",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "5"
+      },
+      {
+        "id": "D",
+        "text": "8"
+      },
+      {
+        "id": "E",
+        "text": "10"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Restando 1 queda x/2=4; multiplicando por 2, x=8."
+  },
+  {
+    "id": "MAT-ALG-030",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "rational_expressions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Simplifique (x²y²)/(2x²y).",
+    "options": [
+      {
+        "id": "A",
+        "text": "xy"
+      },
+      {
+        "id": "B",
+        "text": "2y²"
+      },
+      {
+        "id": "C",
+        "text": "2(xy)²"
+      },
+      {
+        "id": "D",
+        "text": "(xy)²/2"
+      },
+      {
+        "id": "E",
+        "text": "y/2"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Se cancelan x² y un factor y: queda y/2."
+  },
+  {
+    "id": "MAT-ALG-031",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "factorization",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "La factorización del trinomio x² − x − 2 es",
+    "options": [
+      {
+        "id": "A",
+        "text": "(x + 1)(x − 2)"
+      },
+      {
+        "id": "B",
+        "text": "(x − 1)(x + 2)"
+      },
+      {
+        "id": "C",
+        "text": "(x − 1)(x − 2)"
+      },
+      {
+        "id": "D",
+        "text": "(x − 1)(x − 1)"
+      },
+      {
+        "id": "E",
+        "text": "(x + 1)(x − 1)"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Se requieren dos números cuyo producto sea −2 y suma −1: 1 y −2."
+  }
+]

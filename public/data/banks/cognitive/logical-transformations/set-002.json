@@ -1,0 +1,176 @@
+[
+  {
+    "id": "COG-TRN-004",
+    "area": "cognitive",
+    "category": "logical_transformations",
+    "subcategory": "letters",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "La opción que indica que F va antes de E y que E va \nentre B y C es",
+    "options": [
+      {
+        "id": "A",
+        "text": "B, F, C, E."
+      },
+      {
+        "id": "B",
+        "text": "F, E, C, B."
+      },
+      {
+        "id": "C",
+        "text": "B, F, E, C."
+      },
+      {
+        "id": "D",
+        "text": "C, E, F, B."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) B, F, E, C.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-TRN-005",
+    "area": "cognitive",
+    "category": "logical_transformations",
+    "subcategory": "numbers",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "La opción que indica que 8 va antes de 5 y que 2 NO \nva después de 5 ni antes de 8 es",
+    "options": [
+      {
+        "id": "A",
+        "text": "5, 2, 7, 8."
+      },
+      {
+        "id": "B",
+        "text": "7, 8, 5, 2."
+      },
+      {
+        "id": "C",
+        "text": "8, 7, 2, 5."
+      },
+      {
+        "id": "D",
+        "text": "2, 8, 5, 7."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) 8, 7, 2, 5.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-TRN-006",
+    "area": "cognitive",
+    "category": "logical_transformations",
+    "subcategory": "numbers",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "La opción que indica que 4 NO va antes de 2 ni de 5 \ny que 9 NO va entre 4 y 5 es",
+    "options": [
+      {
+        "id": "A",
+        "text": "5, 2, 4, 9."
+      },
+      {
+        "id": "B",
+        "text": "9, 2, 4, 5."
+      },
+      {
+        "id": "C",
+        "text": "4, 9, 5, 2."
+      },
+      {
+        "id": "D",
+        "text": "2, 5, 9, 4."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) 5, 2, 4, 9.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-TRN-007",
+    "area": "cognitive",
+    "category": "logical_transformations",
+    "subcategory": "letters",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "La opción que indica que H va después de X y entre \nN y J y que X va antes de N y entre J y G es",
+    "options": [
+      {
+        "id": "A",
+        "text": "G, J, X, H, N."
+      },
+      {
+        "id": "B",
+        "text": "X, G, N, J, H."
+      },
+      {
+        "id": "C",
+        "text": "N, X, H, J, G."
+      },
+      {
+        "id": "D",
+        "text": "J, X, H, N, G."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) J, X, H, N, G.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-TRN-008",
+    "area": "cognitive",
+    "category": "logical_transformations",
+    "subcategory": "letters",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "La opción que indica que S va entre B y E, que Q va \nantes de B y después de W y que W va después de E \nes",
+    "options": [
+      {
+        "id": "A",
+        "text": "E, S, W, Q, B."
+      },
+      {
+        "id": "B",
+        "text": "W, Q, B, S, E."
+      },
+      {
+        "id": "C",
+        "text": "B, S, E, W, Q."
+      },
+      {
+        "id": "D",
+        "text": "Q, E, W, S, B."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) E, S, W, Q, B.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  },
+  {
+    "id": "COG-TRN-009",
+    "area": "cognitive",
+    "category": "logical_transformations",
+    "subcategory": "numbers",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "La opción que indica que 5 va después de 3, que 3 va \nantes de 7 y después de 4 y que 2 NO va después de \n7 es",
+    "options": [
+      {
+        "id": "A",
+        "text": "7, 2, 4, 3, 5."
+      },
+      {
+        "id": "B",
+        "text": "3, 5, 2, 7, 4."
+      },
+      {
+        "id": "C",
+        "text": "2, 4, 3, 5, 7."
+      },
+      {
+        "id": "D",
+        "text": "4, 3, 5, 7, 2."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) 2, 4, 3, 5, 7.. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada."
+  }
+]

@@ -1,0 +1,114 @@
+{
+  "verdict": "GO",
+  "totals": {
+    "p0": 0,
+    "p1": 0,
+    "p2": 0,
+    "info": 0
+  },
+  "pipeline": {
+    "validation": "PASSED",
+    "unit_tests": "PASSED",
+    "e2e": "PASSED",
+    "build": "PASSED"
+  },
+  "findings": {
+    "p0": [],
+    "p1": [],
+    "p2": []
+  },
+  "hygiene": {
+    "safe_to_commit": [
+      {
+        "name": ".gitignore",
+        "type": "system"
+      },
+      {
+        "name": "README.md",
+        "type": "system"
+      },
+      {
+        "name": "package-lock.json",
+        "type": "system"
+      },
+      {
+        "name": "package.json",
+        "type": "system"
+      },
+      {
+        "name": "public",
+        "type": "directory"
+      },
+      {
+        "name": "scripts",
+        "type": "directory"
+      },
+      {
+        "name": "src",
+        "type": "directory"
+      },
+      {
+        "name": "tests",
+        "type": "directory"
+      },
+      {
+        "name": "tests-e2e",
+        "type": "directory"
+      }
+    ],
+    "should_not_commit": [
+      {
+        "name": "dist",
+        "type": "directory",
+        "reason": "Temporary package/build folder (ignored by git)"
+      },
+      {
+        "name": "node_modules",
+        "type": "directory",
+        "reason": "Temporary package/build folder (ignored by git)"
+      }
+    ],
+    "needs_owner_decision": [
+      {
+        "name": ".DS_Store",
+        "type": "file",
+        "reason": "Custom file in root"
+      },
+      {
+        "name": ".github",
+        "type": "directory",
+        "reason": "Custom file in root"
+      },
+      {
+        "name": "docs",
+        "type": "directory",
+        "reason": "Custom file in root"
+      },
+      {
+        "name": "index.html",
+        "type": "file",
+        "reason": "Custom file in root"
+      },
+      {
+        "name": "playwright.config.ts",
+        "type": "file",
+        "reason": "Custom file in root"
+      },
+      {
+        "name": "test-results",
+        "type": "directory",
+        "reason": "Custom file in root"
+      },
+      {
+        "name": "tsconfig.json",
+        "type": "file",
+        "reason": "Custom file in root"
+      },
+      {
+        "name": "vite.config.ts",
+        "type": "file",
+        "reason": "Custom file in root"
+      }
+    ]
+  }
+}

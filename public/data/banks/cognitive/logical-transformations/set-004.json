@@ -1,0 +1,31 @@
+[
+  {
+    "id": "COG-TRN-014",
+    "area": "cognitive",
+    "category": "logical_transformations",
+    "subcategory": "ordering_constraints",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "La opción que indica que A está antes que O, R está después de T, T está al lado de A, R está entre T y O, y R al lado de A es",
+    "options": [
+      {
+        "id": "A",
+        "text": "A, T, R, O"
+      },
+      {
+        "id": "B",
+        "text": "T, R, A, O"
+      },
+      {
+        "id": "C",
+        "text": "T, A, R, O"
+      },
+      {
+        "id": "D",
+        "text": "T, A, O, R"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Al combinar las relaciones «antes», «después», «al lado» y «entre», el único orden que satisface simultáneamente las condiciones es T, A, R, O."
+  }
+]

@@ -1,0 +1,722 @@
+[
+  {
+    "old_id": "COG-PRA-020",
+    "new_id": "COG-PRA-032",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-021",
+    "new_id": "COG-PRA-033",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-022",
+    "new_id": "COG-PRA-034",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-023",
+    "new_id": "COG-PRA-035",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-024",
+    "new_id": "COG-PRA-036",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-025",
+    "new_id": "COG-PRA-037",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-026",
+    "new_id": "COG-PRA-038",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-027",
+    "new_id": "COG-PRA-039",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-028",
+    "new_id": "COG-PRA-040",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-029",
+    "new_id": "COG-PRA-041",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-030",
+    "new_id": "COG-PRA-042",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-031",
+    "new_id": "COG-PRA-043",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-032",
+    "new_id": "COG-PRA-044",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-033",
+    "new_id": "COG-PRA-045",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-034",
+    "new_id": "COG-PRA-046",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-035",
+    "new_id": "COG-PRA-047",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-036",
+    "new_id": "COG-PRA-048",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-037",
+    "new_id": "COG-PRA-049",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-038",
+    "new_id": "COG-PRA-050",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-039",
+    "new_id": "COG-PRA-051",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-040",
+    "new_id": "COG-PRA-052",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-041",
+    "new_id": "COG-PRA-053",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "COG-PRA-042",
+    "new_id": "COG-PRA-054",
+    "file": "data/banks/cognitive/practical-reasoning/set-007.json"
+  },
+  {
+    "old_id": "SPA-LAN-001",
+    "new_id": "SPA-LAN-034",
+    "file": "data/banks/spanish/language/set-007.json"
+  },
+  {
+    "old_id": "SPA-LAN-002",
+    "new_id": "SPA-LAN-035",
+    "file": "data/banks/spanish/language/set-007.json"
+  },
+  {
+    "old_id": "SPA-LAN-003",
+    "new_id": "SPA-LAN-036",
+    "file": "data/banks/spanish/language/set-007.json"
+  },
+  {
+    "old_id": "SPA-LAN-004",
+    "new_id": "SPA-LAN-037",
+    "file": "data/banks/spanish/language/set-007.json"
+  },
+  {
+    "old_id": "SPA-LAN-005",
+    "new_id": "SPA-LAN-038",
+    "file": "data/banks/spanish/language/set-007.json"
+  },
+  {
+    "old_id": "SPA-LAN-006",
+    "new_id": "SPA-LAN-039",
+    "file": "data/banks/spanish/language/set-007.json"
+  },
+  {
+    "old_id": "SPA-LAN-007",
+    "new_id": "SPA-LAN-040",
+    "file": "data/banks/spanish/language/set-007.json"
+  },
+  {
+    "old_id": "SPA-LAN-008",
+    "new_id": "SPA-LAN-041",
+    "file": "data/banks/spanish/language/set-007.json"
+  },
+  {
+    "old_id": "SPA-LAN-009",
+    "new_id": "SPA-LAN-042",
+    "file": "data/banks/spanish/language/set-007.json"
+  },
+  {
+    "old_id": "SPA-LAN-010",
+    "new_id": "SPA-LAN-043",
+    "file": "data/banks/spanish/language/set-007.json"
+  },
+  {
+    "old_id": "SPA-LAN-011",
+    "new_id": "SPA-LAN-044",
+    "file": "data/banks/spanish/language/set-007.json"
+  },
+  {
+    "old_id": "SPA-LAN-012",
+    "new_id": "SPA-LAN-045",
+    "file": "data/banks/spanish/language/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-007",
+    "new_id": "SPA-REA-037",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-008",
+    "new_id": "SPA-REA-038",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-009",
+    "new_id": "SPA-REA-039",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-010",
+    "new_id": "SPA-REA-040",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-011",
+    "new_id": "SPA-REA-041",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-012",
+    "new_id": "SPA-REA-042",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-013",
+    "new_id": "SPA-REA-043",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-014",
+    "new_id": "SPA-REA-044",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-015",
+    "new_id": "SPA-REA-045",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-016",
+    "new_id": "SPA-REA-046",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-017",
+    "new_id": "SPA-REA-047",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-018",
+    "new_id": "SPA-REA-048",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-019",
+    "new_id": "SPA-REA-049",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-020",
+    "new_id": "SPA-REA-050",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-021",
+    "new_id": "SPA-REA-051",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-022",
+    "new_id": "SPA-REA-052",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-023",
+    "new_id": "SPA-REA-053",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-024",
+    "new_id": "SPA-REA-054",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-025",
+    "new_id": "SPA-REA-055",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-026",
+    "new_id": "SPA-REA-056",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-027",
+    "new_id": "SPA-REA-057",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-028",
+    "new_id": "SPA-REA-058",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-029",
+    "new_id": "SPA-REA-059",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-030",
+    "new_id": "SPA-REA-060",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-031",
+    "new_id": "SPA-REA-061",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-032",
+    "new_id": "SPA-REA-062",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-033",
+    "new_id": "SPA-REA-063",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-034",
+    "new_id": "SPA-REA-064",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-035",
+    "new_id": "SPA-REA-065",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-036",
+    "new_id": "SPA-REA-066",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-037",
+    "new_id": "SPA-REA-067",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-038",
+    "new_id": "SPA-REA-068",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-039",
+    "new_id": "SPA-REA-069",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-040",
+    "new_id": "SPA-REA-070",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-041",
+    "new_id": "SPA-REA-071",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-042",
+    "new_id": "SPA-REA-072",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-043",
+    "new_id": "SPA-REA-073",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-044",
+    "new_id": "SPA-REA-074",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-045",
+    "new_id": "SPA-REA-075",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-046",
+    "new_id": "SPA-REA-076",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-047",
+    "new_id": "SPA-REA-077",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-048",
+    "new_id": "SPA-REA-078",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-049",
+    "new_id": "SPA-REA-079",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-050",
+    "new_id": "SPA-REA-080",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-051",
+    "new_id": "SPA-REA-081",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-052",
+    "new_id": "SPA-REA-082",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-053",
+    "new_id": "SPA-REA-083",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-054",
+    "new_id": "SPA-REA-084",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-055",
+    "new_id": "SPA-REA-085",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-056",
+    "new_id": "SPA-REA-086",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-057",
+    "new_id": "SPA-REA-087",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-058",
+    "new_id": "SPA-REA-088",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-059",
+    "new_id": "SPA-REA-089",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-060",
+    "new_id": "SPA-REA-090",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-061",
+    "new_id": "SPA-REA-091",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-062",
+    "new_id": "SPA-REA-092",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-063",
+    "new_id": "SPA-REA-093",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-064",
+    "new_id": "SPA-REA-094",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-065",
+    "new_id": "SPA-REA-095",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-066",
+    "new_id": "SPA-REA-096",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-067",
+    "new_id": "SPA-REA-097",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-068",
+    "new_id": "SPA-REA-098",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-069",
+    "new_id": "SPA-REA-099",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-070",
+    "new_id": "SPA-REA-100",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-071",
+    "new_id": "SPA-REA-101",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-072",
+    "new_id": "SPA-REA-102",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-073",
+    "new_id": "SPA-REA-103",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-074",
+    "new_id": "SPA-REA-104",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-075",
+    "new_id": "SPA-REA-105",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-076",
+    "new_id": "SPA-REA-106",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-077",
+    "new_id": "SPA-REA-107",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-078",
+    "new_id": "SPA-REA-108",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-079",
+    "new_id": "SPA-REA-109",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-080",
+    "new_id": "SPA-REA-110",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-081",
+    "new_id": "SPA-REA-111",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-082",
+    "new_id": "SPA-REA-112",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-083",
+    "new_id": "SPA-REA-113",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-084",
+    "new_id": "SPA-REA-114",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-085",
+    "new_id": "SPA-REA-115",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-086",
+    "new_id": "SPA-REA-116",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-087",
+    "new_id": "SPA-REA-117",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-088",
+    "new_id": "SPA-REA-118",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-089",
+    "new_id": "SPA-REA-119",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-090",
+    "new_id": "SPA-REA-120",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-091",
+    "new_id": "SPA-REA-121",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-092",
+    "new_id": "SPA-REA-122",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-093",
+    "new_id": "SPA-REA-123",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-094",
+    "new_id": "SPA-REA-124",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-095",
+    "new_id": "SPA-REA-125",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-096",
+    "new_id": "SPA-REA-126",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-097",
+    "new_id": "SPA-REA-127",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-098",
+    "new_id": "SPA-REA-128",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-099",
+    "new_id": "SPA-REA-129",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-100",
+    "new_id": "SPA-REA-130",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-101",
+    "new_id": "SPA-REA-131",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-102",
+    "new_id": "SPA-REA-132",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-103",
+    "new_id": "SPA-REA-133",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-104",
+    "new_id": "SPA-REA-134",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-105",
+    "new_id": "SPA-REA-135",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-106",
+    "new_id": "SPA-REA-136",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-107",
+    "new_id": "SPA-REA-137",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-108",
+    "new_id": "SPA-REA-138",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-REA-109",
+    "new_id": "SPA-REA-139",
+    "file": "data/banks/spanish/reading/set-007.json"
+  },
+  {
+    "old_id": "SPA-WRI-019",
+    "new_id": "SPA-WRI-044",
+    "file": "data/banks/spanish/writing/set-007.json"
+  },
+  {
+    "old_id": "SPA-WRI-020",
+    "new_id": "SPA-WRI-045",
+    "file": "data/banks/spanish/writing/set-007.json"
+  },
+  {
+    "old_id": "SPA-WRI-021",
+    "new_id": "SPA-WRI-046",
+    "file": "data/banks/spanish/writing/set-007.json"
+  },
+  {
+    "old_id": "SPA-WRI-022",
+    "new_id": "SPA-WRI-047",
+    "file": "data/banks/spanish/writing/set-007.json"
+  },
+  {
+    "old_id": "SPA-WRI-023",
+    "new_id": "SPA-WRI-048",
+    "file": "data/banks/spanish/writing/set-007.json"
+  },
+  {
+    "old_id": "SPA-WRI-024",
+    "new_id": "SPA-WRI-049",
+    "file": "data/banks/spanish/writing/set-007.json"
+  }
+]

@@ -1,0 +1,332 @@
+[
+  {
+    "id": "SPA-LAN-024",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "prepositions",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la oración en la que la palabra subrayada se utiliza INCORRECTAMENTE.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Transmitieron el concierto por televisión."
+      },
+      {
+        "id": "B",
+        "text": "Déjalo para el próximo mes."
+      },
+      {
+        "id": "C",
+        "text": "Buscamos la pelota entre los árboles."
+      },
+      {
+        "id": "D",
+        "text": "La lluvia cayó a los campos."
+      },
+      {
+        "id": "E",
+        "text": "El texto es de literatura española."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La expresión correcta es «la lluvia cayó sobre/en los campos»; «cayó a los campos» emplea una preposición inadecuada."
+  },
+  {
+    "id": "SPA-LAN-025",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "joined_separate_words",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las palabras subrayadas está escrita CORRECTAMENTE?",
+    "options": [
+      {
+        "id": "A",
+        "text": "lápizes"
+      },
+      {
+        "id": "B",
+        "text": "ausensia"
+      },
+      {
+        "id": "C",
+        "text": "esperanzas"
+      },
+      {
+        "id": "D",
+        "text": "aprendises"
+      },
+      {
+        "id": "E",
+        "text": "saserdote"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "«Esperanzas» es la única grafía correcta; las otras palabras presentan errores ortográficos."
+  },
+  {
+    "id": "SPA-LAN-026",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "verb_forms",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿En cuál de las siguientes oraciones se utiliza INCORRECTAMENTE el gerundio?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Llevo estudiando tres horas."
+      },
+      {
+        "id": "B",
+        "text": "Está haciendo falta quien haga el trabajo."
+      },
+      {
+        "id": "C",
+        "text": "Estoy recogiendo la habitación de mi hermana."
+      },
+      {
+        "id": "D",
+        "text": "Estamos pintando las paredes."
+      },
+      {
+        "id": "E",
+        "text": "Ve contándome la historia, que te escucho."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "«Está haciendo falta» no usa el gerundio como una acción progresiva apropiada del sujeto; es la construcción señalada como incorrecta en el ejercicio."
+  },
+  {
+    "id": "SPA-LAN-027",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "sentence_order",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la oración en la que la palabra relativa se emplea CORRECTAMENTE.",
+    "options": [
+      {
+        "id": "A",
+        "text": "La cena donde la tía preparó estaba deliciosa."
+      },
+      {
+        "id": "B",
+        "text": "La tarea, cuanto era difícil la hizo con gran esfuerzo."
+      },
+      {
+        "id": "C",
+        "text": "Supo que terminaría rápidamente el examen."
+      },
+      {
+        "id": "D",
+        "text": "El ladrón la cual portaba un arma, amenazó al cajero."
+      },
+      {
+        "id": "E",
+        "text": "El estuche cuando guardaste el anillo se perdió."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "«Que» introduce correctamente la subordinada «que terminaría rápidamente el examen»; las demás opciones emplean relativos inadecuados."
+  },
+  {
+    "id": "SPA-LAN-028",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "verb_forms",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Identifique la opción que MEJOR completa la oración: El escritor ___ el antiguo manuscrito.",
+    "options": [
+      {
+        "id": "A",
+        "text": "traduciría"
+      },
+      {
+        "id": "B",
+        "text": "tradujese"
+      },
+      {
+        "id": "C",
+        "text": "tradució"
+      },
+      {
+        "id": "D",
+        "text": "tradujo"
+      },
+      {
+        "id": "E",
+        "text": "tradujera"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "El pretérito correcto de «traducir» en tercera persona singular es «tradujo»."
+  },
+  {
+    "id": "SPA-LAN-029",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "homophones_homonyms_paronyms",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿En cuál oración la palabra subrayada está utilizada CORRECTAMENTE?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ayá, sobre las montañas, se divisa una hermosa casa."
+      },
+      {
+        "id": "B",
+        "text": "Aunque halla actuado mal, por lo menos pidió disculpas."
+      },
+      {
+        "id": "C",
+        "text": "El aya que contrató mi madre trabaja con esmero y dedicación."
+      },
+      {
+        "id": "D",
+        "text": "Él no haya lo que se le extravió desde ayer."
+      },
+      {
+        "id": "E",
+        "text": "No sé lo que le hallas dicho, pero ésta es la verdad."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "«Aya» es la persona encargada del cuidado de niños y está correctamente usada en la tercera opción."
+  },
+  {
+    "id": "SPA-LAN-030",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "sentence_order",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las siguientes oraciones expresa una interrogación?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mañana iré al dentista por la tarde."
+      },
+      {
+        "id": "B",
+        "text": "Cierra la puerta inmediatamente."
+      },
+      {
+        "id": "C",
+        "text": "Necesito hacer ejercicios y alimentarme mejor."
+      },
+      {
+        "id": "D",
+        "text": "Eso es imposible de creer."
+      },
+      {
+        "id": "E",
+        "text": "Cuándo volverás a trabajar."
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "La última oración formula una pregunta; en escritura normativa llevaría signos de interrogación."
+  },
+  {
+    "id": "SPA-LAN-031",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "joined_separate_words",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿En cuál oración se utilizan CORRECTAMENTE las formas de por qué/porque/porqué?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Juan no vendrá a la fiesta porque está de viaje."
+      },
+      {
+        "id": "B",
+        "text": "No sé la respuesta por qué no estudié."
+      },
+      {
+        "id": "C",
+        "text": "Desconozco el porque de su inmensa alegría."
+      },
+      {
+        "id": "D",
+        "text": "Explícame el por que de tu ausencia."
+      },
+      {
+        "id": "E",
+        "text": "Yo lo supe porqué leí la noticia en la prensa."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "«Porque» se usa correctamente como conjunción causal en «porque está de viaje»."
+  },
+  {
+    "id": "SPA-LAN-032",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "subject_verb_agreement",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En la oración «Mi padre nos ha traído una bicicleta grande», el sujeto es",
+    "options": [
+      {
+        "id": "A",
+        "text": "una bicicleta."
+      },
+      {
+        "id": "B",
+        "text": "mi padre."
+      },
+      {
+        "id": "C",
+        "text": "ha traído una bicicleta."
+      },
+      {
+        "id": "D",
+        "text": "mi padre nos ha traído."
+      },
+      {
+        "id": "E",
+        "text": "una bicicleta grande."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Quien realiza la acción de traer es «mi padre», que funciona como sujeto."
+  },
+  {
+    "id": "SPA-LAN-033",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "joined_separate_words",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿En cuál opción se utilizan INCORRECTAMENTE las formas asimismo/así mismo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Asimismo, nos fuimos a dormir temprano ayer."
+      },
+      {
+        "id": "B",
+        "text": "Tal y como lo describes, así mismo lo quiero."
+      },
+      {
+        "id": "C",
+        "text": "Él se conoce a sí mismo y lo notamos."
+      },
+      {
+        "id": "D",
+        "text": "Esperamos que lo repita así mismo como lo dijo."
+      },
+      {
+        "id": "E",
+        "text": "Asímismo se lo preguntaron cuando se entrevistó."
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "«Asímismo» con tilde y unido no es una forma normativa; corresponde «asimismo» o «así mismo» según el significado."
+  }
+]

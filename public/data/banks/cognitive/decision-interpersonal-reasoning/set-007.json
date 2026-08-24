@@ -1,0 +1,582 @@
+[
+  {
+    "id": "COG-DIR-001",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "communication_listening",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En una reunión, una persona expone sus ideas con claridad, pero ignora las intervenciones de los demás y no ajusta su mensaje ante señales de confusión del grupo. ¿Qué aspecto de la comunicación efectiva está fallando?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Uso adecuado del lenguaje y semántica"
+      },
+      {
+        "id": "B",
+        "text": "Escucha activa e inteligencia intrapersonal"
+      },
+      {
+        "id": "C",
+        "text": "Despliegue de autoridad técnica y dominio escénico"
+      },
+      {
+        "id": "D",
+        "text": "Monitoreo de la retroalimentación y escucha empática."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La comunicación efectiva no solo implica claridad al hablar, sino también escuchar activamente y ajustar el mensaje según la retroalimentación del grupo. Ignorar señales de confusión debilita la comprensión."
+  },
+  {
+    "id": "COG-DIR-002",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "conflict_resolution",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Ante una discrepancia sobre la asignación de presupuesto, dos jefes de departamento mantienen una postura inflexible, priorizando la defensa de sus argumentos sobre la exploración de las necesidades subyacentes del proyecto. ¿Qué factor es determinante para transitar de una confrontación a una resolución integradora?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El fortalecimiento de la argumentación lógica para persuadir al oponente."
+      },
+      {
+        "id": "B",
+        "text": "La identificación de intereses comunes mediante la escucha activa."
+      },
+      {
+        "id": "C",
+        "text": "El abandono de la negociación para preservar el clima organizacional."
+      },
+      {
+        "id": "D",
+        "text": "La mediación con la ayuda de arbitraje de un superior jerárquico."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Una resolución integradora exige pasar de defender posiciones a explorar intereses subyacentes. La escucha activa permite identificar objetivos compartidos del proyecto y construir opciones mutuamente beneficiosas."
+  },
+  {
+    "id": "COG-DIR-003",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "adaptability",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Una persona modifica su estrategia cuando detecta que las condiciones del entorno cambiaron significativamente. ¿Qué habilidad está demostrando principalmente?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Persistencia rígida"
+      },
+      {
+        "id": "B",
+        "text": "Adaptabilidad estratégica"
+      },
+      {
+        "id": "C",
+        "text": "Toma de decisión inteligente"
+      },
+      {
+        "id": "D",
+        "text": "Autoridad formal"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La adaptabilidad estratégica implica modificar acciones ante cambios del entorno, manteniendo coherencia con el objetivo final."
+  },
+  {
+    "id": "COG-DIR-004",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "leadership_decision_making",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Un integrante competente participa poco en las reuniones y rara vez comparte ideas. ¿Cuál acción del líder es más efectiva para mejorar la participación sostenida?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Solicitar que prepare un punto fijo en la agenda semanal para fomentar hábito de participación."
+      },
+      {
+        "id": "B",
+        "text": "Reorganizar la dinámica para que todos expongan en rondas cronometradas y así equilibrar tiempos de voz."
+      },
+      {
+        "id": "C",
+        "text": "Acordar con el integrante metas específicas de intervención en reuniones y ofrecer retroalimentación al final de cada sesión."
+      },
+      {
+        "id": "D",
+        "text": "Explorar en privado posibles barreras percibidas y diseñar formas seguras de aportar (p. ej., turnos breves o envío previo de ideas)."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Aborda causa raíz y crea seguridad psicológica; las otras fomentan conducta, pero no necesariamente remueven barreras internas."
+  },
+  {
+    "id": "COG-DIR-005",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "leadership_decision_making",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Debes decidir entre terminar un trabajo grupal o estudiar para un examen cercano. ¿Cuál criterio de decisión refleja mejor autorregulación y pensamiento estratégico?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Priorizar la tarea con mayor peso en la calificación final y ajustar el plan de estudio restante. 68 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "B",
+        "text": "Evaluar urgencia e impacto, estimar esfuerzo real y elegir la opción con mayor beneficio neto."
+      },
+      {
+        "id": "C",
+        "text": "Cumplir primero el compromiso grupal por corresponsabilidad y reorganizar el resto."
+      },
+      {
+        "id": "D",
+        "text": "Mantener equilibrio de tiempos entre ambas tareas para reducir estrés percibido."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Aplica un marco explícito (urgencia–impacto–esfuerzo), no solo un principio aislado."
+  },
+  {
+    "id": "COG-DIR-006",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "conflict_resolution",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Dos integrantes tienen desacuerdos frecuentes sobre cómo ejecutar tareas. ¿Cuál intervención del líder favorece resolución durable?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Facilitar una conversación estructurada para clarificar intereses, criterios de calidad y acuerdos operativos."
+      },
+      {
+        "id": "B",
+        "text": "Definir un procedimiento estándar de trabajo y supervisar su cumplimiento en entregas futuras."
+      },
+      {
+        "id": "C",
+        "text": "Asignar responsabilidades separadas para minimizar fricción y proteger tiempos del proyecto."
+      },
+      {
+        "id": "D",
+        "text": "Solicitar a cada uno un plan por escrito y seleccionar el más viable para el equipo."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Porque alinea intereses y reglas compartidas; B y C gestionan síntomas, D decide sin construir acuerdo."
+  },
+  {
+    "id": "COG-DIR-007",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "leadership_decision_making",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "El equipo debe elegir entre una opción segura moderada y otra incierta con alto potencial. ¿Qué enfoque refleja liderazgo responsable?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Elegir la opción segura para proteger resultados mínimos del equipo."
+      },
+      {
+        "id": "B",
+        "text": "Estimar riesgos clave, definir umbrales de reversión y decidir según tolerancia al riesgo acordada."
+      },
+      {
+        "id": "C",
+        "text": "Optar por el alto potencial para maximizar aprendizaje, aun con variabilidad en resultados."
+      },
+      {
+        "id": "D",
+        "text": "Votar entre los miembros y ejecutar la preferida por mayoría simple."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El liderazgo responsable analiza riesgos, establece umbrales de reversión y decide según tolerancia al riesgo acordada. Este enfoque equilibra resultados y aprendizaje con gobernanza explícita del riesgo."
+  },
+  {
+    "id": "COG-DIR-008",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "leadership_decision_making",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un integrante nuevo está motivado pero desorientado respecto a expectativas. ¿Cuál acción inicial del líder acelera desempeño sin generar dependencia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Explicar metas del proyecto y pedir que proponga su propio plan de contribución."
+      },
+      {
+        "id": "B",
+        "text": "Iniciar con tareas de baja complejidad y aumentar dificultad según resultados."
+      },
+      {
+        "id": "C",
+        "text": "Proveer documentación completa del proceso y solicitar revisión autónoma antes de asignar tareas."
+      },
+      {
+        "id": "D",
+        "text": "Asignar un mentor del equipo y establecer objetivos de aprendizaje con hitos semanales."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Asignar un mentor y fijar objetivos de aprendizaje con hitos proporciona andamiaje, expectativas claras y progreso verificable, acelerando desempeño sin crear dependencia permanente."
+  },
+  {
+    "id": "COG-DIR-009",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "communication_listening",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Durante una exposición grupal, un integrante detecta confusión en el público sobre el objetivo del proyecto. ¿Cuál acción refleja mejor comunicación efectiva según la guía?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Repetir el contenido con mayor volumen y velocidad para cubrir todo el material planificado."
+      },
+      {
+        "id": "B",
+        "text": "Reformular la idea central con un ejemplo concreto y verificar comprensión antes de continuar."
+      },
+      {
+        "id": "C",
+        "text": "Continuar con la secuencia prevista para no afectar la estructura de la presentación."
+      },
+      {
+        "id": "D",
+        "text": "Ceder la explicación a otro integrante con mayor dominio técnico del tema. 69 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La comunicación efectiva exige claridad, adaptación al contexto y verificación de comprensión. Al detectar confusión, reformular la idea central con un ejemplo concreto y confirmar que el público entendió alinea el mensaje con el receptor."
+  },
+  {
+    "id": "COG-DIR-010",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "teamwork_coordination",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un equipo divide tareas según fortalezas individuales, pero un integrante se retrasa y afecta el cronograma. ¿Qué respuesta del equipo está mejor alineada con trabajo colaborativo efectivo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mantener la división original para respetar roles y exigir cumplimiento en la próxima fase."
+      },
+      {
+        "id": "B",
+        "text": "Asignar a otro integrante la tarea retrasada para asegurar el resultado final."
+      },
+      {
+        "id": "C",
+        "text": "Redistribuir tareas críticas entre varios miembros y acordar mecanismos de seguimiento conjunto."
+      },
+      {
+        "id": "D",
+        "text": "Priorizar las tareas que ya están avanzadas para evitar mayores retrasos globales."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "73 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP El trabajo en equipo implica coordinación de esfuerzos y responsabilidad compartida para alcanzar un objetivo común. Redistribuir tareas críticas y acordar seguimiento conjunto aborda el impacto sistémico del retraso y fortalece la interdependencia."
+  },
+  {
+    "id": "COG-DIR-011",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "adaptability",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un proyecto cambia de requisitos a mitad del proceso, lo que invalida parte del trabajo realizado. ¿Cuál conducta demuestra adaptabilidad madura?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Ajustar el plan de acción, conservar lo útil del trabajo previo y redefinir prioridades."
+      },
+      {
+        "id": "B",
+        "text": "Mantener la estrategia inicial para no perder el esfuerzo invertido."
+      },
+      {
+        "id": "C",
+        "text": "Suspender temporalmente el proyecto hasta recibir instrucciones detalladas."
+      },
+      {
+        "id": "D",
+        "text": "Reiniciar completamente el proceso para evitar inconsistencias."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La adaptabilidad supone ajustarse a nuevas condiciones, aprender y reorganizar la estrategia. Conservar lo útil y redefinir prioridades optimiza recursos y reduce pérdidas."
+  },
+  {
+    "id": "COG-DIR-012",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "conflict_resolution",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Dos estudiantes discrepan sobre el enfoque de un informe y el desacuerdo comienza a escalar. ¿Cuál intervención refleja resolución constructiva del conflicto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Solicitar a cada uno que defienda su postura y elegir la más convincente."
+      },
+      {
+        "id": "B",
+        "text": "Dividir el informe en dos partes para integrar ambas perspectivas."
+      },
+      {
+        "id": "C",
+        "text": "Posponer la discusión hasta que el plazo sea más cercano."
+      },
+      {
+        "id": "D",
+        "text": "Analizar conjuntamente los criterios de calidad esperados y evaluar cada propuesta frente a ellos."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Resolver conflictos de forma constructiva implica escuchar, identificar la causa raíz y buscar soluciones equitativas. Evaluar propuestas con criterios de calidad compartidos traslada el desacuerdo del plano personal al técnico."
+  },
+  {
+    "id": "COG-DIR-013",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "leadership_decision_making",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un líder debe reorganizar tareas ante un plazo reducido y recursos limitados. ¿Cuál decisión refleja análisis adecuado del escenario?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Asignar tareas según disponibilidad inmediata para acelerar el inicio del trabajo."
+      },
+      {
+        "id": "B",
+        "text": "Priorizar actividades críticas, evaluar capacidades individuales y simplificar procesos secundarios."
+      },
+      {
+        "id": "C",
+        "text": "Solicitar mayor esfuerzo general para compensar el tiempo perdido."
+      },
+      {
+        "id": "D",
+        "text": "Mantener la planificación original para preservar la calidad prevista."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El liderazgo eficaz analiza tiempo real, prioridades, capacidades y posibles simplificaciones antes de actuar. Priorizar actividades críticas, asignar según capacidades y ajustar procesos secundarios optimiza resultados bajo restricción."
+  },
+  {
+    "id": "COG-DIR-014",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "leadership_decision_making",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Una persona detecta un error en un informe ya entregado. Corregirlo puede generar consecuencias negativas inmediatas. ¿Cuál decisión está mejor alineada con los principios de liderazgo y responsabilidad descritos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Evaluar el impacto potencial del error y comunicarlo proponiendo una corrección."
+      },
+      {
+        "id": "B",
+        "text": "Corregirlo solo si alguien más detecta la inconsistencia."
+      },
+      {
+        "id": "C",
+        "text": "Analizar si el error afecta resultados prácticos antes de actuar."
+      },
+      {
+        "id": "D",
+        "text": "Esperar a tener mayor certeza sobre las consecuencias antes de informar. 70 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La decisión responsable incorpora integridad, reputación e impacto futuro. Comunicar el error y proponer corrección prioriza valores éticos sobre la comodidad inmediata y reduce consecuencias acumulativas."
+  },
+  {
+    "id": "COG-DIR-015",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "communication_listening",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un estudiante comunica una decisión difícil al equipo con argumentos claros, pero su tono y lenguaje corporal transmiten desinterés. ¿Cuál evaluación se ajusta mejor al concepto de comunicación efectiva?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La comunicación es adecuada porque el contenido del mensaje fue correcto y completo."
+      },
+      {
+        "id": "B",
+        "text": "La comunicación es parcialmente efectiva, ya que la incongruencia no verbal puede afectar la comprensión del mensaje."
+      },
+      {
+        "id": "C",
+        "text": "La comunicación es efectiva si el equipo ejecuta la decisión sin objeciones."
+      },
+      {
+        "id": "D",
+        "text": "La comunicación es adecuada si el mensaje fue transmitido sin interrupciones."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La comunicación efectiva requiere coherencia entre mensaje verbal y no verbal. Un contenido correcto puede perder eficacia si el tono o el lenguaje corporal contradicen la intención, generando ambigüedad o desconfianza."
+  },
+  {
+    "id": "COG-DIR-016",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "communication_listening",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Durante una reunión, dos propuestas compiten por recursos limitados. ¿Cuál conducta evidencia escucha activa según la guía?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Reformular la idea del otro para confirmar entendimiento antes de responder con contraargumentos."
+      },
+      {
+        "id": "B",
+        "text": "Esperar el turno de palabra y presentar evidencia que respalde la propia postura."
+      },
+      {
+        "id": "C",
+        "text": "Tomar notas detalladas de ambas propuestas para analizarlas después de la reunión."
+      },
+      {
+        "id": "D",
+        "text": "Solicitar que cada parte envíe por escrito su propuesta para compararlas objetivamente."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La escucha activa implica comprender y verificar el significado del mensaje del otro antes de responder. Reformular para confirmar entendimiento reduce malinterpretaciones y mejora la calidad del diálogo."
+  },
+  {
+    "id": "COG-DIR-017",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "teamwork_coordination",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Un equipo reparte actividades por especialidad, pero los resultados finales no se integran adecuadamente. ¿Qué acción refleja mejor el principio de integración de habilidades individuales?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Establecer puntos de integración periódicos para alinear criterios y ajustar interdependencias."
+      },
+      {
+        "id": "B",
+        "text": "Mantener la especialización y aumentar la revisión final por parte del coordinador."
+      },
+      {
+        "id": "C",
+        "text": "Intercambiar tareas entre miembros para diversificar competencias."
+      },
+      {
+        "id": "D",
+        "text": "Ampliar los plazos para permitir que cada área optimice su parte."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Trabajar en equipo no es solo dividir tareas, sino integrar habilidades para un resultado coherente. Puntos de integración periódicos alinean criterios, detectan dependencias y corrigen desajustes tempranamente."
+  },
+  {
+    "id": "COG-DIR-018",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "conflict_resolution",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Dos miembros discuten por retrasos frecuentes en entregas compartidas. ¿Cuál enfoque prioriza la causa raíz sobre el síntoma?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Revisar el flujo de trabajo, dependencias entre tareas y criterios de finalización acordados."
+      },
+      {
+        "id": "B",
+        "text": "Establecer sanciones graduales por incumplimiento de plazos."
+      },
+      {
+        "id": "C",
+        "text": "Asignar un responsable único de la entrega final para evitar ambigüedades."
+      },
+      {
+        "id": "D",
+        "text": "Aumentar la frecuencia de recordatorios y reportes de avance."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Atender la causa raíz exige analizar procesos, dependencias y criterios de finalización que generan el síntoma (retrasos)."
+  },
+  {
+    "id": "COG-DIR-019",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "leadership_decision_making",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Una persona recibe un ingreso inesperado y evalúa gastarlo, ahorrarlo o invertirlo en formación. ¿Qué proceso refleja mejor análisis previo según la guía?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Comparar beneficios inmediatos de cada opción y elegir la más satisfactoria."
+      },
+      {
+        "id": "B",
+        "text": "Evaluar situación financiera, riesgos, metas a corto y largo plazo y consecuencias de oportunidad."
+      },
+      {
+        "id": "C",
+        "text": "Priorizar la opción con menor riesgo percibido para evitar pérdidas. 71 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "D",
+        "text": "Seguir la recomendación de una fuente experta para reducir incertidumbre."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "74 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP El análisis previo considera situación actual, riesgos, metas temporales y consecuencias de oportunidad. Evaluar estas variables permite una decisión informada y no impulsiva."
+  },
+  {
+    "id": "COG-DIR-020",
+    "area": "cognitive",
+    "category": "decision_interpersonal_reasoning",
+    "subcategory": "leadership_decision_making",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Un líder debe asignar tareas en un plazo ajustado sin comprometer calidad ni sobrecargar al equipo. ¿Cuál decisión es más consistente con liderazgo responsable?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Distribuir tareas de forma equitativa para preservar percepción de justicia entre miembros."
+      },
+      {
+        "id": "B",
+        "text": "Asignar según capacidad demostrada, priorizar actividades críticas y ajustar alcance secundario."
+      },
+      {
+        "id": "C",
+        "text": "Mantener el plan original y solicitar esfuerzo adicional generalizado."
+      },
+      {
+        "id": "D",
+        "text": "Delegar la asignación al equipo para fomentar autonomía colectiva. 72 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El liderazgo responsable en escenarios complejos equilibra calidad, carga de trabajo y prioridades mediante asignación por capacidad, foco en tareas críticas y ajuste del alcance secundario. Que esta guía sea solo el comienzo de tu preparación; el verdadero logro será el resultado de tu esfuerzo, constancia y determinación. ¡Confía en ti y alcanza tu meta! 75 https://lobosimulador.com/"
+  }
+]

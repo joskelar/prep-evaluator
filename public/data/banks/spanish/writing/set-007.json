@@ -1,0 +1,712 @@
+[
+  {
+    "id": "SPA-WRI-001",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "text_structure",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "A partir de la organización del texto, ¿qué función cumple la primera oración?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Presentar la idea general que introduce el tema."
+      },
+      {
+        "id": "B",
+        "text": "Ofrecer la conclusión del problema planteado."
+      },
+      {
+        "id": "C",
+        "text": "Desarrollar argumentos secundarios sin contexto previo."
+      },
+      {
+        "id": "D",
+        "text": "Expresar una opinión personal sin relación con el tema."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La primera oración introduce el tema general.",
+    "stimulus_id": "SPA-BUAP-W-01"
+  },
+  {
+    "id": "SPA-WRI-002",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "text_structure",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué parte del texto corresponde al desarrollo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La primera oración, porque plantea el tema central."
+      },
+      {
+        "id": "B",
+        "text": "Las oraciones intermedias que explican ventajas, desventajas y recomendaciones."
+      },
+      {
+        "id": "C",
+        "text": "La última oración, porque resume la postura final."
+      },
+      {
+        "id": "D",
+        "text": "El título implícito del texto."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Las oraciones intermedias desarrollan el tema mediante explicación y contraste.",
+    "stimulus_id": "SPA-BUAP-W-01"
+  },
+  {
+    "id": "SPA-WRI-003",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Si se eliminara la última oración, ¿qué elemento estructural quedaría incompleto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El desarrollo argumentativo."
+      },
+      {
+        "id": "B",
+        "text": "La introducción temática."
+      },
+      {
+        "id": "C",
+        "text": "La conclusión que sintetiza la postura final."
+      },
+      {
+        "id": "D",
+        "text": "El uso de conectores temporales."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La última oración sintetiza la postura y funciona como conclusión.",
+    "stimulus_id": "SPA-BUAP-W-01"
+  },
+  {
+    "id": "SPA-WRI-004",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál opción sintetiza mejor la estructura global del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Introducción del tema, exposición de argumentos y cierre conclusivo."
+      },
+      {
+        "id": "B",
+        "text": "Narración cronológica de hechos personales."
+      },
+      {
+        "id": "C",
+        "text": "Lista desordenada de ideas sin relación entre sí."
+      },
+      {
+        "id": "D",
+        "text": "Descripción detallada de un objeto tecnológico."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La estructura es introducción, desarrollo y conclusión.",
+    "stimulus_id": "SPA-BUAP-W-01"
+  },
+  {
+    "id": "SPA-WRI-005",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "writing_process",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Un estudiante elabora un esquema con ideas principales y secundarias antes de comenzar su ensayo. ¿Qué etapa del proceso de escritura está aplicando?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Redacción, porque ya está produciendo el texto final."
+      },
+      {
+        "id": "B",
+        "text": "Preescritura, porque organiza y planifica las ideas antes de redactar. 95 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "C",
+        "text": "Edición, porque está corrigiendo errores formales."
+      },
+      {
+        "id": "D",
+        "text": "Publicación, porque prepara el texto para difundirse."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Organizar ideas antes de redactar corresponde a preescritura."
+  },
+  {
+    "id": "SPA-WRI-006",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "writing_process",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Después de terminar un borrador, una alumna revisa si sus ideas siguen un orden lógico y si cada párrafo desarrolla una sola idea central. ¿Qué fase sintetiza mejor esta acción?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Edición, porque corrige únicamente faltas de ortografía."
+      },
+      {
+        "id": "B",
+        "text": "Revisión, porque analiza coherencia y organización del contenido."
+      },
+      {
+        "id": "C",
+        "text": "Preescritura, porque está generando nuevas ideas."
+      },
+      {
+        "id": "D",
+        "text": "Redacción, porque todavía está escribiendo el texto inicial."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Revisar coherencia y organización corresponde a revisión."
+  },
+  {
+    "id": "SPA-WRI-007",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "writing_process",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un autor cambia palabras repetidas, ajusta signos de puntuación y corrige errores ortográficos en la versión final de su texto. ¿Qué etapa del proceso representa esta acción?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Revisión, porque reorganiza la estructura general."
+      },
+      {
+        "id": "B",
+        "text": "Edición, porque corrige aspectos formales y de estilo."
+      },
+      {
+        "id": "C",
+        "text": "Preescritura, porque mejora la lluvia de ideas."
+      },
+      {
+        "id": "D",
+        "text": "Introducción, porque fortalece el inicio del texto."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Corregir ortografía, puntuación y estilo corresponde a edición."
+  },
+  {
+    "id": "SPA-WRI-008",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "writing_process",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Si un escritor comienza a redactar sin haber delimitado el tema ni definido su propósito comunicativo, ¿qué consecuencia es más probable?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El texto tendrá mayor espontaneidad y mejor organización."
+      },
+      {
+        "id": "B",
+        "text": "El proceso de edición será innecesario."
+      },
+      {
+        "id": "C",
+        "text": "El texto puede carecer de claridad y coherencia desde el inicio."
+      },
+      {
+        "id": "D",
+        "text": "El desarrollo será automáticamente más sólido."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Sin planificación previa el texto puede perder claridad y coherencia."
+  },
+  {
+    "id": "SPA-WRI-009",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "writing_process",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un estudiante reestructura completamente su ensayo porque detecta que la tesis no coincide con los argumentos presentados. ¿Qué síntesis describe mejor esta acción?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Está en la fase de revisión, evaluando la congruencia del contenido."
+      },
+      {
+        "id": "B",
+        "text": "Está en la etapa de edición, corrigiendo acentos y comas."
+      },
+      {
+        "id": "C",
+        "text": "Está en la preescritura, generando ideas iniciales."
+      },
+      {
+        "id": "D",
+        "text": "Está concluyendo el texto con un nuevo párrafo final."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Reestructurar tesis y argumentos implica revisar la congruencia conceptual."
+  },
+  {
+    "id": "SPA-WRI-010",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "clarity_coherence",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Un texto presenta ideas correctas, pero utiliza oraciones excesivamente largas y ambiguas que dificultan su comprensión. ¿Qué aspecto de la redacción necesita mejorarse principalmente?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Claridad, porque el mensaje no se entiende con precisión."
+      },
+      {
+        "id": "B",
+        "text": "Cohesión, porque faltan conectores temporales."
+      },
+      {
+        "id": "C",
+        "text": "Originalidad literaria, porque no hay metáforas."
+      },
+      {
+        "id": "D",
+        "text": "Ortografía, porque las oraciones son extensas. 96 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Las oraciones largas y ambiguas afectan la claridad."
+  },
+  {
+    "id": "SPA-WRI-011",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "clarity_coherence",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En un ensayo, el autor introduce argumentos sin relación con la tesis principal, aunque estén bien redactados individualmente. ¿Qué problema de redacción se evidencia?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Falta de coherencia, porque las ideas no guardan relación lógica con el tema central."
+      },
+      {
+        "id": "B",
+        "text": "Ausencia de concisión, porque las oraciones son largas."
+      },
+      {
+        "id": "C",
+        "text": "Exceso de conectores adversativos."
+      },
+      {
+        "id": "D",
+        "text": "Error de puntuación en los párrafos."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Argumentos ajenos a la tesis producen falta de coherencia."
+  },
+  {
+    "id": "SPA-WRI-012",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "clarity_coherence",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Observa el siguiente fragmento: ”El cambio climático afecta la agricultura. El cambio climático modifica los ciclos de lluvia. El cambio climático impacta la economía rural.” ¿Qué mejora sintetiza mejor el problema detectado?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Añadir más repeticiones para reforzar la idea principal."
+      },
+      {
+        "id": "B",
+        "text": "Aplicar cohesión utilizando conectores o sustituciones léxicas para evitar repetición."
+      },
+      {
+        "id": "C",
+        "text": "Eliminar todas las oraciones excepto una."
+      },
+      {
+        "id": "D",
+        "text": "Cambiar el tema del texto por uno más específico."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La repetición se reduce mediante cohesión y sustituciones léxicas."
+  },
+  {
+    "id": "SPA-WRI-013",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "clarity_coherence",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un estudiante escribe: ”En conclusión, primero analizaremos las causas del problema.” ¿Qué inferencia identifica el error principal?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Uso incorrecto de conectores, porque “En conclusión” no corresponde al inicio del desarrollo."
+      },
+      {
+        "id": "B",
+        "text": "Falta de claridad por exceso de tecnicismos."
+      },
+      {
+        "id": "C",
+        "text": "Error ortográfico en la palabra “conclusión”."
+      },
+      {
+        "id": "D",
+        "text": "Ausencia de signos de puntuación."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "«En conclusión» es un conector de cierre y no corresponde al inicio del desarrollo."
+  },
+  {
+    "id": "SPA-WRI-014",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "clarity_coherence",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un texto explica una idea compleja utilizando palabras innecesarias que repiten el mismo significado. ¿Qué criterio de redacción debería aplicarse para mejorar el fragmento?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Coherencia, agregando más argumentos secundarios."
+      },
+      {
+        "id": "B",
+        "text": "Concisión, eliminando información redundante sin afectar el sentido."
+      },
+      {
+        "id": "C",
+        "text": "Cohesión, agregando más conectores causales."
+      },
+      {
+        "id": "D",
+        "text": "Introducción, ampliando el planteamiento inicial."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Eliminar redundancias mejora la concisión."
+  },
+  {
+    "id": "SPA-WRI-015",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "text_type",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "A partir de su intención comunicativa y organización, ¿qué tipo de texto se presenta?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Argumentativo, porque expone una postura y la respalda con razones."
+      },
+      {
+        "id": "B",
+        "text": "Narrativo, porque relata hechos en orden cronológico."
+      },
+      {
+        "id": "C",
+        "text": "Descriptivo, porque detalla características físicas de un objeto."
+      },
+      {
+        "id": "D",
+        "text": "Instructivo, porque explica paso a paso un procedimiento."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La guía identifica la opción A como la respuesta que mejor corresponde al propósito, estructura o contenido del texto.",
+    "stimulus_id": "SPA-BUAP-W-02"
+  },
+  {
+    "id": "SPA-WRI-016",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "main_idea",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál opción sintetiza mejor la idea principal del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Las redes sociales permiten comunicarse con rapidez."
+      },
+      {
+        "id": "B",
+        "text": "Las redes sociales deben eliminarse por completo."
+      },
+      {
+        "id": "C",
+        "text": "Es necesario desarrollar pensamiento crítico para evitar la desinformación en redes sociales."
+      },
+      {
+        "id": "D",
+        "text": "Las plataformas digitales fueron creadas para entretener."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La guía identifica la opción C como la respuesta que mejor corresponde al propósito, estructura o contenido del texto.",
+    "stimulus_id": "SPA-BUAP-W-02"
+  },
+  {
+    "id": "SPA-WRI-017",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "main_idea",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La piratería es una práctica digital que no genera consecuencias relevantes. 98 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "B",
+        "text": "La piratería consiste en la distribución ilegal de contenidos y tiene consecuencias económicas y sociales."
+      },
+      {
+        "id": "C",
+        "text": "Internet fue creado para facilitar la copia de archivos."
+      },
+      {
+        "id": "D",
+        "text": "Los usuarios deben evitar descargar archivos con virus."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La guía identifica la opción B como la respuesta que mejor corresponde al propósito, estructura o contenido del texto.",
+    "stimulus_id": "SPA-BUAP-W-03"
+  },
+  {
+    "id": "SPA-WRI-018",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "A partir del texto, ¿qué se puede inferir sobre el impacto de la piratería en la industria cultural?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No afecta a los creadores porque existen otras fuentes de ingreso."
+      },
+      {
+        "id": "B",
+        "text": "Puede perjudicar económicamente a quienes dependen de la venta legal de sus obras."
+      },
+      {
+        "id": "C",
+        "text": "Beneficia a los artistas al hacerlos más conocidos."
+      },
+      {
+        "id": "D",
+        "text": "Solo impacta a las empresas tecnológicas."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La guía identifica la opción B como la respuesta que mejor corresponde al propósito, estructura o contenido del texto.",
+    "stimulus_id": "SPA-BUAP-W-03"
+  },
+  {
+    "id": "SPA-WRI-044",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Según la información presentada, ¿por qué la piratería representa un riesgo para los usuarios?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Porque todos los archivos digitales son ilegales."
+      },
+      {
+        "id": "B",
+        "text": "Porque puede implicar sanciones legales y riesgos tecnológicos como virus o robo de datos."
+      },
+      {
+        "id": "C",
+        "text": "Porque reduce la velocidad del internet en todos los países."
+      },
+      {
+        "id": "D",
+        "text": "Porque elimina la necesidad de comprar dispositivos electrónicos."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La guía identifica la opción B como la respuesta que mejor corresponde al propósito, estructura o contenido del texto.",
+    "stimulus_id": "SPA-BUAP-W-03"
+  },
+  {
+    "id": "SPA-WRI-045",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "author_purpose",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué propósito comunicativo predomina en el texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Narrar una experiencia personal sobre descargas digitales."
+      },
+      {
+        "id": "B",
+        "text": "Describir físicamente un producto tecnológico."
+      },
+      {
+        "id": "C",
+        "text": "Informar sobre qué es la piratería y explicar sus consecuencias."
+      },
+      {
+        "id": "D",
+        "text": "Convencer al lector mediante una historia ficticia."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La guía identifica la opción C como la respuesta que mejor corresponde al propósito, estructura o contenido del texto.",
+    "stimulus_id": "SPA-BUAP-W-03"
+  },
+  {
+    "id": "SPA-WRI-046",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "text_type",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿A qué tipo de texto pertenece la lectura?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Narrativo, porque relata hechos protagonizados por personajes en una secuencia temporal."
+      },
+      {
+        "id": "B",
+        "text": "Expositivo, porque explica objetivamente un concepto científico. 99 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "C",
+        "text": "Argumentativo, porque defiende una postura con razones formales."
+      },
+      {
+        "id": "D",
+        "text": "Instructivo, porque presenta pasos para lograr una meta."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La guía identifica la opción A como la respuesta que mejor corresponde al propósito, estructura o contenido del texto.",
+    "stimulus_id": "SPA-BUAP-W-04"
+  },
+  {
+    "id": "SPA-WRI-047",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "main_idea",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la idea principal del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los concursos escolares son difíciles de ganar."
+      },
+      {
+        "id": "B",
+        "text": "El abuelo de Daniel viajó por muchos lugares."
+      },
+      {
+        "id": "C",
+        "text": "Daniel aprende, a través de las historias de su abuelo, a enfrentar sus miedos y actuar con valentía."
+      },
+      {
+        "id": "D",
+        "text": "Los cuadernos antiguos siempre contienen secretos importantes."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La guía identifica la opción C como la respuesta que mejor corresponde al propósito, estructura o contenido del texto.",
+    "stimulus_id": "SPA-BUAP-W-04"
+  },
+  {
+    "id": "SPA-WRI-048",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "text_type",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué elemento permite identificar la estructura propia de este tipo de texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La explicación técnica de un fenómeno natural."
+      },
+      {
+        "id": "B",
+        "text": "La secuencia de acontecimientos que muestran un inicio, desarrollo y desenlace."
+      },
+      {
+        "id": "C",
+        "text": "El uso exclusivo de datos estadísticos."
+      },
+      {
+        "id": "D",
+        "text": "La presencia de definiciones formales."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La guía identifica la opción B como la respuesta que mejor corresponde al propósito, estructura o contenido del texto.",
+    "stimulus_id": "SPA-BUAP-W-04"
+  },
+  {
+    "id": "SPA-WRI-049",
+    "area": "spanish",
+    "category": "writing",
+    "subcategory": "text_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué mensaje se puede inferir al final del relato?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El éxito depende únicamente de ganar competencias."
+      },
+      {
+        "id": "B",
+        "text": "La lectura de historias antiguas carece de utilidad práctica."
+      },
+      {
+        "id": "C",
+        "text": "Afrontar los propios miedos es más importante que el resultado obtenido."
+      },
+      {
+        "id": "D",
+        "text": "Los concursos escolares deben evitarse."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La guía identifica la opción C como la respuesta que mejor corresponde al propósito, estructura o contenido del texto.",
+    "stimulus_id": "SPA-BUAP-W-04"
+  }
+]

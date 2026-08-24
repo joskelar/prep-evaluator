@@ -1,0 +1,118 @@
+[
+  {
+    "id": "COG-ANA-015",
+    "area": "cognitive",
+    "category": "analogies",
+    "subcategory": "function",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Hospital es a enfermero como escuela es a",
+    "options": [
+      {
+        "id": "A",
+        "text": "butaca."
+      },
+      {
+        "id": "B",
+        "text": "libro."
+      },
+      {
+        "id": "C",
+        "text": "maestra."
+      },
+      {
+        "id": "D",
+        "text": "aula."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La relación es lugar de trabajo–profesional: un enfermero trabaja en un hospital y una maestra trabaja en una escuela."
+  },
+  {
+    "id": "COG-ANA-016",
+    "area": "cognitive",
+    "category": "analogies",
+    "subcategory": "category",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Forma es a geometría como número es a",
+    "options": [
+      {
+        "id": "A",
+        "text": "aritmética."
+      },
+      {
+        "id": "B",
+        "text": "triángulo."
+      },
+      {
+        "id": "C",
+        "text": "ciencias."
+      },
+      {
+        "id": "D",
+        "text": "división."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La geometría estudia las formas y la aritmética estudia los números."
+  },
+  {
+    "id": "COG-ANA-017",
+    "area": "cognitive",
+    "category": "analogies",
+    "subcategory": "function",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Tijeras es a papel como serrucho es a",
+    "options": [
+      {
+        "id": "A",
+        "text": "metal."
+      },
+      {
+        "id": "B",
+        "text": "martillo."
+      },
+      {
+        "id": "C",
+        "text": "madera."
+      },
+      {
+        "id": "D",
+        "text": "carpintero."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Las tijeras cortan papel; el serrucho corta madera."
+  },
+  {
+    "id": "COG-ANA-018",
+    "area": "cognitive",
+    "category": "analogies",
+    "subcategory": "part_whole",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Tapa es a botella como puerta es a",
+    "options": [
+      {
+        "id": "A",
+        "text": "casa."
+      },
+      {
+        "id": "B",
+        "text": "pared."
+      },
+      {
+        "id": "C",
+        "text": "madera."
+      },
+      {
+        "id": "D",
+        "text": "cerradura."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Una tapa es una parte que cierra una botella; una puerta cumple una función análoga en una casa."
+  }
+]

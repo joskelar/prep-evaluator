@@ -1,0 +1,31 @@
+[
+  {
+    "id": "COG-MTX-024",
+    "area": "cognitive",
+    "category": "matrices",
+    "subcategory": "letter_matrix",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Complete la matriz:\nN  M  m  n\nM  M  n  n\nM  N  n  m\nN  N  __  __",
+    "options": [
+      {
+        "id": "A",
+        "text": "m, m"
+      },
+      {
+        "id": "B",
+        "text": "m, n"
+      },
+      {
+        "id": "C",
+        "text": "M, m"
+      },
+      {
+        "id": "D",
+        "text": "M, n"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Las dos primeras columnas usan mayúsculas y las dos últimas minúsculas. La estructura mantiene dos emes y dos enes por fila/columna, por lo que faltan m, m."
+  }
+]

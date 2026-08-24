@@ -1,0 +1,669 @@
+[
+  {
+    "id": "SCI-BIO-001",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "cell_biology",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la función principal de la membrana plasmática?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Producir energía"
+      },
+      {
+        "id": "B",
+        "text": "Controlar el paso de sustancias"
+      },
+      {
+        "id": "C",
+        "text": "Sintetizar proteínas"
+      },
+      {
+        "id": "D",
+        "text": "Almacenar ADN"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La membrana regula el intercambio de sustancias, manteniendo la homeostasis."
+  },
+  {
+    "id": "SCI-BIO-002",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "evolution",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En la teoría de Darwin, ¿qué elemento representa una variable clave en el proceso evolutivo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tipo de ecosistema"
+      },
+      {
+        "id": "B",
+        "text": "Selección natural"
+      },
+      {
+        "id": "C",
+        "text": "Tiempo geológico"
+      },
+      {
+        "id": "D",
+        "text": "Mutación aleatoria"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La selección natural es el proceso central que actúa como variable clave en la evolución."
+  },
+  {
+    "id": "SCI-BIO-003",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "evolution",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la relación correcta en el proceso de selección natural?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Variación → reproducción → extinción"
+      },
+      {
+        "id": "B",
+        "text": "Variación → presión ambiental → supervivencia diferencial"
+      },
+      {
+        "id": "C",
+        "text": "Mutación → adaptación → equilibrio"
+      },
+      {
+        "id": "D",
+        "text": "Adaptación → reproducción → extinción"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El proceso correcto incluye variación, presión ambiental y supervivencia diferencial."
+  },
+  {
+    "id": "SCI-BIO-004",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "genetics",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En genética, si se estudia el color de ojos en una población, ¿qué representa el fenotipo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El gen"
+      },
+      {
+        "id": "B",
+        "text": "El alelo"
+      },
+      {
+        "id": "C",
+        "text": "La expresión observable"
+      },
+      {
+        "id": "D",
+        "text": "La combinación genética"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El fenotipo es la manifestación observable del genotipo."
+  },
+  {
+    "id": "SCI-BIO-005",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "genetics",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En un cruce Aa × Aa, ¿qué porcentaje esperado corresponde al genotipo recesivo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "50%"
+      },
+      {
+        "id": "B",
+        "text": "25%"
+      },
+      {
+        "id": "C",
+        "text": "75%"
+      },
+      {
+        "id": "D",
+        "text": "100%"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Cruce Aa × Aa → proporción 1:2:1 → 25% aa (recesivo)."
+  },
+  {
+    "id": "SCI-BIO-006",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "biomolecules",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la función principal de los carbohidratos en los seres vivos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Regulación hormonal"
+      },
+      {
+        "id": "B",
+        "text": "Almacenamiento de información genética"
+      },
+      {
+        "id": "C",
+        "text": "Fuente de energía inmediata"
+      },
+      {
+        "id": "D",
+        "text": "Formación de enzimas"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Los carbohidratos proporcionan energía inmediata para procesos celulares."
+  },
+  {
+    "id": "SCI-BIO-007",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "biomolecules",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué biomolécula cumple principalmente función estructural y catalítica?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Lípidos"
+      },
+      {
+        "id": "B",
+        "text": "Proteínas"
+      },
+      {
+        "id": "C",
+        "text": "Carbohidratos"
+      },
+      {
+        "id": "D",
+        "text": "Ácidos nucleicos"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Las proteínas tienen función estructural (tejidos) y catalítica (enzimas)."
+  },
+  {
+    "id": "SCI-BIO-008",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "homeostasis",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un investigador desea explicar por qué una persona suda durante el ejercicio intenso. ¿Cuál opción relaciona correctamente un componente del conocimiento científico con una consecuencia biológica?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La fricción muscular elimina el calor directamente por conducción ósea"
+      },
+      {
+        "id": "B",
+        "text": "La termorregulación activa la sudoración para disipar calor y mantener la homeostasis"
+      },
+      {
+        "id": "C",
+        "text": "La aceleración del cuerpo disminuye la temperatura interna de manera automática"
+      },
+      {
+        "id": "D",
+        "text": "La gravitación terrestre provoca la evaporación del sudor en la piel"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La termorregulación activa la sudoración para disipar calor y mantener la homeostasis. Justificación: La guía explica que la temperatura en sistemas biológicos se regula mediante mecanismos como la sudoración y la vasodilatación, con el fin de conservar estable la temperatura interna."
+  },
+  {
+    "id": "SCI-BIO-009",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "bioelectricity",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En una neurona, el impulso nervioso depende principalmente de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La transferencia de protones entre organelos"
+      },
+      {
+        "id": "B",
+        "text": "El movimiento de iones a través de la membrana celular"
+      },
+      {
+        "id": "C",
+        "text": "La síntesis de lípidos en el núcleo"
+      },
+      {
+        "id": "D",
+        "text": "El desplazamiento de cromosomas en el citoplasma"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El movimiento de iones a través de la membrana celular. Justificación: Los impulsos nerviosos dependen del desplazamiento de iones como sodio y potasio a través de la membrana celular, generando cambios de potencial eléctrico."
+  },
+  {
+    "id": "SCI-BIO-010",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "homeostasis",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un paciente presenta fiebre elevada. Desde el enfoque científico, la principal consecuencia inmediata de este aumento de temperatura sobre el organismo es que:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se detienen de forma permanente todas las reacciones químicas celulares"
+      },
+      {
+        "id": "B",
+        "text": "Puede alterarse la actividad enzimática y afectar el metabolismo"
+      },
+      {
+        "id": "C",
+        "text": "Se elimina por completo la necesidad de oxígeno en los tejidos"
+      },
+      {
+        "id": "D",
+        "text": "Se transforman las células animales en células procariotas"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Puede alterarse la actividad enzimática y afectar el metabolismo. Justificación: Las enzimas funcionan adecuadamente dentro de ciertos rangos de temperatura. Una fiebre elevada puede modificar su actividad y alterar procesos metabólicos."
+  },
+  {
+    "id": "SCI-BIO-011",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "ecology_environment",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Qué relación científica explica que algunos contaminantes aumenten su concentración en organismos ubicados en niveles tróficos superiores?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Sublimación y solidificación"
+      },
+      {
+        "id": "B",
+        "text": "Bioacumulación y biomagnificación"
+      },
+      {
+        "id": "C",
+        "text": "Decantación y evaporación"
+      },
+      {
+        "id": "D",
+        "text": "Mutación y meiosis"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Bioacumulación y biomagnificación. Justificación: La bioacumulación ocurre cuando una sustancia se concentra en un organismo con el tiempo; la biomagnificación ocurre cuando esa concentración aumenta en niveles tróficos superiores."
+  },
+  {
+    "id": "SCI-BIO-012",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "genetics_biotechnology",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En ingeniería genética, la producción de insulina humana mediante bacterias modificadas constituye un ejemplo de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Selección natural espontánea"
+      },
+      {
+        "id": "B",
+        "text": "Recombinación de ADN con aplicación médica"
+      },
+      {
+        "id": "C",
+        "text": "Sublimación aplicada a biomoléculas"
+      },
+      {
+        "id": "D",
+        "text": "Herencia ligada al sexo en procariotas"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Recombinación de ADN con aplicación médica. Justificación: Producir insulina en bacterias modificadas es un ejemplo clásico de ADN recombinante aplicado a la medicina."
+  },
+  {
+    "id": "SCI-BIO-013",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "ecology_environment",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Desde el pensamiento científico, una consecuencia ambiental del exceso de fertilizantes en cuerpos de agua es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La fusión nuclear del oxígeno disuelto"
+      },
+      {
+        "id": "B",
+        "text": "La eutrofización que reduce el oxígeno disponible"
+      },
+      {
+        "id": "C",
+        "text": "El aumento de la gravedad específica del planeta"
+      },
+      {
+        "id": "D",
+        "text": "La conversión de agua líquida en plasma"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La eutrofización que reduce el oxígeno disponible. Justificación: El exceso de fertilizantes promueve proliferación de organismos y disminuye el oxígeno disuelto, afectando ecosistemas acuáticos."
+  },
+  {
+    "id": "SCI-BIO-014",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "bioelectricity",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Un electrocardiograma es posible porque el corazón:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Genera impulsos eléctricos que coordinan su contracción"
+      },
+      {
+        "id": "B",
+        "text": "Carece de actividad eléctrica propia"
+      },
+      {
+        "id": "C",
+        "text": "Solo funciona mediante energía térmica externa"
+      },
+      {
+        "id": "D",
+        "text": "Depende exclusivamente del sistema óseo"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Genera impulsos eléctricos que coordinan su contracción. Justificación: La guía señala que el corazón posee un sistema propio de generación de impulsos eléctricos, base del ritmo cardiaco y del electrocardiograma."
+  },
+  {
+    "id": "SCI-BIO-015",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "biomolecules",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Un estudiante concluye que una dieta alta en lípidos aporta más energía que una rica en carbohidratos. ¿Qué argumento científico respalda mejor esta afirmación?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los lípidos tienen mejor sabor"
+      },
+      {
+        "id": "B",
+        "text": "Los lípidos aportan aproximadamente 9 kcal por gramo"
+      },
+      {
+        "id": "C",
+        "text": "Los carbohidratos son más abundantes"
+      },
+      {
+        "id": "D",
+        "text": "Los lípidos son más pesados"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Los lípidos aportan más energía (9 kcal/g vs 4 kcal/g). Procedimiento: Comparar valores energéticos de biomoléculas."
+  },
+  {
+    "id": "SCI-BIO-016",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "bioelectricity",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es un ejemplo correcto de aplicación de la electricidad en sistemas biológicos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Digestión de proteínas"
+      },
+      {
+        "id": "B",
+        "text": "Impulsos nerviosos"
+      },
+      {
+        "id": "C",
+        "text": "Fotosíntesis"
+      },
+      {
+        "id": "D",
+        "text": "Evaporación"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Los impulsos nerviosos son eléctricos. Procedimiento: Relacionar electricidad con biología."
+  },
+  {
+    "id": "SCI-BIO-017",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "biodiversity",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "La biodiversidad en México puede interpretarse científicamente como:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un fenómeno sin importancia ecológica"
+      },
+      {
+        "id": "B",
+        "text": "La variedad de especies y ecosistemas"
+      },
+      {
+        "id": "C",
+        "text": "Una característica exclusivamente estética"
+      },
+      {
+        "id": "D",
+        "text": "Un proceso químico aislado"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Biodiversidad = variedad de especies. Procedimiento: Definición científica."
+  },
+  {
+    "id": "SCI-BIO-018",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "biodiversity",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es una consecuencia ambiental de la pérdida de biodiversidad?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Mayor estabilidad ecológica"
+      },
+      {
+        "id": "B",
+        "text": "Disminución de especies"
+      },
+      {
+        "id": "C",
+        "text": "Incremento de energía solar"
+      },
+      {
+        "id": "D",
+        "text": "Aumento de presión atmosférica"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Pérdida de biodiversidad → menos especies. Procedimiento: Relación causa-efecto."
+  },
+  {
+    "id": "SCI-BIO-019",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "biodiversity",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Qué argumento científico justifica la conservación de la biodiversidad?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Es innecesaria para los ecosistemas"
+      },
+      {
+        "id": "B",
+        "text": "Mantiene el equilibrio ecológico"
+      },
+      {
+        "id": "C",
+        "text": "Solo tiene valor estético"
+      },
+      {
+        "id": "D",
+        "text": "Reduce la evolución"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Mantiene equilibrio ecológico. Procedimiento: Analizar función ecológica."
+  },
+  {
+    "id": "SCI-BIO-020",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "evolution",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En la evolución, la adaptación se interpreta como:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Un cambio inmediato en individuos"
+      },
+      {
+        "id": "B",
+        "text": "Un proceso gradual basado en selección natural"
+      },
+      {
+        "id": "C",
+        "text": "Un fenómeno sin evidencia"
+      },
+      {
+        "id": "D",
+        "text": "Un cambio artificial únicamente"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Adaptación ocurre por selección natural. Procedimiento: Identificar proceso evolutivo."
+  },
+  {
+    "id": "SCI-BIO-021",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "adaptation_nutrition",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Qué evidencia apoya la relación entre nutrición y evolución?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cambios en la gravedad"
+      },
+      {
+        "id": "B",
+        "text": "Adaptaciones en dieta según el entorno"
+      },
+      {
+        "id": "C",
+        "text": "Variaciones en temperatura"
+      },
+      {
+        "id": "D",
+        "text": "Disminución de energía solar"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Organismos adaptan dieta al ambiente. Procedimiento: Relación evolución-nutrición."
+  },
+  {
+    "id": "SCI-BIO-022",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "ecosystem_energy_flow",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "En una cadena alimentaria, la energía se transforma principalmente mediante:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Procesos físicos sin cambio"
+      },
+      {
+        "id": "B",
+        "text": "Transferencia y pérdida entre niveles tróficos"
+      },
+      {
+        "id": "C",
+        "text": "Aumento constante de energía"
+      },
+      {
+        "id": "D",
+        "text": "Eliminación total de energía"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Energía fluye y se pierde entre niveles. Procedimiento: Analizar cadena alimentaria."
+  },
+  {
+    "id": "SCI-BIO-023",
+    "area": "science",
+    "category": "biology_life_sciences",
+    "subcategory": "ecosystem_energy_flow",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Qué ocurre con la energía en cada nivel trófico?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se conserva completamente"
+      },
+      {
+        "id": "B",
+        "text": "Se pierde parcialmente como calor"
+      },
+      {
+        "id": "C",
+        "text": "Aumenta progresivamente"
+      },
+      {
+        "id": "D",
+        "text": "Desaparece sin transformación"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Parte de la energía se disipa como calor. Procedimiento: Segunda ley de la termodinámica."
+  }
+]

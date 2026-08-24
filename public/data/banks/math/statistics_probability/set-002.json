@@ -1,0 +1,258 @@
+[
+  {
+    "id": "MAT-STA-026",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "central_tendency",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Si el promedio (media aritmética) del conjunto  \nde datos {4, m, 6, 10} es 7, ¿cuál es el valor de m ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "8"
+      },
+      {
+        "id": "B",
+        "text": "7"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "2"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) 8. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-STA-027",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "central_tendency",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En la gráfica anterior se muestran las edades  \nde los miembros del coro de una universidad.  \n¿Cuál es la moda de las edades?",
+    "options": [
+      {
+        "id": "A",
+        "text": "18"
+      },
+      {
+        "id": "B",
+        "text": "19"
+      },
+      {
+        "id": "C",
+        "text": "20"
+      },
+      {
+        "id": "D",
+        "text": "21"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) 19. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado.",
+    "assets": [
+      {
+        "src": "/assets/math/practice-exam-q29.svg",
+        "description": "Gráfica de las edades de los miembros del coro universitario usada para identificar la moda."
+      }
+    ]
+  },
+  {
+    "id": "MAT-STA-028",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "central_tendency",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es el promedio, en grados, de los ángulos  \nde un triángulo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "30"
+      },
+      {
+        "id": "B",
+        "text": "60"
+      },
+      {
+        "id": "C",
+        "text": "90"
+      },
+      {
+        "id": "D",
+        "text": "180\nUse la siguiente gráfica para contestar los \nejercicios 31 y 32.\nLa gráfica circular anterior muestra la manera en \nque están distribuidos los libros en la biblioteca de \nIsaac. Él tiene la misma cantidad de libros de drama, \nhistoria y arte."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) 60. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-STA-029",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "tables_graphs",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Si Isaac tiene 6 libros de detectives y 3 de ficción, \n¿cuántos libros de historia tiene?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "6"
+      },
+      {
+        "id": "C",
+        "text": "9"
+      },
+      {
+        "id": "D",
+        "text": "12"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) 12. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado.",
+    "assets": [
+      {
+        "src": "/assets/math/practice-exam-q31.svg",
+        "description": "Gráfica circular de libros de Isaac; drama, historia y arte tienen la misma cantidad; incluir todos los sectores y etiquetas."
+      }
+    ]
+  },
+  {
+    "id": "MAT-STA-030",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "event_probability",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Isaac tiene una lista con los nombres de sus libros. \nSi selecciona al azar uno de ellos, ¿cuál es la \nprobabilidad de que haya seleccionado un libro  \nde arte?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1\n48"
+      },
+      {
+        "id": "B",
+        "text": "1\n12"
+      },
+      {
+        "id": "C",
+        "text": "1\n8"
+      },
+      {
+        "id": "D",
+        "text": "1\n4"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) 1 4. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado.",
+    "assets": [
+      {
+        "src": "/assets/math/practice-exam-q32.svg",
+        "description": "Misma gráfica circular de libros de Isaac usada en el reactivo 31."
+      }
+    ]
+  },
+  {
+    "id": "MAT-STA-031",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "tables_graphs",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Carlos hizo el pictograma anterior de los carros que \npasaron por su casa en cierto período de tiempo. \nSegún el pictograma, ¿cuántos carros pasaron de la \nprimera a la tercera hora?",
+    "options": [
+      {
+        "id": "A",
+        "text": "19.5"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "390"
+      },
+      {
+        "id": "D",
+        "text": "400"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) 390. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado.",
+    "assets": [
+      {
+        "src": "/assets/math/practice-exam-q33.svg",
+        "description": "Pictograma de carros que pasaron por una casa por hora; incluir leyenda y símbolos de la figura original."
+      }
+    ]
+  },
+  {
+    "id": "MAT-STA-032",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "event_probability",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "En una reunión hay 50 personas, de las cuales 12  \nson niños. ¿Cuál es la probabilidad de que, al rifar  \nun regalo, NO lo gane un niño?",
+    "options": [
+      {
+        "id": "A",
+        "text": "0.12"
+      },
+      {
+        "id": "B",
+        "text": "0.24"
+      },
+      {
+        "id": "C",
+        "text": "0.76"
+      },
+      {
+        "id": "D",
+        "text": "0.88"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) 0.76. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-STA-033",
+    "area": "math",
+    "category": "statistics_probability",
+    "subcategory": "event_probability",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "En un grupo de 16 personas, 8 leyeron El hobbit y \n5 vieron la película, y 2 de las personas que leyeron \nel libro también vieron la película. ¿Cuál es la \nprobabilidad de seleccionar al azar una persona que \nNO haya leído El hobbit y que TAMPOCO haya \nvisto la película?",
+    "options": [
+      {
+        "id": "A",
+        "text": "1\n16"
+      },
+      {
+        "id": "B",
+        "text": "2\n16"
+      },
+      {
+        "id": "C",
+        "text": "5\n16"
+      },
+      {
+        "id": "D",
+        "text": "11\n16"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) 5 16. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  }
+]

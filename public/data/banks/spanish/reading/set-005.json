@@ -1,0 +1,80 @@
+[
+  {
+    "id": "SPA-REA-034",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "identification_information",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué afirmación es correcta respecto del contenido del texto?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La “tormenta de citocinas” es responsable de las comorbilidades."
+      },
+      {
+        "id": "B",
+        "text": "Una vacuna se prueba en humanos hasta la tercera fase del ensayo clínico."
+      },
+      {
+        "id": "C",
+        "text": "El genoma del SARS-CoV-2 es uno de los más grandes de virus de ARN."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El texto señala que el genoma del SARS-CoV-2, con casi 30 000 nucleótidos, es uno de los más grandes entre los virus de ARN.",
+    "stimulus_id": "SPA-PASS-006"
+  },
+  {
+    "id": "SPA-REA-035",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "De acuerdo con el texto, ¿qué inferencia es válida respecto a las pruebas de diagnóstico del SARS-CoV-2?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Deben aplicarse sólo a las personas que presentan síntomas."
+      },
+      {
+        "id": "B",
+        "text": "Son útiles para identificar a portadores del virus sin síntomas."
+      },
+      {
+        "id": "C",
+        "text": "Arrojan resultados confiables únicamente a partir de los 7 días de contraer el virus."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El texto indica que es posible identificar personas infectadas aun cuando no hayan presentado síntomas.",
+    "stimulus_id": "SPA-PASS-006"
+  },
+  {
+    "id": "SPA-REA-036",
+    "area": "spanish",
+    "category": "reading",
+    "subcategory": "evaluation_content",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "A partir del texto, ¿cuál opción describe una vía válida para tratar el COVID-19?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fármacos que contrarresten los efectos secundarios que provocan las vacunas."
+      },
+      {
+        "id": "B",
+        "text": "Anticuerpos que ataquen al virus y regulen la acción de las citocinas para favorecer la respuesta inmune."
+      },
+      {
+        "id": "C",
+        "text": "Medicamentos que multipliquen la cadena de nucleótidos del virus."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La opción es consistente con la explicación del texto sobre la respuesta inmune y la tormenta de citocinas.",
+    "stimulus_id": "SPA-PASS-006"
+  }
+]

@@ -1,0 +1,31 @@
+[
+  {
+    "id": "COG-SEQ-001",
+    "area": "cognitive",
+    "category": "complex_sequences",
+    "subcategory": "numeric_sequence",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Identifica el siguiente número en la secuencia: 2, 6, 18, 54, ___",
+    "options": [
+      {
+        "id": "A",
+        "text": "72"
+      },
+      {
+        "id": "B",
+        "text": "108"
+      },
+      {
+        "id": "C",
+        "text": "162"
+      },
+      {
+        "id": "D",
+        "text": "216"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La secuencia sigue un patrón de multiplicación por 3: Por lo tanto, el siguiente número es 162."
+  }
+]

@@ -1,0 +1,292 @@
+[
+  {
+    "id": "SCI-PHY-001",
+    "area": "science",
+    "category": "physics",
+    "subcategory": "forces_equilibrium",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Un objeto está en equilibrio cuando:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Se mueve constantemente"
+      },
+      {
+        "id": "B",
+        "text": "La fuerza neta es distinta de cero"
+      },
+      {
+        "id": "C",
+        "text": "La suma de fuerzas es cero"
+      },
+      {
+        "id": "D",
+        "text": "Aumenta su velocidad"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El equilibrio ocurre cuando la suma de fuerzas es cero."
+  },
+  {
+    "id": "SCI-PHY-002",
+    "area": "science",
+    "category": "physics",
+    "subcategory": "friction",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es el factor que más influye en la magnitud de la fricción?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Color del objeto"
+      },
+      {
+        "id": "B",
+        "text": "Forma del objeto"
+      },
+      {
+        "id": "C",
+        "text": "Tipo de superficie"
+      },
+      {
+        "id": "D",
+        "text": "Volumen del objeto"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La fricción depende principalmente del tipo de superficie."
+  },
+  {
+    "id": "SCI-PHY-003",
+    "area": "science",
+    "category": "physics",
+    "subcategory": "fluids_buoyancy",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué ocurre si el empuje es menor que el peso en un fluido?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El objeto flota"
+      },
+      {
+        "id": "B",
+        "text": "El objeto se hunde"
+      },
+      {
+        "id": "C",
+        "text": "El objeto permanece en equilibrio"
+      },
+      {
+        "id": "D",
+        "text": "El objeto se evapora"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Si el empuje es menor que el peso, el objeto se hunde."
+  },
+  {
+    "id": "SCI-PHY-004",
+    "area": "science",
+    "category": "physics",
+    "subcategory": "fluids_buoyancy",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la relación correcta en el principio de Arquímedes?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Empuje = masa del objeto"
+      },
+      {
+        "id": "B",
+        "text": "Empuje = volumen del objeto"
+      },
+      {
+        "id": "C",
+        "text": "Empuje = peso del fluido desplazado"
+      },
+      {
+        "id": "D",
+        "text": "Empuje = densidad del objeto"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El empuje es igual al peso del fluido desplazado."
+  },
+  {
+    "id": "SCI-PHY-005",
+    "area": "science",
+    "category": "physics",
+    "subcategory": "gravitation",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "La Tierra permanece en órbita alrededor del Sol principalmente porque:",
+    "options": [
+      {
+        "id": "A",
+        "text": "No existe gravedad entre ambos cuerpos"
+      },
+      {
+        "id": "B",
+        "text": "La masa de la Tierra anula la atracción del Sol"
+      },
+      {
+        "id": "C",
+        "text": "La interacción entre su movimiento y la atracción gravitacional produce una trayectoria orbital"
+      },
+      {
+        "id": "D",
+        "text": "El vacío del espacio elimina cualquier fuerza sobre los planetas"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La interacción entre su movimiento y la atracción gravitacional produce una trayectoria orbital. Justificación: La Tierra permanece en órbita porque posee velocidad tangencial y al mismo tiempo está sometida a la atracción gravitatoria del Sol."
+  },
+  {
+    "id": "SCI-PHY-006",
+    "area": "science",
+    "category": "physics",
+    "subcategory": "mechanics_measurement",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál enunciado distingue correctamente masa y peso?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La masa depende de la gravedad y el peso no"
+      },
+      {
+        "id": "B",
+        "text": "La masa y el peso son idénticos en cualquier lugar"
+      },
+      {
+        "id": "C",
+        "text": "El peso depende del campo gravitacional y la masa no"
+      },
+      {
+        "id": "D",
+        "text": "La masa se mide en newtons y el peso en kilogramos"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El peso depende del campo gravitacional y la masa no. Justificación: La masa es una propiedad intrínseca del cuerpo, mientras que el peso es la fuerza gravitacional ejercida sobre esa masa."
+  },
+  {
+    "id": "SCI-PHY-007",
+    "area": "science",
+    "category": "physics",
+    "subcategory": "kinematics",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Si una persona camina 20 metros al este y luego 20 metros al oeste en el mismo tiempo total, su velocidad media es:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Máxima, porque recorrió 40 metros"
+      },
+      {
+        "id": "B",
+        "text": "Cero, porque el desplazamiento neto es cero"
+      },
+      {
+        "id": "C",
+        "text": "Igual a su rapidez media"
+      },
+      {
+        "id": "D",
+        "text": "Negativa, porque terminó cansada"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Cero, porque el desplazamiento neto es cero. Justificación: La velocidad media se calcula como desplazamiento total entre tiempo total. Si el desplazamiento final es cero, la velocidad media es cero, aunque la distancia recorrida no lo sea."
+  },
+  {
+    "id": "SCI-PHY-008",
+    "area": "science",
+    "category": "physics",
+    "subcategory": "energy",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Un objeto se eleva a cierta altura. ¿En qué momento su energía potencial es máxima?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Al iniciar el movimiento"
+      },
+      {
+        "id": "B",
+        "text": "A la mitad de la trayectoria"
+      },
+      {
+        "id": "C",
+        "text": "En el punto más alto"
+      },
+      {
+        "id": "D",
+        "text": "Al caer al suelo"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Mayor altura → mayor energía potencial. Procedimiento: Energía potencial depende de altura."
+  },
+  {
+    "id": "SCI-PHY-009",
+    "area": "science",
+    "category": "physics",
+    "subcategory": "energy",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Un cuerpo en movimiento tiene energía cinética. ¿Qué variable influye directamente en su magnitud?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Color"
+      },
+      {
+        "id": "B",
+        "text": "Temperatura"
+      },
+      {
+        "id": "C",
+        "text": "Masa y velocidad"
+      },
+      {
+        "id": "D",
+        "text": "Forma"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Ec = ½mv² Procedimiento: Identificar variables en la fórmula."
+  },
+  {
+    "id": "SCI-PHY-010",
+    "area": "science",
+    "category": "physics",
+    "subcategory": "electricity",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Qué característica distingue a un material conductor de electricidad?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Carece de electrones"
+      },
+      {
+        "id": "B",
+        "text": "Permite el libre movimiento de electrones"
+      },
+      {
+        "id": "C",
+        "text": "Tiene baja masa"
+      },
+      {
+        "id": "D",
+        "text": "Es siempre líquido"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Conductores tienen electrones libres. Procedimiento: Analizar estructura del material."
+  }
+]

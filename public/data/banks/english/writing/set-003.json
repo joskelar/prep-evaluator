@@ -1,0 +1,212 @@
+[
+  {
+    "id": "ENG-WRI-036",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "irrelevant_sentence",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "stimulus_id": "ENG-DRAFT-002",
+    "prompt": "Which sentence does NOT belong in the text?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "7"
+      },
+      {
+        "id": "D",
+        "text": "13"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Sentence 7 shifts to a personal memory about a bird’s nest and interrupts the general account of how early people obtained food."
+  },
+  {
+    "id": "ENG-WRI-037",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "transitions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "The option that BEST connects sentences 1 and 2 is",
+    "options": [
+      {
+        "id": "A",
+        "text": "nor."
+      },
+      {
+        "id": "B",
+        "text": "but."
+      },
+      {
+        "id": "C",
+        "text": "since."
+      },
+      {
+        "id": "D",
+        "text": "therefor."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The intended relation is consequential: people spent time looking for food; therefore they ate what they could find. The source key selects option D.",
+    "stimulus_id": "ENG-DRAFT-002"
+  },
+  {
+    "id": "ENG-WRI-038",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "punctuation",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Select the option that has the appropriate punctuation for sentence 4.",
+    "options": [
+      {
+        "id": "A",
+        "text": "They ate: the fruit, stems and leaves of some plants; and the roots of others."
+      },
+      {
+        "id": "B",
+        "text": "They ate the fruit, stems and leaves; of some plants and the roots, of others."
+      },
+      {
+        "id": "C",
+        "text": "They ate the fruit, stems, and leaves of some plants and the roots of others."
+      },
+      {
+        "id": "D",
+        "text": "They ate the fruit, stems and leaves of some plats and the roots of others."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The third option uses commas correctly in the series and avoids unnecessary punctuation.",
+    "stimulus_id": "ENG-DRAFT-002"
+  },
+  {
+    "id": "ENG-WRI-039",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "sentence_combination",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Select the BEST way of combining sentences 8, 9 and 10.",
+    "options": [
+      {
+        "id": "A",
+        "text": "All the people who lived near the water ate fish, and they even ate rotten whales and anything that washed ashore."
+      },
+      {
+        "id": "B",
+        "text": "People who lived near the water ate anything even rotten whales and they ate fish that washed ashore."
+      },
+      {
+        "id": "C",
+        "text": "All the people living near the water ate even rotten whales and fish and anything that washed ashore."
+      },
+      {
+        "id": "D",
+        "text": "People who lived near the water ate fish or anything that washed ashore, even rotten whales."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The fourth option combines the three ideas concisely while preserving their meaning.",
+    "stimulus_id": "ENG-DRAFT-002"
+  },
+  {
+    "id": "ENG-WRI-040",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "word_phrase_replacement",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "The option that BEST substitutes the underlined word «men» in sentence 12 is",
+    "options": [
+      {
+        "id": "A",
+        "text": "mankind."
+      },
+      {
+        "id": "B",
+        "text": "the species."
+      },
+      {
+        "id": "C",
+        "text": "human beings."
+      },
+      {
+        "id": "D",
+        "text": "these creatures."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "«Human beings» is inclusive and precise in the general statement about people learning to make weapons.",
+    "stimulus_id": "ENG-DRAFT-002"
+  },
+  {
+    "id": "ENG-WRI-041",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "sentence_combination",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Select the option that BEST substitutes sentence 14.",
+    "options": [
+      {
+        "id": "A",
+        "text": "When they tamed animals and they began to train the animals to work they used the meat for their food."
+      },
+      {
+        "id": "B",
+        "text": "They began to tame animals, they trained the animals to work and they used their meat for eating."
+      },
+      {
+        "id": "C",
+        "text": "When they began to tame animals, they trained them to work and used their meat for food."
+      },
+      {
+        "id": "D",
+        "text": "They began to tame the animals, trained the animals for working and eat the animal’s meat."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The third option is grammatical, concise, and avoids unnecessary repetition of «animals».",
+    "stimulus_id": "ENG-DRAFT-002"
+  },
+  {
+    "id": "ENG-WRI-042",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "closing_sentence",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Which sentence is MOST appropriate to end the text?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Life was a little better then."
+      },
+      {
+        "id": "B",
+        "text": "They left their land to find food."
+      },
+      {
+        "id": "C",
+        "text": "They ate the meat and chew the bones."
+      },
+      {
+        "id": "D",
+        "text": "These early people had big appetites."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The passage shows gradual improvements in obtaining food; «Life was a little better then» provides the most coherent concluding idea.",
+    "stimulus_id": "ENG-DRAFT-002"
+  }
+]

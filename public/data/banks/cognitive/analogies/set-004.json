@@ -1,0 +1,31 @@
+[
+  {
+    "id": "COG-ANA-019",
+    "area": "cognitive",
+    "category": "analogies",
+    "subcategory": "part_of_domain",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Novela es a literatura como cuadro es a",
+    "options": [
+      {
+        "id": "A",
+        "text": "Poesía"
+      },
+      {
+        "id": "B",
+        "text": "Pintura"
+      },
+      {
+        "id": "C",
+        "text": "Música"
+      },
+      {
+        "id": "D",
+        "text": "Escultura"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Una novela pertenece a la literatura del mismo modo que un cuadro pertenece a la pintura."
+  }
+]

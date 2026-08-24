@@ -1,0 +1,550 @@
+{
+  "version": 1,
+  "banks": [
+    {
+      "path": "data/banks/cognitive/analogies/set-001.json",
+      "area": "cognitive",
+      "category": "analogies"
+    },
+    {
+      "path": "data/banks/cognitive/analogies/set-002.json",
+      "area": "cognitive",
+      "category": "analogies"
+    },
+    {
+      "path": "data/banks/cognitive/analogies/set-003.json",
+      "area": "cognitive",
+      "category": "analogies"
+    },
+    {
+      "path": "data/banks/cognitive/analogies/set-004.json",
+      "area": "cognitive",
+      "category": "analogies"
+    },
+    {
+      "path": "data/banks/cognitive/analogies/set-007.json",
+      "area": "cognitive",
+      "category": "analogies"
+    },
+    {
+      "path": "data/banks/cognitive/argumentation-reasoning/set-007.json",
+      "area": "cognitive",
+      "category": "argumentation-reasoning"
+    },
+    {
+      "path": "data/banks/cognitive/complex-sequences/set-001.json",
+      "area": "cognitive",
+      "category": "complex-sequences"
+    },
+    {
+      "path": "data/banks/cognitive/complex-sequences/set-002.json",
+      "area": "cognitive",
+      "category": "complex-sequences"
+    },
+    {
+      "path": "data/banks/cognitive/complex-sequences/set-003.json",
+      "area": "cognitive",
+      "category": "complex-sequences"
+    },
+    {
+      "path": "data/banks/cognitive/complex-sequences/set-004.json",
+      "area": "cognitive",
+      "category": "complex-sequences"
+    },
+    {
+      "path": "data/banks/cognitive/complex-sequences/set-007.json",
+      "area": "cognitive",
+      "category": "complex-sequences"
+    },
+    {
+      "path": "data/banks/cognitive/conditional-reasoning/set-001.json",
+      "area": "cognitive",
+      "category": "conditional-reasoning"
+    },
+    {
+      "path": "data/banks/cognitive/conditional-reasoning/set-002.json",
+      "area": "cognitive",
+      "category": "conditional-reasoning"
+    },
+    {
+      "path": "data/banks/cognitive/conditional-reasoning/set-003.json",
+      "area": "cognitive",
+      "category": "conditional-reasoning"
+    },
+    {
+      "path": "data/banks/cognitive/conditional-reasoning/set-004.json",
+      "area": "cognitive",
+      "category": "conditional-reasoning"
+    },
+    {
+      "path": "data/banks/cognitive/conditional-reasoning/set-007.json",
+      "area": "cognitive",
+      "category": "conditional-reasoning"
+    },
+    {
+      "path": "data/banks/cognitive/decision-interpersonal-reasoning/set-007.json",
+      "area": "cognitive",
+      "category": "decision-interpersonal-reasoning"
+    },
+    {
+      "path": "data/banks/cognitive/diagrams/set-001.json",
+      "area": "cognitive",
+      "category": "diagrams"
+    },
+    {
+      "path": "data/banks/cognitive/diagrams/set-002.json",
+      "area": "cognitive",
+      "category": "diagrams"
+    },
+    {
+      "path": "data/banks/cognitive/diagrams/set-003.json",
+      "area": "cognitive",
+      "category": "diagrams"
+    },
+    {
+      "path": "data/banks/cognitive/diagrams/set-004.json",
+      "area": "cognitive",
+      "category": "diagrams"
+    },
+    {
+      "path": "data/banks/cognitive/logical-transformations/set-001.json",
+      "area": "cognitive",
+      "category": "logical-transformations"
+    },
+    {
+      "path": "data/banks/cognitive/logical-transformations/set-002.json",
+      "area": "cognitive",
+      "category": "logical-transformations"
+    },
+    {
+      "path": "data/banks/cognitive/logical-transformations/set-003.json",
+      "area": "cognitive",
+      "category": "logical-transformations"
+    },
+    {
+      "path": "data/banks/cognitive/logical-transformations/set-004.json",
+      "area": "cognitive",
+      "category": "logical-transformations"
+    },
+    {
+      "path": "data/banks/cognitive/matrices/set-001.json",
+      "area": "cognitive",
+      "category": "matrices"
+    },
+    {
+      "path": "data/banks/cognitive/matrices/set-002.json",
+      "area": "cognitive",
+      "category": "matrices"
+    },
+    {
+      "path": "data/banks/cognitive/matrices/set-003.json",
+      "area": "cognitive",
+      "category": "matrices"
+    },
+    {
+      "path": "data/banks/cognitive/matrices/set-004.json",
+      "area": "cognitive",
+      "category": "matrices"
+    },
+    {
+      "path": "data/banks/cognitive/metaphors/set-001.json",
+      "area": "cognitive",
+      "category": "metaphors"
+    },
+    {
+      "path": "data/banks/cognitive/metaphors/set-002.json",
+      "area": "cognitive",
+      "category": "metaphors"
+    },
+    {
+      "path": "data/banks/cognitive/metaphors/set-003.json",
+      "area": "cognitive",
+      "category": "metaphors"
+    },
+    {
+      "path": "data/banks/cognitive/metaphors/set-004.json",
+      "area": "cognitive",
+      "category": "metaphors"
+    },
+    {
+      "path": "data/banks/cognitive/practical-reasoning/set-001.json",
+      "area": "cognitive",
+      "category": "practical-reasoning"
+    },
+    {
+      "path": "data/banks/cognitive/practical-reasoning/set-002.json",
+      "area": "cognitive",
+      "category": "practical-reasoning"
+    },
+    {
+      "path": "data/banks/cognitive/practical-reasoning/set-003.json",
+      "area": "cognitive",
+      "category": "practical-reasoning"
+    },
+    {
+      "path": "data/banks/cognitive/practical-reasoning/set-004.json",
+      "area": "cognitive",
+      "category": "practical-reasoning"
+    },
+    {
+      "path": "data/banks/cognitive/practical-reasoning/set-007.json",
+      "area": "cognitive",
+      "category": "practical-reasoning"
+    },
+    {
+      "path": "data/banks/english/language_use/set-001.json",
+      "area": "english",
+      "category": "language_use"
+    },
+    {
+      "path": "data/banks/english/language_use/set-002.json",
+      "area": "english",
+      "category": "language_use"
+    },
+    {
+      "path": "data/banks/english/language_use/set-003.json",
+      "area": "english",
+      "category": "language_use"
+    },
+    {
+      "path": "data/banks/english/reading/set-001.json",
+      "area": "english",
+      "category": "reading"
+    },
+    {
+      "path": "data/banks/english/reading/set-002.json",
+      "area": "english",
+      "category": "reading"
+    },
+    {
+      "path": "data/banks/english/reading/set-003.json",
+      "area": "english",
+      "category": "reading"
+    },
+    {
+      "path": "data/banks/english/reading/set-005.json",
+      "area": "english",
+      "category": "reading"
+    },
+    {
+      "path": "data/banks/english/writing/set-001.json",
+      "area": "english",
+      "category": "writing"
+    },
+    {
+      "path": "data/banks/english/writing/set-002.json",
+      "area": "english",
+      "category": "writing"
+    },
+    {
+      "path": "data/banks/english/writing/set-003.json",
+      "area": "english",
+      "category": "writing"
+    },
+    {
+      "path": "data/banks/math/algebra/set-001.json",
+      "area": "math",
+      "category": "algebra"
+    },
+    {
+      "path": "data/banks/math/algebra/set-002.json",
+      "area": "math",
+      "category": "algebra"
+    },
+    {
+      "path": "data/banks/math/algebra/set-003.json",
+      "area": "math",
+      "category": "algebra"
+    },
+    {
+      "path": "data/banks/math/algebra/set-005.json",
+      "area": "math",
+      "category": "algebra"
+    },
+    {
+      "path": "data/banks/math/algebra/set-006.json",
+      "area": "math",
+      "category": "algebra"
+    },
+    {
+      "path": "data/banks/math/geometry_measurement/set-001.json",
+      "area": "math",
+      "category": "geometry_measurement"
+    },
+    {
+      "path": "data/banks/math/geometry_measurement/set-002.json",
+      "area": "math",
+      "category": "geometry_measurement"
+    },
+    {
+      "path": "data/banks/math/geometry-measurement/set-003.json",
+      "area": "math",
+      "category": "geometry-measurement"
+    },
+    {
+      "path": "data/banks/math/geometry-measurement/set-005.json",
+      "area": "math",
+      "category": "geometry-measurement"
+    },
+    {
+      "path": "data/banks/math/geometry-measurement/set-006.json",
+      "area": "math",
+      "category": "geometry-measurement"
+    },
+    {
+      "path": "data/banks/math/number_operations/set-001.json",
+      "area": "math",
+      "category": "number_operations"
+    },
+    {
+      "path": "data/banks/math/number_operations/set-002.json",
+      "area": "math",
+      "category": "number_operations"
+    },
+    {
+      "path": "data/banks/math/number-operations/set-003.json",
+      "area": "math",
+      "category": "number-operations"
+    },
+    {
+      "path": "data/banks/math/number-operations/set-005.json",
+      "area": "math",
+      "category": "number-operations"
+    },
+    {
+      "path": "data/banks/math/number-operations/set-006.json",
+      "area": "math",
+      "category": "number-operations"
+    },
+    {
+      "path": "data/banks/math/statistics_probability/set-001.json",
+      "area": "math",
+      "category": "statistics_probability"
+    },
+    {
+      "path": "data/banks/math/statistics_probability/set-002.json",
+      "area": "math",
+      "category": "statistics_probability"
+    },
+    {
+      "path": "data/banks/math/statistics-probability/set-003.json",
+      "area": "math",
+      "category": "statistics-probability"
+    },
+    {
+      "path": "data/banks/math/statistics-probability/set-005.json",
+      "area": "math",
+      "category": "statistics-probability"
+    },
+    {
+      "path": "data/banks/math/statistics-probability/set-006.json",
+      "area": "math",
+      "category": "statistics-probability"
+    },
+    {
+      "path": "data/banks/science/biology-life-sciences/set-008.json",
+      "area": "science",
+      "category": "biology-life-sciences"
+    },
+    {
+      "path": "data/banks/science/chemistry/set-008.json",
+      "area": "science",
+      "category": "chemistry"
+    },
+    {
+      "path": "data/banks/science/physics/set-008.json",
+      "area": "science",
+      "category": "physics"
+    },
+    {
+      "path": "data/banks/science/scientific-reasoning/set-008.json",
+      "area": "science",
+      "category": "scientific-reasoning"
+    },
+    {
+      "path": "data/banks/spanish/language/set-001.json",
+      "area": "spanish",
+      "category": "language"
+    },
+    {
+      "path": "data/banks/spanish/language/set-002.json",
+      "area": "spanish",
+      "category": "language"
+    },
+    {
+      "path": "data/banks/spanish/language/set-003.json",
+      "area": "spanish",
+      "category": "language"
+    },
+    {
+      "path": "data/banks/spanish/language/set-007.json",
+      "area": "spanish",
+      "category": "language"
+    },
+    {
+      "path": "data/banks/spanish/reading/set-001.json",
+      "area": "spanish",
+      "category": "reading"
+    },
+    {
+      "path": "data/banks/spanish/reading/set-002.json",
+      "area": "spanish",
+      "category": "reading"
+    },
+    {
+      "path": "data/banks/spanish/reading/set-003.json",
+      "area": "spanish",
+      "category": "reading"
+    },
+    {
+      "path": "data/banks/spanish/reading/set-005.json",
+      "area": "spanish",
+      "category": "reading"
+    },
+    {
+      "path": "data/banks/spanish/reading/set-007.json",
+      "area": "spanish",
+      "category": "reading"
+    },
+    {
+      "path": "data/banks/spanish/writing/set-001.json",
+      "area": "spanish",
+      "category": "writing"
+    },
+    {
+      "path": "data/banks/spanish/writing/set-002.json",
+      "area": "spanish",
+      "category": "writing"
+    },
+    {
+      "path": "data/banks/spanish/writing/set-003.json",
+      "area": "spanish",
+      "category": "writing"
+    },
+    {
+      "path": "data/banks/spanish/writing/set-005.json",
+      "area": "spanish",
+      "category": "writing"
+    },
+    {
+      "path": "data/banks/spanish/writing/set-007.json",
+      "area": "spanish",
+      "category": "writing"
+    }
+  ],
+  "stimuli": [
+    {
+      "path": "data/stimuli/cognitive/diagrams/set-002.json",
+      "area": "cognitive",
+      "category": "diagrams"
+    },
+    {
+      "path": "data/stimuli/english/reading/set-001.json",
+      "area": "english",
+      "category": "reading"
+    },
+    {
+      "path": "data/stimuli/english/reading/set-002.json",
+      "area": "english",
+      "category": "reading"
+    },
+    {
+      "path": "data/stimuli/english/reading/set-003.json",
+      "area": "english",
+      "category": "reading"
+    },
+    {
+      "path": "data/stimuli/english/reading/set-005.json",
+      "area": "english",
+      "category": "reading"
+    },
+    {
+      "path": "data/stimuli/english/writing/set-001.json",
+      "area": "english",
+      "category": "writing"
+    },
+    {
+      "path": "data/stimuli/english/writing/set-002.json",
+      "area": "english",
+      "category": "writing"
+    },
+    {
+      "path": "data/stimuli/english/writing/set-003.json",
+      "area": "english",
+      "category": "writing"
+    },
+    {
+      "path": "data/stimuli/spanish/reading/set-001.json",
+      "area": "spanish",
+      "category": "reading"
+    },
+    {
+      "path": "data/stimuli/spanish/reading/set-002.json",
+      "area": "spanish",
+      "category": "reading"
+    },
+    {
+      "path": "data/stimuli/spanish/reading/set-003.json",
+      "area": "spanish",
+      "category": "reading"
+    },
+    {
+      "path": "data/stimuli/spanish/reading/set-005.json",
+      "area": "spanish",
+      "category": "reading"
+    },
+    {
+      "path": "data/stimuli/spanish/reading/set-007.json",
+      "area": "spanish",
+      "category": "reading"
+    },
+    {
+      "path": "data/stimuli/spanish/writing/set-001.json",
+      "area": "spanish",
+      "category": "writing"
+    },
+    {
+      "path": "data/stimuli/spanish/writing/set-002.json",
+      "area": "spanish",
+      "category": "writing"
+    },
+    {
+      "path": "data/stimuli/spanish/writing/set-003.json",
+      "area": "spanish",
+      "category": "writing"
+    },
+    {
+      "path": "data/stimuli/spanish/writing/set-007.json",
+      "area": "spanish",
+      "category": "writing"
+    }
+  ],
+  "studyCards": [
+    {
+      "path": "data/study-cards/cognitive/analogies/set-001.json",
+      "area": "cognitive",
+      "category": "analogies"
+    },
+    {
+      "path": "data/study-cards/english/language_use/set-001.json",
+      "area": "english",
+      "category": "language_use"
+    },
+    {
+      "path": "data/study-cards/math/algebra/set-001.json",
+      "area": "math",
+      "category": "algebra"
+    },
+    {
+      "path": "data/study-cards/science/biology-life-sciences/set-001.json",
+      "area": "science",
+      "category": "biology-life-sciences"
+    },
+    {
+      "path": "data/study-cards/spanish/reading/set-001.json",
+      "area": "spanish",
+      "category": "reading"
+    }
+  ],
+  "notes": "Auto-generated by scripts/generate-manifest.mjs"
+}

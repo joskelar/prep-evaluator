@@ -1,0 +1,201 @@
+[
+  {
+    "id": "MAT-GEO-036",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "composite_area",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Selecciona la operación que corresponde al área de la región sombreada, donde CD = DE y DE = BE.",
+    "options": [
+      {
+        "id": "A",
+        "text": "128 − 16π"
+      },
+      {
+        "id": "B",
+        "text": "128 − 8π"
+      },
+      {
+        "id": "C",
+        "text": "128 − 64π"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La clave de la fuente marca C. El reactivo depende de la figura original; se conserva la respuesta tras revisión visual.",
+    "assets": [
+      {
+        "src": "assets/math/geometry_measurement/mat-geo-036.png",
+        "description": "Diagrama geométrico original del reactivo 1: región sombreada con puntos B, C, D y E y relaciones CD = DE = BE; reproducir las longitudes y arcos tal como aparecen en la fuente."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-037",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "trigonometry",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Un observador está a 30 m de un edificio y observa su parte alta con un ángulo de elevación de 55°. Considera tan 55° = 1.4. ¿Cuál es la altura del edificio?",
+    "options": [
+      {
+        "id": "A",
+        "text": "42 m"
+      },
+      {
+        "id": "B",
+        "text": "43.8 m"
+      },
+      {
+        "id": "C",
+        "text": "24.42 m"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "tan(55°)=h/30; entonces h=30(1.4)=42 m."
+  },
+  {
+    "id": "MAT-GEO-038",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "coordinates_routes",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál opción representa el camino para llegar al punto B saliendo del punto A?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Andar 5 cuadras al sur y luego 8 cuadras al este."
+      },
+      {
+        "id": "B",
+        "text": "Caminar 1 cuadra hacia el este, 5 cuadras hacia el sur y 5 más hacia el este."
+      },
+      {
+        "id": "C",
+        "text": "Recorrer 5 cuadras al este, 3 al sur y al final 1 cuadra al este."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La ruta indicada en el plano corresponde a 5 cuadras al sur y 8 al este.",
+    "assets": [
+      {
+        "src": "assets/math/geometry_measurement/mat-geo-038.png",
+        "description": "Plano cuadriculado original del reactivo 7 con puntos A y B y calles/cuadras visibles."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-039",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "symmetry",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Relaciona el tipo de simetría con el diseño de mosaico que le corresponde: 1) sin eje, 2) un eje, 3) más de un eje.",
+    "options": [
+      {
+        "id": "A",
+        "text": "1c, 2b, 3a"
+      },
+      {
+        "id": "B",
+        "text": "1b, 2c, 3a"
+      },
+      {
+        "id": "C",
+        "text": "1c, 2a, 3b"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Al revisar los tres mosaicos, c no tiene eje, a tiene un eje y b tiene más de uno.",
+    "assets": [
+      {
+        "src": "assets/math/geometry_measurement/mat-geo-039.png",
+        "description": "Tres diseños de mosaico etiquetados a, b y c, tal como aparecen en el reactivo 8, para evaluar sus ejes de simetría."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-040",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "area_grid",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las figuras ABCD, EFGHIJ o KLMNO representa una superficie de 7.5 unidades cuadradas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "ABCD"
+      },
+      {
+        "id": "B",
+        "text": "EFGHIJ"
+      },
+      {
+        "id": "C",
+        "text": "KLMNO"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Al contar cuadrados completos y fracciones sobre la cuadrícula, la figura EFGHIJ tiene área de 7.5 unidades cuadradas.",
+    "assets": [
+      {
+        "src": "assets/math/geometry_measurement/mat-geo-040.png",
+        "description": "Cuadrícula del reactivo 13 con tres polígonos etiquetados ABCD, EFGHIJ y KLMNO; mantener exactamente sus vértices sobre la retícula."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-041",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "angle_rotation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Se construyen dos relojes, uno de radio 10 cm y otro de radio 5 cm. La manecilla del primero gira de 2:00 a 3:00 y la del segundo de 4:00 a 5:00. ¿Cuál afirmación es correcta?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La primera realiza un mayor giro porque su manecilla mide el doble."
+      },
+      {
+        "id": "B",
+        "text": "Ambas realizan el mismo giro."
+      },
+      {
+        "id": "C",
+        "text": "La segunda realiza un giro mayor porque 4 es mayor que 2."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "En ambos casos la manecilla avanza una hora, equivalente a 30°. El radio no cambia el ángulo girado."
+  },
+  {
+    "id": "MAT-GEO-042",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "trigonometric_identity",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es el valor de cos x si sen x = 2/3 y x es un ángulo agudo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5/3"
+      },
+      {
+        "id": "B",
+        "text": "√5/3"
+      },
+      {
+        "id": "C",
+        "text": "2/√3"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "cos²x=1−sen²x=1−4/9=5/9; como x es agudo, cos x=√5/3."
+  }
+]

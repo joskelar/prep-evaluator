@@ -1,0 +1,293 @@
+[
+  {
+    "id": "MAT-GEO-023",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "solids",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de los siguientes sólidos puede tener una base \ntriangular?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cono"
+      },
+      {
+        "id": "B",
+        "text": "Cubo"
+      },
+      {
+        "id": "C",
+        "text": "Paralelepípedo"
+      },
+      {
+        "id": "D",
+        "text": "Prisma"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) Prisma. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-GEO-024",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "parallel_lines_transversal",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En la figura anterior, la recta l1 corta las rectas \nparalelas l2 y l3. ¿Cuál es la medida, en grados,  \ndel ángulo β ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "130"
+      },
+      {
+        "id": "B",
+        "text": "120"
+      },
+      {
+        "id": "C",
+        "text": "50"
+      },
+      {
+        "id": "D",
+        "text": "40"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) 130. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado.",
+    "assets": [
+      {
+        "src": "/assets/math/practice-exam-q20.svg",
+        "description": "Tres rectas l1, l2 y l3, con l2 y l3 paralelas y l1 como secante; incluir el ángulo dado y el ángulo beta."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-025",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "perimeter",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "El perímetro de un cuadrado es 100 m.  \n¿Cuántos metros mide cada uno de sus lados?",
+    "options": [
+      {
+        "id": "A",
+        "text": "10"
+      },
+      {
+        "id": "B",
+        "text": "20"
+      },
+      {
+        "id": "C",
+        "text": "25"
+      },
+      {
+        "id": "D",
+        "text": "50"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) 25. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-GEO-026",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "volume",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Una caja rectangular tiene el fondo cuadrado, con \nlados que miden 3 centímetros. La altura de la caja \nes 8 centímetros. ¿Cuál es el volumen de la caja, en \ncentímetros cúbicos?",
+    "options": [
+      {
+        "id": "A",
+        "text": "14"
+      },
+      {
+        "id": "B",
+        "text": "24"
+      },
+      {
+        "id": "C",
+        "text": "48"
+      },
+      {
+        "id": "D",
+        "text": "72"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) 72. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-GEO-027",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "perimeter",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué expresión representa la suma de los perímetros \nde ambas figuras?",
+    "options": [
+      {
+        "id": "A",
+        "text": "4(5 + 6)"
+      },
+      {
+        "id": "B",
+        "text": "2(5 + 6)"
+      },
+      {
+        "id": "C",
+        "text": "4(5 × 6)"
+      },
+      {
+        "id": "D",
+        "text": "2(5 × 6)"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) 4(5 + 6). Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado.",
+    "assets": [
+      {
+        "src": "/assets/math/practice-exam-q23.svg",
+        "description": "Las dos figuras geométricas del reactivo 23 con dimensiones 5 y 6 usadas para sumar sus perímetros."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-028",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "angles_triangles",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Las manecillas de un reloj apuntan justamente  \nal 3 y al 12. Si los números que indican las horas \nestán igualmente espaciados, ¿cuántos grados mide \nel ángulo formado por las manecillas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "90"
+      },
+      {
+        "id": "B",
+        "text": "60"
+      },
+      {
+        "id": "C",
+        "text": "45"
+      },
+      {
+        "id": "D",
+        "text": "30"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) 90. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado."
+  },
+  {
+    "id": "MAT-GEO-029",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "congruence_similarity",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "En la figura anterior, ∆ABC es semejante a ∆DFE. \n¿Cuánto miden, respectivamente, los lados r y s  \ndel ∆ABC ?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5, 4"
+      },
+      {
+        "id": "B",
+        "text": "2, 5"
+      },
+      {
+        "id": "C",
+        "text": "5, 6"
+      },
+      {
+        "id": "D",
+        "text": "4, 5"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) 5, 4. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado.",
+    "assets": [
+      {
+        "src": "/assets/math/practice-exam-q25.svg",
+        "description": "Dos triángulos semejantes ABC y DFE; incluir las longitudes conocidas y las incógnitas r y s."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-030",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "circles",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "En la figura anterior se muestra un círculo cuyo \nradio es 1.5 cm. Halle la medida aproximada,  \nen centímetros, de la circunferencia.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2.25"
+      },
+      {
+        "id": "B",
+        "text": "3.00"
+      },
+      {
+        "id": "C",
+        "text": "7.07"
+      },
+      {
+        "id": "D",
+        "text": "9.42"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) 9.42. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado.",
+    "assets": [
+      {
+        "src": "/assets/math/practice-exam-q26.svg",
+        "description": "Círculo de radio 1.5 cm."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-031",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "area",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "En la figura anterior el área del rectángulo FENJ es \n6, y las longitudes de sus lados son números primos. \nAdemás, AN = BN, FJ > FE y CN es la altura del \nΔCNB. Utilice la información en la figura para hallar \nel área del ΔCNB.",
+    "options": [
+      {
+        "id": "A",
+        "text": "6"
+      },
+      {
+        "id": "B",
+        "text": "12"
+      },
+      {
+        "id": "C",
+        "text": "15"
+      },
+      {
+        "id": "D",
+        "text": "18"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) 15. Al aplicar las operaciones o relaciones matemáticas indicadas en el reactivo se obtiene ese resultado.",
+    "assets": [
+      {
+        "src": "/assets/math/practice-exam-q27.svg",
+        "description": "Figura compuesta con rectángulo FENJ de área 6 y triángulo CNB; AN=BN, FJ>FE y CN es altura; incluir todas las etiquetas y medidas visibles."
+      }
+    ]
+  }
+]

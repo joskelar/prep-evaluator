@@ -1,0 +1,88 @@
+{
+  "prepatec": {
+    "areas": [
+      "cognitive",
+      "spanish",
+      "math",
+      "english"
+    ],
+    "categories": {
+      "cognitive": [
+        "analogies",
+        "conditional-reasoning",
+        "logical-transformations",
+        "diagrams",
+        "metaphors",
+        "practical-reasoning",
+        "complex-sequences",
+        "matrices"
+      ],
+      "spanish": [
+        "reading",
+        "language",
+        "writing"
+      ],
+      "math": [
+        "geometry-measurement",
+        "geometry_measurement",
+        "statistics-probability",
+        "statistics_probability",
+        "number-operations",
+        "number_operations",
+        "algebra"
+      ],
+      "english": [
+        "reading",
+        "language_use",
+        "writing"
+      ]
+    },
+    "simulatorDefaults": {
+      "questionCount": 30,
+      "durationMinutes": 45
+    }
+  },
+  "buap": {
+    "areas": [
+      "cognitive",
+      "spanish",
+      "math",
+      "english",
+      "science"
+    ],
+    "categories": {
+      "cognitive": [
+        "analogies",
+        "conditional-reasoning",
+        "practical-reasoning",
+        "argumentation-reasoning",
+        "decision-interpersonal-reasoning",
+        "complex-sequences"
+      ],
+      "spanish": [
+        "reading",
+        "language",
+        "writing"
+      ],
+      "math": [
+        "geometry-measurement",
+        "statistics-probability",
+        "number-operations",
+        "algebra"
+      ],
+      "english": [
+        "reading"
+      ],
+      "science": [
+        "scientific-reasoning",
+        "chemistry",
+        "biology-life-sciences",
+        "physics"
+      ]
+    },
+    "simulatorDefaults": {
+      "questionCount": 50,
+      "durationMinutes": 50
+    }
+  }
+}

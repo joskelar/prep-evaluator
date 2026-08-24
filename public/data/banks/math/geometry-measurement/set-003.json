@@ -1,0 +1,152 @@
+[
+  {
+    "id": "MAT-GEO-032",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "area",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Si el área de un cuadrado es 64 m², entonces la medida de cada lado es",
+    "options": [
+      {
+        "id": "A",
+        "text": "4"
+      },
+      {
+        "id": "B",
+        "text": "8"
+      },
+      {
+        "id": "C",
+        "text": "16"
+      },
+      {
+        "id": "D",
+        "text": "32"
+      },
+      {
+        "id": "E",
+        "text": "256"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El lado de un cuadrado es la raíz cuadrada del área: √64=8."
+  },
+  {
+    "id": "MAT-GEO-033",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "angles_triangles",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En la figura, CD es paralela a AB. ¿Cuánto mide el ángulo ACB?",
+    "options": [
+      {
+        "id": "A",
+        "text": "70°"
+      },
+      {
+        "id": "B",
+        "text": "62°"
+      },
+      {
+        "id": "C",
+        "text": "48°"
+      },
+      {
+        "id": "D",
+        "text": "42°"
+      },
+      {
+        "id": "E",
+        "text": "28°"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Por paralelismo, el ángulo en A es 48°. La suma interior del triángulo es 180°, así que ∠ACB=180−48−62=70°.",
+    "assets": [
+      {
+        "src": "/assets/math/MAT-GEO-LEGACY-TRIANGLE-PARALLEL.svg",
+        "description": "Triángulo ABC con base horizontal AB. Por el vértice C pasa una recta horizontal CD paralela a AB. El ángulo entre AC y la prolongación horizontal hacia la izquierda desde C es 48°, y el ángulo interior en B es 62°."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-034",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "circles",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En el círculo de la figura, AB pasa por el centro. Si AB = 10, ¿cuál es el área del círculo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "5π²"
+      },
+      {
+        "id": "B",
+        "text": "10π²"
+      },
+      {
+        "id": "C",
+        "text": "20π²"
+      },
+      {
+        "id": "D",
+        "text": "5²π"
+      },
+      {
+        "id": "E",
+        "text": "10π²"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "AB es el diámetro, así que el radio es 5. El área es πr²=25π=5²π.",
+    "assets": [
+      {
+        "src": "/assets/math/MAT-GEO-LEGACY-CIRCLE-DIAMETER.svg",
+        "description": "Círculo con centro R y un segmento AB que une dos puntos de la circunferencia y pasa por R, por lo que AB es un diámetro. El enunciado indica AB = 10."
+      }
+    ]
+  },
+  {
+    "id": "MAT-GEO-035",
+    "area": "math",
+    "category": "geometry_measurement",
+    "subcategory": "solids",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "En la figura, los planos ABCD y AEFB se intersecan en",
+    "options": [
+      {
+        "id": "A",
+        "text": "plano EFDC"
+      },
+      {
+        "id": "B",
+        "text": "AB"
+      },
+      {
+        "id": "C",
+        "text": "EF"
+      },
+      {
+        "id": "D",
+        "text": "A"
+      },
+      {
+        "id": "E",
+        "text": "B"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Ambos planos comparten la arista AB; la intersección de dos planos distintos es esa recta.",
+    "assets": [
+      {
+        "src": "/assets/math/MAT-GEO-LEGACY-PLANES.svg",
+        "description": "Prisma rectangular/cubo en perspectiva con cara frontal ABCD y cara posterior EFGH. A y B son los vértices superiores de la cara frontal; D y C los inferiores. E y F corresponden a los vértices superiores posteriores. Se pide la intersección de los planos ABCD y AEFB."
+      }
+    ]
+  }
+]

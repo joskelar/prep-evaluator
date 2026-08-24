@@ -1,0 +1,31 @@
+[
+  {
+    "id": "COG-PRA-031",
+    "area": "cognitive",
+    "category": "practical_reasoning",
+    "subcategory": "most_probable_hypothesis",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Eduardo espera una llamada telefónica de larga distancia a las 6:00 p. m. que él tiene que atender. Eduardo le advierte a Carlos que no conteste el teléfono a las 6:00 p. m. Quince minutos antes de las 6:00 p. m. suena el teléfono y Carlos lo contesta; era un número equivocado. Diez minutos antes de las 6:00 p. m. suena el teléfono y otra vez se trata de un número equivocado. Cinco minutos antes de las 6:00 p. m. suena el teléfono; Carlos lo contesta y habla hasta las 6:25 p. m. Según la información, es probable que",
+    "options": [
+      {
+        "id": "A",
+        "text": "Carlos no hizo caso y atendió la llamada que Eduardo esperaba."
+      },
+      {
+        "id": "B",
+        "text": "La persona que llamó a Carlos encontró el teléfono ocupado."
+      },
+      {
+        "id": "C",
+        "text": "Carlos recibió una llamada personal."
+      },
+      {
+        "id": "D",
+        "text": "La persona que marcó el número equivocado llamó por tercera vez."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La llamada esperada era para Eduardo y no hay evidencia de que Carlos la haya atendido. La duración de la última llamada hace más probable que Carlos recibiera una llamada personal."
+  }
+]

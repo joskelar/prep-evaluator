@@ -1,0 +1,29 @@
+[
+  {
+    "id": "CARD-MAT-ALG-001",
+    "examTargets": ["prepatec", "buap"],
+    "area": "math",
+    "category": "algebra",
+    "title": "Leyes de los Exponentes",
+    "front": "¿Cómo se operan los exponentes en multiplicación, división y potencias?",
+    "back": "Multiplicación de bases iguales: se suman (x^a * x^b = x^(a+b)). División de bases iguales: se restan (x^a / x^b = x^(a-b)). Potencia de una potencia: se multiplican ((x^a)^b = x^(a*b))."
+  },
+  {
+    "id": "CARD-MAT-ALG-002",
+    "examTargets": ["prepatec", "buap"],
+    "area": "math",
+    "category": "algebra",
+    "title": "Factorización de Trinomios",
+    "front": "¿Cuál es la regla para factorizar un trinomio de la forma x^2 + bx + c?",
+    "back": "Se buscan dos números que multiplicados den el término independiente 'c' y que sumados (o restados, según el signo) den el coeficiente del término lineal 'b'. Ej. x^2 + 5x + 6 = (x+3)(x+2)."
+  },
+  {
+    "id": "CARD-MAT-ALG-003",
+    "examTargets": ["prepatec", "buap"],
+    "area": "math",
+    "category": "algebra",
+    "title": "Ecuaciones de Segundo Grado",
+    "front": "¿Cuál es la fórmula general para resolver ax^2 + bx + c = 0?",
+    "back": "x = [-b ± √(b^2 - 4ac)] / (2a). El radicando (b^2 - 4ac) se llama discriminante; si es negativo, no hay soluciones reales; si es cero, hay una solución; si es positivo, hay dos."
+  }
+]

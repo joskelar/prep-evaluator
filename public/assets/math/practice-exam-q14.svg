@@ -1,0 +1,16 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="950" height="580" viewBox="0 0 950 580" role="img" aria-labelledby="title desc">
+<title id="title">Dos círculos de radios consecutivos</title>
+<desc id="desc">Dos círculos: el pequeño tiene radio x y el grande radio x más 1.</desc>
+<rect width="100%" height="100%" fill="white"/>
+
+<g fill="none" stroke="#111" stroke-width="4">
+<circle cx="300" cy="290" r="120"/>
+<circle cx="650" cy="290" r="165"/>
+<line x1="300" y1="290" x2="420" y2="290"/>
+<line x1="650" y1="290" x2="815" y2="290"/>
+</g>
+<circle cx="300" cy="290" r="5" fill="#111"/>
+<circle cx="650" cy="290" r="5" fill="#111"/>
+<text x="360" y="270" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30">x</text>
+<text x="732" y="270" text-anchor="middle" font-family="Arial,Helvetica,sans-serif" font-size="30">x + 1</text>
+</svg>

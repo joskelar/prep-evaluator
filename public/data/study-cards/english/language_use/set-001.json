@@ -1,0 +1,20 @@
+[
+  {
+    "id": "CARD-ENG-LAN-001",
+    "examTargets": ["prepatec", "buap"],
+    "area": "english",
+    "category": "language_use",
+    "title": "Subject-Verb Agreement",
+    "front": "What is the core rule of Subject-Verb Agreement?",
+    "back": "A singular subject takes a singular verb (e.g., 'He speaks Spanish'), while a plural subject takes a plural verb (e.g., 'They speak Spanish'). Be careful with collective nouns (e.g. 'The family is') and indefinite pronouns."
+  },
+  {
+    "id": "CARD-ENG-LAN-002",
+    "examTargets": ["prepatec", "buap"],
+    "area": "english",
+    "category": "language_use",
+    "title": "Active vs. Passive Voice",
+    "front": "When is it appropriate to use passive voice in writing?",
+    "back": "Passive voice is used when the focus is on the action or the object receiving the action, rather than who is performing it. Example: 'The research was completed' vs 'We completed the research'."
+  }
+]

@@ -1,0 +1,17 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="900" height="620" viewBox="0 0 900 620" role="img" aria-labelledby="title desc">
+<title id="title">Triángulo con ángulos algebraicos</title>
+<desc id="desc">Triángulo ABC con ángulos 2x+1, x+2 y 5x+7; la base se prolonga hacia F desde C.</desc>
+<rect width="100%" height="100%" fill="white"/>
+
+<polyline points="410,110 190,470 650,470 410,110" fill="none" stroke="#111" stroke-width="4"/>
+<line x1="650" y1="470" x2="820" y2="470" stroke="#111" stroke-width="4"/>
+<text x="400" y="92" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">A</text>
+<text x="162" y="498" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">B</text>
+<text x="658" y="500" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">C</text>
+<text x="830" y="500" font-family="Arial,Helvetica,sans-serif" font-size="26" font-weight="700">F</text>
+<text x="405" y="180" font-family="Arial,Helvetica,sans-serif" font-size="24">2x + 1</text>
+<text x="245" y="445" font-family="Arial,Helvetica,sans-serif" font-size="24">x + 2</text>
+<text x="545" y="445" font-family="Arial,Helvetica,sans-serif" font-size="24">5x + 7</text>
+<path d="M 704 470 A 54 54 0 0 0 678 423" fill="none" stroke="#111" stroke-width="2.5"/>
+<text x="705" y="410" font-family="Arial,Helvetica,sans-serif" font-size="20">ángulo suplementario</text>
+</svg>

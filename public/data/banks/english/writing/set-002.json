@@ -1,0 +1,302 @@
+[
+  {
+    "id": "ENG-WRI-026",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "opening_sentence",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Which two sentences can BEST be combined?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 and 3"
+      },
+      {
+        "id": "B",
+        "text": "4 and 5"
+      },
+      {
+        "id": "C",
+        "text": "9 and 10"
+      },
+      {
+        "id": "D",
+        "text": "10 and 11"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The correct answer is A) 2 and 3. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-DRAFT-003"
+  },
+  {
+    "id": "ENG-WRI-027",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "punctuation",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Which sentence does NOT belong in the text?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "8"
+      },
+      {
+        "id": "D",
+        "text": "11"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) 8. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-DRAFT-003"
+  },
+  {
+    "id": "ENG-WRI-028",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "word_phrase_replacement",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Choose the BEST punctuation for sentence 5.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Tens of millions of bison also known as buffalo \nonce thundered across a range, stretching from \ncentral Canada through the Great Plains, and \nnorthern Mexico."
+      },
+      {
+        "id": "B",
+        "text": "Tens of millions of bison also known as buffalo \nonce thundered, across a range stretching from \ncentral Canada through the Great Plains and \nnorthern Mexico."
+      },
+      {
+        "id": "C",
+        "text": "Tens of millions of bison, also known as buffalo, \nonce thundered across a range stretching from \ncentral Canada through the Great Plains and \nnorthern Mexico."
+      },
+      {
+        "id": "D",
+        "text": "Tens of millions of bison, also known as buffalo \nonce thundered across a range stretching from \ncentral Canada through the Great Plains and \nnorthern Mexico."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) Tens of millions of bison, also known as buffalo,  once thundered across a range stretching from  central Canada through the Great Plains and  northern Mexico.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-DRAFT-003"
+  },
+  {
+    "id": "ENG-WRI-029",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "sentence_combination",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Which sentence would be MOST appropriate  \nto follow sentence 7?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "9"
+      },
+      {
+        "id": "D",
+        "text": "10"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) 9. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-DRAFT-003"
+  },
+  {
+    "id": "ENG-WRI-030",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "irrelevant_sentence",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Choose the BEST sentence to conclude this text.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Bison were almost exterminated decades ago \nand are still in danger due to habitat loss."
+      },
+      {
+        "id": "B",
+        "text": "Bison populations have exploded ever since \ntheir natural predator, the wolf, disappeared."
+      },
+      {
+        "id": "C",
+        "text": "The noble bison range across North America \nand are culturally important to all three nations."
+      },
+      {
+        "id": "D",
+        "text": "The beautiful bison have a history that makes \nthem an important symbol of the United States.\nLos ejercicios del 36 al 40 se basan en el \nsiguiente texto:\n(1) When the Navajo and Apache arrived in what would \nbecome Arizona, Utah, Colorado, and New Mexico, in \nthe southwestern United States, there were already other \npeople living there. (2) The Pueblo Indians already lived \nin villages throughout the region, along the Rio Grande \nand on high plateaus and mesas. (3) Pueblo people are \nnot all related either by language or culture. (4) They live \nin dramatic villages high up on mesas, or hills, like at \nAcoma, or in multi-storied dwellings built from adobe, \nlike at Taos. (5) But Pueblo peoples can be united into \nseveral language and cultural groups. (6) Many Pueblo \ncommunities are small villages centered around an open \nsquare. (7) The Navajo and Apache arrived in the region \naround 1400 CE. (8) They were nomadic people who \nlearned farming and animal tending from the Pueblo \npeoples. (9) Navajo is the most-spoken Native American \nlanguage in the United States. (10) The Navajo still prefer \nto live in small groups scattered over the vast landscape \nof the southwestern United States, rather than in towns \nand cities, for example they number over 300,000 people."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The correct answer is D) The beautiful bison have a history that makes  them an important symbol of the United States. Los ejercicios del 36 al 40 se basan en el  siguiente texto: (1) When the Navajo and Apache arrived in what would  become Arizona, Utah, Colorado, and New Mexico, in  the southwestern United States, there were already other  people living there. (2) The Pueblo Indians already lived  in villages throughout the region, along the Rio Grande  and on high plateaus and mesas. (3) Pueblo people are  not all related either by language or culture. (4) They live  in dramatic villages high up on mesas, or hills, like at  Acoma, or in multi-storied dwellings built from adobe,  like at Taos. (5) But Pueblo peoples can be united into  several language and cultural groups. (6) Many Pueblo  communities are small villages centered around an open  square. (7) The Navajo and Apache arrived in the region  around 1400 CE. (8) They were nomadic people who  learned farming and animal tending from the Pueblo  peoples. (9) Navajo is the most-spoken Native American  language in the United States. (10) The Navajo still prefer  to live in small groups scattered over the vast landscape  of the southwestern United States, rather than in towns  and cities, for example they number over 300,000 people.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-DRAFT-003"
+  },
+  {
+    "id": "ENG-WRI-031",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "logical_sequence",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Which sentence BEST follows sentence 3?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "5"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) 5. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-DRAFT-004"
+  },
+  {
+    "id": "ENG-WRI-032",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "transitions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Which two sentences can BEST be combined into \none?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2 and 3"
+      },
+      {
+        "id": "B",
+        "text": "5 and 6"
+      },
+      {
+        "id": "C",
+        "text": "7 and 8"
+      },
+      {
+        "id": "D",
+        "text": "8 and 9"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) 7 and 8. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-DRAFT-004"
+  },
+  {
+    "id": "ENG-WRI-033",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "word_phrase_replacement",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "In sentence 10, the words “for example” should BEST \nbe replaced by",
+    "options": [
+      {
+        "id": "A",
+        "text": "because."
+      },
+      {
+        "id": "B",
+        "text": "to begin with."
+      },
+      {
+        "id": "C",
+        "text": "in addition."
+      },
+      {
+        "id": "D",
+        "text": "even though."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The correct answer is D) even though.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-DRAFT-004"
+  },
+  {
+    "id": "ENG-WRI-034",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "sentence_combination",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Which sentence does NOT belong in the text?",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "5"
+      },
+      {
+        "id": "C",
+        "text": "7"
+      },
+      {
+        "id": "D",
+        "text": "9"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The correct answer is D) 9. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-DRAFT-004"
+  },
+  {
+    "id": "ENG-WRI-035",
+    "area": "english",
+    "category": "writing",
+    "subcategory": "closing_sentence",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Which of the following sentences would BEST follow \nthe last sentence of the text?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Navajo, Pueblo, and Apache people are all really \none single nation."
+      },
+      {
+        "id": "B",
+        "text": "The Navajo and Pueblo nations have suffered \nunder the US government."
+      },
+      {
+        "id": "C",
+        "text": "The Navajo and Pueblo peoples have learned  \nto live together in the region."
+      },
+      {
+        "id": "D",
+        "text": "Even after many centuries, the Navajo are still \nforeign invaders in Pueblo lands."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) The Navajo and Pueblo peoples have learned   to live together in the region.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-DRAFT-004"
+  }
+]

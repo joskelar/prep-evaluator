@@ -1,0 +1,31 @@
+[
+  {
+    "id": "COG-SEQ-022",
+    "area": "cognitive",
+    "category": "complex_sequences",
+    "subcategory": "alphanumeric_sequences",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "(a1, i3), e2; (i3, u5), ___.",
+    "options": [
+      {
+        "id": "A",
+        "text": "e3"
+      },
+      {
+        "id": "B",
+        "text": "o3"
+      },
+      {
+        "id": "C",
+        "text": "e4"
+      },
+      {
+        "id": "D",
+        "text": "o4"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La primera parte recorre a1, e2, i3; la segunda continúa i3, o4, u5. Por ello el término faltante es o4."
+  }
+]

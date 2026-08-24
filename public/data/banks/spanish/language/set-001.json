@@ -1,0 +1,200 @@
+[
+  {
+    "id": "SPA-LAN-001",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "subject_verb_agreement",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la oración en la que la palabra subrayada está INCORRECTAMENTE usada.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Los atletas locales ganaron la competencia."
+      },
+      {
+        "id": "B",
+        "text": "Tanto la madre como el hijo son capaz de hacerlo."
+      },
+      {
+        "id": "C",
+        "text": "Los conejos alegres saltan por el campo."
+      },
+      {
+        "id": "D",
+        "text": "Las nubes parecen grandes bolas de nieve."
+      },
+      {
+        "id": "E",
+        "text": "Mi vecino pintó la casa con colores vivos."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El sujeto compuesto «la madre como el hijo» es plural; debe decir «son capaces», no «son capaz»."
+  },
+  {
+    "id": "SPA-LAN-002",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "prepositions",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿En cuál de las siguientes oraciones la palabra subrayada se usa de forma CORRECTA?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Coloca la silla mirando por la puerta."
+      },
+      {
+        "id": "B",
+        "text": "La función empezará para las ocho."
+      },
+      {
+        "id": "C",
+        "text": "Iba en casa de mis abuelos a comer."
+      },
+      {
+        "id": "D",
+        "text": "María es aficionada con el tenis."
+      },
+      {
+        "id": "E",
+        "text": "Se dirigía hacia la carretera nueva."
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "«Hacia» expresa correctamente dirección en «se dirigía hacia la carretera». Las demás opciones emplean una preposición inadecuada."
+  },
+  {
+    "id": "SPA-LAN-003",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "verb_forms",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la oración en la que la palabra subrayada se usa INCORRECTAMENTE.",
+    "options": [
+      {
+        "id": "A",
+        "text": "¿Cuántas dietas has hecho?"
+      },
+      {
+        "id": "B",
+        "text": "Has el favor de cerrar la puerta."
+      },
+      {
+        "id": "C",
+        "text": "Si te dejan, haz lo que quieras."
+      },
+      {
+        "id": "D",
+        "text": "Todavía no has terminado la tarea."
+      },
+      {
+        "id": "E",
+        "text": "Haz el bien y no mires a quien."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El imperativo de «hacer» es «haz»; «has» corresponde al verbo haber. Por eso «Has el favor...» es incorrecto."
+  },
+  {
+    "id": "SPA-LAN-004",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "joined_separate_words",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿En cuál oración la parte subrayada está escrita CORRECTAMENTE?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Te lo contaré todo por que eres mi amigo."
+      },
+      {
+        "id": "B",
+        "text": "No sé el por que de tu enojo."
+      },
+      {
+        "id": "C",
+        "text": "Iré contigo porque viniste a buscarme."
+      },
+      {
+        "id": "D",
+        "text": "¿Porqué no vamos al cine mañana?"
+      },
+      {
+        "id": "E",
+        "text": "Dime por que te fuiste."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "En una oración causal afirmativa se usa la conjunción «porque» escrita en una sola palabra: «porque viniste a buscarme»."
+  },
+  {
+    "id": "SPA-LAN-005",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "verb_forms",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la palabra subrayada que resulta INCORRECTA.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Nadie satisfizo las expectativas."
+      },
+      {
+        "id": "B",
+        "text": "Te dije que no andaras descalzo."
+      },
+      {
+        "id": "C",
+        "text": "Trajimos todos los ingredientes que se necesitaban."
+      },
+      {
+        "id": "D",
+        "text": "Mis vecinos contrajeron matrimonio el mes pasado."
+      },
+      {
+        "id": "E",
+        "text": "Tradujiste el poema completo."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La forma normativa del imperfecto de subjuntivo es «anduvieras/anduvieses», no «andaras» en este contexto."
+  },
+  {
+    "id": "SPA-LAN-006",
+    "area": "spanish",
+    "category": "language",
+    "subcategory": "verb_forms",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Seleccione la opción en la que la palabra subrayada se usa de forma CORRECTA.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Las personas teniendo más de 18 años podrán entrar."
+      },
+      {
+        "id": "B",
+        "text": "Llegó un sobre conteniendo los documentos."
+      },
+      {
+        "id": "C",
+        "text": "No toleraremos a nadie gritando en el salón."
+      },
+      {
+        "id": "D",
+        "text": "Hay personas esperando para entrar a votar."
+      },
+      {
+        "id": "E",
+        "text": "Se necesita un chef preparando comidas exóticas."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "El gerundio «esperando» expresa una acción simultánea de las personas y está correctamente usado; en las demás opciones sustituye impropiamente una subordinada."
+  }
+]

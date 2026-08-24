@@ -1,0 +1,21 @@
+{
+  "batches_found": [
+    "figures-batch-01",
+    "figures-batch-02",
+    "figures-batch-03",
+    "figures-batch-04",
+    "figures-batch-05",
+    "figures-batch-06",
+    "figures-batch-07",
+    "figures-batch-08"
+  ],
+  "assets_discovered": 48,
+  "assets_copied": 6,
+  "assets_already_present": 42,
+  "collisions": [],
+  "missing_after_integration": [],
+  "audit_passed": true,
+  "data_validation_passed": true,
+  "tests_passed": true,
+  "build_passed": true
+}

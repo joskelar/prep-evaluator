@@ -1,0 +1,1520 @@
+[
+  {
+    "id": "MAT-ALG-043",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "algebraic_expressions",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál expresión representa correctamente la frase «Tres unidades más que el doble de un número»?",
+    "options": [
+      {
+        "id": "A",
+        "text": "3 + 2x"
+      },
+      {
+        "id": "B",
+        "text": "2(x + 3)"
+      },
+      {
+        "id": "C",
+        "text": "x + 2 + 3"
+      },
+      {
+        "id": "D",
+        "text": "3x + 2"
+      },
+      {
+        "id": "E",
+        "text": "2x − 3"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "El doble de un número es 2x; al agregar tres unidades se obtiene 2x + 3, equivalente a 3 + 2x."
+  },
+  {
+    "id": "MAT-ALG-044",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "algebraic_expressions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "La expresión (x + 4)/3 se interpreta como:",
+    "options": [
+      {
+        "id": "A",
+        "text": "La tercera parte de la suma de un número y cuatro"
+      },
+      {
+        "id": "B",
+        "text": "La suma de un número con cuatro dividida entre tres"
+      },
+      {
+        "id": "C",
+        "text": "Un número dividido entre tres más cuatro"
+      },
+      {
+        "id": "D",
+        "text": "La tercera parte de un número más cuatro"
+      },
+      {
+        "id": "E",
+        "text": "El triple de la suma de un número y cuatro"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "El paréntesis indica que primero se suma x + 4 y después se divide todo entre 3."
+  },
+  {
+    "id": "MAT-ALG-045",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "algebraic_expressions",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "La expresión 4(x − 1) se interpreta como:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cuatro menos un número"
+      },
+      {
+        "id": "B",
+        "text": "Cuatro veces un número menos uno"
+      },
+      {
+        "id": "C",
+        "text": "Cuatro multiplicado por la diferencia entre un número y uno"
+      },
+      {
+        "id": "D",
+        "text": "El cuádruple de un número aumentado en uno"
+      },
+      {
+        "id": "E",
+        "text": "Cuatro veces un número más uno"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "El paréntesis obliga a calcular primero la diferencia x−1 y después multiplicarla por 4."
+  },
+  {
+    "id": "MAT-ALG-046",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "inequalities_one_variable",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "La expresión 4x − 9 ≥ 3 se interpreta como:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Cuatro más un número menos nueve es mayor que tres"
+      },
+      {
+        "id": "B",
+        "text": "Cuatro veces un número disminuido en nueve es mayor o igual que tres"
+      },
+      {
+        "id": "C",
+        "text": "Cuatro veces la diferencia entre un número y nueve es mayor que tres"
+      },
+      {
+        "id": "D",
+        "text": "Nueve menos cuatro veces un número es mayor que tres"
+      },
+      {
+        "id": "E",
+        "text": "Cuatro números menos nueve son mayores que tres"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "4x representa cuatro veces un número; después se restan nueve unidades y el resultado debe ser mayor o igual que 3."
+  },
+  {
+    "id": "MAT-ALG-047",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "algebraic_expressions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Simplifica √18 + 2√8 − √50.",
+    "options": [
+      {
+        "id": "A",
+        "text": "3√2"
+      },
+      {
+        "id": "B",
+        "text": "4√2"
+      },
+      {
+        "id": "C",
+        "text": "5√2"
+      },
+      {
+        "id": "D",
+        "text": "2√2"
+      },
+      {
+        "id": "E",
+        "text": "6√2"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "√18=3√2, 2√8=4√2 y √50=5√2; el resultado es 2√2."
+  },
+  {
+    "id": "MAT-ALG-048",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "polynomials",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Expande (2x − 3y)².",
+    "options": [
+      {
+        "id": "A",
+        "text": "4x² − 12xy + 9y²"
+      },
+      {
+        "id": "B",
+        "text": "4x² − 6xy + 9y²"
+      },
+      {
+        "id": "C",
+        "text": "4x² − 12xy − 9y²"
+      },
+      {
+        "id": "D",
+        "text": "4x² + 12xy + 9y²"
+      },
+      {
+        "id": "E",
+        "text": "2x² − 6xy + 9y²"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "(a−b)²=a²−2ab+b²; con a=2x y b=3y resulta 4x²−12xy+9y²."
+  },
+  {
+    "id": "MAT-ALG-049",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "factorization",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Factoriza 9x² − 16y².",
+    "options": [
+      {
+        "id": "A",
+        "text": "(3x − 4y)(3x + 4y)"
+      },
+      {
+        "id": "B",
+        "text": "(3x − 8y)(3x + 8y)"
+      },
+      {
+        "id": "C",
+        "text": "(9x − 4y)(x + 4y)"
+      },
+      {
+        "id": "D",
+        "text": "(3x − 4y)²"
+      },
+      {
+        "id": "E",
+        "text": "5x² − 16y²"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Es una diferencia de cuadrados: (3x)²−(4y)²."
+  },
+  {
+    "id": "MAT-ALG-050",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "factorization",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Factoriza x² + 10x + 25.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(x+5)²"
+      },
+      {
+        "id": "B",
+        "text": "(x+10)(x+5)"
+      },
+      {
+        "id": "C",
+        "text": "(x+5)(x+25)"
+      },
+      {
+        "id": "D",
+        "text": "(x+10)²"
+      },
+      {
+        "id": "E",
+        "text": "x(x+10)+25"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Es un trinomio cuadrado perfecto: x²+2(5)x+5²=(x+5)²."
+  },
+  {
+    "id": "MAT-ALG-051",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "factorization",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Factoriza 6x² + 11x + 3.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(3x + 1)(2x + 3)"
+      },
+      {
+        "id": "B",
+        "text": "(6x + 1)(x + 3)"
+      },
+      {
+        "id": "C",
+        "text": "(3x + 3)(2x + 1)"
+      },
+      {
+        "id": "D",
+        "text": "(2x + 1)(3x + 3)"
+      },
+      {
+        "id": "E",
+        "text": "(6x + 3)(x + 1)"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Al multiplicar (3x+1)(2x+3) se obtiene 6x²+11x+3."
+  },
+  {
+    "id": "MAT-ALG-052",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "linear_equations_one_variable",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Resuelve (2x − 3)/4 + (x + 5)/2 = 7.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x = 4.75"
+      },
+      {
+        "id": "B",
+        "text": "x = 5"
+      },
+      {
+        "id": "C",
+        "text": "x = 5.25"
+      },
+      {
+        "id": "D",
+        "text": "x = 2.25"
+      },
+      {
+        "id": "E",
+        "text": "x = 0"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Multiplicando por 4: 2x−3+2x+10=28; 4x=21; x=5.25."
+  },
+  {
+    "id": "MAT-ALG-053",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "linear_systems",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Encuentra la solución del sistema x + y = 9; 2x − y = 3.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x=4, y=5"
+      },
+      {
+        "id": "B",
+        "text": "x=5, y=4"
+      },
+      {
+        "id": "C",
+        "text": "x=6, y=3"
+      },
+      {
+        "id": "D",
+        "text": "x=3, y=6"
+      },
+      {
+        "id": "E",
+        "text": "x=9, y=0"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Sumando ecuaciones: 3x=12, x=4 y luego y=5."
+  },
+  {
+    "id": "MAT-ALG-054",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "quadratic_equations",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Resuelve 2x² − 7x + 3 = 0.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x=3 y x=1/2"
+      },
+      {
+        "id": "B",
+        "text": "x=1 y x=3"
+      },
+      {
+        "id": "C",
+        "text": "x=3 y x=2"
+      },
+      {
+        "id": "D",
+        "text": "x=6 y x=1"
+      },
+      {
+        "id": "E",
+        "text": "x=3 y x=−1"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "2x²−7x+3=(2x−1)(x−3)."
+  },
+  {
+    "id": "MAT-ALG-055",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "inequalities_one_variable",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál intervalo representa −2 ≤ x < 5?",
+    "options": [
+      {
+        "id": "A",
+        "text": "(−2,5]"
+      },
+      {
+        "id": "B",
+        "text": "[−2,5)"
+      },
+      {
+        "id": "C",
+        "text": "[−2,5]"
+      },
+      {
+        "id": "D",
+        "text": "(−2,5)"
+      },
+      {
+        "id": "E",
+        "text": "(−∞,−2] ∪ [5,∞)"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "−2 se incluye y 5 se excluye, por eso [−2,5)."
+  },
+  {
+    "id": "MAT-ALG-056",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "functions_graphs",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Determina el dominio de f(x)=1/(x−10).",
+    "options": [
+      {
+        "id": "A",
+        "text": "(−∞,10) ∪ (10,∞)"
+      },
+      {
+        "id": "B",
+        "text": "(−∞,10] ∪ [10,∞)"
+      },
+      {
+        "id": "C",
+        "text": "(−∞,∞)"
+      },
+      {
+        "id": "D",
+        "text": "(−∞,0) ∪ (0,∞)"
+      },
+      {
+        "id": "E",
+        "text": "[10,∞)"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "El denominador no puede ser cero: x≠10."
+  },
+  {
+    "id": "MAT-ALG-057",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "functions_graphs",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Determina el dominio de f(x)=√(2x−6).",
+    "options": [
+      {
+        "id": "A",
+        "text": "(−∞,3]"
+      },
+      {
+        "id": "B",
+        "text": "[3,∞)"
+      },
+      {
+        "id": "C",
+        "text": "(3,∞)"
+      },
+      {
+        "id": "D",
+        "text": "(−∞,6]"
+      },
+      {
+        "id": "E",
+        "text": "[6,∞)"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "2x−6 debe ser no negativo; x≥3."
+  },
+  {
+    "id": "MAT-ALG-058",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "functions_graphs",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Determina el rango de f(x)=x².",
+    "options": [
+      {
+        "id": "A",
+        "text": "(−∞,∞)"
+      },
+      {
+        "id": "B",
+        "text": "[0,∞)"
+      },
+      {
+        "id": "C",
+        "text": "(0,∞)"
+      },
+      {
+        "id": "D",
+        "text": "(−∞,0]"
+      },
+      {
+        "id": "E",
+        "text": "(−∞,0)"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "x² nunca es negativo y alcanza 0."
+  },
+  {
+    "id": "MAT-ALG-059",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "functions_graphs",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Una recta horizontal pasa por (0,4) y mantiene el mismo valor para cualquier x. ¿Qué tipo de función representa?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Función lineal"
+      },
+      {
+        "id": "B",
+        "text": "Función constante"
+      },
+      {
+        "id": "C",
+        "text": "Función cuadrática"
+      },
+      {
+        "id": "D",
+        "text": "Función racional"
+      },
+      {
+        "id": "E",
+        "text": "Función exponencial"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Una recta horizontal tiene la forma f(x)=c."
+  },
+  {
+    "id": "MAT-ALG-060",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "functions_graphs",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Una gráfica tiene forma de parábola, abre hacia arriba y es simétrica respecto al eje y. ¿Qué tipo de función representa?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Función exponencial"
+      },
+      {
+        "id": "B",
+        "text": "Función cuadrática"
+      },
+      {
+        "id": "C",
+        "text": "Función racional"
+      },
+      {
+        "id": "D",
+        "text": "Función logarítmica"
+      },
+      {
+        "id": "E",
+        "text": "Función lineal"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Una parábola corresponde a una función cuadrática."
+  },
+  {
+    "id": "MAT-ALG-061",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "functions_graphs",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Una gráfica pasa por (0,1), crece rápidamente hacia la derecha y se aproxima al eje x sin tocarlo cuando x es muy negativo. ¿Qué tipo de función representa?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Función cuadrática"
+      },
+      {
+        "id": "B",
+        "text": "Función exponencial"
+      },
+      {
+        "id": "C",
+        "text": "Función lineal"
+      },
+      {
+        "id": "D",
+        "text": "Función racional"
+      },
+      {
+        "id": "E",
+        "text": "Función constante"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Es el comportamiento característico de una función exponencial creciente."
+  },
+  {
+    "id": "MAT-ALG-062",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "cartesian_plane",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Calcula la distancia entre A(2,−1) y B(6,3).",
+    "options": [
+      {
+        "id": "A",
+        "text": "4√2"
+      },
+      {
+        "id": "B",
+        "text": "8"
+      },
+      {
+        "id": "C",
+        "text": "2√2"
+      },
+      {
+        "id": "D",
+        "text": "4"
+      },
+      {
+        "id": "E",
+        "text": "5"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "d=√[(6−2)²+(3+1)²]=√32=4√2."
+  },
+  {
+    "id": "MAT-ALG-063",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "cartesian_plane",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Determina el punto medio del segmento cuyos extremos son A(2,6) y B(8,4).",
+    "options": [
+      {
+        "id": "A",
+        "text": "(5,5)"
+      },
+      {
+        "id": "B",
+        "text": "(4,5)"
+      },
+      {
+        "id": "C",
+        "text": "(6,5)"
+      },
+      {
+        "id": "D",
+        "text": "(5,4)"
+      },
+      {
+        "id": "E",
+        "text": "(3,5)"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "M=((2+8)/2,(6+4)/2)=(5,5)."
+  },
+  {
+    "id": "MAT-ALG-064",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "functions_graphs",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Determina la ecuación de la recta que pasa por (−1,2) y tiene pendiente m=−3.",
+    "options": [
+      {
+        "id": "A",
+        "text": "y−2=−3(x+1)"
+      },
+      {
+        "id": "B",
+        "text": "y+2=−3(x−1)"
+      },
+      {
+        "id": "C",
+        "text": "y−1=−3(x+2)"
+      },
+      {
+        "id": "D",
+        "text": "y−2=3(x+1)"
+      },
+      {
+        "id": "E",
+        "text": "y+1=−3(x−2)"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Con y−y₁=m(x−x₁): y−2=−3(x+1)."
+  },
+  {
+    "id": "MAT-ALG-065",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "functions_graphs",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Determina la ecuación de la recta que pasa por P(2,5) y Q(6,1).",
+    "options": [
+      {
+        "id": "A",
+        "text": "y=−x+5"
+      },
+      {
+        "id": "B",
+        "text": "y=−x+7"
+      },
+      {
+        "id": "C",
+        "text": "y=x+3"
+      },
+      {
+        "id": "D",
+        "text": "y=−2x+9"
+      },
+      {
+        "id": "E",
+        "text": "y=x−3"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La pendiente es −1 y, usando (2,5), se obtiene y=−x+7."
+  },
+  {
+    "id": "MAT-ALG-066",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "algebraic_expressions",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál expresión representa correctamente «El cuadrado de un número disminuido en cinco»?",
+    "options": [
+      {
+        "id": "A",
+        "text": "x² − 5"
+      },
+      {
+        "id": "B",
+        "text": "(x − 5)²"
+      },
+      {
+        "id": "C",
+        "text": "x² + 5"
+      },
+      {
+        "id": "D",
+        "text": "−5x²"
+      },
+      {
+        "id": "E",
+        "text": "x² − x"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Primero se toma el cuadrado x² y después se restan cinco unidades."
+  },
+  {
+    "id": "MAT-ALG-067",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "algebraic_expressions",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "La expresión 2(x + 5) − 3 se interpreta como:",
+    "options": [
+      {
+        "id": "A",
+        "text": "El doble de un número más cinco menos tres"
+      },
+      {
+        "id": "B",
+        "text": "Dos veces la suma de un número y cinco, disminuida en tres"
+      },
+      {
+        "id": "C",
+        "text": "Dos veces un número más cinco menos tres"
+      },
+      {
+        "id": "D",
+        "text": "El doble de un número aumentado en ocho"
+      },
+      {
+        "id": "E",
+        "text": "Dos veces un número menos tres más cinco"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El paréntesis indica sumar x+5, duplicar el resultado y finalmente restar 3."
+  },
+  {
+    "id": "MAT-ALG-068",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "polynomials",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Expande (x − 3)(x + 3).",
+    "options": [
+      {
+        "id": "A",
+        "text": "x²−3"
+      },
+      {
+        "id": "B",
+        "text": "x²+9"
+      },
+      {
+        "id": "C",
+        "text": "x²−6x+9"
+      },
+      {
+        "id": "D",
+        "text": "x²+6x+9"
+      },
+      {
+        "id": "E",
+        "text": "x²−9"
+      }
+    ],
+    "correct_answer": "E",
+    "explanation": "Es diferencia de cuadrados: x²−3²=x²−9."
+  },
+  {
+    "id": "MAT-ALG-069",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "polynomials",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Expande (3x + y)².",
+    "options": [
+      {
+        "id": "A",
+        "text": "9x²+6xy+y²"
+      },
+      {
+        "id": "B",
+        "text": "9x²+3xy+y²"
+      },
+      {
+        "id": "C",
+        "text": "9x²−6xy+y²"
+      },
+      {
+        "id": "D",
+        "text": "3x²+6xy+y²"
+      },
+      {
+        "id": "E",
+        "text": "9x²+6xy−y²"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "(a+b)²=a²+2ab+b²."
+  },
+  {
+    "id": "MAT-ALG-070",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "polynomials",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Expande (2x − 5)².",
+    "options": [
+      {
+        "id": "A",
+        "text": "4x²−20x+25"
+      },
+      {
+        "id": "B",
+        "text": "4x²−10x+25"
+      },
+      {
+        "id": "C",
+        "text": "4x²−20x−25"
+      },
+      {
+        "id": "D",
+        "text": "2x²−20x+25"
+      },
+      {
+        "id": "E",
+        "text": "4x²−25"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "(2x)²−2(2x)(5)+25=4x²−20x+25."
+  },
+  {
+    "id": "MAT-ALG-071",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "polynomials",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Expande (4x − 2y)².",
+    "options": [
+      {
+        "id": "A",
+        "text": "16x²−16xy+4y²"
+      },
+      {
+        "id": "B",
+        "text": "16x²−8xy+4y²"
+      },
+      {
+        "id": "C",
+        "text": "16x²+16xy+4y²"
+      },
+      {
+        "id": "D",
+        "text": "8x²−16xy+4y²"
+      },
+      {
+        "id": "E",
+        "text": "16x²−16xy−4y²"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Aplicando el cuadrado de un binomio resulta 16x²−16xy+4y²."
+  },
+  {
+    "id": "MAT-ALG-072",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "polynomials",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Expande (x + 5)³.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x³+15x²+75x+125"
+      },
+      {
+        "id": "B",
+        "text": "x³+10x²+25x+125"
+      },
+      {
+        "id": "C",
+        "text": "x³+15x²+50x+125"
+      },
+      {
+        "id": "D",
+        "text": "x³+15x²+75x+25"
+      },
+      {
+        "id": "E",
+        "text": "x³+5x²+25x+125"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "(a+b)³=a³+3a²b+3ab²+b³."
+  },
+  {
+    "id": "MAT-ALG-073",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "polynomials",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Expande (3x − 2y)².",
+    "options": [
+      {
+        "id": "A",
+        "text": "9x²−12xy+4y²"
+      },
+      {
+        "id": "B",
+        "text": "9x²−6xy+4y²"
+      },
+      {
+        "id": "C",
+        "text": "9x²+12xy+4y²"
+      },
+      {
+        "id": "D",
+        "text": "3x²−12xy+4y²"
+      },
+      {
+        "id": "E",
+        "text": "9x²−12xy−4y²"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "(3x)²−2(3x)(2y)+(2y)²."
+  },
+  {
+    "id": "MAT-ALG-074",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "polynomials",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Expande y simplifica (√3·x + 2)².",
+    "options": [
+      {
+        "id": "A",
+        "text": "3x²+4√3x+4"
+      },
+      {
+        "id": "B",
+        "text": "3x²+2√3x+4"
+      },
+      {
+        "id": "C",
+        "text": "3x²+4√3x+2"
+      },
+      {
+        "id": "D",
+        "text": "6x²+4√3x+4"
+      },
+      {
+        "id": "E",
+        "text": "3x²+4x+4"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "El cuadrado produce 3x²+4√3x+4."
+  },
+  {
+    "id": "MAT-ALG-075",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "factorization",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Factoriza x² + 7x + 12.",
+    "options": [
+      {
+        "id": "A",
+        "text": "(x+3)(x+4)"
+      },
+      {
+        "id": "B",
+        "text": "(x+2)(x+6)"
+      },
+      {
+        "id": "C",
+        "text": "(x+1)(x+12)"
+      },
+      {
+        "id": "D",
+        "text": "(x+3)²"
+      },
+      {
+        "id": "E",
+        "text": "x(x+7)+12"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "3+4=7 y 3×4=12."
+  },
+  {
+    "id": "MAT-ALG-076",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "factorization",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Factoriza 6x³y² − 9x²y³ + 3x²y².",
+    "options": [
+      {
+        "id": "A",
+        "text": "3x²y²(2x−3y+1)"
+      },
+      {
+        "id": "B",
+        "text": "3x²y(2x−3y+1)"
+      },
+      {
+        "id": "C",
+        "text": "6x²y²(x−3y+1)"
+      },
+      {
+        "id": "D",
+        "text": "3xy²(2x²−3xy+1)"
+      },
+      {
+        "id": "E",
+        "text": "x²y²(6x−9y+3)"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "El factor común máximo es 3x²y²."
+  },
+  {
+    "id": "MAT-ALG-077",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "linear_equations_one_variable",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Resuelve 3(2x−5)−4(x+1)=3x+7.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x=−10"
+      },
+      {
+        "id": "B",
+        "text": "x=−26"
+      },
+      {
+        "id": "C",
+        "text": "x=10"
+      },
+      {
+        "id": "D",
+        "text": "x=26"
+      },
+      {
+        "id": "E",
+        "text": "No hay solución"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "6x−15−4x−4=3x+7; 2x−19=3x+7; x=−26."
+  },
+  {
+    "id": "MAT-ALG-078",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "linear_equations_one_variable",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Resuelve 5(x−2)−3(2x−1)=4.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x=11"
+      },
+      {
+        "id": "B",
+        "text": "x=−11"
+      },
+      {
+        "id": "C",
+        "text": "x=10"
+      },
+      {
+        "id": "D",
+        "text": "x=−10"
+      },
+      {
+        "id": "E",
+        "text": "x=0"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "5x−10−6x+3=4; −x−7=4; x=−11."
+  },
+  {
+    "id": "MAT-ALG-079",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "linear_systems",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Resuelve el sistema 3x+2y=16; x−y=1.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x=2,y=1"
+      },
+      {
+        "id": "B",
+        "text": "x=3,y=2"
+      },
+      {
+        "id": "C",
+        "text": "x=4,y=3"
+      },
+      {
+        "id": "D",
+        "text": "x=2,y=3"
+      },
+      {
+        "id": "E",
+        "text": "x=1,y=2"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "y=x−1; 3x+2(x−1)=16, por lo que x=3, y=2."
+  },
+  {
+    "id": "MAT-ALG-080",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "linear_systems",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Resuelve el sistema 2x+3y=13; x+y=5.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x=2,y=3"
+      },
+      {
+        "id": "B",
+        "text": "x=3,y=2"
+      },
+      {
+        "id": "C",
+        "text": "x=1,y=4"
+      },
+      {
+        "id": "D",
+        "text": "x=4,y=1"
+      },
+      {
+        "id": "E",
+        "text": "x=5,y=0"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "x=5−y; sustituyendo se obtiene y=3 y x=2."
+  },
+  {
+    "id": "MAT-ALG-081",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "quadratic_equations",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Resuelve x²−7x+10=0.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x=5 y x=2"
+      },
+      {
+        "id": "B",
+        "text": "x=4 y x=3"
+      },
+      {
+        "id": "C",
+        "text": "x=6 y x=1"
+      },
+      {
+        "id": "D",
+        "text": "x=10 y x=1"
+      },
+      {
+        "id": "E",
+        "text": "x=0 y x=10"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "(x−5)(x−2)=0."
+  },
+  {
+    "id": "MAT-ALG-082",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "quadratic_equations",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Resuelve x²+5x+6=0.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x=2 y x=3"
+      },
+      {
+        "id": "B",
+        "text": "x=−2 y x=−3"
+      },
+      {
+        "id": "C",
+        "text": "x=−1 y x=−6"
+      },
+      {
+        "id": "D",
+        "text": "x=1 y x=6"
+      },
+      {
+        "id": "E",
+        "text": "x=0 y x=−6"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "(x+2)(x+3)=0."
+  },
+  {
+    "id": "MAT-ALG-083",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "quadratic_equations",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Resuelve x²−4x−12=0.",
+    "options": [
+      {
+        "id": "A",
+        "text": "x=6 y x=−2"
+      },
+      {
+        "id": "B",
+        "text": "x=4 y x=−3"
+      },
+      {
+        "id": "C",
+        "text": "x=3 y x=−4"
+      },
+      {
+        "id": "D",
+        "text": "x=12 y x=−1"
+      },
+      {
+        "id": "E",
+        "text": "x=2 y x=−6"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "(x−6)(x+2)=0."
+  },
+  {
+    "id": "MAT-ALG-084",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "functions_graphs",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Determina el comportamiento de f(x)=2x+5.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Creciente en todos los reales"
+      },
+      {
+        "id": "B",
+        "text": "Decreciente en todos los reales"
+      },
+      {
+        "id": "C",
+        "text": "Creciente solo si x>0"
+      },
+      {
+        "id": "D",
+        "text": "Decreciente solo si x<0"
+      },
+      {
+        "id": "E",
+        "text": "Constante"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Su pendiente es 2>0, por lo que es creciente en todo R."
+  },
+  {
+    "id": "MAT-ALG-085",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "functions_graphs",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿En qué intervalo es creciente f(x)=−x?",
+    "options": [
+      {
+        "id": "A",
+        "text": "(−∞,∞)"
+      },
+      {
+        "id": "B",
+        "text": "(0,∞)"
+      },
+      {
+        "id": "C",
+        "text": "(−∞,0)"
+      },
+      {
+        "id": "D",
+        "text": "En ningún intervalo"
+      },
+      {
+        "id": "E",
+        "text": "Solo en x=0"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La pendiente es −1, así que la función es decreciente en todo su dominio."
+  },
+  {
+    "id": "MAT-ALG-086",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "cartesian_plane",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Calcula la distancia entre P(−3,4) y Q(1,−2).",
+    "options": [
+      {
+        "id": "A",
+        "text": "6√2"
+      },
+      {
+        "id": "B",
+        "text": "2√13"
+      },
+      {
+        "id": "C",
+        "text": "4√5"
+      },
+      {
+        "id": "D",
+        "text": "5√2"
+      },
+      {
+        "id": "E",
+        "text": "10"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "d=√[(1+3)²+(−2−4)²]=√52=2√13."
+  },
+  {
+    "id": "MAT-ALG-087",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "cartesian_plane",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Determina el punto medio entre P(−4,2) y Q(6,8).",
+    "options": [
+      {
+        "id": "A",
+        "text": "(1,5)"
+      },
+      {
+        "id": "B",
+        "text": "(2,5)"
+      },
+      {
+        "id": "C",
+        "text": "(1,4)"
+      },
+      {
+        "id": "D",
+        "text": "(0,5)"
+      },
+      {
+        "id": "E",
+        "text": "(1,6)"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "M=((−4+6)/2,(2+8)/2)=(1,5)."
+  },
+  {
+    "id": "MAT-ALG-088",
+    "area": "math",
+    "category": "algebra",
+    "subcategory": "functions_graphs",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Determina la ecuación de la recta que pasa por A(1,2) y B(3,6).",
+    "options": [
+      {
+        "id": "A",
+        "text": "y=2x"
+      },
+      {
+        "id": "B",
+        "text": "y=4x−2"
+      },
+      {
+        "id": "C",
+        "text": "y=3x−1"
+      },
+      {
+        "id": "D",
+        "text": "y=2x+1"
+      },
+      {
+        "id": "E",
+        "text": "y=x+2"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La pendiente es (6−2)/(3−1)=2 y la recta resulta y=2x."
+  }
+]

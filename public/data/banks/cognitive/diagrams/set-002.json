@@ -1,0 +1,182 @@
+[
+  {
+    "id": "COG-DIA-020",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "sets",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Humberto recibe una caja con implementos  \nde ciclismo. Esta caja se ubica en el sector",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "3"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La respuesta correcta es D) 7. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada.",
+    "stimulus_id": "COG-FIG-001"
+  },
+  {
+    "id": "COG-DIA-021",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "sets",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "María recibe una caja con implementos para jugar \ntenis. Esta caja se ubica en el sector",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "2"
+      },
+      {
+        "id": "C",
+        "text": "3"
+      },
+      {
+        "id": "D",
+        "text": "5"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) 2. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada.",
+    "stimulus_id": "COG-FIG-001"
+  },
+  {
+    "id": "COG-DIA-022",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "sets",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Luis recibe una caja con implementos deportivos \ny la ubica en el sector 3. ¿A cuál de los siguientes \ndeportes NO podrían corresponder los implementos \nde esa caja?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Béisbol"
+      },
+      {
+        "id": "B",
+        "text": "Voleibol"
+      },
+      {
+        "id": "C",
+        "text": "Balompié"
+      },
+      {
+        "id": "D",
+        "text": "Baloncesto\nUse la siguiente información para contestar los \nejercicios del 30 al 32.\nEl supermercado XYZ ofrece una gran variedad de frutas \ny verduras. En el diagrama, el círculo A corresponde a \nartículos que empiezan con una vocal, el B a artículos de \ncolor verde y el C a artículos de forma redonda u ovalada."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) Béisbol. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada.",
+    "stimulus_id": "COG-FIG-001"
+  },
+  {
+    "id": "COG-DIA-023",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "sets",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Jacinto toma un aguacate del mostrador. La selección \nde Jacinto se ubica en el sector",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "4"
+      },
+      {
+        "id": "C",
+        "text": "5"
+      },
+      {
+        "id": "D",
+        "text": "6"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La respuesta correcta es C) 5. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada.",
+    "stimulus_id": "COG-FIG-002"
+  },
+  {
+    "id": "COG-DIA-024",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "sets",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Karla toma manzanas y lechuga. La selección  \nde Karla NO se puede ubicar en el sector",
+    "options": [
+      {
+        "id": "A",
+        "text": "1"
+      },
+      {
+        "id": "B",
+        "text": "3"
+      },
+      {
+        "id": "C",
+        "text": "6"
+      },
+      {
+        "id": "D",
+        "text": "7"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La respuesta correcta es A) 1. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada.",
+    "stimulus_id": "COG-FIG-002"
+  },
+  {
+    "id": "COG-DIA-025",
+    "area": "cognitive",
+    "category": "diagrams",
+    "subcategory": "sets",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Nelly busca zanahorias, limones, uvas y peras, pero \nde estos solo encuentra los artículos que se ubican \núnicamente en los sectores 6 o 7. ¿Cuáles artículos \nencontró?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Uvas y limones"
+      },
+      {
+        "id": "B",
+        "text": "Limones y peras"
+      },
+      {
+        "id": "C",
+        "text": "Uvas, zanahorias y limones"
+      },
+      {
+        "id": "D",
+        "text": "Limones, zanahorias y peras"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La respuesta correcta es B) Limones y peras. Es la única opción que cumple simultáneamente la relación, patrón o inferencia planteada.",
+    "stimulus_id": "COG-FIG-002"
+  }
+]

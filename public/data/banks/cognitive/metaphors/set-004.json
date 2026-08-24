@@ -1,0 +1,31 @@
+[
+  {
+    "id": "COG-MET-016",
+    "area": "cognitive",
+    "category": "metaphors",
+    "subcategory": "metaphorical_meaning",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Estallido de cañones",
+    "options": [
+      {
+        "id": "A",
+        "text": "Trueno"
+      },
+      {
+        "id": "B",
+        "text": "Nube"
+      },
+      {
+        "id": "C",
+        "text": "Lluvia"
+      },
+      {
+        "id": "D",
+        "text": "Rayo"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La frase sugiere metafóricamente un sonido fuerte; entre las opciones, el trueno es el que se relaciona directamente con el estallido de cañones."
+  }
+]

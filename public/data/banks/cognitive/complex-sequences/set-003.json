@@ -1,0 +1,118 @@
+[
+  {
+    "id": "COG-SEQ-018",
+    "area": "cognitive",
+    "category": "complex_sequences",
+    "subcategory": "alphanumeric",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "7P, 14Q, ___, 28S.",
+    "options": [
+      {
+        "id": "A",
+        "text": "20T"
+      },
+      {
+        "id": "B",
+        "text": "21R"
+      },
+      {
+        "id": "C",
+        "text": "23R"
+      },
+      {
+        "id": "D",
+        "text": "32T"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Los números avanzan en múltiplos de 7: 7, 14, 21, 28; las letras avanzan P, Q, R, S."
+  },
+  {
+    "id": "COG-SEQ-019",
+    "area": "cognitive",
+    "category": "complex_sequences",
+    "subcategory": "alphanumeric",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "(a², ab²), a²b²; (x²y, xy²), ___.",
+    "options": [
+      {
+        "id": "A",
+        "text": "xy"
+      },
+      {
+        "id": "B",
+        "text": "x²y"
+      },
+      {
+        "id": "C",
+        "text": "xy²"
+      },
+      {
+        "id": "D",
+        "text": "x²y²"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "En el primer grupo se combinan los factores para obtener a²b²; análogamente, x²y y xy² conducen a x²y²."
+  },
+  {
+    "id": "COG-SEQ-020",
+    "area": "cognitive",
+    "category": "complex_sequences",
+    "subcategory": "numeric",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "(4, 6), 2; (6, 9), ___.",
+    "options": [
+      {
+        "id": "A",
+        "text": "2"
+      },
+      {
+        "id": "B",
+        "text": "3"
+      },
+      {
+        "id": "C",
+        "text": "4"
+      },
+      {
+        "id": "D",
+        "text": "6"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "La tercera cantidad es la diferencia entre los dos números del par: 6−4=2 y 9−6=3."
+  },
+  {
+    "id": "COG-SEQ-021",
+    "area": "cognitive",
+    "category": "complex_sequences",
+    "subcategory": "alphabetic",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "abcd, d; abc, bc; ___.",
+    "options": [
+      {
+        "id": "A",
+        "text": "a"
+      },
+      {
+        "id": "B",
+        "text": "ab"
+      },
+      {
+        "id": "C",
+        "text": "abc"
+      },
+      {
+        "id": "D",
+        "text": "abcd"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "En cada paso se elimina una letra del inicio del primer término y aumenta la porción conservada al final; el término que completa el patrón es «a»."
+  }
+]

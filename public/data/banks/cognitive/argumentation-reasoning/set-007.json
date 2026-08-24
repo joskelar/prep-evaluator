@@ -1,0 +1,553 @@
+[
+  {
+    "id": "COG-ARG-001",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "deduction_induction_analogy",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "En el proceso de construcción de una idea, ¿cuál es la diferencia operativa fundamental entre el razonamiento deductivo y el inductivo según su alcance?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El deductivo requiere de una comparación entre situaciones similares para ser válido, mientras que el inductivo se basa en una tesis inamovible."
+      },
+      {
+        "id": "B",
+        "text": "El deductivo aplica una norma universal a un individuo específico, mientras que el inductivo proyecta una tendencia general a partir de observaciones particulares."
+      },
+      {
+        "id": "C",
+        "text": "El deductivo genera conclusiones que son solo probables, mientras que el inductivo garantiza que la conclusión sea siempre absoluta si la estructura es correcta."
+      },
+      {
+        "id": "D",
+        "text": "El deductivo organiza evidencias para persuadir mediante emociones, mientras que el inductivo busca únicamente reducir el estrés mediante la planificación."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "El razonamiento deductivo se define como \"regla general a un caso específico\" y el inductivo como el paso de \"casos particulares a una conclusión general\" Parte de una regla general y la aplica a un caso particular; corresponde a razonamiento deductivo."
+  },
+  {
+    "id": "COG-ARG-002",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "deduction_induction_analogy",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Identifica el tipo de razonamiento: Todos los metales conducen electricidad. El cobre es un metal. Por lo tanto, el cobre conduce electricidad.",
+    "options": [
+      {
+        "id": "A",
+        "text": "Inductivo"
+      },
+      {
+        "id": "B",
+        "text": "Analógico"
+      },
+      {
+        "id": "C",
+        "text": "Deductivo"
+      },
+      {
+        "id": "D",
+        "text": "Emocional"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "La estructura aplica una regla general a un caso particular, por lo que corresponde a razonamiento deductivo."
+  },
+  {
+    "id": "COG-ARG-003",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "deduction_induction_analogy",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "Una persona observa que en varias ocasiones estudiar con música le ha ayudado a concentrarse y concluye que estudiar con música mejora su rendimiento. ¿Qué tipo de razonamiento utiliza?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Deductivo"
+      },
+      {
+        "id": "B",
+        "text": "Inductivo"
+      },
+      {
+        "id": "C",
+        "text": "Analógico"
+      },
+      {
+        "id": "D",
+        "text": "Circular"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Se basa en varias observaciones particulares para formular una conclusión general; es razonamiento inductivo."
+  },
+  {
+    "id": "COG-ARG-004",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "argument_structure",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "“Aprender a tocar un instrumento es como aprender un idioma; ambos requieren práctica constante.” Este ejemplo corresponde a: 42 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP",
+    "options": [
+      {
+        "id": "A",
+        "text": "Razonamiento deductivo"
+      },
+      {
+        "id": "B",
+        "text": "Falacia"
+      },
+      {
+        "id": "C",
+        "text": "Analogía"
+      },
+      {
+        "id": "D",
+        "text": "Generalización apresurada"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Establece una relación estructural entre dos situaciones para explicar una idea; corresponde a una analogía."
+  },
+  {
+    "id": "COG-ARG-005",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "fallacies",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las siguientes afirmaciones contiene una falacia de generalización apresurada?",
+    "options": [
+      {
+        "id": "A",
+        "text": "La observación de un grupo de estudio indica que el 60% de los usuarios nocturnos prefiere interfaces de alto contraste."
+      },
+      {
+        "id": "B",
+        "text": "El incremento en el uso de plataformas digitales sugiere una transformación en los hábitos de consumo de la población joven actual."
+      },
+      {
+        "id": "C",
+        "text": "La complejidad semántica de ciertos textos técnicos dificulta su comprensión inmediata para lectores no especializados."
+      },
+      {
+        "id": "D",
+        "text": "Tras evaluar el desempeño deficiente de los dos primeros pasantes, se determinó que la formación académica de esa universidad es totalmente ineficaz."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Se invalida a toda una institución (conclusión general) basándose únicamente en dos individuos (muestra insuficiente)."
+  },
+  {
+    "id": "COG-ARG-006",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "fallacies",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "“Tu argumento sobre alimentación saludable no es válido porque tú no haces ejercicio.” ¿Qué tipo de falacia se presenta?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Falsa causa"
+      },
+      {
+        "id": "B",
+        "text": "Hombre de paja"
+      },
+      {
+        "id": "C",
+        "text": "Ad hominem"
+      },
+      {
+        "id": "D",
+        "text": "Falso dilema"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Ataca a la persona en lugar de refutar el argumento; es una falacia ad hominem."
+  },
+  {
+    "id": "COG-ARG-007",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "fallacies",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Si alguien afirma: “Desde que cambié de cuaderno, mis calificaciones mejoraron. El cuaderno nuevo me ayuda a sacar mejores notas”, está incurriendo en:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Analogía"
+      },
+      {
+        "id": "B",
+        "text": "Falsa causa"
+      },
+      {
+        "id": "C",
+        "text": "Razonamiento deductivo"
+      },
+      {
+        "id": "D",
+        "text": "Inferencia válida"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Asume que un evento causó otro solo porque ocurrió antes; es una falacia de falsa causa."
+  },
+  {
+    "id": "COG-ARG-008",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "fallacies",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál opción representa un falso dilema?",
+    "options": [
+      {
+        "id": "A",
+        "text": "“O estudias medicina o no tendrás éxito.”"
+      },
+      {
+        "id": "B",
+        "text": "“Estudiar requiere disciplina.”"
+      },
+      {
+        "id": "C",
+        "text": "“Algunas carreras son más demandantes que otras.”"
+      },
+      {
+        "id": "D",
+        "text": "“Es importante planificar el tiempo.”"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Reduce la situación a solo dos opciones, ignorando alternativas intermedias; es un falso dilema."
+  },
+  {
+    "id": "COG-ARG-009",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "fallacies",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Cuando un argumento utiliza principalmente sentimientos para convencer en lugar de razones, se trata de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Razonamiento inductivo"
+      },
+      {
+        "id": "B",
+        "text": "Apelación a la emoción"
+      },
+      {
+        "id": "C",
+        "text": "Deducción válida"
+      },
+      {
+        "id": "D",
+        "text": "Analogía estructural"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Intenta convencer apelando a emociones en lugar de razones o evidencia."
+  },
+  {
+    "id": "COG-ARG-010",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "argument_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las siguientes situaciones muestra una estructura deductiva válida?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Todos los deportistas entrenan. Luis entrena. Entonces Luis es deportista. 43 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "B",
+        "text": "Algunos estudiantes leen. Marta lee. Entonces Marta es estudiante."
+      },
+      {
+        "id": "C",
+        "text": "Todos los mamíferos respiran. El delfín es mamífero. Entonces el delfín respira."
+      },
+      {
+        "id": "D",
+        "text": "Si estudio a veces, siempre apruebo."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Sigue correctamente la estructura general → particular, con conclusión necesaria; es una deducción válida."
+  },
+  {
+    "id": "COG-ARG-011",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "fallacies",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Una persona afirma que una idea es correcta únicamente porque un actor famoso la apoya. Esto corresponde a:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Analogía"
+      },
+      {
+        "id": "B",
+        "text": "Apelación a la autoridad"
+      },
+      {
+        "id": "C",
+        "text": "Razonamiento inductivo"
+      },
+      {
+        "id": "D",
+        "text": "Comparación válida"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Considera verdadera una afirmación solo porque una figura reconocida la respalda; es apelación a la autoridad. 46 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+  },
+  {
+    "id": "COG-ARG-012",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "argument_structure",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Qué distingue principalmente un argumento sólido de uno débil?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El tono de voz del emisor"
+      },
+      {
+        "id": "B",
+        "text": "La cantidad de palabras utilizadas"
+      },
+      {
+        "id": "C",
+        "text": "La coherencia entre la tesis y las razones que la respaldan"
+      },
+      {
+        "id": "D",
+        "text": "La popularidad de la idea"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Un argumento sólido mantiene coherencia entre la tesis y las razones que la justifican."
+  },
+  {
+    "id": "COG-ARG-013",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "fallacies",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Si alguien exagera la postura de otra persona para refutarla más fácilmente, está cometiendo una falacia de:",
+    "options": [
+      {
+        "id": "A",
+        "text": "Hombre de paja"
+      },
+      {
+        "id": "B",
+        "text": "Falsa causa"
+      },
+      {
+        "id": "C",
+        "text": "Generalización válida"
+      },
+      {
+        "id": "D",
+        "text": "Analogía"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Distorsiona la postura original para atacarla más fácilmente; corresponde a la falacia del hombre de paja."
+  },
+  {
+    "id": "COG-ARG-014",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "deduction_induction_analogy",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las siguientes opciones muestra razonamiento inductivo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Todos los árboles tienen raíces. El roble es un árbol. El roble tiene raíces."
+      },
+      {
+        "id": "B",
+        "text": "He observado que cada vez que practico deporte duermo mejor; por lo tanto, el ejercicio mejora el descanso."
+      },
+      {
+        "id": "C",
+        "text": "El cerebro es como un músculo."
+      },
+      {
+        "id": "D",
+        "text": "O estás conmigo o estás en mi contra."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Parte de experiencias particulares para formular una conclusión general; es razonamiento inductivo."
+  },
+  {
+    "id": "COG-ARG-015",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "fallacies",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Lee la siguiente afirmación: “Desde que uso esta pulsera, he tenido buenos días en el trabajo. Esta pulsera me trae buena suerte.” ¿Qué tipo de falacia se está cometiendo?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Falsa causa"
+      },
+      {
+        "id": "B",
+        "text": "Generalización apresurada"
+      },
+      {
+        "id": "C",
+        "text": "Ataque a la persona"
+      },
+      {
+        "id": "D",
+        "text": "Analogía"
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "La afirmación asume que la pulsera es la causa de los buenos días en el trabajo simplemente porque ambos hechos ocurrieron en el mismo periodo. Se confunde coincidencia con causalidad, es decir, se cree que un evento provocó otro sin evidencia que lo demuestre."
+  },
+  {
+    "id": "COG-ARG-016",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "argument_structure",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Un analista afirma: \"La falta de planificación en una empresa es la causa principal del estrés laboral, ya que al organizar actividades con anticipación se evitan tareas de último momento\". ¿Qué elementos de un argumento lógico están presentes en esta afirmación?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Una tesis basada en la emoción y una evidencia deductiva."
+      },
+      {
+        "id": "B",
+        "text": "Una generalización apresurada respaldada por una analogía. 44 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      },
+      {
+        "id": "C",
+        "text": "Una tesis (importancia de planificar), una razón (reducción de estrés) y una evidencia (evitar tareas de último minuto)."
+      },
+      {
+        "id": "D",
+        "text": "Un postulado de fe que utiliza una falsa causa para persuadir al lector."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Sigue exactamente la estructura Tesis-Razón-Evidencia"
+  },
+  {
+    "id": "COG-ARG-017",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "deduction_induction_analogy",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Si aceptamos como regla general que \"todos los procesos que requieren práctica constante fortalecen una habilidad\", y observamos que \"el aprendizaje de un idioma requiere práctica constante\", ¿qué conclusión se obtiene mediante un razonamiento deductivo válido?",
+    "options": [
+      {
+        "id": "A",
+        "text": "El aprendizaje de un idioma fortalece una habilidad."
+      },
+      {
+        "id": "B",
+        "text": "Es probable que aprender un idioma fortalezca la mente, de forma similar a un músculo."
+      },
+      {
+        "id": "C",
+        "text": "Todos los que practican idiomas tienen habilidades fortalecidas."
+      },
+      {
+        "id": "D",
+        "text": "La práctica constante es la única forma de aprender un idioma con éxito."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "Es deductivo porque aplica la regla general (fortalecer habilidad) al caso específico (idioma). La opción A es una analogía y la C es una generalización excesiva."
+  },
+  {
+    "id": "COG-ARG-018",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "fallacies",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál de las siguientes situaciones describe mejor una falacia Ad Hominem Circunstancial según las variantes presentadas?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Rechazar una propuesta de ley ambiental porque el diputado que la presenta tuvo una conducta inmoral en su juventud."
+      },
+      {
+        "id": "B",
+        "text": "Invalidar el argumento de un médico a favor de una vacuna sugiriendo que solo la apoya porque trabaja para la farmacéutica que la produce."
+      },
+      {
+        "id": "C",
+        "text": "Ignorar el consejo de un entrenador personal sobre nutrición porque el entrenador tiene sobrepeso."
+      },
+      {
+        "id": "D",
+        "text": "Afirmar que un análisis de mercado es falso debido a que el analista tiene un carácter prepotente y difícil."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "Es circunstancial porque no ataca el carácter del médico (ofensivo), sino sus intereses o situación (su trabajo en la farmacéutica). Respuesta 20: Define la esencia de ambos: el inductivo crea una \"ley\" propia basada en la observación, y el analógico usa un \"puente\" de similitud para explicar algo complejo. 47 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP MÓDULO 4: RESOLUCIÓN DE PROBLEMAS Y TOMA DE DECISIONES En la vida académica y personal, las personas enfrentan constantemente situaciones que requieren análisis, elección y acción. La resolución de problemas y la toma de decisiones son habilidades fundamentales que permiten actuar de manera organizada, consciente y responsable ante distintos desafíos. Resolver un problema no significa simplemente reaccionar ante una dificultad, sino comprenderla, analizarla y elegir la mejor alternativa posible. De igual manera, tomar una decisión implica seleccionar una opción entre varias, considerando información, riesgos y consecuencias. Desarrollar estas habilidades fortalece la autonomía, la responsabilidad y la capacidad de actuar con criterio propio. Resólución de próblemas Este es el proceso mediante el cual una persona identifica una situación que requiere solución, analiza sus causas y aplica estrategias para superarla. Un problema puede ser académico, personal, social o práctico. Lo importante es que exista una diferencia entre la situación actual y la situación deseada. Ejemplo Si una persona desea mejorar su rendimiento, pero obtiene resultados bajos, existe un problema que requiere análisis y acción. La resolución efectiva de problemas implica estructura, reflexión y evaluación. Estrategias de resolución Son métodos organizados para enfrentar un problema de manera sistemática. Algunas estrategias clave son: 1. Definir claramente el problema. El primer paso es identificar exactamente cuál es el problema. Muchas veces se actúa sobre síntomas y no sobre la causa real. Ejemplo Si una persona dice “no me va bien”, esa afirmación es demasiado general. Es necesario precisar: • ¿En qué área? • ¿Desde cuándo ocurre? 48 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP • ¿Qué factores influyen? Definir el problema con claridad permite evitar soluciones incorrectas. 2. Identificar causas posibles. Una vez identificado el problema, es necesario preguntarse por qué ocurre. Esto implica analizar factores internos y externos que influyen en la situación. Ejemplo Si alguien tiene dificultades para cumplir con sus responsabilidades, puede analizar: • ¿Existe mala organización del tiempo? • ¿Hay distracciones constantes? • ¿Falta planificación? Comprender las causas evita tratar únicamente las consecuencias superficiales. 3. Generar distintas alternativas de solución. Una estrategia efectiva no se limita a una sola opción. Es recomendable proponer varias alternativas antes de elegir. Ejemplo Ante un conflicto interpersonal, las posibles alternativas podrían ser: • Dialogar directamente. • Pedir mediación. • Esperar a que ambas partes estén más calmadas. Tener más de una opción permite comparar y elegir con mayor criterio. 4. Comparar ventajas y desventajas. Cada alternativa tiene posibles beneficios y riesgos. Evaluarlos permite anticipar consecuencias. Preguntas útiles en esta etapa: • ¿Qué podría salir bien? • ¿Qué podría salir mal? • ¿Qué impacto tendrá a corto y largo plazo? Esta estrategia fortalece la responsabilidad y reduce decisiones impulsivas. 5. Seleccionar la opción más adecuada. Después del análisis, se selecciona la opción que ofrece mayor beneficio y menor riesgo. La decisión debe ser coherente con la información obtenida. Aplicar la solución implica actuar con compromiso y seguimiento. 6. Revisar resultados 49 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP Finalmente, es importante evaluar si la solución funcionó. Si el problema persiste, puede ser necesario ajustar la estrategia. La revisión permite aprender de la experiencia y mejorar futuras decisiones. Como podrás notar, al llevar a cabo esta secuencia de pasos, se pueden evitar decisiones apresuradas y aumenta la probabilidad de éxito. Principios metodológicos que orientan el proceso Las estrategias de resolución de problemas no funcionan de manera aislada ni improvisada. Detrás de cada paso estructurado existen principios metodológicos que orientan el análisis y garantizan que el proceso sea racional, sistemático y coherente. Estos principios no son pasos adicionales, sino criterios de calidad que fortalecen cada etapa del proceso. Aplicarlos permite evitar errores frecuentes como actuar impulsivamente, confundir síntomas con causas o tomar decisiones basadas en intuiciones no verificadas. A continuación, se desarrollan los principales principios metodológicos. Claridad conceptual: distinguir síntoma y causa Uno de los errores más comunes en la resolución de problemas es confundir el efecto visible con el origen real del problema. Un principio metodológico fundamental consiste en distinguir entre: • Síntoma: manifestación observable del problema. • Causa: factor estructural que lo origina. Ejemplos 1. “Falta de tiempo” puede ser un síntoma; la causa podría ser mala organización o priorización deficiente. 2. Una empresa observa disminución en ventas y asume que el problema es el precio. Después de analizar datos, descubre que la causa real es deficiencia en el servicio al cliente. Resolver sin identificar la causa implica tratar la consecuencia, no el problema estructural. Análisis sistémico Los problemas complejos rara vez tienen una sola variable involucrada. El análisis sistémico implica comprender que una situación forma parte de un sistema donde interactúan múltiples factores. Este principio exige preguntarse: 50 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP • ¿Qué variables interactúan? • ¿Qué efectos indirectos podrían generarse? • ¿Qué impacto tendrá la decisión en otras áreas? Ejemplos 1. Un equipo tiene retrasos constantes. En lugar de culpar a un integrante, se analiza el flujo completo de trabajo, identificando que el problema está en la coordinación entre áreas. 2. Una organización enfrenta alta rotación de personal. En vez de atribuirlo solo a salarios bajos, analiza cultura organizacional, liderazgo, clima laboral y oportunidades de crecimiento. Aplicar este enfoque evita soluciones simplistas en contextos complejos. Jerarquización de variables No todos los factores tienen el mismo peso. Un principio clave es identificar cuáles variables tienen mayor impacto estructural y priorizarlas. Esto implica distinguir entre: • Factores secundarios • Factores críticos o estructurales Ejemplós 1. Una persona quiere mejorar su rendimiento físico y considera dieta, descanso y ejercicio. Decide priorizar el descanso porque identifica que la fatiga está afectando todo lo demás. 2. En un proyecto con múltiples problemas técnicos, el equipo identifica que uno de ellos bloquea todos los demás procesos. Se prioriza resolver ese factor crítico primero. Intervenir sobre variables estratégicas aumenta la eficacia de la solución. Evaluación de consecuencias multidimensionales Toda decisión genera consecuencias en distintos planos: • Temporal (corto, mediano y largo plazo) • Individual • Colectivo • Ético • Estratégico El análisis metodológico exige considerar no solo beneficios inmediatos, sino impactos futuros"
+  },
+  {
+    "id": "COG-ARG-019",
+    "area": "cognitive",
+    "category": "argumentation_reasoning",
+    "subcategory": "deduction_induction_analogy",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "¿Cuál es la diferencia técnica fundamental entre el razonamiento inductivo y el analógico basándose en los ejemplos de la sección?",
+    "options": [
+      {
+        "id": "A",
+        "text": "No existe diferencia, ya que ambos son tipos de falacias que llevan a conclusiones incorrectas."
+      },
+      {
+        "id": "B",
+        "text": "El inductivo parte de una comparación (músculo vs. idioma) y el analógico parte de casos particulares (ejercicio vs. energía)."
+      },
+      {
+        "id": "C",
+        "text": "El inductivo es absoluto y el analógico es solo una probabilidad basada en reglas generales."
+      },
+      {
+        "id": "D",
+        "text": "El inductivo generaliza a partir de una experiencia personal repetida, mientras que el analógico busca comprender una situación comparándola con otra similar. 45 https://lobosimulador.com/ DA CLICK AQUÍ PARA REALIZAR TU EXAMEN SIMULADOR BUAP"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "El inductivo generaliza a partir de casos particulares, mientras que el analógico explica una situación mediante una relación de semejanza con otra."
+  }
+]

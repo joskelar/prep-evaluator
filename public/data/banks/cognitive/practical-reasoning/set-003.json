@@ -1,0 +1,89 @@
+[
+  {
+    "id": "COG-PRA-028",
+    "area": "cognitive",
+    "category": "practical_reasoning",
+    "subcategory": "situational",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Pedro se reunirá con sus amigos el sábado. Roberto y Mercedes no son buenos amigos. Mercedes tiene que visitar a una amiga a las 3:00 p. m. y Roberto no puede quedarse con Pedro después de las 4:00 p. m. El lunes ambos le dijeron por separado a Pedro que la reunión había quedado muy buena. De esta información se puede decir que",
+    "options": [
+      {
+        "id": "A",
+        "text": "Pedro hizo dos reuniones el sábado."
+      },
+      {
+        "id": "B",
+        "text": "Mercedes y Roberto se encontraron en la reunión."
+      },
+      {
+        "id": "C",
+        "text": "Pedro solamente invitó a Mercedes a la reunión."
+      },
+      {
+        "id": "D",
+        "text": "Mercedes llegó a la reunión y Roberto se había ido."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "La explicación más compatible con todos los datos es que ambos asistieron en horarios distintos; así los dos pudieron disfrutar la reunión sin encontrarse."
+  },
+  {
+    "id": "COG-PRA-029",
+    "area": "cognitive",
+    "category": "practical_reasoning",
+    "subcategory": "situational",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Una muestra de gas ocupa 360 ml a 1 atm, 180 ml a 2 atm y 36 ml a 10 atm. De esta información se puede decir que",
+    "options": [
+      {
+        "id": "A",
+        "text": "la presión no afecta el volumen del gas."
+      },
+      {
+        "id": "B",
+        "text": "si aumenta la presión, aumenta el volumen del gas."
+      },
+      {
+        "id": "C",
+        "text": "cuando disminuye la presión, aumenta el volumen del gas."
+      },
+      {
+        "id": "D",
+        "text": "el volumen aumenta si disminuye la temperatura."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "Los datos muestran una relación inversa entre presión y volumen: al disminuir la presión, el volumen aumenta."
+  },
+  {
+    "id": "COG-PRA-030",
+    "area": "cognitive",
+    "category": "practical_reasoning",
+    "subcategory": "situational",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Para ser bombero hay que estar rigurosamente adiestrado. Hace dos semanas hubo un incendio y a Antonio se le encargó que usara una de las mangueras. Mientras apagaba el incendio, se dañó una bomba de agua. De esta información, se podría decir que",
+    "options": [
+      {
+        "id": "A",
+        "text": "Antonio no era bombero."
+      },
+      {
+        "id": "B",
+        "text": "Antonio no estaba bien adiestrado."
+      },
+      {
+        "id": "C",
+        "text": "las mangueras estaban defectuosas."
+      },
+      {
+        "id": "D",
+        "text": "se hizo muy difícil apagar el incendio."
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "Una bomba de agua dañada durante un incendio razonablemente dificulta apagarlo; las otras conclusiones no se desprenden de los datos."
+  }
+]

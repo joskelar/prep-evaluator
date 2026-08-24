@@ -1,0 +1,452 @@
+[
+  {
+    "id": "ENG-REA-020",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "vocabulary_in_context",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "As used in the reading, “full” (line 18) MOST nearly \nmeans",
+    "options": [
+      {
+        "id": "A",
+        "text": "rich."
+      },
+      {
+        "id": "B",
+        "text": "complete."
+      },
+      {
+        "id": "C",
+        "text": "stuffed."
+      },
+      {
+        "id": "D",
+        "text": "maximum."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The correct answer is B) complete.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-PASS-004"
+  },
+  {
+    "id": "ENG-REA-021",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "details",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "The Space Needle was designed to look like a",
+    "options": [
+      {
+        "id": "A",
+        "text": "balloon tied to a construction."
+      },
+      {
+        "id": "B",
+        "text": "giant carillon on a square base."
+      },
+      {
+        "id": "C",
+        "text": "round spaceship placed above a building."
+      },
+      {
+        "id": "D",
+        "text": "beam of light created out of steel and glass."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) round spaceship placed above a building.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-PASS-004"
+  },
+  {
+    "id": "ENG-REA-022",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "According to the reading, in Seattle the Space Needle \nis seen as",
+    "options": [
+      {
+        "id": "A",
+        "text": "a beloved icon of the city."
+      },
+      {
+        "id": "B",
+        "text": "a simple relic of another time."
+      },
+      {
+        "id": "C",
+        "text": "one office building among many."
+      },
+      {
+        "id": "D",
+        "text": "one of the world’s tallest buildings."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The correct answer is A) a beloved icon of the city.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-PASS-004"
+  },
+  {
+    "id": "ENG-REA-023",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "purpose",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "The MAIN purpose of this reading is to",
+    "options": [
+      {
+        "id": "A",
+        "text": "encourage tourists to visit the tower and eat  \nin the SkyCity restaurant."
+      },
+      {
+        "id": "B",
+        "text": "provide a description of the structure and \nhistory of the Space Needle."
+      },
+      {
+        "id": "C",
+        "text": "renew knowledge about a nearly forgotten \nstructure in downtown Seattle."
+      },
+      {
+        "id": "D",
+        "text": "identify the Space Needle as a monument to the \narchitect John Graham.\n(5)\n(10)\n(15)\n(20)\n(25)\n\n4 33"
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The correct answer is B) provide a description of the structure and  history of the Space Needle.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-PASS-004"
+  },
+  {
+    "id": "ENG-REA-024",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "conclusions",
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "prompt": "From the reading it can be concluded that the Space \nNeedle has",
+    "options": [
+      {
+        "id": "A",
+        "text": "remained just as it was when it was built in 1962."
+      },
+      {
+        "id": "B",
+        "text": "altered its basic structure and use every ten years."
+      },
+      {
+        "id": "C",
+        "text": "become an important structure for the city of \nSeattle."
+      },
+      {
+        "id": "D",
+        "text": "continued to be the best vantage point for views \nof the area.\nLos ejercicios del 21 al 25 se basan en la \nsiguiente lectura:\nOwls live all over the world, in tundra, forests, grasslands, \nand deserts. Their sharp senses make them fierce \npredators—some scientists estimate that one owl will eat \n2,000 rodents a year.\nAll owls have a facial disk, an area of very short \nfeathers arranged in a rounded pattern on the front \nof their heads. The facial disk helps collect sounds by \npassing them down to ears hidden beneath the feathers \nin the disk. Owl’s ears are asymmetrical. One ear is \nhigher than the other, so it can hear noises from above; \nthe other is lower to hear noises from below. Owls can \nhunt by sound alone, easily locating a mouse under \nleaves or snow.\nOwls have large, fixed eyes at the front of their head. \nBecause their eyes can’t move, they must turn their heads \nto see an object to the side. Owls can turn their heads up \nto 270 degrees in either direction. This allows them to see \nmore than a full circle of vision. Scientists believe owls \nare color-blind, seeing only shades of black, white, and \ngray. Their eyes are 100 times more sensitive to light than \nhuman eyes.\nThe owl’s excellent hearing and eyesight make them \neffective predators, but they also fly silently through the \nsky when hunting. Their wings are very wide and have \nsoft, comb-like edges to their flight feathers to smooth \nthe airflow. The velvety surfaces and fringes on the back \nedge of their flight feathers silence more noise. Owls even \nhave short bristly feathers around their beaks that act like \ncat whiskers to help them sense objects around them.\nOwls have sharp and curved talons that can trap and \nhold objects. As their talons wear down, they continue \nto grow and get sharper. The talons clamp tight around \na branch so the owl will not fall off a tree when sleeping. \nBut the talons are mainly designed for catching and \nkilling their prey, together with their small hooked beaks, \nwhich are used for tearing food when they catch larger \nprey."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) become an important structure for the city of  Seattle.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-PASS-004"
+  },
+  {
+    "id": "ENG-REA-025",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "vocabulary_in_context",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "As used in the reading, “sound” (line 12) MOST \nnearly means",
+    "options": [
+      {
+        "id": "A",
+        "text": "call."
+      },
+      {
+        "id": "B",
+        "text": "appear."
+      },
+      {
+        "id": "C",
+        "text": "hearing."
+      },
+      {
+        "id": "D",
+        "text": "broadcast."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) hearing.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-PASS-005"
+  },
+  {
+    "id": "ENG-REA-026",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "details",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "According to the reading, one of the principal senses \nthat allow owls to be successful hunters is their sense \nof",
+    "options": [
+      {
+        "id": "A",
+        "text": "smell."
+      },
+      {
+        "id": "B",
+        "text": "sight."
+      },
+      {
+        "id": "C",
+        "text": "touch."
+      },
+      {
+        "id": "D",
+        "text": "taste."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The correct answer is B) sight.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-PASS-005"
+  },
+  {
+    "id": "ENG-REA-027",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "details",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "According to the reading, owls sleep",
+    "options": [
+      {
+        "id": "A",
+        "text": "in nests they build high in trees."
+      },
+      {
+        "id": "B",
+        "text": "on branches high above the ground."
+      },
+      {
+        "id": "C",
+        "text": "huddled together against tree trunks."
+      },
+      {
+        "id": "D",
+        "text": "in burrows they dig among tree roots."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The correct answer is B) on branches high above the ground.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-PASS-005"
+  },
+  {
+    "id": "ENG-REA-028",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "conclusions",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Based on the reading, we can conclude that owls",
+    "options": [
+      {
+        "id": "A",
+        "text": "often eat fruits and berries."
+      },
+      {
+        "id": "B",
+        "text": "fly long distances every day."
+      },
+      {
+        "id": "C",
+        "text": "hunt and catch small animals."
+      },
+      {
+        "id": "D",
+        "text": "have more limited vision than people."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) hunt and catch small animals.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-PASS-005"
+  },
+  {
+    "id": "ENG-REA-029",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "purpose",
+    "difficulty": "medium",
+    "type": "multiple_choice",
+    "prompt": "Choose the BEST title for this reading.",
+    "options": [
+      {
+        "id": "A",
+        "text": "A Life in Flight"
+      },
+      {
+        "id": "B",
+        "text": "Unique Sharp Eyes"
+      },
+      {
+        "id": "C",
+        "text": "The Unexpected Omnivores"
+      },
+      {
+        "id": "D",
+        "text": "The Senses of a Top Hunter\n(5)\n(10)\n(15)\n(20)\n(25)\n(30)\n(35)"
+      }
+    ],
+    "correct_answer": "D",
+    "explanation": "The correct answer is D) The Senses of a Top Hunter (5) (10) (15) (20) (25) (30) (35). It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-PASS-005"
+  },
+  {
+    "id": "ENG-REA-030",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "figurative_language",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "The sentence “Little brown birds moved occasionally \non the branches, like single leaves that forgot to fall” \n(lines 12–14) is an example of",
+    "options": [
+      {
+        "id": "A",
+        "text": "simile."
+      },
+      {
+        "id": "B",
+        "text": "metaphor."
+      },
+      {
+        "id": "C",
+        "text": "hyperbole."
+      },
+      {
+        "id": "D",
+        "text": "onomatopoeia."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The correct answer is A) simile.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-PASS-006"
+  },
+  {
+    "id": "ENG-REA-031",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "vocabulary_in_context",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "As used in the reading, “slipped” (line 26) MOST \nnearly means",
+    "options": [
+      {
+        "id": "A",
+        "text": "fell."
+      },
+      {
+        "id": "B",
+        "text": "passed."
+      },
+      {
+        "id": "C",
+        "text": "got away."
+      },
+      {
+        "id": "D",
+        "text": "declined."
+      }
+    ],
+    "correct_answer": "A",
+    "explanation": "The correct answer is A) fell.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-PASS-006"
+  },
+  {
+    "id": "ENG-REA-032",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "details",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Based on the reading, what happened LAST?",
+    "options": [
+      {
+        "id": "A",
+        "text": "Fall turned to winter at Thornfield."
+      },
+      {
+        "id": "B",
+        "text": "The narrator’s hair was combed and patted."
+      },
+      {
+        "id": "C",
+        "text": "The narrator was introduced to Adele’s father."
+      },
+      {
+        "id": "D",
+        "text": "The narrator helped the rider on to his horse.\n(5)\n(10)\n(15)\n(20)\n(25)\n(30)\n(35)\n(40)"
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) The narrator was introduced to Adele’s father.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-PASS-006"
+  },
+  {
+    "id": "ENG-REA-033",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "characters",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Based on the reading, the narrator",
+    "options": [
+      {
+        "id": "A",
+        "text": "feels frustrated to have to work teaching Adele."
+      },
+      {
+        "id": "B",
+        "text": "believes that Thornfield, and her job, are her \ndestiny."
+      },
+      {
+        "id": "C",
+        "text": "is happy to be at Thornfield, but curious about \nthe world."
+      },
+      {
+        "id": "D",
+        "text": "accepts working at Thornfield, but wants to buy \nher own house."
+      }
+    ],
+    "correct_answer": "C",
+    "explanation": "The correct answer is C) is happy to be at Thornfield, but curious about  the world.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-PASS-006"
+  },
+  {
+    "id": "ENG-REA-034",
+    "area": "english",
+    "category": "reading",
+    "subcategory": "inference",
+    "difficulty": "hard",
+    "type": "multiple_choice",
+    "prompt": "Based on the reading, we can conclude that",
+    "options": [
+      {
+        "id": "A",
+        "text": "the narrator’s closest friendships will be with the \ncook and the gardener."
+      },
+      {
+        "id": "B",
+        "text": "the narrator’s relationship with Rochester will be \nan important part of her story."
+      },
+      {
+        "id": "C",
+        "text": "the house at Thornfield is neglected and the staff \nare inattentive to their duties."
+      },
+      {
+        "id": "D",
+        "text": "the residents at Thornfield feel sad due to the \nloneliness and isolation of the country."
+      }
+    ],
+    "correct_answer": "B",
+    "explanation": "The correct answer is B) the narrator’s relationship with Rochester will be  an important part of her story.. It is the option that satisfies the grammar, vocabulary, reading, or writing requirement tested in the item.",
+    "stimulus_id": "ENG-PASS-006"
+  }
+]
